@@ -1,6 +1,6 @@
 # 음반샵
 
-## 김밥레코즈
+## [김밥레코즈](https://github.com/MusicReleaseKR/gimbabrecords)
 https://musicreleasekr.github.io/gimbabrecords/all.xml
 ### 한국
 - https://musicreleasekr.github.io/gimbabrecords/cd_korean.xml
