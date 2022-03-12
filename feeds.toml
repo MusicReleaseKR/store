@@ -17,3 +17,13 @@ linkSelector = "a"
 imageSelector = "img._25CKxIKjAk"
 contentSelector = "div._23DThs7PLJ span.nIAdxeTzhx"
 waitUntil = "networkidle"
+
+[smartstore_gongsangondo]
+title = "네이버 스마트스토어 ─ 공상온도"
+url = "https://smartstore.naver.com/gongsangondo/category/593714ce0fbf46cabd0c3f8da4976cfe"
+entrySelector = "ul li.-qHwcFXhj0"
+titleSelector = "strong.QNNliuiAk3"
+linkSelector = "a"
+imageSelector = "img._25CKxIKjAk"
+contentSelector = "div._23DThs7PLJ span.nIAdxeTzhx"
+waitUntil = "networkidle"
