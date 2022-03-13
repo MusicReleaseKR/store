@@ -4,6 +4,8 @@ https://musicreleasekr.github.io/store/all.xml
 - https://musicreleasekr.github.io/store/smartstore_hionerecords.xml
 - https://musicreleasekr.github.io/store/smartstore_hyangmusic.xml
 - https://musicreleasekr.github.io/store/smartstore_gongsangondo.xml
+- https://musicreleasekr.github.io/store/smartstore_studiozemi.xml
+- https://musicreleasekr.github.io/store/smartstore_strangetiger.xml
 
 ## [김밥레코즈](https://github.com/MusicReleaseKR/gimbabrecords)
 https://musicreleasekr.github.io/gimbabrecords/all.xml
