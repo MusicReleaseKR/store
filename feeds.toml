@@ -47,3 +47,13 @@ linkSelector = "a"
 imageSelector = "img._25CKxIKjAk"
 contentSelector = "div._23DThs7PLJ span.nIAdxeTzhx"
 waitUntil = "networkidle"
+
+[smartstore_strangetiger]
+title = "네이버 스마트스토어 ─ 스트레인지 "
+url = "https://smartstore.naver.com/strangetiger/category/6532e4ab92df4f9c92276fc700f26a7b?cp=1"
+entrySelector = "ul li.-qHwcFXhj0"
+titleSelector = "strong.QNNliuiAk3"
+linkSelector = "a"
+imageSelector = "img._25CKxIKjAk"
+contentSelector = "div._23DThs7PLJ span.nIAdxeTzhx"
+waitUntil = "networkidle"
