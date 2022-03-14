@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 03:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 04:36:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,7 +128,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220310_196/1646892496873p3KsV_JPEG/48028330684978423_1777396098.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[체 Che - Kpop (CD)]]></title>
+            <title><![CDATA[채 Che - Kpop (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6395754974</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6395754974</guid>
             <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
