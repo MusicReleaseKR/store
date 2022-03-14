@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 06:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 07:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창모 Changmo - Underground Rockstar [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6411353354</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6411353354</guid>
+            <pubDate>Mon, 14 Mar 2022 07:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220314_160/1647242110775OBfxw_JPEG/48377938605229809_1673769950.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라드 뮤지엄 Rad Museum - RAD [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6411331334</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6411331334</guid>
+            <pubDate>Mon, 14 Mar 2022 07:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220314_15/1647241614917NESf9_JPEG/48377442736478235_248800216.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mike Oldfield - Tubular Bells (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6401048022</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
             <content:encoded><![CDATA[52,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220304_276/1646385049608izmGp_JPEG/47520883431427592_244853750.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피타입 (P-TYPE) - 1집 Heavy Bass (2021 REMASTERED) [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6372757661</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6372757661</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[52,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220304_34/16463845514470OdM1_JPEG/47520385264150954_400657514.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아그네스 Agnes - Hegemony Shift (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6372658726</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6372658726</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220304_212/1646382148044Urvmh_JPEG/47518036757544011_1640213893.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
