@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 06:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 07:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,46 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[250 - 뽕 (Toru Kotetsu Master Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6416076431</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6416076431</guid>
+            <pubDate>Tue, 15 Mar 2022 07:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220315_190/1647328388415lqM7q_JPEG/48464276813697730_619171152.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김태곤 - 창작 11곡 제1집 (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6416019871</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6416019871</guid>
+            <pubDate>Tue, 15 Mar 2022 07:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220315_74/1647327400748Py1fD_JPEG/48463180474740852_632611569.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andre Levy - Bach Suites for Unaccompanied Cello Vol Three (2022 Remastered) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6415985309</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6415985309</guid>
+            <pubDate>Tue, 15 Mar 2022 07:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220315_184/1647326572210pNcte_JPEG/48462351935351743_18877264.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andre Levy - Bach Suites for Unaccompanied Cello Vol Two (2022 Remastered) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6415979763</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6415979763</guid>
+            <pubDate>Tue, 15 Mar 2022 07:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220315_135/16473264138107BD88_JPEG/48462193302340052_194007719.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andre Levy - Bach Suites for Unaccompanied Cello Vol One (2022 Remastered) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6415972379</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6415972379</guid>
+            <pubDate>Tue, 15 Mar 2022 07:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220315_77/1647326010305p3jAX_JPEG/48461790017686624_785996140.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김제형 - 1집 사치 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6415927819</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6415927819</guid>
@@ -582,46 +622,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220307_28/1646651547491jAPxh_JPEG/47787445950618689_997956020.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica - Metallica (EXPANDED EDITION) [3CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6384204252</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6384204252</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220307_187/1646642178035wof0o_JPEG/47778012866727263_510617956.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[David Bowie - Ziggy Stardust (180G REMASTERED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6384170018</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6384170018</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[28,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220307_62/16466416244702n07E_JPEG/47777523170908479_1337563037.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daft Punk - Random Access Memories (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6384154005</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6384154005</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220307_127/1646641241337LJxrR_JPEG/47777140044919201_274892416.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김도향 & 스윗피플 - Inside (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6384082602</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6384082602</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220307_228/1646639997629Y9xJk_JPEG/47775781342657481_1170756600.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 패닉버튼 리이슈 - Comic Moments (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6384002583</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6384002583</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220307_155/1646638401146Hwha6_JPEG/47774235983069341_1427180599.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갈 데가 있어서요 / 이택민 에세이 / 책편사 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
