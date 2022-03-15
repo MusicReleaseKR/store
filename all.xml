@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 09:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 10:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sting - The Bridge (Gate-Fold LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6416578182</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6416578182</guid>
+            <pubDate>Tue, 15 Mar 2022 10:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[38,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220315_99/16473393783116fEIJ_JPEG/48475224015824295_149194064.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Christmas Jazz II (180G Gate-Fold LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6416562243</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6416562243</guid>
+            <pubDate>Tue, 15 Mar 2022 10:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220315_221/1647339070511i76vg_JPEG/48474916227453896_850076449.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예예빈 Yeyebeen - Sunrise [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6416506144</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6416506144</guid>
+            <pubDate>Tue, 15 Mar 2022 10:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220315_55/1647337457923CCuBI_JPEG/48473241618421946_858611376.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배호 - 안개 낀 장충단 공원, 신사임당 (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6416343248</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6416343248</guid>
@@ -312,7 +336,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220315_60/1647333586977zC9CA_JPEG/48469475688436021_195810454.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[250 - 뽕 (Toru Kotetsu Master Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[이오공 250 - 뽕 (Toru Kotetsu Master Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6416076431</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6416076431</guid>
             <pubDate>Tue, 15 Mar 2022 07:21:48 GMT</pubDate>
@@ -598,30 +622,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
             <content:encoded><![CDATA[36,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220308_79/1646732979859V3RbJ_JPEG/47868825568185328_527855233.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무당 - 1집 - 그대 생각 / 잊지 못할 그녀 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6388879084</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6388879084</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220308_167/1646732405003FkoMg_JPEG/47868250711100887_1734125264.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신승훈 - 8집 The Shin Seung Hun (180G CLEAR COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6388515261</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6388515261</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[66,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220308_123/1646724774518Gd8wz_JPEG/47860608317256140_821289285.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄정화 - 4집 invitation (180G CLEAR RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6388493768</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6388493768</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220308_255/16467243174865g4xS_JPEG/47860151292146986_1525743973.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갈 데가 있어서요 / 이택민 에세이 / 책편사 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
