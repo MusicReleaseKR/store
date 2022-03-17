@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 07:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 08:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이장희 - The Early Recordings (150G BLACK & CRYSTAL COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6424762755</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6424762755</guid>
+            <pubDate>Thu, 17 Mar 2022 08:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210906_283/1630927398357y3v8Y_JPEG/32063178084468177_1654764183.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정태춘 - 3집 (2022 REMASTERED) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6424739501</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6424739501</guid>
+            <pubDate>Thu, 17 Mar 2022 08:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220317_53/1647504332619QqnDo_JPEG/48640175331257236_531344122.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정태춘 - 2집 이런밤 (2022 REMASTERED) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6424721484</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6424721484</guid>
+            <pubDate>Thu, 17 Mar 2022 08:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220317_8/1647503787765eNyIx_JPEG/48639630477278008_859834785.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정태춘 - 1집 시인의 마을 (2021 REMASTERED) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6424703430</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6424703430</guid>
+            <pubDate>Thu, 17 Mar 2022 08:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220317_291/1647503339239QNVG9_JPEG/48639181158032127_1522093982.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김사월 - 1202 - Live [2CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6424193759</link>
@@ -294,38 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220311_289/1647001526327Y1rXp_JPEG/48137372036072166_762924569.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hibria - Me7amorphosis [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6400968208</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6400968208</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220311_297/1647001296360gGuCU_JPEG/48137142055835921_451968717.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도마 Doma - 1집 이유도 없이 나는 섬으로 가네 (180G WHITE COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6400641376</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6400641376</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[66,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220311_78/1646990691134LnQEC_JPEG/48126518953064429_1934360578.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루션스 The Solutions - Time (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6400044752</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6400044752</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220311_294/1646977505352zKJY0_JPEG/48113339163488114_563421282.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Mars - 24k Magic (GOLD COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6396317629</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6396317629</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220310_129/1646907668826IPR5u_JPEG/48043496641305870_2031814651.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
