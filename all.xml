@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 08:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 09:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 - 베스트 (2020 NEWLY REMASTERED) [MQA / HQCD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6424865075</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6424865075</guid>
+            <pubDate>Thu, 17 Mar 2022 09:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220120_142/1642674220923cD5GO_JPEG/43810004410775786_2000353861.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[길옥윤 이생강 이성진 류복성 - Spirit Junction Korean Folk Music Meets Jazz (민속악과 재즈) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6424800766</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6424800766</guid>
+            <pubDate>Thu, 17 Mar 2022 09:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220317_70/16475054806321pGWN_JPEG/48641308430537616_1027618147.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이장희 - The Early Recordings (150G BLACK & CRYSTAL COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
             <content:encoded><![CDATA[28,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220311_213/16470023710246BQ1Y_JPEG/48138216742625927_2053106233.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cigarettes After Sex - Cigarettes After Sex (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6401002630</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6401002630</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220311_256/1647002086113szUSQ_JPEG/48137931827191010_1584076724.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lovebites - In The Beginning (The Best Of 2017-2021) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6400980757</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6400980757</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220311_289/1647001526327Y1rXp_JPEG/48137372036072166_762924569.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갈 데가 있어서요 / 이택민 에세이 / 책편사 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
