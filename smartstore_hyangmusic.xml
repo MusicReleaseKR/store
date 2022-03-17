@@ -4,11 +4,35 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 16:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 17:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[허밍 어반 스테레오 Humming Urban Stereo - 5집 V (180G Gate-Fold LP)]]></title>
+            <title><![CDATA[히피는 집시였다 - 1집 나무 + 2집 언어 합본반 (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6426451236</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6426451236</guid>
+            <pubDate>Thu, 17 Mar 2022 17:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[108,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_71/1647536724806tcquF_JPEG/48672552636387296_71798943.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스프레이 Spray - Mindspray (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6426320678</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6426320678</guid>
+            <pubDate>Thu, 17 Mar 2022 17:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_243/16475357228380079Q_JPEG/48671568528773568_1364639982.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장필순 - 1집 어느새 (180G CLEAR YELLOW COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6426276606</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6426276606</guid>
+            <pubDate>Thu, 17 Mar 2022 17:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_232/1647535375082lknwk_JPEG/48671273777577755_283692713.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허밍 어반 스테레오 Humming Urban Stereo - 5집 V (180G Gate-Fold 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6426243884</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6426243884</guid>
             <pubDate>Thu, 17 Mar 2022 16:44:52 GMT</pubDate>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 15 Mar 2022 06:27:41 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220315_105/1647324816694Pfv4U_JPEG/48460596197951631_690241915.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄인호 - 환상 / 도시의 밤 / 골목길 (180G GOLD COLOURED LP) [비매품]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6411437654</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6411437654</guid>
-            <pubDate>Mon, 14 Mar 2022 08:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220314_161/1647244016374qNiFv_JPEG/48379850983381210_1382400035.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창모 Changmo - Underground Rockstar [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6411353354</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6411353354</guid>
-            <pubDate>Mon, 14 Mar 2022 07:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220314_160/1647242110775OBfxw_JPEG/48377938605229809_1673769950.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라드 뮤지엄 Rad Museum - RAD [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6411331334</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6411331334</guid>
-            <pubDate>Mon, 14 Mar 2022 07:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220314_15/1647241614917NESf9_JPEG/48377442736478235_248800216.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
