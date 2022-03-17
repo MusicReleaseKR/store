@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 17:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 18:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,10 +304,18 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Soundtrack - 아가씨 (180G GATEFOLD 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6426547494</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6426547494</guid>
+            <pubDate>Thu, 17 Mar 2022 18:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_268/16475376595239hysf_JPEG/48673548230885112_175574531.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[히피는 집시였다 - 1집 나무 + 2집 언어 합본반 (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6426451236</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6426451236</guid>
-            <pubDate>Thu, 17 Mar 2022 17:23:15 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 18:27:54 GMT</pubDate>
             <content:encoded><![CDATA[108,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220318_71/1647536724806tcquF_JPEG/48672552636387296_71798943.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
@@ -315,7 +323,7 @@
             <title><![CDATA[스프레이 Spray - Mindspray (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6426320678</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6426320678</guid>
-            <pubDate>Thu, 17 Mar 2022 17:23:15 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 18:27:54 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220318_243/16475357228380079Q_JPEG/48671568528773568_1364639982.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
@@ -323,7 +331,7 @@
             <title><![CDATA[장필순 - 1집 어느새 (180G CLEAR YELLOW COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6426276606</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6426276606</guid>
-            <pubDate>Thu, 17 Mar 2022 17:23:15 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 18:27:54 GMT</pubDate>
             <content:encoded><![CDATA[43,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220318_232/1647535375082lknwk_JPEG/48671273777577755_283692713.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
@@ -614,14 +622,6 @@
             <pubDate>Tue, 15 Mar 2022 07:21:48 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220315_77/1647326010305p3jAX_JPEG/48461790017686624_785996140.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김제형 - 1집 사치 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6415927819</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6415927819</guid>
-            <pubDate>Tue, 15 Mar 2022 06:27:41 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220315_105/1647324816694Pfv4U_JPEG/48460596197951631_690241915.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갈 데가 있어서요 / 이택민 에세이 / 책편사 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
