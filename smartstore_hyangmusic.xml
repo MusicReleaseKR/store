@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 01:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 02:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오르내림 OLNL - Cyber Lover (BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6423751570</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6423751570</guid>
+            <pubDate>Thu, 17 Mar 2022 02:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220317_211/1647482661845dON3t_JPEG/48618507492017799_939549163.jpeg?type=f232_232" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[히식스 - 사랑의 상처 / 아름다운 인형 (180G BLUE MIX COLOURED Gate-Fold REMASTERED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6420243684</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220310_200/1646894981021bdo0q_JPEG/48030876539684792_974126800.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤하 Younha - 6집 End Theory (Final Edition) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6395853073</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6395853073</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220310_127/1646894400815xznl0_JPEG/48030296535364560_409695578.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
