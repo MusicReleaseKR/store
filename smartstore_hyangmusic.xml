@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 15:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 16:45:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허밍 어반 스테레오 Humming Urban Stereo - 5집 V (180G Gate-Fold LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6426243884</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6426243884</guid>
+            <pubDate>Thu, 17 Mar 2022 16:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[100,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_53/1647534911521N885x_JPEG/48670807259575256_1888521772.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑소 EXO - Don't Fight The Feeling [45RPM COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6426169701</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6426169701</guid>
+            <pubDate>Thu, 17 Mar 2022 16:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_267/1647534188637b37jm_JPEG/48669972144069932_151854030.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김현철 - 베스트 (2020 NEWLY REMASTERED) [MQA / HQCD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6424865075</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 14 Mar 2022 07:21:31 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220314_15/1647241614917NESf9_JPEG/48377442736478235_248800216.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mike Oldfield - Tubular Bells (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6401048022</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6401048022</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[34,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220311_40/1647002992429qApWL_JPEG/48138776143944206_1471881022.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Smiths - Meat Is Murder (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6401017212</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6401017212</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[28,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220311_213/16470023710246BQ1Y_JPEG/48138216742625927_2053106233.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
