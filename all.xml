@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 05:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 06:27:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도현 - 사춘 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6428913641</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6428913641</guid>
+            <pubDate>Fri, 18 Mar 2022 06:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_203/1647583692363rFQ4i_JPEG/48719588089957646_463608457.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Soundtrack - 아가씨 (180G GATEFOLD 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6426547494</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6426547494</guid>
@@ -398,14 +406,6 @@
             <pubDate>Thu, 17 Mar 2022 08:26:50 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220317_291/1647503339239QNVG9_JPEG/48639181158032127_1522093982.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김사월 - 1202 - Live [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6424193759</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6424193759</guid>
-            <pubDate>Thu, 17 Mar 2022 06:27:19 GMT</pubDate>
-            <content:encoded><![CDATA[27,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220317_285/1647492116304OR9St_JPEG/48627899541053668_1386717600.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임재범 - After the Sunset - White Night (30주년 기념 앨범) [180G COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
