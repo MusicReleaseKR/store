@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 10:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 11:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana - In Utero (BACK TO BLACK 180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6429642106</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6429642106</guid>
+            <pubDate>Fri, 18 Mar 2022 11:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_24/1647601441940IKlXK_JPEG/48737225656566229_796672124.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Femme De Paris 파리의여인들 [PINK GOLD COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6429631274</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6429631274</guid>
+            <pubDate>Fri, 18 Mar 2022 11:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_139/1647601038922Q2Yc6_JPEG/48736822635065185_1628950209.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack - 그 해 우리는 (LP) [1인 1매 주문] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Tue, 15 Mar 2022 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220315_55/1647337457923CCuBI_JPEG/48473241618421946_858611376.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배호 - 안개 낀 장충단 공원, 신사임당 (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6416343248</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6416343248</guid>
-            <pubDate>Tue, 15 Mar 2022 09:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220315_60/1647333586977zC9CA_JPEG/48469475688436021_195810454.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이오공 250 - 뽕 (Toru Kotetsu Master Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6416076431</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6416076431</guid>
-            <pubDate>Tue, 15 Mar 2022 07:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220315_190/1647328388415lqM7q_JPEG/48464276813697730_619171152.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갈 데가 있어서요 / 이택민 에세이 / 책편사 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
