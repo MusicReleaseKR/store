@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 06:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 07:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하현우 - Anti ego [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6440812352</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6440812352</guid>
+            <pubDate>Mon, 21 Mar 2022 07:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220321_291/1647844878081vjukx_JPEG/48980776784529898_814547643.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cigarettes After Sex - EP I (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6429756718</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Mar 2022 07:21:43 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220316_99/1647412559729l2cND_JPEG/48548405271092063_317410577.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Clapton - The Lady In The Balcony Lockdown Sessions [CD+DVD+Blu-Ray DELUXE EDITION)]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6416651014</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6416651014</guid>
-            <pubDate>Tue, 15 Mar 2022 11:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220315_98/1647341624113zMi4c_JPEG/48477512827426756_2037534219.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
