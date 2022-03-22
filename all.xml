@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프롬 Fromm - 2집 Moonbow (180G COKE BOTTLE COLOURED LP) [1인 1매 주문] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6445280083</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6445280083</guid>
+            <pubDate>Tue, 22 Mar 2022 08:32:43 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220322_79/1647932628712boC2c_JPEG/49068456531841715_632172159.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프롬 Fromm - 1집 Arrival (180G WHITE CLEAR LP) [1인 1매 주문] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6445266612</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6445266612</guid>
+            <pubDate>Tue, 22 Mar 2022 08:32:43 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220322_293/1647932005829U8HW4_JPEG/49067833409773917_1562556190.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하현우 - Anti ego [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Wed, 16 Mar 2022 07:21:43 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220316_216/16474135461407uQNx_JPEG/48549391861230318_2132501645.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노래를 찾는 사람들 - 3집 노래를 찾는 사람들 3 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6420129591</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6420129591</guid>
-            <pubDate>Wed, 16 Mar 2022 07:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220316_279/1647413256280rsJ3w_JPEG/48549101986733440_1144739476.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노래를 찾는 사람들 - 2집 노래를 찾는 사람들 2 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6420114897</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6420114897</guid>
-            <pubDate>Wed, 16 Mar 2022 07:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220316_20/16474129713457gvIa_JPEG/48548817066217632_1741440346.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갈 데가 있어서요 / 이택민 에세이 / 책편사 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
