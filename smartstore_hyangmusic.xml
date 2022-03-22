@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 06:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 07:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,6 +240,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220317_291/1647503339239QNVG9_JPEG/48639181158032127_1522093982.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김사월 - 1202 - Live [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6424193759</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6424193759</guid>
+            <pubDate>Tue, 22 Mar 2022 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[27,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220317_285/1647492116304OR9St_JPEG/48627899541053668_1386717600.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임재범 - After the Sunset - White Night (30주년 기념 앨범) [180G COLOURED 2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6424175059</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6424175059</guid>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Mar 2022 07:21:43 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220316_20/16474129713457gvIa_JPEG/48548817066217632_1741440346.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노래를 찾는 사람들 - 1집 노래를 찾는 사람들 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6420101871</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6420101871</guid>
-            <pubDate>Wed, 16 Mar 2022 07:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220316_99/1647412559729l2cND_JPEG/48548405271092063_317410577.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
