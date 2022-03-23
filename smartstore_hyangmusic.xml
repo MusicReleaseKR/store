@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 03:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 08:33:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이소라 - 베스트 (HQCD+MQA) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6449601707</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6449601707</guid>
+            <pubDate>Wed, 23 Mar 2022 08:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220323_41/1648019034535aYPl4_JPEG/49154933241761301_1161784654.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프롬 Fromm - 2집 Moonbow (180G COKE BOTTLE COLOURED LP) [1인 1매 주문]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6445280083</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Mar 2022 07:21:43 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220316_286/16474142037554Ih1X_JPEG/48550037404254836_790307038.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노래를 찾는 사람들 - 4집 노래를 찾는 사람들 4 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6420147077</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6420147077</guid>
-            <pubDate>Wed, 16 Mar 2022 07:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220316_216/16474135461407uQNx_JPEG/48549391861230318_2132501645.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
