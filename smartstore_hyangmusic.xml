@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 08:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 09:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김지연과 리바이블크로스 - 내 마음 흔들려 (Gate-Fold LP) [2색 레드 스플래터 한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6454629649</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6454629649</guid>
+            <pubDate>Thu, 24 Mar 2022 09:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[36,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220324_199/1648112982306c5j9p_JPEG/49248766013733619_1585988004.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼스트 앙상블 First Ensemble - 쇼팽으로 만나는 지브리 (LIVE) [180G WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6454552846</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6454552846</guid>
+            <pubDate>Thu, 24 Mar 2022 09:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220324_257/1648111301530JGAaw_JPEG/49247129359157271_1513364495.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 쌈, 마이웨이 (180G COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6453867763</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 17 Mar 2022 08:26:50 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220317_8/1647503787765eNyIx_JPEG/48639630477278008_859834785.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정태춘 - 1집 시인의 마을 (2021 REMASTERED) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6424703430</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6424703430</guid>
-            <pubDate>Thu, 17 Mar 2022 08:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220317_291/1647503339239QNVG9_JPEG/48639181158032127_1522093982.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김사월 - 1202 - Live [2CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6424193759</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6424193759</guid>
-            <pubDate>Tue, 22 Mar 2022 07:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[27,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220317_285/1647492116304OR9St_JPEG/48627899541053668_1386717600.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
