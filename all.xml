@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 01:39:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 02:50:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 디즈니 베스트 주제곡 모음집 The Essential Disney Collection [CLEAR BLUE COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6457493567</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6457493567</guid>
+            <pubDate>Fri, 25 Mar 2022 02:50:15 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220325_182/1648175288936jgQ5i_JPEG/49311131406283037_1284337164.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보니 Boni - Love (WHITE COLOURED 2LP) [제10회 서울레코드페어 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6457351860</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6457351860</guid>
+            <pubDate>Fri, 25 Mar 2022 02:50:15 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220325_53/1648172507214vwzf2_JPEG/49308286930318253_967700687.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임창정 - 9집 (140G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Thu, 17 Mar 2022 10:28:57 GMT</pubDate>
             <content:encoded><![CDATA[29,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220120_142/1642674220923cD5GO_JPEG/43810004410775786_2000353861.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[길옥윤 이생강 이성진 류복성 - Spirit Junction Korean Folk Music Meets Jazz (민속악과 재즈) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6424800766</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6424800766</guid>
-            <pubDate>Thu, 17 Mar 2022 10:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220317_70/16475054806321pGWN_JPEG/48641308430537616_1027618147.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이장희 - The Early Recordings (150G BLACK & CRYSTAL COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6424762755</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6424762755</guid>
-            <pubDate>Thu, 17 Mar 2022 08:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210906_283/1630927398357y3v8Y_JPEG/32063178084468177_1654764183.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EZMONSTER’s Sudoku / EZ 스도쿠 (네이버 스마트스토어 ─ 공상온도)]]></title>
