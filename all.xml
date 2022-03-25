@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 23:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 01:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임창정 - 9집 (140G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6457282765</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6457282765</guid>
+            <pubDate>Fri, 25 Mar 2022 01:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220325_272/1648170166622dlxHQ_JPEG/49305946347404179_358638014.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도마 Doma - 1집 이유도 없이 나는 섬으로 가네 (140G OCEAN GREEN COLOURED 2LP) [일반반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6457241620</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6457241620</guid>
+            <pubDate>Fri, 25 Mar 2022 01:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[66,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220325_242/1648169228837bWaOb_JPEG/49305074548907616_1877451856.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김지연과 리바이블크로스 - 내 마음 흔들려 (Gate-Fold LP) [2색 레드 스플래터 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Thu, 17 Mar 2022 08:26:50 GMT</pubDate>
             <content:encoded><![CDATA[51,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210906_283/1630927398357y3v8Y_JPEG/32063178084468177_1654764183.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정태춘 - 3집 (2022 REMASTERED) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6424739501</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6424739501</guid>
-            <pubDate>Thu, 17 Mar 2022 08:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220317_53/1647504332619QqnDo_JPEG/48640175331257236_531344122.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정태춘 - 2집 이런밤 (2022 REMASTERED) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6424721484</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6424721484</guid>
-            <pubDate>Thu, 17 Mar 2022 08:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220317_8/1647503787765eNyIx_JPEG/48639630477278008_859834785.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EZMONSTER’s Sudoku / EZ 스도쿠 (네이버 스마트스토어 ─ 공상온도)]]></title>
