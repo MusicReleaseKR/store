@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 06:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 07:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손성제 - 비의 비가 (Elegy of rain) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6458201946</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6458201946</guid>
+            <pubDate>Fri, 25 Mar 2022 07:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220325_154/1648190561295fSUTh_JPEG/49326450009897653_135828310.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이적 - 3집 나무로 만든 노래 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -616,12 +624,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220318_53/1647534911521N885x_JPEG/48670807259575256_1888521772.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엑소 EXO - Don't Fight The Feeling [45RPM COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6426169701</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6426169701</guid>
-            <pubDate>Thu, 17 Mar 2022 16:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220318_267/1647534188637b37jm_JPEG/48669972144069932_151854030.jpg?type=f232_232" length="0" type="image/jpg"/>
+            <title><![CDATA[당신은 나의 취향입니다 / 김규열 산문집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6458266255</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6458266255</guid>
+            <pubDate>Fri, 25 Mar 2022 07:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[7,700]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200903_247/1599140534334CH98w_JPEG/276433042901830_1186682250.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EZMONSTER’s Sudoku / EZ 스도쿠 (네이버 스마트스토어 ─ 공상온도)]]></title>
@@ -934,14 +942,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[9,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220106_229/1641397799107jiD5q_JPEG/42533582517339536_635166703.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NO 4 CAMINO 2022년 사진달력 포스터형 캘린더 / 이상전 달력 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6158896009</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6158896009</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220106_220/1641397253772jEQn7_JPEG/42533037484881760_2013418568.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12월의 책 고양이와 김승일 (네이버 스마트스토어 ─ 재미공작소)]]></title>
