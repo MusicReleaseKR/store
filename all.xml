@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 05:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 06:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이적 - 3집 나무로 만든 노래 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6458087717</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6458087717</guid>
+            <pubDate>Fri, 25 Mar 2022 06:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220325_165/1648189079304lmMQy_JPEG/49324858572949829_1213061654.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VA - 디즈니 베스트 주제곡 모음집 The Essential Disney Collection [CLEAR BLUE COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Thu, 17 Mar 2022 16:44:52 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220318_267/1647534188637b37jm_JPEG/48669972144069932_151854030.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - 베스트 (2020 NEWLY REMASTERED) [MQA / HQCD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6424865075</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6424865075</guid>
-            <pubDate>Thu, 17 Mar 2022 10:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220120_142/1642674220923cD5GO_JPEG/43810004410775786_2000353861.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EZMONSTER’s Sudoku / EZ 스도쿠 (네이버 스마트스토어 ─ 공상온도)]]></title>
