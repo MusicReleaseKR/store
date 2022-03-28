@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 11:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 12:46:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Trolls - Concert Grosso Per I (Gate-Fold) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6471004723</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6471004723</guid>
+            <pubDate>Mon, 28 Mar 2022 12:45:47 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220328_189/1648469998045xtOWJ_JPEG/49605896744468821_1736381297.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김주홍과 노름마치 - 허튼소리 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6470971229</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6470971229</guid>
+            <pubDate>Mon, 28 Mar 2022 12:45:47 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220328_45/1648469342316slS8g_JPEG/49605241008560977_1261182443.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Trainspotting (트레인스포팅 2) [LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6459115515</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 18 Mar 2022 12:36:35 GMT</pubDate>
             <content:encoded><![CDATA[28,300]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220318_55/16476025495478sWjz_JPEG/48738329273698623_1089931728.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Portishead - Dummy (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6429675610</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6429675610</guid>
-            <pubDate>Fri, 18 Mar 2022 12:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[38,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220318_10/1647602153926xHgfk_JPEG/48737933653275096_1051289668.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana - In Utero (BACK TO BLACK 180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6429642106</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6429642106</guid>
-            <pubDate>Fri, 18 Mar 2022 11:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220318_24/1647601441940IKlXK_JPEG/48737225656566229_796672124.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
