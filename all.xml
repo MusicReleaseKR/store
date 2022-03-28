@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 06:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 07:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -624,6 +624,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220318_24/1647601441940IKlXK_JPEG/48737225656566229_796672124.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[올리브 탄피 / 리누 소설 / 그런 의미에서 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6470061438</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6470061438</guid>
+            <pubDate>Mon, 28 Mar 2022 07:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220328_87/1648451072065aKGFY_JPEG/49586855537169221_1906150473.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자아, 예술가, 아빠 / 김다은 인터뷰집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6469957610</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6469957610</guid>
+            <pubDate>Mon, 28 Mar 2022 07:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[19,700]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220328_48/1648448921439rHdrw_JPEG/49584766385774906_136502722.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[화분에 물을 주는 마음으로 / 지윤 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6469832781</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/6469832781</guid>
@@ -926,22 +942,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[23,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220109_187/1641656451360IyMKy_JPEG/42792347069634595_955346517.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온더달 ONTHEDAL EP ℃ dal (CD 음반) (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6168387692</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6168387692</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[13,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220109_267/1641655425731zwrCD_JPEG/42791260373323225_1873562219.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정답은 없어요 그리고 아무도 모르죠 / 이경지 에세이 / 컨셉진 제작 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6168251727</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6168251727</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[8,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220108_101/1641648715293v33lD_JPEG/42784550110315277_429890912.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12월의 책 고양이와 김승일 (네이버 스마트스토어 ─ 재미공작소)]]></title>
