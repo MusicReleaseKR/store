@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 11:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 12:46:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -624,6 +624,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220318_246/1647603947516XujAi_JPEG/48739727227135104_1647301231.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일곱 개의 원호 1호 / 퀴어 문예지 / 18도의 얼그레이 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6476057117</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6476057117</guid>
+            <pubDate>Tue, 29 Mar 2022 12:46:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220329_152/1648556231806MLLRj_JPEG/49692066492641652_370561402.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인류 최후의 목욕탕 / 손강 소설 / 모닥킨스튜디오 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6475999519</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6475999519</guid>
+            <pubDate>Tue, 29 Mar 2022 12:46:05 GMT</pubDate>
+            <content:encoded><![CDATA[10,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220329_182/1648554503844vljkO_JPEG/49690402549446106_92447080.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[슬리핑보틀 Sleeping Bottle / 잠들기전 마시는 슬리핑보틀 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6475014809</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/6475014809</guid>
@@ -926,22 +942,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[6,100]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220112_126/16419807455609KOjM_JPEG/43116634258460857_991282628.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그대, 꽃처럼 내게 피어났으니 (개정증보판) / 이경선 시집 / 꿈공장플러스 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6181704288</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6181704288</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[12,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220112_114/1641968335419Sp2mO_JPEG/43104223625028212_1978972271.jpeg?type=f295_381" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[GLDN x PAKK x US​:​WE 스플릿 앨범 ‘「玖 / jiǔ」: 3-way split’ (CD음반) (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6179578652</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6179578652</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220112_45/1641920251701Xr2RL_JPEG/43056097230509216_1412527545.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12월의 책 고양이와 김승일 (네이버 스마트스토어 ─ 재미공작소)]]></title>
