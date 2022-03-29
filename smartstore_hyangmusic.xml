@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 06:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 07:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전진희 - Breathing [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6474555329</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6474555329</guid>
+            <pubDate>Tue, 29 Mar 2022 07:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220329_9/1648535307879gUrqk_JPEG/49671142714031512_267224631.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿤디판다 Khundi Panda - 가로사옥 (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6474517867</link>
@@ -22,6 +30,22 @@
             <pubDate>Tue, 29 Mar 2022 06:28:20 GMT</pubDate>
             <content:encoded><![CDATA[64,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220329_284/1648532984406vkAdO_JPEG/49668830122223104_675760889.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 Jaurim - 10집 자우림 (180G COLOURED LP) [1인 1매 주문]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6474288472</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6474288472</guid>
+            <pubDate>Tue, 29 Mar 2022 07:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220329_244/16485310417140tkc5_JPEG/49666821214233957_1499465666.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 Jaurim - 9집 Goodbye, Grief (180G COLOURED 2LP) [1인 1매 주문]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6474223621</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6474223621</guid>
+            <pubDate>Tue, 29 Mar 2022 07:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220329_282/1648530166515BAQuq_JPEG/49665946240466568_1933270043.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Trolls - Concert Grosso Per I (Gate-Fold) [180G LP]]]></title>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 18 Mar 2022 12:36:35 GMT</pubDate>
             <content:encoded><![CDATA[52,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220318_246/1647603947516XujAi_JPEG/48739727227135104_1647301231.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Dragon Ball 드래곤 볼 [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6429724881</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6429724881</guid>
-            <pubDate>Fri, 18 Mar 2022 12:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[67,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220318_141/1647603699023p1t6D_JPEG/48739478071339643_660907209.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[등려군 Teresa Teng - 영원회념 (HQ-180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6429715791</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6429715791</guid>
-            <pubDate>Fri, 18 Mar 2022 12:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[56,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220318_271/1647603486687jOWfM_JPEG/48739266413997202_685418495.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김지연과 리바이블크로스 - 내 마음 흔들려 (Gatefold LP) [블루 스플래터 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6429703085</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6429703085</guid>
-            <pubDate>Fri, 18 Mar 2022 12:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220318_124/1647603107127PUzqJ_JPEG/48738886847871377_2106588066.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
