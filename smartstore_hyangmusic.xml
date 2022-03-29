@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 06:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿤디판다 Khundi Panda - 가로사옥 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6474517867</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6474517867</guid>
+            <pubDate>Tue, 29 Mar 2022 06:28:20 GMT</pubDate>
+            <content:encoded><![CDATA[64,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220329_134/1648534659389fx1VB_JPEG/49670492918188200_1442806850.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 알고 있지만 (180G WHITE COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6474407616</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6474407616</guid>
+            <pubDate>Tue, 29 Mar 2022 06:28:20 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220329_284/1648532984406vkAdO_JPEG/49668830122223104_675760889.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Trolls - Concert Grosso Per I (Gate-Fold) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6471004723</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 18 Mar 2022 12:36:35 GMT</pubDate>
             <content:encoded><![CDATA[39,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220318_124/1647603107127PUzqJ_JPEG/48738886847871377_2106588066.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ennio Morricone - The Essential Ennio Morricone Film Music Collection [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6429694880</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6429694880</guid>
-            <pubDate>Fri, 18 Mar 2022 12:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220318_215/1647602795089GH2r1_JPEG/48738574578103817_1044705561.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Jackie Brown 재키 브라운 [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6429687028</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6429687028</guid>
-            <pubDate>Fri, 18 Mar 2022 12:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[28,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220318_55/16476025495478sWjz_JPEG/48738329273698623_1089931728.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
