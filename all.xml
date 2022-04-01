@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 12:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 13:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Nirvana - Nevermind (2CD DELUXE EDITION) [30TH ANNIVERSARY] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6491254377</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6491254377</guid>
+            <pubDate>Fri, 01 Apr 2022 13:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211201_69/1638358690544E8d7R_JPEG/39494474262576199_1845089726.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[등려군 Teresa Teng - 금정상 [HQ-180G AUDIOPHILE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6491207843</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6491207843</guid>
+            <pubDate>Fri, 01 Apr 2022 13:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220401_239/1648818759413rwIDt_JPEG/49954587234194450_238347681.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Fender - Seventeen Going Under (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6491200357</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6491200357</guid>
+            <pubDate>Fri, 01 Apr 2022 13:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[46,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220401_61/1648818270626NzPle_JPEG/49954098443450568_1916211445.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Barrie - Barbara (RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6491083150</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6491083150</guid>
@@ -598,30 +622,6 @@
             <pubDate>Fri, 25 Mar 2022 02:50:15 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220325_53/1648172507214vwzf2_JPEG/49308286930318253_967700687.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임창정 - 9집 (140G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6457282765</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6457282765</guid>
-            <pubDate>Fri, 25 Mar 2022 01:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_272/1648170166622dlxHQ_JPEG/49305946347404179_358638014.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도마 Doma - 1집 이유도 없이 나는 섬으로 가네 (140G OCEAN GREEN COLOURED 2LP) [일반반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6457241620</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6457241620</guid>
-            <pubDate>Fri, 25 Mar 2022 01:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[66,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_242/1648169228837bWaOb_JPEG/49305074548907616_1877451856.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김지연과 리바이블크로스 - 내 마음 흔들려 (Gate-Fold LP) [레드 스플래터 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6454629649</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6454629649</guid>
-            <pubDate>Thu, 24 Mar 2022 09:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[36,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220324_199/1648112982306c5j9p_JPEG/49248766013733619_1585988004.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른이다 / 박민지, 이다연, 이승주 동화책 / 팀 소꿉노리 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
