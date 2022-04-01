@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 05:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 06:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정현 - 1집 Let's Go To My Star (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6489845630</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6489845630</guid>
+            <pubDate>Fri, 01 Apr 2022 06:28:43 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220401_24/1648794026868792sR_JPEG/49929915581738276_522069145.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 사랑의 불시착 [180G MILK CLEAR & PURPLE OPAQUE COLOURED 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6489658937</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6489658937</guid>
+            <pubDate>Fri, 01 Apr 2022 06:28:43 GMT</pubDate>
+            <content:encoded><![CDATA[69,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220401_156/1648790444524oUdIP_JPEG/49926333231331624_850890388.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Latte E Miele - Papillon (180G RED COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6480707392</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 22 Mar 2022 08:32:43 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220322_79/1647932628712boC2c_JPEG/49068456531841715_632172159.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프롬 Fromm - 1집 Arrival (180G WHITE CLEAR LP) [1인 1매 주문]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6445266612</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6445266612</guid>
-            <pubDate>Tue, 22 Mar 2022 08:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220322_293/1647932005829U8HW4_JPEG/49067833409773917_1562556190.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하현우 - Anti ego [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6440812352</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6440812352</guid>
-            <pubDate>Mon, 21 Mar 2022 07:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220321_291/1647844878081vjukx_JPEG/48980776784529898_814547643.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
