@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 07:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 08:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정현 - 4집 I Love Natural (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6490254203</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6490254203</guid>
+            <pubDate>Fri, 01 Apr 2022 08:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220401_205/1648800066108k2Umu_JPEG/49935964801056308_1120609224.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정현 - 4.5집 Summer Party (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6490235320</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6490235320</guid>
+            <pubDate>Fri, 01 Apr 2022 08:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220401_101/1648799639898Vnog6_JPEG/49935538369163250_280738682.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이정현 - 3집 Magic To Go To My Star (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Thu, 24 Mar 2022 05:20:25 GMT</pubDate>
             <content:encoded><![CDATA[7,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220324_260/1648097214096U1tMt_JPEG/49233112807671294_805509159.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[D_Fi & Ashtray - Intersection (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6453742390</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6453742390</guid>
-            <pubDate>Thu, 24 Mar 2022 05:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220324_87/1648096567451nNIhh_JPEG/49232466158769260_1766395827.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weeknd - Dawn FM (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6449916265</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6449916265</guid>
-            <pubDate>Wed, 23 Mar 2022 09:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220215_122/1644910245925tbyTM_JPEG/46046134131493644_2088199415.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른이다 / 박민지, 이다연, 이승주 동화책 / 팀 소꿉노리 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
