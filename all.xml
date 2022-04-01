@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 06:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 07:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정현 - 3집 Magic To Go To My Star (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6489986422</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6489986422</guid>
+            <pubDate>Fri, 01 Apr 2022 07:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220401_79/1648795628948vGhng_JPEG/49931408652638089_1948360489.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정현 - 2집 Peace [180G COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6489872866</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6489872866</guid>
+            <pubDate>Fri, 01 Apr 2022 07:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220401_160/1648794656355jNkTO_JPEG/49930544739637151_387712825.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이정현 - 1집 Let's Go To My Star (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Wed, 23 Mar 2022 09:38:40 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220215_122/1644910245925tbyTM_JPEG/46046134131493644_2088199415.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이소라 - 베스트 (HQCD+MQA) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6449601707</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6449601707</guid>
-            <pubDate>Wed, 23 Mar 2022 08:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220323_41/1648019034535aYPl4_JPEG/49154933241761301_1161784654.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프롬 Fromm - 2집 Moonbow (180G COKE BOTTLE COLOURED LP) [1인 1매 주문] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6445280083</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6445280083</guid>
-            <pubDate>Tue, 22 Mar 2022 08:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220322_79/1647932628712boC2c_JPEG/49068456531841715_632172159.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른이다 / 박민지, 이다연, 이승주 동화책 / 팀 소꿉노리 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
