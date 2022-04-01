@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 13:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 14:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Oasis - Knebworth 1996 (Blu-Ray)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6491323308</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6491323308</guid>
+            <pubDate>Fri, 01 Apr 2022 14:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220401_197/1648821588737EmdCo_JPEG/49957423567896369_558046094.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis - Knebworth 1996 (3DVD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6491293056</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6491293056</guid>
+            <pubDate>Fri, 01 Apr 2022 14:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220401_243/1648820647245DpG4g_JPEG/49956430953233004_1549052460.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nirvana - Nevermind (2CD DELUXE EDITION) [30TH ANNIVERSARY]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6491254377</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 25 Mar 2022 06:28:35 GMT</pubDate>
             <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220325_165/1648189079304lmMQy_JPEG/49324858572949829_1213061654.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 디즈니 베스트 주제곡 모음집 The Essential Disney Collection [CLEAR BLUE COLOURED 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6457493567</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6457493567</guid>
-            <pubDate>Fri, 25 Mar 2022 02:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[56,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_104/1648193437149teJB1_JPEG/49329279645087701_461674630.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보니 Boni - Love (WHITE COLOURED 2LP) [제10회 서울레코드페어 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6457351860</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6457351860</guid>
-            <pubDate>Fri, 25 Mar 2022 02:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_53/1648172507214vwzf2_JPEG/49308286930318253_967700687.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
