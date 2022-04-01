@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 08:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 09:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기리보이 Giriboy - 9집 Avante [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6490368302</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6490368302</guid>
+            <pubDate>Fri, 01 Apr 2022 09:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[48,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220401_257/1648802439774smtwH_JPEG/49938273588508339_612577496.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정현 - 4집 I Love Natural (180G COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6490254203</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 24 Mar 2022 05:20:25 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220324_251/1648097808377p0Yov_JPEG/49233704115465909_5536788.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스톰 Storm - Christmas Gift [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6453775018</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6453775018</guid>
-            <pubDate>Thu, 24 Mar 2022 05:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[7,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220324_260/1648097214096U1tMt_JPEG/49233112807671294_805509159.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
