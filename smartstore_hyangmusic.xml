@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 09:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 10:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투에스 (To S) - From Here (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6503080822</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6503080822</guid>
+            <pubDate>Mon, 04 Apr 2022 10:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220404_268/1649064921805smCaf_JPEG/50200764508126367_1473637002.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파테코 Pateko - Blended Noise [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6503056826</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6503056826</guid>
+            <pubDate>Mon, 04 Apr 2022 10:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220404_263/1649064291603RBcEU_JPEG/50200137315667876_1523299866.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀레나 Milena - 우리들 Riddle [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6502838907</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 25 Mar 2022 08:27:06 GMT</pubDate>
             <content:encoded><![CDATA[39,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220325_145/1648195476499eWehz_JPEG/49331260209745462_77269108.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김지연과 리바이블크로스 - 내 마음 흔들려 (Gatefold LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6458356397</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6458356397</guid>
-            <pubDate>Fri, 25 Mar 2022 08:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_216/1648195238905UwRKV_JPEG/49331022611313451_1795194467.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손성제 - 비의 비가 (Elegy of rain) [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6458201946</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6458201946</guid>
-            <pubDate>Fri, 25 Mar 2022 07:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_154/1648190561295fSUTh_JPEG/49326450009897653_135828310.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
