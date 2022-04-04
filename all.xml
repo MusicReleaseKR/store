@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 07:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 08:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[밀레나 Milena - 우리들 Riddle [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6502838907</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6502838907</guid>
+            <pubDate>Mon, 04 Apr 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220404_214/1649060085635FR7r6_JPEG/50195913464316536_1940077786.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백아 - 우주선 (140G CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6502815360</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6502815360</guid>
+            <pubDate>Mon, 04 Apr 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220404_226/1649059537026Wjtkg_JPEG/50195364838025312_398880844.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Oasis - Knebworth 1996 (Blu-Ray) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6491323308</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6491323308</guid>
@@ -480,14 +496,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220329_134/1648534659389fx1VB_JPEG/49670492918188200_1442806850.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack - 알고 있지만 (180G WHITE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6474407616</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6474407616</guid>
-            <pubDate>Tue, 29 Mar 2022 06:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220329_284/1648532984406vkAdO_JPEG/49668830122223104_675760889.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자우림 Jaurim - 10집 자우림 (180G COLOURED LP) [1인 1매 주문] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6474288472</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6474288472</guid>
@@ -614,14 +622,6 @@
             <pubDate>Fri, 25 Mar 2022 07:21:41 GMT</pubDate>
             <content:encoded><![CDATA[43,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220325_154/1648190561295fSUTh_JPEG/49326450009897653_135828310.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이적 - 3집 나무로 만든 노래 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6458087717</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6458087717</guid>
-            <pubDate>Fri, 25 Mar 2022 06:28:35 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_165/1648189079304lmMQy_JPEG/49324858572949829_1213061654.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른이다 / 박민지, 이다연, 이승주 동화책 / 팀 소꿉노리 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
