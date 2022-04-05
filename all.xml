@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 13:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 14:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 봄날은 간다 (180G Gate-Fold 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6508313918</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6508313918</guid>
+            <pubDate>Tue, 05 Apr 2022 14:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[58,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220405_50/1649166485648J7prQ_JPEG/50302313466320609_2083195408.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VA - 패닉버튼 디깅플레이트 Vol 10 - KICK&DRUM [180G PURPLE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Fri, 25 Mar 2022 13:09:04 GMT</pubDate>
             <content:encoded><![CDATA[31,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220325_262/16482109485816Fs0n_JPEG/49346782397110827_1928406933.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bon Iver - Bon Iver (10th Anniversary Edition) [WHITE COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6459035764</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6459035764</guid>
-            <pubDate>Fri, 25 Mar 2022 13:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_228/1648210552604yUnjr_JPEG/49346386427149099_1284769853.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른이다 / 박민지, 이다연, 이승주 동화책 / 팀 소꿉노리 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
