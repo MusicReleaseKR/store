@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 07:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 08:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 패닉버튼 디깅플레이트 Vol 10 - KICK&DRUM [180G PURPLE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6507360953</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6507360953</guid>
+            <pubDate>Tue, 05 Apr 2022 08:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220405_54/16491461774613KGnw_JPEG/50282073193033505_1564728434.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼스트 앙상블 First Ensemble - 쇼팽으로 만나는 지브리 (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6507338112</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6507338112</guid>
+            <pubDate>Tue, 05 Apr 2022 08:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220324_257/1648111301530JGAaw_JPEG/49247129359157271_1513364495.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김목경 - Play The Blues (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Fri, 25 Mar 2022 13:09:04 GMT</pubDate>
             <content:encoded><![CDATA[55,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220325_228/1648210552604yUnjr_JPEG/49346386427149099_1284769853.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bon Iver - Bon Iver (10th Anniversary Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6459023532</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6459023532</guid>
-            <pubDate>Fri, 25 Mar 2022 13:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_239/1648210191259gpcd1_JPEG/49346025078114080_554474016.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yeule - Glitch Princess (카세트 테이프) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6459007566</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6459007566</guid>
-            <pubDate>Fri, 25 Mar 2022 13:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[14,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_129/164820980584884eOQ_JPEG/49345639671214915_1781556034.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른이다 / 박민지, 이다연, 이승주 동화책 / 팀 소꿉노리 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
