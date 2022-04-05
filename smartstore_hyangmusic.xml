@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 01:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 02:58:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220329_134/1648534659389fx1VB_JPEG/49670492918188200_1442806850.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Soundtrack - 알고 있지만 (180G WHITE COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6474407616</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6474407616</guid>
+            <pubDate>Tue, 05 Apr 2022 02:58:26 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220329_284/1648532984406vkAdO_JPEG/49668830122223104_675760889.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자우림 Jaurim - 10집 자우림 (180G COLOURED LP) [1인 1매 주문]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6474288472</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6474288472</guid>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Mar 2022 13:09:04 GMT</pubDate>
             <content:encoded><![CDATA[47,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220325_214/1648208271278xJGiv_JPEG/49344167013989652_1888981972.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히식스 - 사랑의 상처 / 아름다운 인형 (180G Gate-Fold REMASTERED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6458363931</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6458363931</guid>
-            <pubDate>Fri, 25 Mar 2022 08:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_145/1648195476499eWehz_JPEG/49331260209745462_77269108.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
