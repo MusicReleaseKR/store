@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 06:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 07:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차메인 ChaMane - 26 [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6511393750</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6511393750</guid>
+            <pubDate>Wed, 06 Apr 2022 07:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220406_245/164922811785863XMV_JPEG/50363897577518066_1756161350.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 7080 오리지널 베스트 1집 (150G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6511263830</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6511263830</guid>
+            <pubDate>Wed, 06 Apr 2022 07:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220406_182/1649226570780JB5Gv_JPEG/50362354253142335_1385868218.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키드킹 Kidd King - Emotional Baggage [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6511193151</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 25 Mar 2022 13:09:04 GMT</pubDate>
             <content:encoded><![CDATA[51,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220325_60/1648213033969qxobB_JPEG/49348932680724178_442765519.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Promare 프로메어 (WHITE & RED SPLIT COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6459107729</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6459107729</guid>
-            <pubDate>Fri, 25 Mar 2022 13:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_188/1648212788070o0rnj_JPEG/49348686770494191_417374926.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Soul 소울 [SCORE] (Gate-Fold LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6459099486</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6459099486</guid>
-            <pubDate>Fri, 25 Mar 2022 13:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_82/1648212466780tSzGq_JPEG/49348365490863401_625590833.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
