@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 06:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키드킹 Kidd King - Emotional Baggage [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6511193151</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6511193151</guid>
+            <pubDate>Wed, 06 Apr 2022 06:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220406_60/16492257995699pI2k_JPEG/50361583029899499_520919351.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 봄날은 간다 (180G Gate-Fold 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6508313918</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Mar 2022 13:09:04 GMT</pubDate>
             <content:encoded><![CDATA[47,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220325_82/1648212466780tSzGq_JPEG/49348365490863401_625590833.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Destroyer - LABYRINTHITIS (GREEN & BONE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6459046431</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6459046431</guid>
-            <pubDate>Fri, 25 Mar 2022 13:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[31,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_262/16482109485816Fs0n_JPEG/49346782397110827_1928406933.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
