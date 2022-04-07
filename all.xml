@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 07:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 08:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 세상의 모든 음악 12집 - 친애하는 당신에게 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6516343993</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6516343993</guid>
+            <pubDate>Thu, 07 Apr 2022 08:32:43 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220407_82/1649316224839V7HIP_JPEG/50452070471445319_707373271.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차메인 ChaMane - 26 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -616,14 +624,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220328_45/1648469342316slS8g_JPEG/49605241008560977_1261182443.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack - Trainspotting (트레인스포팅 2) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6459115515</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6459115515</guid>
-            <pubDate>Fri, 25 Mar 2022 13:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_60/1648213033969qxobB_JPEG/49348932680724178_442765519.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[어른이다 / 박민지, 이다연, 이승주 동화책 / 팀 소꿉노리 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6476141495</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/6476141495</guid>
@@ -654,6 +654,14 @@
             <pubDate>Tue, 29 Mar 2022 08:32:47 GMT</pubDate>
             <content:encoded><![CDATA[4,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220329_104/16485417493364v4Xz_JPEG/49677582916819044_393230601.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Midnight Snack Seoul Vol.1 / 미드나잇 스낵 서울 컴필레이션 LP / 튜나레이블 제작 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6470273908</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6470273908</guid>
+            <pubDate>Thu, 07 Apr 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[53,200]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220328_251/1648454383173ksDUL_JPEG/49590281850916583_490917584.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올리브 탄피 / 리누 소설 / 그런 의미에서 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
@@ -934,14 +942,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[10,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220117_59/1642352684829vhs0i_JPEG/43488519651015224_925493717.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그림집 Room / 영원 그림집 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6182469418</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6182469418</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[7,600]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220112_214/1641982075152nYtP9_JPEG/43117917863692399_583304682.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12월의 책 고양이와 김승일 (네이버 스마트스토어 ─ 재미공작소)]]></title>

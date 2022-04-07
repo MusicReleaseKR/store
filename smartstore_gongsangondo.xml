@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 07:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 08:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 29 Mar 2022 08:32:47 GMT</pubDate>
             <content:encoded><![CDATA[4,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220329_104/16485417493364v4Xz_JPEG/49677582916819044_393230601.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Midnight Snack Seoul Vol.1 / 미드나잇 스낵 서울 컴필레이션 LP / 튜나레이블 제작]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6470273908</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6470273908</guid>
+            <pubDate>Thu, 07 Apr 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[53,200]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220328_251/1648454383173ksDUL_JPEG/49590281850916583_490917584.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올리브 탄피 / 리누 소설 / 그런 의미에서 출판]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[10,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220117_59/1642352684829vhs0i_JPEG/43488519651015224_925493717.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그림집 Room / 영원 그림집]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6182469418</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6182469418</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[7,600]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220112_214/1641982075152nYtP9_JPEG/43117917863692399_583304682.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
