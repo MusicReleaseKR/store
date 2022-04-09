@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 17:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 18:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sharon Van Etten - We've Been Going About This All Wrong (MARBLE SMOKE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6526523597</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6526523597</guid>
+            <pubDate>Sat, 09 Apr 2022 18:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220410_238/1649524919345MEABR_JPEG/50660815081980633_2054460905.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sharon Van Etten - We've Been Going About This All Wrong [LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6526519404</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 01 Apr 2022 12:45:02 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220401_72/164881464963020KXQ_JPEG/49950545361481517_154710013.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faye Webster - I Know I'm Funny Haha (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6491065185</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6491065185</guid>
-            <pubDate>Fri, 01 Apr 2022 12:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[28,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220401_216/1648814244239qXh6T_JPEG/49950023965478669_1039534629.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
