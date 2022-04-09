@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 16:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 17:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sharon Van Etten - We've Been Going About This All Wrong [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6526519404</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6526519404</guid>
+            <pubDate>Sat, 09 Apr 2022 17:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220410_108/1649524705386jRRC4_JPEG/50660539208476206_2005677381.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sharon Van Etten - We've Been Going About This All Wrong [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6526517638</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6526517638</guid>
+            <pubDate>Sat, 09 Apr 2022 17:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220410_3/1649524105060WMdlj_JPEG/50659888776279918_1773842552.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jon Batiste - We Are [DELUXE VERSION]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6526496383</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6526496383</guid>
+            <pubDate>Sat, 09 Apr 2022 17:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220410_6/1649522985126FXBRB_JPEG/50658883826666248_1938222104.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김민규 - 언제 어디인지 알 수는 없지만 (YELLOW COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6520347369</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 01 Apr 2022 12:45:02 GMT</pubDate>
             <content:encoded><![CDATA[28,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220401_216/1648814244239qXh6T_JPEG/49950023965478669_1039534629.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faye Webster - I Know I'm Funny Haha (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6491061109</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6491061109</guid>
-            <pubDate>Fri, 01 Apr 2022 12:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220401_286/1648814038904IGUPt_JPEG/49949818623899355_1157668240.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beirut - Artifacts (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6491042274</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6491042274</guid>
-            <pubDate>Fri, 01 Apr 2022 12:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220401_123/1648813523869YzGAz_JPEG/49949303583105067_491410697.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beirut - Artifacts (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6491025721</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6491025721</guid>
-            <pubDate>Fri, 01 Apr 2022 12:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220401_34/1648813198642D5BmM_JPEG/49948978366590248_1759825354.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
