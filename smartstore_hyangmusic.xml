@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 06:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 07:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Adele 아델 - 21 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6528354620</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6528354620</guid>
+            <pubDate>Sun, 10 Apr 2022 07:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210308_68/161519401110841ypt_JPEG/16329794821131743_493199086.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sharon Van Etten - We've Been Going About This All Wrong (MARBLE SMOKE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6526523597</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 01 Apr 2022 13:41:44 GMT</pubDate>
             <content:encoded><![CDATA[46,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220401_61/1648818270626NzPle_JPEG/49954098443450568_1916211445.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barrie - Barbara (RED COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6491083150</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6491083150</guid>
-            <pubDate>Fri, 01 Apr 2022 12:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220401_72/164881464963020KXQ_JPEG/49950545361481517_154710013.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
