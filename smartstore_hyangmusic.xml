@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 06:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 어느 멋진 날 (CLEAR BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6532505768</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6532505768</guid>
+            <pubDate>Mon, 11 Apr 2022 06:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220411_26/1649654867175SudAN_JPEG/50790646109879283_31898253.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최윤욱 - Dr Choi’s TEST LP & CD (한글판)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6532449653</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220407_66/1649315454227UYTYX_JPEG/50451237934643459_1077653616.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camel - Stationary Traveller (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6516288840</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6516288840</guid>
-            <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220407_222/1649315032802KxrdY_JPEG/50450816519768851_2137405899.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
