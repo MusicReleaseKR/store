@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 03:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 04:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[극렬 - 2집 극렬 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6532162481</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6532162481</guid>
+            <pubDate>Mon, 11 Apr 2022 04:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220411_167/1649647874437MM5fb_JPEG/50783653917936350_1080870417.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예람 - 1집 성 (CLEAR COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6532140432</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6532140432</guid>
+            <pubDate>Mon, 11 Apr 2022 04:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[60,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220411_103/1649647174048Hge3J_JPEG/50782953538556128_1373180634.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Kids On The Block - Hangin' Tough [PICTURE DISC 2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6528849282</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 06 Apr 2022 07:22:05 GMT</pubDate>
             <content:encoded><![CDATA[36,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220406_182/1649226570780JB5Gv_JPEG/50362354253142335_1385868218.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키드킹 Kidd King - Emotional Baggage [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6511193151</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6511193151</guid>
-            <pubDate>Wed, 06 Apr 2022 06:27:32 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220406_60/16492257995699pI2k_JPEG/50361583029899499_520919351.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 봄날은 간다 (180G Gate-Fold 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6508313918</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6508313918</guid>
-            <pubDate>Tue, 05 Apr 2022 14:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220405_50/1649166485648J7prQ_JPEG/50302313466320609_2083195408.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
