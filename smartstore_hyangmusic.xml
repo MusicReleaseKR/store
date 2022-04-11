@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 04:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 05:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최윤욱 - Dr Choi’s TEST LP & CD (한글판)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6532449653</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6532449653</guid>
+            <pubDate>Mon, 11 Apr 2022 05:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[98,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220411_141/1649654026108Fdvov_JPEG/50789868470507209_1111026831.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박병천 - 씻김 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6532423805</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6532423805</guid>
+            <pubDate>Mon, 11 Apr 2022 05:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220411_20/1649651330369Tfwum_JPEG/50787219079969438_2138314817.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[극렬 - 2집 극렬 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6532162481</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220407_222/1649315032802KxrdY_JPEG/50450816519768851_2137405899.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차메인 ChaMane - 26 [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6511393750</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6511393750</guid>
-            <pubDate>Wed, 06 Apr 2022 07:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220406_245/164922811785863XMV_JPEG/50363897577518066_1756161350.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 7080 오리지널 베스트 1집 (150G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6511263830</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6511263830</guid>
-            <pubDate>Wed, 06 Apr 2022 07:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220406_182/1649226570780JB5Gv_JPEG/50362354253142335_1385868218.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
