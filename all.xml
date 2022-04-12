@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 11:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 12:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 남한산성 (180G GATE-FOLD 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6538057177</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6538057177</guid>
+            <pubDate>Tue, 12 Apr 2022 12:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[85,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220412_275/1649765315268AbwR4_JPEG/50901150101965333_267458476.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[회기동 단편선 - 백년 (140G CLEAR CRYSTAL COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220407_287/16493230101712fGhn_JPEG/50458908877354630_274685322.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deep Purple - Deep Purple (REMASTERED) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6516609784</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6516609784</guid>
-            <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220407_208/1649322704175d3imU_JPEG/50458602885314907_1082031185.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DESIGN TRANSLATORS / 스튜디오 신유 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
