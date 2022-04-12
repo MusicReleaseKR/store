@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 08:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 09:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회기동 단편선 - 백년 (140G CLEAR CRYSTAL COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6537513029</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6537513029</guid>
+            <pubDate>Tue, 12 Apr 2022 09:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220412_244/1649752027014X4jPW_JPEG/50887914797316008_88912001.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나미 - Chameleon (180G 45RPM 반투명 핑크 칼라 LP) [재발매]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6533797746</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
             <content:encoded><![CDATA[13,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220407_208/1649322704175d3imU_JPEG/50458602885314907_1082031185.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 세상의 모든 음악 12집 - 친애하는 당신에게 [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6516343993</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6516343993</guid>
-            <pubDate>Thu, 07 Apr 2022 08:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220407_82/1649316224839V7HIP_JPEG/50452070471445319_707373271.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
