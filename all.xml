@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 03:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 04:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바다 BAADA (김바다) - STARDUST [180G COLOURED LP & 7INCH SINGLE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6540828523</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6540828523</guid>
+            <pubDate>Wed, 13 Apr 2022 04:31:01 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220413_230/1649818822590InCnL_JPEG/50954665300842639_1650296128.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack - 남한산성 (180G GATE-FOLD 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
             <content:encoded><![CDATA[31,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220407_57/1649323259370M2xYh_JPEG/50459158082366835_919956771.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deep Purple - Machine Head (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6516619418</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6516619418</guid>
-            <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220407_287/16493230101712fGhn_JPEG/50458908877354630_274685322.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DESIGN TRANSLATORS / 스튜디오 신유 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
