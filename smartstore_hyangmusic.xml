@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 09:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 10:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클래지콰이 - Blink (180G PINK COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6541872027</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6541872027</guid>
+            <pubDate>Wed, 13 Apr 2022 10:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220413_267/16498417158785TC5w_JPEG/50977558585709901_1239912155.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 꽃보다 남자 (KBS TV 드라마) [180G COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6541745223</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Apr 2022 11:23:18 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220407_7/1649329536086xQ23u_JPEG/50465434787236539_1443049459.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nas - Illmatic (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6517116783</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6517116783</guid>
-            <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220407_119/1649328879367xEQdB_JPEG/50464712894898868_1146769973.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
