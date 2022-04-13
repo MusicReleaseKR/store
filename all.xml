@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 05:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 06:30:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넥스트 NEXT - 5.5집 Regame [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6541313114</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6541313114</guid>
+            <pubDate>Wed, 13 Apr 2022 06:29:54 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220413_12/16498304295446XgnU_JPEG/50966272260687588_833259868.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[볼빨간사춘기 - SEOUL [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6541269569</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6541269569</guid>
+            <pubDate>Wed, 13 Apr 2022 06:29:54 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220413_262/1649829073792Qkblc_JPEG/50964919491094509_1525221912.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바다 BAADA (김바다) - STARDUST [180G COLOURED LP & 7INCH SINGLE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220407_138/1649327956073SIOTC_JPEG/50463798788904245_1027763168.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파라솔 - 1집 언젠가 그 날이 오면 (REMASTERED / RE-PACKAGED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6516652871</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6516652871</guid>
-            <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220407_45/1649323778062AeG5U_JPEG/50459676773150906_2133206082.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cozy Powell - The Polydor Years [3CD BOX SET] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6516629405</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6516629405</guid>
-            <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[31,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220407_57/1649323259370M2xYh_JPEG/50459158082366835_919956771.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DESIGN TRANSLATORS / 스튜디오 신유 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
