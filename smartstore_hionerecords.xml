@@ -4,17 +4,9 @@
         <title>네이버 스마트스토어 ─ 하이원레코드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 22:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 23:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[LP] 에몬 1집 - In Your Sight]]></title>
-            <link>https://smartstore.naver.com/hionerecords/products/4727193249</link>
-            <guid>https://smartstore.naver.com/hionerecords/products/4727193249</guid>
-            <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[38,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20191111_164/1573453593505tYnaN_JPEG/10815927055802954_322993452.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[LP] 잠비나이 - 잠비나이]]></title>
             <link>https://smartstore.naver.com/hionerecords/products/5307640381</link>
@@ -86,6 +78,14 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[38,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20200323_257/1584942892753hYCx5_JPEG/22305226312117425_817524365.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 에몬 1집 - In Your Sight]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4727193249</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4727193249</guid>
+            <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[38,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191111_164/1573453593505tYnaN_JPEG/10815927055802954_322993452.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LP] 뉴올 - FINDER / 서울 레코드 페어 최초 공개반]]></title>
