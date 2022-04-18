@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 07:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:29:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이엘오 ELO - Reality Check [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6563006848</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6563006848</guid>
+            <pubDate>Mon, 18 Apr 2022 08:29:26 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220418_295/1650268130605LnYSb_JPEG/51403910330474045_1561532647.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장나라 - 2집 Sweet Dream [180G BLUE COLOURED 2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6562785392</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220407_266/1649331524225jQite_JPEG/50467369945321082_587586656.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jorge Lopez Ruiz - El Grito (150G Gate-Fold LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6517186850</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6517186850</guid>
-            <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220407_196/16493310058375yhgm_JPEG/50466839465958569_2141952624.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
