@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 08:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 09:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스월비 Swervy - Undercover Angel (CD) [일반반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6563149333</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6563149333</guid>
+            <pubDate>Mon, 18 Apr 2022 09:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220418_49/1650259504734me2a5_JPEG/51395288430155935_1902585034.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박규희 - 베스트 앨범 Letters [CLEAR COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6563114019</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6563114019</guid>
+            <pubDate>Mon, 18 Apr 2022 09:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220418_163/1650270556841Cj8Yf_JPEG/51406391676741125_960857550.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이엘오 ELO - Reality Check [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6563006848</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 08 Apr 2022 06:28:19 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220408_75/1649387488215afXqb_JPEG/50523376679377638_237274036.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madeleine Peyroux - Anthem (RED & BLUE COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6517212390</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6517212390</guid>
-            <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[38,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220407_130/1649331865272SRuWr_JPEG/50467710986093946_1622282886.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cornelius - Melow Waves (Gate-Fold LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6517206688</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6517206688</guid>
-            <pubDate>Thu, 07 Apr 2022 12:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220407_266/1649331524225jQite_JPEG/50467369945321082_587586656.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
