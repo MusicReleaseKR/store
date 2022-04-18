@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 10:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 11:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다이브 Dive - I S2 MY WONDERFUL DAYS [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6563494341</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6563494341</guid>
+            <pubDate>Mon, 18 Apr 2022 11:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220418_89/16502779792299KpMn_JPEG/51413807057197601_981653287.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - Beatles In Tokyo [180G WHITE COLOURED 2LP + 1DVD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6563477294</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6563477294</guid>
+            <pubDate>Mon, 18 Apr 2022 11:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[104,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220418_86/1650277209824lTsOI_JPEG/51413105560338947_175294279.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nirvana - Nevermind (30th Anniversary) [5CD + Blue-Ray Super Deluxe] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Sun, 10 Apr 2022 11:19:36 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210308_140/1615193339209Ipjsg_JPEG/16329118627448087_1373813014.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharon Van Etten - We've Been Going About This All Wrong (MARBLE SMOKE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6526523597</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6526523597</guid>
-            <pubDate>Sat, 09 Apr 2022 18:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[34,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_238/1649524919345MEABR_JPEG/50660815081980633_2054460905.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharon Van Etten - We've Been Going About This All Wrong [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6526519404</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6526519404</guid>
-            <pubDate>Sat, 09 Apr 2022 17:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[34,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_108/1649524705386jRRC4_JPEG/50660539208476206_2005677381.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DESIGN TRANSLATORS / 스튜디오 신유 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
