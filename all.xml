@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 09:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 10:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핫펠트 HATFELT - Left (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6568034934</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6568034934</guid>
+            <pubDate>Tue, 19 Apr 2022 10:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[34,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220419_136/1650362417358OWwOx_JPEG/51498197077346399_712710693.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack - 나의 아저씨 (2CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Sun, 10 Apr 2022 11:19:36 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220410_145/16495872934975a1sA_JPEG/50723189214327154_1290829996.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adia Victoria - A Southern Gothic [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6528732773</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6528732773</guid>
-            <pubDate>Sun, 10 Apr 2022 11:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[34,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_162/1649586894909LBpVI_JPEG/50722737624840321_1440805488.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DESIGN TRANSLATORS / 스튜디오 신유 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
