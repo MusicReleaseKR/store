@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 07:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 08:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 나의 아저씨 (2CD) [재발매]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6567722386</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6567722386</guid>
+            <pubDate>Tue, 19 Apr 2022 08:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220419_83/1650356658951HAm6P_JPEG/51492547664365335_104524578.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최안순 - 흰구름 / 안개 낀 터미날 (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6567666947</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6567666947</guid>
+            <pubDate>Tue, 19 Apr 2022 08:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210531_79/1622452193507zdo9u_JPEG/23588028148110264_65755142.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘로 ELO - 8 Femmes (CD) [재발매]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6567580965</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6567580965</guid>
+            <pubDate>Tue, 19 Apr 2022 08:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220419_264/1650353414070BoM87_JPEG/51489302533902353_2049683471.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이브 Dive - I S2 MY WONDERFUL DAYS [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6563494341</link>
@@ -72,7 +96,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220418_163/1650270556841Cj8Yf_JPEG/51406391676741125_960857550.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이엘오 ELO - Reality Check [CD]]]></title>
+            <title><![CDATA[엘로 ELO - Reality Check [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6563006848</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6563006848</guid>
             <pubDate>Mon, 18 Apr 2022 08:29:26 GMT</pubDate>
@@ -302,30 +326,6 @@
             <pubDate>Sun, 10 Apr 2022 11:19:36 GMT</pubDate>
             <content:encoded><![CDATA[34,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220410_162/1649586894909LBpVI_JPEG/50722737624840321_1440805488.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adele 아델 - 25 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6528359689</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6528359689</guid>
-            <pubDate>Sun, 10 Apr 2022 11:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210324_55/1616595808733gEEgd_JPEG/17731651447054073_1591994112.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adele 아델 - 21 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6528354620</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6528354620</guid>
-            <pubDate>Sun, 10 Apr 2022 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210308_68/161519401110841ypt_JPEG/16329794821131743_493199086.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adele 아델 - 19 [2CD DELUXE EDITION]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6528341037</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6528341037</guid>
-            <pubDate>Sun, 10 Apr 2022 11:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210308_140/1615193339209Ipjsg_JPEG/16329118627448087_1373813014.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
