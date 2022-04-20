@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 08:36:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최헌 & 이연실 - 가로등 불빛아래, 시악씨 마음 [140G COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6572480490</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6572480490</guid>
+            <pubDate>Wed, 20 Apr 2022 08:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220420_9/1650441473656UpHv2_JPEG/51577316368401722_1449814220.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장나라 - 3집 3rd Story (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6572452898</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6572452898</guid>
+            <pubDate>Wed, 20 Apr 2022 08:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220420_7/1650440902284lkd9h_JPEG/51576745000489358_176255557.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[룰라 - 1집 Roots Of Reggae (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6572421396</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6572421396</guid>
+            <pubDate>Wed, 20 Apr 2022 08:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220420_273/1650439858393E3erI_JPEG/51575753896014279_815123270.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성진환 - 1집 Baby Birds (180G LP) [2017 서울레코드페어 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6572035790</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6572035790</guid>
@@ -598,30 +622,6 @@
             <pubDate>Sun, 10 Apr 2022 12:36:09 GMT</pubDate>
             <content:encoded><![CDATA[28,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220410_24/1649590761214FLJ6u_JPEG/50726659925124362_608974562.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Yoko Ono Tribute - Ocean Child Songs Of Yoko Ono [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6528781919</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6528781919</guid>
-            <pubDate>Sun, 10 Apr 2022 11:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_207/1649588878668sfEf4_JPEG/50724767375743952_657048630.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Yoko Ono Tribute - Ocean Child Songs Of Yoko Ono [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6528776882</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6528776882</guid>
-            <pubDate>Sun, 10 Apr 2022 11:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[37,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_207/1649588878668sfEf4_JPEG/50724767375743952_657048630.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Buble - Higher [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6528771055</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6528771055</guid>
-            <pubDate>Wed, 20 Apr 2022 05:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_192/1649588557198nihAK_JPEG/50724452933832537_227572541.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DESIGN TRANSLATORS / 스튜디오 신유 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
