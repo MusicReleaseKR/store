@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 07:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 08:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부활 - 7th Best (180G BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6576912849</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6576912849</guid>
+            <pubDate>Thu, 21 Apr 2022 08:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220421_198/1650527152562JPMfR_JPEG/51663041050872577_603915855.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부활 - 12집 / 25th Anniversary - Retrospect (CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6576892886</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6576892886</guid>
+            <pubDate>Thu, 21 Apr 2022 08:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220421_240/165052688470107X3x_JPEG/51662773411913413_310165392.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싸이 PSY - 싸다9 [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6576051699</link>
@@ -310,22 +326,6 @@
             <pubDate>Sun, 10 Apr 2022 12:36:09 GMT</pubDate>
             <content:encoded><![CDATA[28,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220410_198/1649591090776kcyRA_JPEG/50726870501286783_2015745416.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Jackson - Bad [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6528830483</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6528830483</guid>
-            <pubDate>Sun, 10 Apr 2022 12:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[28,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_24/1649590761214FLJ6u_JPEG/50726659925124362_608974562.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Yoko Ono Tribute - Ocean Child Songs Of Yoko Ono [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6528781919</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6528781919</guid>
-            <pubDate>Thu, 21 Apr 2022 04:55:24 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_207/1649588878668sfEf4_JPEG/50724767375743952_657048630.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
