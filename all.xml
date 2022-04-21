@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 03:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 04:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -472,6 +472,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220418_163/1650270556841Cj8Yf_JPEG/51406391676741125_960857550.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엘로 ELO - Reality Check [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6563006848</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6563006848</guid>
+            <pubDate>Thu, 21 Apr 2022 04:55:24 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220418_295/1650268130605LnYSb_JPEG/51403910330474045_1561532647.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장나라 - 2집 Sweet Dream [180G BLUE COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6562785392</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6562785392</guid>
@@ -502,22 +510,6 @@
             <pubDate>Wed, 13 Apr 2022 10:27:39 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220413_267/16498417158785TC5w_JPEG/50977558585709901_1239912155.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 꽃보다 남자 (KBS TV 드라마) [180G COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6541745223</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6541745223</guid>
-            <pubDate>Wed, 13 Apr 2022 09:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220413_57/1649839609968tJXAd_JPEG/50975437784581506_1757452008.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥스트 NEXT - 5.5집 Regame [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6541313114</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6541313114</guid>
-            <pubDate>Wed, 13 Apr 2022 06:29:54 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220413_12/16498304295446XgnU_JPEG/50966272260687588_833259868.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[볼빨간사춘기 - SEOUL [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -622,6 +614,14 @@
             <pubDate>Sun, 10 Apr 2022 12:36:09 GMT</pubDate>
             <content:encoded><![CDATA[28,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220410_24/1649590761214FLJ6u_JPEG/50726659925124362_608974562.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Yoko Ono Tribute - Ocean Child Songs Of Yoko Ono [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6528781919</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6528781919</guid>
+            <pubDate>Thu, 21 Apr 2022 04:55:24 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220410_207/1649588878668sfEf4_JPEG/50724767375743952_657048630.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DESIGN TRANSLATORS / 스튜디오 신유 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
