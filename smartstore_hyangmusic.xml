@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 09:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 10:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소유 SOYOU - Day & Night (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6577431505</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6577431505</guid>
+            <pubDate>Thu, 21 Apr 2022 10:30:25 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220421_244/1650536132387Fl8G3_JPEG/51671967208731989_2060162318.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부활 - 7th Best (180G BLUE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6576912849</link>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 10 Apr 2022 12:36:09 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220410_29/1649591514936h3ldy_JPEG/50727403636463264_1493204293.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Jackson - Thriller [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6528838509</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6528838509</guid>
-            <pubDate>Sun, 10 Apr 2022 12:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[28,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_198/1649591090776kcyRA_JPEG/50726870501286783_2015745416.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
