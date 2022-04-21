@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 01:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:42:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싸이 PSY - 싸다9 [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6576051699</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6576051699</guid>
+            <pubDate>Thu, 21 Apr 2022 03:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220421_66/1650509848986FdrDS_JPEG/51645747434967488_1423535310.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최헌 & 이연실 - 가로등 불빛아래, 시악씨 마음 [140G COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6572480490</link>
@@ -206,14 +214,6 @@
             <pubDate>Wed, 13 Apr 2022 09:23:40 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220413_57/1649839609968tJXAd_JPEG/50975437784581506_1757452008.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 꽃보다 남자 (KBS TV 드라마) Part 2 [180G COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6541729195</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6541729195</guid>
-            <pubDate>Wed, 13 Apr 2022 09:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220413_93/1649839187406Wnx4f_JPEG/50974971123088522_400457553.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥스트 NEXT - 5.5집 Regame [LP]]]></title>
