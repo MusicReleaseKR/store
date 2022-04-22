@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 10:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 11:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 12 Mar 2022 16:45:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Caravan - Caravan (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6582169443</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6582169443</guid>
+            <pubDate>Fri, 22 Apr 2022 11:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220422_135/1650624471539uXCMs_JPEG/51760360246182277_29113447.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Biglietto Per L'inferno - Biglietto Per L'inferno (CRYSTAL COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6582142319</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6582142319</guid>
+            <pubDate>Fri, 22 Apr 2022 11:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220422_248/1650623901154CpMlY_JPEG/51759680648562987_1129213887.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack - Blue Velvet 블루 벨벳 (COLOURED 2LP) [2022 레코드스토어데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Mon, 11 Apr 2022 06:29:02 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220411_26/1649654867175SudAN_JPEG/50790646109879283_31898253.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최윤욱 - Dr Choi’s TEST LP & CD (한글판) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6532449653</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6532449653</guid>
-            <pubDate>Mon, 11 Apr 2022 05:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[98,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220411_141/1649654026108Fdvov_JPEG/50789868470507209_1111026831.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박병천 - 씻김 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6532423805</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6532423805</guid>
-            <pubDate>Mon, 11 Apr 2022 05:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220411_20/1649651330369Tfwum_JPEG/50787219079969438_2138314817.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DESIGN TRANSLATORS / 스튜디오 신유 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
