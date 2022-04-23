@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 01:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 03:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -560,14 +560,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220418_49/1650259504734me2a5_JPEG/51395288430155935_1902585034.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전람회 - 2집 [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6546096891</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6546096891</guid>
-            <pubDate>Thu, 14 Apr 2022 07:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220414_196/164992017734281ePi_JPEG/51056004494259396_757977812.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클래지콰이 - Blink (180G PINK COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6541872027</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6541872027</guid>
@@ -622,6 +614,14 @@
             <pubDate>Mon, 11 Apr 2022 06:29:02 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220411_26/1649654867175SudAN_JPEG/50790646109879283_31898253.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최윤욱 - Dr Choi’s TEST LP & CD (한글판) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6532449653</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6532449653</guid>
+            <pubDate>Sat, 23 Apr 2022 03:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[98,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220411_141/1649654026108Fdvov_JPEG/50789868470507209_1111026831.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DESIGN TRANSLATORS / 스튜디오 신유 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
