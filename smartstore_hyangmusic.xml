@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 01:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 03:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,14 +224,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220418_222/1650275143311IBSuE_JPEG/51410927021516206_2006383447.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스월비 Swervy - Undercover Angel (CD) [일반반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6563149333</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6563149333</guid>
-            <pubDate>Mon, 18 Apr 2022 09:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220418_49/1650259504734me2a5_JPEG/51395288430155935_1902585034.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[박규희 - 베스트 앨범 Letters [CLEAR COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6563114019</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6563114019</guid>
@@ -326,6 +318,14 @@
             <pubDate>Sat, 23 Apr 2022 03:04:51 GMT</pubDate>
             <content:encoded><![CDATA[98,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220411_141/1649654026108Fdvov_JPEG/50789868470507209_1111026831.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박병천 - 씻김 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6532423805</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6532423805</guid>
+            <pubDate>Mon, 25 Apr 2022 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220411_20/1649651330369Tfwum_JPEG/50787219079969438_2138314817.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
