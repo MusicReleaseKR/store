@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 06:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 07:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안치환 - 2집 노래 한마당 (150G CRYSTAL COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6593184059</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6593184059</guid>
+            <pubDate>Mon, 25 Apr 2022 07:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220425_67/1650869752398OFh9T_JPEG/52005640784141893_2035002638.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안치환 - 2집 노래 한마당 (150G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6593175705</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6593175705</guid>
+            <pubDate>Mon, 25 Apr 2022 07:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220425_106/1650869395458TvKmK_JPEG/52005284118737149_1891506212.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Caravan - Caravan (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6582169443</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 11 Apr 2022 06:29:02 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220411_26/1649654867175SudAN_JPEG/50790646109879283_31898253.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최윤욱 - Dr Choi’s TEST LP & CD (한글판)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6532449653</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6532449653</guid>
-            <pubDate>Sat, 23 Apr 2022 03:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[98,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220411_141/1649654026108Fdvov_JPEG/50789868470507209_1111026831.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박병천 - 씻김 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6532423805</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6532423805</guid>
-            <pubDate>Mon, 25 Apr 2022 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220411_20/1649651330369Tfwum_JPEG/50787219079969438_2138314817.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
