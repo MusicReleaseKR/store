@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 07:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 08:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[38,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20191111_164/1573453593505tYnaN_JPEG/10815927055802954_322993452.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추서준 - 1집 Emotions of 22S/S [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6601904536</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6601904536</guid>
+            <pubDate>Wed, 27 Apr 2022 08:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220427_82/1651045550362SwXK6_JPEG/52181439075846338_652835349.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이민혁 - 다시 봄처럼, 안녕 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6601879816</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6601879816</guid>
+            <pubDate>Wed, 27 Apr 2022 08:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220427_66/1651045195453wW0ti_JPEG/52181084162913660_649772700.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ryuichi Sakamoto - Playing the Piano 12122020 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Sat, 23 Apr 2022 13:29:23 GMT</pubDate>
             <content:encoded><![CDATA[16,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220418_295/1650268130605LnYSb_JPEG/51403910330474045_1561532647.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장나라 - 2집 Sweet Dream [180G BLUE COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6562785392</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6562785392</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[66,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220418_114/1650262816335LtH8a_JPEG/51398600033356628_31102008.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스월비 Swervy - Undercover Angel (사인 CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6562671755</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6562671755</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220418_49/1650259504734me2a5_JPEG/51395288430155935_1902585034.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DESIGN TRANSLATORS / 스튜디오 신유 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
