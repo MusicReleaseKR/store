@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 10:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 11:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dylan Fraser - The Storm (LP) [2022 레코드 스토어데이 한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6602540971</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6602540971</guid>
+            <pubDate>Wed, 27 Apr 2022 11:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[28,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220427_185/1651056337325rHJxb_JPEG/52192180041734297_134918491.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[dvsn - SEPT 5th (PURPLE COLOURED 2LP) [2022 레코드 스토어데이 한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6602509387</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6602509387</guid>
+            <pubDate>Wed, 27 Apr 2022 11:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220427_169/1651055644950cC4ID_JPEG/52191472774036346_1078196059.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brad Mehldau - Jacob’s Ladder (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6602485033</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6602485033</guid>
+            <pubDate>Wed, 27 Apr 2022 11:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220427_184/1651055145106eGIOh_JPEG/52190979929932623_513039262.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Hot Chili Peppers - Unlimited Love (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6602461082</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 18 Apr 2022 11:19:46 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220418_89/16502779792299KpMn_JPEG/51413807057197601_981653287.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Beatles In Tokyo [180G WHITE COLOURED 2LP + 1DVD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6563477294</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6563477294</guid>
-            <pubDate>Mon, 18 Apr 2022 11:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[104,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220418_86/1650277209824lTsOI_JPEG/51413105560338947_175294279.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana - Nevermind (30th Anniversary) [5CD + Blue-Ray Super Deluxe]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6563447413</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6563447413</guid>
-            <pubDate>Mon, 18 Apr 2022 10:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[150,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220418_132/1650276804184aoLaI_JPEG/51412699912540320_315972162.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stella Donnelly - Beware Of The Dogs (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6563384166</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6563384166</guid>
-            <pubDate>Mon, 18 Apr 2022 10:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[33,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220418_1/1650275804345sjw6Q_JPEG/51411587547898789_613256402.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
