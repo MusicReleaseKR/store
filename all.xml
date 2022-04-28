@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 07:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 08:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[38,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20191111_164/1573453593505tYnaN_JPEG/10815927055802954_322993452.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코듀로이 Corduroy - Tails On The Hill (3인치 CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6607184412</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6607184412</guid>
+            <pubDate>Thu, 28 Apr 2022 08:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220428_293/1651132644521xHoVK_JPEG/52268533224754462_1619530156.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코토바 Cotoba - 4pricøt (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6607119390</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6607119390</guid>
+            <pubDate>Thu, 28 Apr 2022 08:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220428_246/1651131756695scBqO_JPEG/52267584512605981_524243803.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[적우 - 잃어버린전설 70 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Sat, 23 Apr 2022 13:29:23 GMT</pubDate>
             <content:encoded><![CDATA[34,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220419_136/1650362417358OWwOx_JPEG/51498197077346399_712710693.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 나의 아저씨 (2CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6567722386</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6567722386</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220419_83/1650356658951HAm6P_JPEG/51492547664365335_104524578.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최안순 - 흰구름 / 안개 낀 터미날 (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6567666947</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6567666947</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210531_79/1622452193507zdo9u_JPEG/23588028148110264_65755142.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DESIGN TRANSLATORS / 스튜디오 신유 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
