@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 06:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 07:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[적우 - 잃어버린전설 70 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6606979742</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6606979742</guid>
+            <pubDate>Thu, 28 Apr 2022 07:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220428_72/1651128922887m5WXt_JPEG/52264750700953593_1174070385.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dylan Fraser - The Storm (LP) [2022 레코드 스토어데이 한정반]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6602540971</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 19 Apr 2022 08:33:28 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210531_79/1622452193507zdo9u_JPEG/23588028148110264_65755142.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이브 Dive - I S2 MY WONDERFUL DAYS [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6563494341</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6563494341</guid>
-            <pubDate>Mon, 18 Apr 2022 11:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220418_89/16502779792299KpMn_JPEG/51413807057197601_981653287.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
