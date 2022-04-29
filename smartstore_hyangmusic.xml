@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 04:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 05:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예지 Yaeji - EP 1+2 (OPAQUE JADE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6611190376</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6611190376</guid>
+            <pubDate>Fri, 29 Apr 2022 05:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220429_263/1651208537488TSGbM_JPEG/52344433217817008_1637102874.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예지 Yaeji - EP 1+2 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6611185292</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6611185292</guid>
+            <pubDate>Fri, 29 Apr 2022 05:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220429_263/1651208537488TSGbM_JPEG/52344433217817008_1637102874.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤영배 - 위험한 세계 [LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6610853366</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 19 Apr 2022 12:51:33 GMT</pubDate>
             <content:encoded><![CDATA[23,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220419_169/1650368729138sVcJp_JPEG/51504512843506626_1184807428.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bon Iver - i,i (카세트 테이프)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6568234127</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6568234127</guid>
-            <pubDate>Tue, 19 Apr 2022 12:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220419_80/1650367938467TBwEI_JPEG/51503722176657233_496287484.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Molly Lewis - The Forgotten Edge (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6568227037</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6568227037</guid>
-            <pubDate>Tue, 19 Apr 2022 12:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[24,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220419_210/1650367718928IlTck_JPEG/51503502401617849_979727236.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
