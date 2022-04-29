@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 17:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 18:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[92년생 K-장녀 / 원스타, 말론조, 이듀클, 그레이즈 에세이]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6613448160</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6613448160</guid>
+            <pubDate>Fri, 29 Apr 2022 18:30:23 GMT</pubDate>
+            <content:encoded><![CDATA[9,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220430_188/1651255513117Yztpg_JPEG/52391355803682826_1855991089.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사라질 것들을 사랑하는 일 / 김양희 에세이 / 만날 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6613339329</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6613339329</guid>
+            <pubDate>Fri, 29 Apr 2022 18:30:23 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220430_64/1651254147428MOzE0_JPEG/52389926894768642_1612922391.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스물 네 자 진심, 일곱 갈래 인연 / 최예은 소설 / 18도의 얼그레이 출판]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6613095097</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[6,300]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20200111_242/1578747850251r1UzK_JPEG/16108588883024695_1703510837.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너이기도 했다가 너일때도 있었다 / 박상범 에세이]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6237967557</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6237967557</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[7,200]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20190726_279/ondostore_1564141904519ybh63_JPEG/1502643154187223_1024181682.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 비참해지는 중입니다 / 김규열 산문]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6235116153</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6235116153</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[9,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220127_233/16432820166924JpPD_JPEG/44417862405891174_660848130.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
