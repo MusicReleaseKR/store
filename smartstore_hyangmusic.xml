@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 07:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 08:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김미정 - Volume up [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6611537063</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6611537063</guid>
+            <pubDate>Fri, 29 Apr 2022 08:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220429_172/1651217662510EI8Gh_JPEG/52353505041719565_1662029609.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Camila Cabello - Familia (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6611339161</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Apr 2022 08:34:39 GMT</pubDate>
             <content:encoded><![CDATA[42,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220421_198/1650527152562JPMfR_JPEG/51663041050872577_603915855.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부활 - 12집 / 25th Anniversary - Retrospect (CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6576892886</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6576892886</guid>
-            <pubDate>Thu, 21 Apr 2022 08:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220421_240/165052688470107X3x_JPEG/51662773411913413_310165392.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
