@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 11:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 12:38:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No Music New Life Stickers / 노 뮤직 뉴 라이프 스티커]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6615737233</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6615737233</guid>
+            <pubDate>Sat, 30 Apr 2022 12:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[3,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220430_179/16513201505313yehU_JPEG/52455984320968574_334653055.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Music New Life / 팬데믹 시대에 살아남은 음악 팬들을 위한 인터뷰집]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6615723132</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6615723132</guid>
+            <pubDate>Sat, 30 Apr 2022 12:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220430_5/1651319338127gWfIs_JPEG/52455117830744284_1912378792.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[92년생 K-장녀 / 원스타, 말론조, 이듀클, 그레이즈 에세이]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6613448160</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[6,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220208_119/1644326946677shcbB_JPEG/45462792388909685_1039536119.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그런 의미에서 / 박상범 에세이 (독립출판)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6238027592</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6238027592</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[9,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20190726_28/ondostore_15641421143691vG6t_JPEG/1502852991605245_1433709396.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음을 이야기할 때의 마음 (2쇄 개정증보판) / 박상범 에세이 개정판]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6238013827</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6238013827</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[6,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20200111_242/1578747850251r1UzK_JPEG/16108588883024695_1703510837.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
