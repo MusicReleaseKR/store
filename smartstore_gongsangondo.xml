@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 12:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 13:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다린 ‘갈래’ 노트 3종]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6615779261</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6615779261</guid>
+            <pubDate>Sat, 30 Apr 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220430_36/1651322550134AJs3p_JPEG/52458438839936484_916126304.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No Music New Life Stickers / 노 뮤직 뉴 라이프 스티커]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6615737233</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[6,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220208_170/1644327280213FCsSx_JPEG/45463125758149485_1117488759.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yob Basic Line Crew Socks White / 욥 베이직 라인 크루 삭스 화이트]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6277614463</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6277614463</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[6,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220208_119/1644326946677shcbB_JPEG/45462792388909685_1039536119.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
