@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 05:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 06:30:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 패닉버튼 디깅플레이트 Vol 12 - BLUE (180G BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6622485263</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6622485263</guid>
+            <pubDate>Mon, 02 May 2022 06:29:55 GMT</pubDate>
+            <content:encoded><![CDATA[46,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220502_204/1651471938068RMpVw_JPEG/52607772684440979_2021620915.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유희열 - 생활음악 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6622436215</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6622436215</guid>
+            <pubDate>Mon, 02 May 2022 06:29:55 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220502_98/1651471309508JWLxy_JPEG/52607137338418785_819226612.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투피엠 2PM - Must (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6622371108</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6622371108</guid>
+            <pubDate>Mon, 02 May 2022 06:29:55 GMT</pubDate>
+            <content:encoded><![CDATA[63,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220502_29/1651470175874UXJSV_JPEG/52606009694555729_1710551742.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프롬 Fromm - REVE (45rpm 180G COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6612286452</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 22 Apr 2022 11:20:01 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220422_248/1650623901154CpMlY_JPEG/51759680648562987_1129213887.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Blue Velvet 블루 벨벳 (COLOURED 2LP) [2022 레코드스토어데이 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6581394874</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6581394874</guid>
-            <pubDate>Fri, 22 Apr 2022 08:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[65,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220422_218/1650612606345IjFtT_JPEG/51748502071838963_53232512.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norah Jones - Come Away With Me (20주년 기념 리마스터) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6581307726</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6581307726</guid>
-            <pubDate>Fri, 22 Apr 2022 07:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220422_182/1650610568464b7b3L_JPEG/51746410956895765_337242209.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장필순 - 9집 Petrichor (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6580518434</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6580518434</guid>
-            <pubDate>Fri, 22 Apr 2022 04:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220422_179/1650595410231QgHcs_JPEG/51731308939522896_452306508.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
