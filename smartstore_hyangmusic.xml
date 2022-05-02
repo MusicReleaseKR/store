@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 06:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 07:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심규선 Lucia - 몸과 마음 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6622575980</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6622575980</guid>
+            <pubDate>Mon, 02 May 2022 07:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220502_135/1651473682437kw1C8_JPEG/52609517270124058_1445543162.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 로맨스가 필요해 tvN 월화드라마 (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6622550920</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6622550920</guid>
+            <pubDate>Mon, 02 May 2022 07:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220502_193/1651473255561IaHwK_JPEG/52609090250361579_1785318659.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 49일 SBS TV 드라마 (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6622534549</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6622534549</guid>
+            <pubDate>Mon, 02 May 2022 07:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220502_266/1651472688469ppBrf_JPEG/52608523304354547_1886147509.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 패닉버튼 디깅플레이트 Vol 12 - BLUE (180G BLUE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6622485263</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 25 Apr 2022 07:26:56 GMT</pubDate>
             <content:encoded><![CDATA[39,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220425_67/1650869752398OFh9T_JPEG/52005640784141893_2035002638.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안치환 - 2집 노래 한마당 (150G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6593175705</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6593175705</guid>
-            <pubDate>Mon, 25 Apr 2022 07:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220425_106/1650869395458TvKmK_JPEG/52005284118737149_1891506212.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Caravan - Caravan (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6582169443</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6582169443</guid>
-            <pubDate>Fri, 22 Apr 2022 11:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220422_135/1650624471539uXCMs_JPEG/51760360246182277_29113447.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Biglietto Per L'inferno - Biglietto Per L'inferno (CRYSTAL COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6582142319</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6582142319</guid>
-            <pubDate>Fri, 22 Apr 2022 11:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220422_248/1650623901154CpMlY_JPEG/51759680648562987_1129213887.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
