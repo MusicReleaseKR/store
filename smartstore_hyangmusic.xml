@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 07:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 08:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[효연 HYO - 휩 (Deep) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6622683101</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6622683101</guid>
+            <pubDate>Mon, 02 May 2022 08:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220502_189/1651476612890qIbbq_JPEG/52612458596809695_887223395.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이광조 X 함춘호 - 미학적인 어쿠스틱의 향연 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6622661740</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6622661740</guid>
+            <pubDate>Mon, 02 May 2022 08:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220502_214/16514760773878qYn8_JPEG/52611922255346427_1764742682.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[심규선 Lucia - 몸과 마음 (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6622575980</link>
@@ -45,7 +61,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/6622436215</guid>
             <pubDate>Mon, 02 May 2022 06:29:55 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220502_98/1651471309508JWLxy_JPEG/52607137338418785_819226612.jpg?type=f232_232" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220502_9/1651479227453n3k17_JPEG/52615126143958786_1622506471.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투피엠 2PM - Must (LP)]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 26 Apr 2022 07:27:52 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220426_32/1650956153826QzVOG_JPEG/52091999545224782_1830473118.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - SBS TV 판타스틱 듀오 트롯 베스트 컬렉션, 그 첫 번째 브랜 뉴 트로트 - 첫사랑 (CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6597129548</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6597129548</guid>
-            <pubDate>Tue, 26 Apr 2022 06:29:35 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220426_31/1650951693098JNcy8_JPEG/52087538118061429_527537764.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안치환 - 2집 노래 한마당 (150G CRYSTAL COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6593184059</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6593184059</guid>
-            <pubDate>Mon, 25 Apr 2022 07:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220425_67/1650869752398OFh9T_JPEG/52005640784141893_2035002638.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
