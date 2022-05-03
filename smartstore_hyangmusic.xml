@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 09:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 10:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sia - 1000 Forms Of Fear [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6628230398</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6628230398</guid>
+            <pubDate>Tue, 03 May 2022 10:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220503_7/16515733933669dnBU_JPEG/52709289098919816_1174918451.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Becky Hill - Only Honest On The Weekend [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6628219389</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6628219389</guid>
+            <pubDate>Tue, 03 May 2022 10:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220503_50/1651572876889COtaO_JPEG/52708772626152956_471979531.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모리무라 켄 & 라틴 재즈 밴드 - Studio Ghibli meets Latin Cuban Jazz Band [180G BLUE COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6627704820</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 26 Apr 2022 08:34:29 GMT</pubDate>
             <content:encoded><![CDATA[33,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220426_33/1650960011134mc4XG_JPEG/52095794839875088_1059016132.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tyler, The Creator - Call Me If You Get Lost [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6597496140</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6597496140</guid>
-            <pubDate>Tue, 26 Apr 2022 08:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[45,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220426_227/1650958188466e8uw7_JPEG/52093972182269738_488195261.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream Theater - Lost Not Forgotten Archives and Beyond Live in Japan, 2017 [CLEAR COLOURE 2LP+CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6597437222</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6597437222</guid>
-            <pubDate>Tue, 26 Apr 2022 07:27:52 GMT</pubDate>
-            <content:encoded><![CDATA[54,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220426_72/1650957386330EIPCT_JPEG/52093220965130581_1788921630.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
