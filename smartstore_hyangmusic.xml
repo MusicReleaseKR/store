@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 05:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 06:31:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유해준 - 나에게 그대만이 (베스트 앨범) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6631392269</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6631392269</guid>
+            <pubDate>Wed, 04 May 2022 06:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220504_160/1651645136355M3wCI_JPEG/52781032089714747_1625053803.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김아름 - Aqua City (140G RED CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6631366637</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6631366637</guid>
+            <pubDate>Wed, 04 May 2022 06:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220504_151/1651644400696wAbtw_JPEG/52780296432828350_826120636.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 아침이슬 50년, 김민기에 헌정하다 (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6631334200</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6631334200</guid>
+            <pubDate>Wed, 04 May 2022 06:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[59,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220504_104/16516438466006S9Ay_JPEG/52779626312915020_1624835354.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dream Theater - Lost Not Forgotten Archives, and Beyond - Live in Japan, 2017 [2LP+CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6628297215</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 27 Apr 2022 10:27:31 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220427_135/165105329347604mjI_JPEG/52189077009008503_945336522.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Hot Chili Peppers - Unlimited Love (2LP) [LIMITED EDITION]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6602374507</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6602374507</guid>
-            <pubDate>Wed, 27 Apr 2022 10:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[52,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220427_135/165105329347604mjI_JPEG/52189077009008503_945336522.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Hot Chili Peppers - Unlimited Love [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6602348348</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6602348348</guid>
-            <pubDate>Wed, 27 Apr 2022 10:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220427_135/165105329347604mjI_JPEG/52189077009008503_945336522.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PVRIS - Use Me [45rpm COKE BOTTLE CLEAR COLOURED LP] [2022 레코드 스토어데이 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6602311005</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6602311005</guid>
-            <pubDate>Wed, 27 Apr 2022 10:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[28,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220427_201/16510528278298d4QF_JPEG/52188611540357034_1613354723.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
