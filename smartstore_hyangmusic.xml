@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 06:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 07:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자전거 탄 풍경 - 1집 자전거 탄 풍경 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6631471651</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6631471651</guid>
+            <pubDate>Wed, 04 May 2022 07:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220504_298/1651646914611ARsot_JPEG/52782742439725301_1784567129.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유해준 - 나에게 그대만이 (베스트 앨범) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6631392269</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 27 Apr 2022 11:22:28 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220427_184/1651055145106eGIOh_JPEG/52190979929932623_513039262.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Hot Chili Peppers - Unlimited Love (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6602461082</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6602461082</guid>
-            <pubDate>Wed, 27 Apr 2022 10:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220427_135/165105329347604mjI_JPEG/52189077009008503_945336522.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
