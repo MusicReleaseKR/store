@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 23:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 01:51:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -568,14 +568,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220429_263/1651208537488TSGbM_JPEG/52344433217817008_1637102874.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤영배 - 위험한 세계 [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6610853366</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6610853366</guid>
-            <pubDate>Fri, 29 Apr 2022 03:54:57 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220429_14/1651203205922zlV25_JPEG/52338989633320401_1286663014.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[곽푸른하늘 - Nearly (T)here [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6610838700</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6610838700</guid>
@@ -622,6 +614,14 @@
             <pubDate>Wed, 27 Apr 2022 11:22:28 GMT</pubDate>
             <content:encoded><![CDATA[56,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220427_169/1651055644950cC4ID_JPEG/52191472774036346_1078196059.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brad Mehldau - Jacob’s Ladder (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6602485033</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6602485033</guid>
+            <pubDate>Fri, 06 May 2022 01:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220427_184/1651055145106eGIOh_JPEG/52190979929932623_513039262.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다린 ‘갈래’ 노트 3종 (네이버 스마트스토어 ─ 공상온도)]]></title>
