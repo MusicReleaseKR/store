@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 14:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 15:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장기호 - Chagall Out of Town (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6652576863</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6652576863</guid>
+            <pubDate>Mon, 09 May 2022 15:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[66,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220510_124/1652109220674VbGJW_JPEG/53245063389560815_1105858502.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뎁트 Dept - Love Affair [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6652551570</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6652551570</guid>
+            <pubDate>Mon, 09 May 2022 15:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220509_179/16521082779794uyEB_JPEG/53244120684807489_1238578566.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다비치 - Season Note (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6652525983</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6652525983</guid>
+            <pubDate>Mon, 09 May 2022 15:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220509_60/1652107523373fqws3_JPEG/53243357179175236_829207689.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mariah Carey - Merry Christmas Deluxe (ANNIVERSARY EDITION) [RED COLORED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6631753540</link>
@@ -134,14 +158,6 @@
             <pubDate>Mon, 02 May 2022 07:23:38 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220502_193/1651473255561IaHwK_JPEG/52609090250361579_1785318659.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 49일 SBS TV 드라마 (180G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6622534549</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6622534549</guid>
-            <pubDate>Mon, 02 May 2022 07:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220502_266/1651472688469ppBrf_JPEG/52608523304354547_1886147509.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VA - 패닉버튼 디깅플레이트 Vol 12 - BLUE (180G BLUE COLOURED LP)]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 27 Apr 2022 11:22:28 GMT</pubDate>
             <content:encoded><![CDATA[56,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220427_169/1651055644950cC4ID_JPEG/52191472774036346_1078196059.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brad Mehldau - Jacob’s Ladder (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6602485033</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6602485033</guid>
-            <pubDate>Fri, 06 May 2022 01:51:07 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220427_184/1651055145106eGIOh_JPEG/52190979929932623_513039262.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Hot Chili Peppers - Unlimited Love (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6602461082</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6602461082</guid>
-            <pubDate>Mon, 09 May 2022 02:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220427_135/165105329347604mjI_JPEG/52189077009008503_945336522.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
