@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 15:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 16:38:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우소연 - 못난이 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6652604203</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6652604203</guid>
+            <pubDate>Mon, 09 May 2022 16:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220510_107/1652110376220BoYRu_JPEG/53246204034156159_1876646536.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장기호 - Chagall Out of Town (180G SILVER GRAY 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6652588622</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6652588622</guid>
+            <pubDate>Mon, 09 May 2022 16:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[66,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220510_124/1652109220674VbGJW_JPEG/53245063389560815_1105858502.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장기호 - Chagall Out of Town (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6652576863</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6652576863</guid>
@@ -446,14 +462,6 @@
             <pubDate>Mon, 02 May 2022 08:31:33 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220502_214/16514760773878qYn8_JPEG/52611922255346427_1764742682.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 로맨스가 필요해 tvN 월화드라마 (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6622550920</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6622550920</guid>
-            <pubDate>Mon, 02 May 2022 07:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220502_193/1651473255561IaHwK_JPEG/52609090250361579_1785318659.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VA - 패닉버튼 디깅플레이트 Vol 12 - BLUE (180G BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Wed, 27 Apr 2022 11:22:28 GMT</pubDate>
             <content:encoded><![CDATA[28,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220427_185/1651056337325rHJxb_JPEG/52192180041734297_134918491.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[dvsn - SEPT 5th (PURPLE COLOURED 2LP) [2022 레코드 스토어데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6602509387</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6602509387</guid>
-            <pubDate>Wed, 27 Apr 2022 11:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[56,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220427_169/1651055644950cC4ID_JPEG/52191472774036346_1078196059.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다린 ‘갈래’ 노트 3종 (네이버 스마트스토어 ─ 공상온도)]]></title>
