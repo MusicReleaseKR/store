@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 23:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 02:05:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,14 +424,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220502_214/16514760773878qYn8_JPEG/52611922255346427_1764742682.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[심규선 Lucia - 몸과 마음 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6622575980</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6622575980</guid>
-            <pubDate>Mon, 02 May 2022 07:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[52,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220502_135/1651473682437kw1C8_JPEG/52609517270124058_1445543162.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Soundtrack - 로맨스가 필요해 tvN 월화드라마 (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6622550920</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6622550920</guid>
@@ -622,6 +614,14 @@
             <pubDate>Fri, 06 May 2022 01:51:07 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220427_184/1651055145106eGIOh_JPEG/52190979929932623_513039262.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Hot Chili Peppers - Unlimited Love (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6602461082</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6602461082</guid>
+            <pubDate>Mon, 09 May 2022 02:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220427_135/165105329347604mjI_JPEG/52189077009008503_945336522.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다린 ‘갈래’ 노트 3종 (네이버 스마트스토어 ─ 공상온도)]]></title>
