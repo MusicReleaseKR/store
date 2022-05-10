@@ -4,9 +4,49 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 05:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 06:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이수영 - 10집 SORY]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6655710497</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6655710497</guid>
+            <pubDate>Tue, 10 May 2022 06:29:59 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220510_202/1652161892221sdd18_JPEG/53297671937456795_2105436175.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Janos Starker 야노스 슈타커 - 코다이 무반주 첼로 소나타 Op 8 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6655689949</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6655689949</guid>
+            <pubDate>Tue, 10 May 2022 06:29:59 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220510_88/1652161241434Egx7O_JPEG/53297021150451510_495335865.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andre Levy 앙드레 레비 - 첼로 소품집 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6655671590</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6655671590</guid>
+            <pubDate>Tue, 10 May 2022 06:29:59 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220510_97/1652160583195PAjSS_JPEG/53296362627135157_1848320780.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 BTS - Proof (Compact Edition) [3CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6655646836</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6655646836</guid>
+            <pubDate>Tue, 10 May 2022 06:29:59 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220510_278/1652160360930B4bF5_JPEG/53296140560079433_1639487118.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 BTS - Proof (Standard Edition) [3CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6655639341</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6655639341</guid>
+            <pubDate>Tue, 10 May 2022 06:29:59 GMT</pubDate>
+            <content:encoded><![CDATA[52,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220510_49/1652160082528cbbaD_JPEG/53295862252465575_1711202402.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우소연 - 못난이 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6652604203</link>
@@ -286,46 +326,6 @@
             <pubDate>Fri, 29 Apr 2022 03:54:57 GMT</pubDate>
             <content:encoded><![CDATA[15,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220429_127/1651202780450EhLTB_JPEG/52338564155039697_1007868003.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코듀로이 Corduroy - Tails On The Hill (3인치 CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6607184412</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6607184412</guid>
-            <pubDate>Thu, 28 Apr 2022 08:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220428_293/1651132644521xHoVK_JPEG/52268533224754462_1619530156.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코토바 Cotoba - 4pricøt (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6607119390</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6607119390</guid>
-            <pubDate>Thu, 28 Apr 2022 08:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220428_246/1651131756695scBqO_JPEG/52267584512605981_524243803.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[적우 - 잃어버린전설 70 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6606979742</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6606979742</guid>
-            <pubDate>Thu, 28 Apr 2022 07:26:33 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220428_72/1651128922887m5WXt_JPEG/52264750700953593_1174070385.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dylan Fraser - The Storm (LP) [2022 레코드 스토어데이 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6602540971</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6602540971</guid>
-            <pubDate>Wed, 27 Apr 2022 11:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[28,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220427_185/1651056337325rHJxb_JPEG/52192180041734297_134918491.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[dvsn - SEPT 5th (PURPLE COLOURED 2LP) [2022 레코드 스토어데이 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6602509387</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6602509387</guid>
-            <pubDate>Tue, 10 May 2022 02:54:03 GMT</pubDate>
-            <content:encoded><![CDATA[56,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220427_169/1651055644950cC4ID_JPEG/52191472774036346_1078196059.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
