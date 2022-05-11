@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 07:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 08:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Norah Jones - Come Away With Me (20주년 기념 리마스터) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6660196458</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6660196458</guid>
+            <pubDate>Wed, 11 May 2022 08:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[34,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220511_66/1652254212170kEvhH_JPEG/53390045993021412_1145660627.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잔나비 Jannabi - 초록을거머쥔우리는 (소곡집 II)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6660009411</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 29 Apr 2022 06:29:59 GMT</pubDate>
             <content:encoded><![CDATA[36,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220429_49/1651210421920UANP9_JPEG/52346201639106481_955145459.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hatchie - Giving The World Away (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6611230621</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6611230621</guid>
-            <pubDate>Fri, 29 Apr 2022 06:29:59 GMT</pubDate>
-            <content:encoded><![CDATA[34,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220429_89/1651210268054HRPPM_JPEG/52346047511617941_163835215.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
