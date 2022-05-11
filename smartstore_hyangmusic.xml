@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 05:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 06:34:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잔나비 Jannabi - 초록을거머쥔우리는 (소곡집 II)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6660009411</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6660009411</guid>
+            <pubDate>Wed, 11 May 2022 06:33:36 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220511_222/1652250184332zeCuA_JPEG/53386073022705468_1746736584.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이성원 - 뒷문 밖에는 갈잎의 노래 (45rpm LP & CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6659994678</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6659994678</guid>
+            <pubDate>Wed, 11 May 2022 06:33:36 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220511_162/1652249660093jq093_JPEG/53385548800328686_1155663831.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시인과 촌장 - 짝사랑 / 님타령 (180G Transparent 4 Colors Splatter LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6659973381</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6659973381</guid>
+            <pubDate>Wed, 11 May 2022 06:33:36 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220511_18/1652249257262WJweo_JPEG/53385145968552228_2057614677.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베어문 Bearmoon - Fate [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6656947573</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 29 Apr 2022 06:29:59 GMT</pubDate>
             <content:encoded><![CDATA[34,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220429_89/1651210268054HRPPM_JPEG/52346047511617941_163835215.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hatchie - Giving The World Away (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6611226179</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6611226179</guid>
-            <pubDate>Fri, 29 Apr 2022 06:29:59 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220429_214/1651209973579AG2fb_JPEG/52345753290309194_792508143.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예지 Yaeji - EP 1+2 (OPAQUE JADE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6611190376</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6611190376</guid>
-            <pubDate>Fri, 29 Apr 2022 05:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220429_263/1651208537488TSGbM_JPEG/52344433217817008_1637102874.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곽푸른하늘 - Nearly (T)here [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6610838700</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6610838700</guid>
-            <pubDate>Wed, 11 May 2022 02:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220429_127/1651202780450EhLTB_JPEG/52338564155039697_1007868003.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
