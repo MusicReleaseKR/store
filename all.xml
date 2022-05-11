@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 23:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 02:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,14 +400,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220504_61/1651654359483CnTPV_JPEG/52790258190720961_839094641.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자전거 탄 풍경 - 1집 자전거 탄 풍경 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6631471651</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6631471651</guid>
-            <pubDate>Wed, 04 May 2022 07:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220504_298/1651646914611ARsot_JPEG/52782742439725301_1784567129.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[유해준 - 나에게 그대만이 (베스트 앨범) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6631392269</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6631392269</guid>
@@ -622,6 +614,14 @@
             <pubDate>Fri, 29 Apr 2022 05:25:05 GMT</pubDate>
             <content:encoded><![CDATA[36,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220429_263/1651208537488TSGbM_JPEG/52344433217817008_1637102874.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곽푸른하늘 - Nearly (T)here [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6610838700</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6610838700</guid>
+            <pubDate>Wed, 11 May 2022 02:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220429_127/1651202780450EhLTB_JPEG/52338564155039697_1007868003.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다린 ‘갈래’ 노트 3종 (네이버 스마트스토어 ─ 공상온도)]]></title>
