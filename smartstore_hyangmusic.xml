@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 09:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 10:30:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 슬픔보다 더 슬픈 이야기 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6664844907</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6664844907</guid>
+            <pubDate>Thu, 12 May 2022 10:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220512_235/1652347961107lvyUb_JPEG/53483740832757895_163507754.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 에덴의 동쪽 (MBC TV 월화드라마) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6664751484</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 29 Apr 2022 12:51:36 GMT</pubDate>
             <content:encoded><![CDATA[44,600]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220429_175/1651234768957W5bXV_JPEG/52370664692303846_272779354.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프롬 Fromm - Erica [45rpm 180G COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6612274124</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6612274124</guid>
-            <pubDate>Fri, 29 Apr 2022 12:51:36 GMT</pubDate>
-            <content:encoded><![CDATA[44,600]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220429_173/1651233947000kiNna_JPEG/52369792658027723_39380024.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
