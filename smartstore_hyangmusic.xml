@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 11:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 12:54:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mondo Grosso - Official Best 1 (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6665018499</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6665018499</guid>
+            <pubDate>Thu, 12 May 2022 12:54:22 GMT</pubDate>
+            <content:encoded><![CDATA[73,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220512_104/1652354592093qszE7_JPEG/53490490579733161_1771260712.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mondo Grosso - Official Best 2 [2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6665003227</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 02 May 2022 08:31:33 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220502_214/16514760773878qYn8_JPEG/52611922255346427_1764742682.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 패닉버튼 디깅플레이트 Vol 12 - BLUE (180G BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6622485263</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6622485263</guid>
-            <pubDate>Mon, 02 May 2022 06:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[46,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220502_204/1651471938068RMpVw_JPEG/52607772684440979_2021620915.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
