@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 04:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 05:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재성 - 4집 [180G BLUE COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6664002537</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6664002537</guid>
+            <pubDate>Thu, 12 May 2022 05:30:02 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220512_168/16523307992890PKTD_JPEG/53466578630157845_1150222169.jpeg?type=f232_232" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[에피톤 프로젝트 - 기착 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6663940612</link>
@@ -14,6 +22,14 @@
             <pubDate>Thu, 12 May 2022 04:38:46 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220512_254/1652329312463csbuJ_JPEG/53465211165430764_1782713960.jpeg?type=f232_232" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[NY물고기 - 진실의 숲 (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6663900801</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6663900801</guid>
+            <pubDate>Thu, 12 May 2022 05:30:02 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220512_178/1652328080811NbrUB_JPEG/53463969212689246_620733920.jpeg?type=f232_232" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Norah Jones - Come Away With Me (20주년 기념 리마스터) [LP]]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 29 Apr 2022 06:29:59 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220429_237/1651212600650K3T3U_JPEG/52348443154331597_934432788.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toro y Moi - MAHAL (SILVER COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6611282608</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6611282608</guid>
-            <pubDate>Fri, 29 Apr 2022 06:29:59 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220429_101/1651211589167Lztjx_JPEG/52347431881699025_1325135309.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toro y Moi - MAHAL (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6611271416</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6611271416</guid>
-            <pubDate>Fri, 29 Apr 2022 06:29:59 GMT</pubDate>
-            <content:encoded><![CDATA[36,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220429_90/1651210771419kbLAH_JPEG/52346550860766759_1061685324.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
