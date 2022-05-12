@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 08:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 09:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 에덴의 동쪽 (MBC TV 월화드라마) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6664751484</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6664751484</guid>
+            <pubDate>Thu, 12 May 2022 09:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220512_120/1652346211526XNG6r_JPEG/53482045343380735_243447615.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 우리들의 천국 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6664723802</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6664723802</guid>
+            <pubDate>Thu, 12 May 2022 09:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220512_260/1652345675892N6GKf_JPEG/53481509709749709_901487315.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴킴 Paul Kim - pkalbum (DARK GREEN COLOURED LP) [일반반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Fri, 29 Apr 2022 12:51:36 GMT</pubDate>
             <content:encoded><![CDATA[44,600]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220429_173/1651233947000kiNna_JPEG/52369792658027723_39380024.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김미정 - Volume up [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6611537063</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6611537063</guid>
-            <pubDate>Fri, 29 Apr 2022 08:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220429_172/1651217662510EI8Gh_JPEG/52353505041719565_1662029609.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camila Cabello - Familia (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6611339161</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6611339161</guid>
-            <pubDate>Fri, 29 Apr 2022 06:29:59 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220429_52/1651213049256uUBp7_JPEG/52348891961590541_316223656.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다린 ‘갈래’ 노트 3종 (네이버 스마트스토어 ─ 공상온도)]]></title>
