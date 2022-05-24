@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 05:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 06:31:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타미르 - Nomadic Stranger (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6711797131</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6711797131</guid>
+            <pubDate>Tue, 24 May 2022 06:31:09 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220524_44/1653372817361ACYtb_JPEG/54508663072862757_1074594625.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콩코드 - 초음속여객기 (카세트 테이프)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6708443320</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220517_164/1652785635643toe0k_JPEG/53921534354958473_1990236548.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ornette Coleman - Free Jazz (180G BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6684745507</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6684745507</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220517_252/1652784250912kzfHW_JPEG/53920034629997481_1727294429.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
