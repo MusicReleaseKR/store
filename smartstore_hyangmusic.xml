@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 06:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 07:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Samurai Champloo - Departure (사무라이 참프루) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6711891627</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6711891627</guid>
+            <pubDate>Tue, 24 May 2022 07:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220524_73/1653374954999tn4jV_JPEG/54510800708827263_555363125.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 어쩌다 발견한 하루 (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6711865645</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6711865645</guid>
+            <pubDate>Tue, 24 May 2022 07:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220524_280/1653374218937UJ8R0_JPEG/54510046765178252_360671209.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 스타트업 (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6711834203</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6711834203</guid>
+            <pubDate>Tue, 24 May 2022 07:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[66,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220524_121/1653373515863n4rUj_JPEG/54509414485124643_983071805.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타미르 - Nomadic Stranger (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6711797131</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220518_164/1652850039846OnDLL_JPEG/53985885549604393_1495246805.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이문세 - 1집 (180G REMASTERED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6687953174</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6687953174</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220518_255/1652849368495eeuAC_JPEG/53985214214538793_2101021501.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk - Round Midnight [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6684802243</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6684802243</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220517_194/1652786408399EHral_JPEG/53922242106277391_2037807314.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stan Getz And Joao Gilberto - Getz / Gilberto (180G DELUXE GATE-FOLD LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6684777946</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6684777946</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220517_164/1652785635643toe0k_JPEG/53921534354958473_1990236548.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
