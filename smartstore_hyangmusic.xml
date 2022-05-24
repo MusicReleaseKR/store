@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 09:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 10:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손성훈 - RETURN (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6712612696</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6712612696</guid>
+            <pubDate>Tue, 24 May 2022 10:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220524_37/16533869031872aTKE_JPEG/54522798912412895_1872915474.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Samurai Champloo - Departure (사무라이 참프루) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6711891627</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220518_248/1652850367865R16Hp_JPEG/53986213569632516_2030185862.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양희은 - 차돌이 내몸 (180G REMASTERED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6687977318</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6687977318</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220518_164/1652850039846OnDLL_JPEG/53985885549604393_1495246805.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
