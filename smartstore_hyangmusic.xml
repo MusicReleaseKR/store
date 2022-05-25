@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 06:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 07:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거북이 - 1집 GO! BOOGIE (45rpm 180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6716278546</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6716278546</guid>
+            <pubDate>Wed, 25 May 2022 07:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[63,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220225_189/1645755217025FEdvA_JPEG/46891051512989650_1980756938.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조성진 Seong-Jin Cho - 2015 쇼팽 콩쿠르 우승 실황앨범 [카세트 테이프]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6716154862</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6716154862</guid>
+            <pubDate>Wed, 25 May 2022 07:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220525_76/1653460902355byua5_JPEG/54596747826403349_1342966961.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 프로듀사 (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6716129328</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6716129328</guid>
+            <pubDate>Wed, 25 May 2022 07:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220525_167/1653460397348EuFpz_JPEG/54596242830105294_908493922.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기기기 - Meta Morph [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6716106853</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[39,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220518_59/1652869864999Ni1SB_JPEG/54005760522849542_1480191072.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재중 - 온 더 로드 ON THE ROAD an artist’s journey [180G PICTURE DISC 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6688524226</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6688524226</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[65,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220518_280/1652861479551w4HLH_JPEG/53997259268579643_1575641430.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk - Round Midnight [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6684802243</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6684802243</guid>
-            <pubDate>Wed, 25 May 2022 02:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220517_194/1652786408399EHral_JPEG/53922242106277391_2037807314.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stan Getz And Joao Gilberto - Getz / Gilberto (180G DELUXE GATE-FOLD LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6684777946</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6684777946</guid>
-            <pubDate>Wed, 25 May 2022 02:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220517_164/1652785635643toe0k_JPEG/53921534354958473_1990236548.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
