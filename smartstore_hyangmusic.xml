@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 06:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기기기 - Meta Morph [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6716106853</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6716106853</guid>
+            <pubDate>Wed, 25 May 2022 06:33:16 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220525_10/1653460002500deqY5_JPEG/54595848162377522_1046365897.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배영경 - 푸른 너 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6716075348</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6716075348</guid>
+            <pubDate>Wed, 25 May 2022 06:33:16 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220525_240/1653458462034fImFK_JPEG/54594296868975957_692808539.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손성훈 - RETURN (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6712612696</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 25 May 2022 02:03:14 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220517_164/1652785635643toe0k_JPEG/53921534354958473_1990236548.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ornette Coleman - Free Jazz (180G BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6684745507</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6684745507</guid>
-            <pubDate>Wed, 25 May 2022 02:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220517_252/1652784250912kzfHW_JPEG/53920034629997481_1727294429.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Coltrane - Blue Train (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6684739113</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6684739113</guid>
-            <pubDate>Wed, 25 May 2022 02:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220517_279/1652783962622Cb82i_JPEG/53919746339800824_1861059152.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
