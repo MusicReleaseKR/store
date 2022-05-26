@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 05:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 06:31:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업타운 Uptown - 1집 Represent (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6720862299</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6720862299</guid>
+            <pubDate>Thu, 26 May 2022 06:30:40 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220526_13/1653545765816QiIrV_JPEG/54681599637601855_802135142.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤일 Hail - Hail (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6720752899</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6720752899</guid>
+            <pubDate>Thu, 26 May 2022 06:30:40 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220526_120/1653543979495vMGK1_JPEG/54679812789999588_1778799027.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거북이 - 1집 GO! BOOGIE (45rpm 180G 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6716278546</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[48,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220519_293/1652935546408jnllp_JPEG/54071389115399189_84682994.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언니네 이발관 - 5집 - 가장 보통의 존재 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6689131906</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6689131906</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220518_35/16528701183530cvW4_JPEG/54006014090569484_1767486718.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동서남북 - 하나가 되어, 나비 (180G OPAQUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6689112532</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6689112532</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220518_59/1652869864999Ni1SB_JPEG/54005760522849542_1480191072.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
