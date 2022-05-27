@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 23:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 02:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심현필 & 고희안 - Iceland (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6724268520</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6724268520</guid>
+            <pubDate>Fri, 27 May 2022 02:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220527_261/16536129197065QUo4_JPEG/54748747523168661_1889592896.jpeg?type=f200" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Elvis Presley - 베스트 30 선곡집 1954 - 1962 [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220519_122/1652940293493mqkXA_JPEG/54076192199853378_1215471674.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변진섭 - 2집 너에게로 또다시 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6692219264</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6692219264</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_245/1652939721989a7kba_JPEG/54075620688710435_1300908142.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EZMONSTER’s Fragile Tape / EZMONSTER 디자인 테이프 (네이버 스마트스토어 ─ 공상온도)]]></title>
