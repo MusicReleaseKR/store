@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 04:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 05:32:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이성수 - Only Lovers Left Alive (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6736235377</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6736235377</guid>
+            <pubDate>Mon, 30 May 2022 05:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220530_257/1653887893940eK8EE_JPEG/55023673448169193_1818595731.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김신일 - Soul Soul Soul [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6736217283</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6736217283</guid>
+            <pubDate>Mon, 30 May 2022 05:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220530_1/1653887252967SuIzp_JPEG/55023032112986716_866429240.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[심현필 & 고희안 - Iceland (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220519_35/165294327820334Yds_JPEG/54079172756135148_489846525.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Angel Olsen - Big Time [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6692396177</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6692396177</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[17,200]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_224/1652942965439YiIr6_JPEG/54078861167402202_61470203.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최유리 - 욕심의 반대편으로 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6692243029</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6692243029</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_122/1652940293493mqkXA_JPEG/54076192199853378_1215471674.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EZMONSTER’s Fragile Tape / EZMONSTER 디자인 테이프 (네이버 스마트스토어 ─ 공상온도)]]></title>
