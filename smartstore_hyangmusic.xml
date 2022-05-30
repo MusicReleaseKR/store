@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 10:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 11:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dream Theater - Live At Luna Park (3CD & 2DVD) [SPECIAL EDITION]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6737158682</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6737158682</guid>
+            <pubDate>Mon, 30 May 2022 11:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[70,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220530_196/1653909343654GC706_JPEG/55045178484029732_1332298414.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이성수 - Only Lovers Left Alive (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6736235377</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[47,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220519_215/1652943469892H14rc_JPEG/54079365618587066_1051476289.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Angel Olsen - Big Time [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6692405191</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6692405191</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_35/165294327820334Yds_JPEG/54079172756135148_489846525.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
