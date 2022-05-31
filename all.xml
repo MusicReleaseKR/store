@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 04:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[판다곰 Panda Gomm - Vertigo [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6740368317</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6740368317</guid>
+            <pubDate>Tue, 31 May 2022 05:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220531_189/1653972323942zL7qs_JPEG/55108212418581637_843220098.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아톰북 Atombook - Warm Hello From The Sun (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6740338701</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6740338701</guid>
+            <pubDate>Tue, 31 May 2022 05:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220531_202/1653971884135Lwkom_JPEG/55107772574492204_324317527.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nirvana - Live On Kaos-FM Seattle 1987 (180G PICTURE DISC LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220519_24/1652946451922lUJTW_JPEG/54082294501197981_1372378435.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Cowboy Bebop Blue (카우보이 비밥 블루) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6692524423</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6692524423</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_211/1652945980797PwBHO_JPEG/54081823505231586_1505891136.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Cowboy Bebop Tank The Best (카우보이 비밥 탱크 베스트) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6692505056</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6692505056</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[28,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_176/1652945590968hQ64L_JPEG/54081433674478701_242937223.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EZMONSTER’s Fragile Tape / EZMONSTER 디자인 테이프 (네이버 스마트스토어 ─ 공상온도)]]></title>
