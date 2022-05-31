@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 06:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 07:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김시호 - 18평 방자 [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6740719493</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6740719493</guid>
+            <pubDate>Tue, 31 May 2022 07:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220531_108/16539805300535CkUv_JPEG/55116375448755986_1718179520.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[판다곰 Panda Gomm - Vertigo [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6740368317</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[23,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220519_287/1652946779904S1U0g_JPEG/54082622619146438_1776226192.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Cowboy Bebop No Disc (카우보이 비밥 노 디스크) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6692535324</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6692535324</guid>
-            <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_24/1652946451922lUJTW_JPEG/54082294501197981_1372378435.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
