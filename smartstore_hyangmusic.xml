@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 22:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 23:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220524_280/1653374218937UJ8R0_JPEG/54510046765178252_360671209.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack - 스타트업 (180G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6711834203</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6711834203</guid>
-            <pubDate>Tue, 24 May 2022 07:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[66,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220524_121/1653373515863n4rUj_JPEG/54509414485124643_983071805.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[타미르 - Nomadic Stranger (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6711797131</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6711797131</guid>
@@ -326,6 +318,14 @@
             <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220519_193/1652963311011SGgRE_JPEG/54099156724652787_759252793.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 설강화 (WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6693077858</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6693077858</guid>
+            <pubDate>Tue, 31 May 2022 23:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220519_81/1652954456560Nrzm9_JPEG/54090302281173660_1533546244.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
