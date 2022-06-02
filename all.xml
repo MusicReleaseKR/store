@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 06:32:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신해철 - 2집 Myself (180G RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6748094207</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6748094207</guid>
+            <pubDate>Thu, 02 Jun 2022 06:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220602_151/1654148002344e8f1X_JPEG/55283845058579369_361602177.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신해철 - 1집 슬픈 표정하지 말아요 (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6748082007</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6748082007</guid>
+            <pubDate>Thu, 02 Jun 2022 06:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220602_89/1654148018773YHAQz_JPEG/55283861481658456_2062349311.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[허림 - 노래모음 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6741125746</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6741125746</guid>
@@ -328,7 +344,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220531_133/1653988852887oLyUc_JPEG/55124680717502714_1023601522.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김시호 - 18평 방자 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[김시호 - 18평방자 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6740719493</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6740719493</guid>
             <pubDate>Tue, 31 May 2022 07:24:16 GMT</pubDate>
@@ -414,14 +430,6 @@
             <pubDate>Thu, 26 May 2022 07:23:27 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220526_34/1653548136245cVvts_JPEG/54683919954034831_2004210511.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업타운 Uptown - 1집 Represent (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6720862299</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6720862299</guid>
-            <pubDate>Thu, 26 May 2022 06:30:40 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220526_13/1653545765816QiIrV_JPEG/54681599637601855_802135142.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤일 Hail - Hail (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Tue, 24 May 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220519_193/1652963311011SGgRE_JPEG/54099156724652787_759252793.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 설강화 (WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6693077858</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6693077858</guid>
-            <pubDate>Tue, 31 May 2022 23:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_81/1652954456560Nrzm9_JPEG/54090302281173660_1533546244.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EZMONSTER’s Fragile Tape / EZMONSTER 디자인 테이프 (네이버 스마트스토어 ─ 공상온도)]]></title>
