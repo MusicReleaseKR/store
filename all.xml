@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 12:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 13:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ryuichi Sakamoto - Works I - CM [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6768598080</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6768598080</guid>
+            <pubDate>Tue, 07 Jun 2022 13:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220607_11/1654608849023WXkN0_JPEG/55744682641538654_1687481028.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto - Works II - TV / Inst. (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6768589625</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6768589625</guid>
+            <pubDate>Tue, 07 Jun 2022 13:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220607_233/1654608576279zUppf_JPEG/55744410101984364_1790064520.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mitski 미츠키 - Bury Me at Makeout Creek [카세트 테이프] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6768545995</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6768545995</guid>
+            <pubDate>Tue, 07 Jun 2022 13:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220607_115/1654607364096scMGh_JPEG/55743262803293195_571696114.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sigrid - How To Let Go [180g LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6768285297</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6768285297</guid>
@@ -350,6 +374,14 @@
             <pubDate>Tue, 07 Jun 2022 10:26:25 GMT</pubDate>
             <content:encoded><![CDATA[14,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220607_231/1654594124067RnlQt_JPEG/55730012771912525_1146521829.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엠씨 몽 Mc Mong - 9집 Flower 9 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6767828627</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6767828627</guid>
+            <pubDate>Tue, 07 Jun 2022 13:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220607_129/1654584306225M0vxX_JPEG/55720148933678284_202914621.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[있지 Itzy - Checkmate (한정반) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -590,38 +622,6 @@
             <pubDate>Wed, 25 May 2022 07:24:31 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220525_167/1653460397348EuFpz_JPEG/54596242830105294_908493922.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기기기 - Meta Morph [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6716106853</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6716106853</guid>
-            <pubDate>Wed, 25 May 2022 06:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220525_10/1653460002500deqY5_JPEG/54595848162377522_1046365897.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배영경 - 푸른 너 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6716075348</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6716075348</guid>
-            <pubDate>Wed, 25 May 2022 06:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220525_240/1653458462034fImFK_JPEG/54594296868975957_692808539.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Haden And Pat Metheny - Beyond The Missouri Sky - Short Stories (SPECIAL EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6712683912</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6712683912</guid>
-            <pubDate>Thu, 26 May 2022 08:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220524_139/1653388485233UyFp1_JPEG/54524373939564683_619329934.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혁오 Hyukoh - 23 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6712647821</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6712647821</guid>
-            <pubDate>Thu, 26 May 2022 08:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220524_132/1653388147216gaFz2_JPEG/54524035914693349_1539016515.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EZMONSTER’s Fragile Tape / EZMONSTER 디자인 테이프 (네이버 스마트스토어 ─ 공상온도)]]></title>
