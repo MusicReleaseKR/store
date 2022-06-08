@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 05:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 06:35:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[QUEEN - THE PLATINUM COLLECTION [180G COLOURED 6LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6771522808</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6771522808</guid>
+            <pubDate>Wed, 08 Jun 2022 06:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[195,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220608_73/1654666332362UTqK9_JPEG/55802160192452709_585491683.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신용재 - 사계 (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6771434480</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6771434480</guid>
+            <pubDate>Wed, 08 Jun 2022 06:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[80,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220608_50/16546651662694NX6S_JPEG/55801062005867312_911289023.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ryuichi Sakamoto - Works I - CM [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6768598080</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 25 May 2022 07:24:31 GMT</pubDate>
             <content:encoded><![CDATA[63,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220225_189/1645755217025FEdvA_JPEG/46891051512989650_1980756938.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조성진 Seong-Jin Cho - 2015 쇼팽 콩쿠르 우승 실황앨범 [카세트 테이프]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6716154862</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6716154862</guid>
-            <pubDate>Wed, 25 May 2022 07:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220525_76/1653460902355byua5_JPEG/54596747826403349_1342966961.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 프로듀사 (180G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6716129328</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6716129328</guid>
-            <pubDate>Wed, 25 May 2022 07:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220525_167/1653460397348EuFpz_JPEG/54596242830105294_908493922.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
