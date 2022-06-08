@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 10:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 11:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시다발 / 엄지용 시집]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6772436137</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6772436137</guid>
+            <pubDate>Wed, 08 Jun 2022 11:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[8,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220608_60/1654684545491pGMxX_JPEG/55820324925189402_2024168103.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나의 작은 팔레트 1 / 이정현 에세이]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6771895594</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220216_265/1645003276139gf3GS_JPEG/46139121840153494_1164043693.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자취생활 체크리스트 메모지 2종]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6288575669</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6288575669</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[2,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220211_234/16445161066126DsHN_JPEG/45651890312884459_1994609182.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
