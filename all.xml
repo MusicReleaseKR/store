@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 05:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 06:29:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norah Jones - Come Away With Me (20th Anniversary Super Deluxe Edition, 4LP Box Set) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6775174286</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6775174286</guid>
+            <pubDate>Thu, 09 Jun 2022 06:28:42 GMT</pubDate>
+            <content:encoded><![CDATA[240,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220609_23/1654754658691apcJC_JPEG/55890491967518603_1348235794.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rupa - Disco Jazz [SUNSUGAR COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Fri, 27 May 2022 02:02:54 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220527_261/16536129197065QUo4_JPEG/54748747523168661_1889592896.jpeg?type=f200" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elvis Presley - 베스트 30 선곡집 1954 - 1962 [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6721033188</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6721033188</guid>
-            <pubDate>Thu, 26 May 2022 07:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220526_105/1653548654653Uvqxl_JPEG/54684438369277964_1944003239.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시다발 / 엄지용 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
