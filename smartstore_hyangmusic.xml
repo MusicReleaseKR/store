@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 10:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 11:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아우릴고트 OUREALGOAT - 나비처럼 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6781297916</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6781297916</guid>
+            <pubDate>Fri, 10 Jun 2022 11:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220610_56/16548593982818bYxW_JPEG/55995240996075189_2072201680.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joan Baez - Diamonds & Rust (180G TRANSPARENT ORANGE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6781261514</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6781261514</guid>
+            <pubDate>Fri, 10 Jun 2022 11:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220610_180/1654856947716p3yKg_JPEG/55992793428732504_542577577.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chuck Mangione - Feels So Good (180G TRANSPARENT RED COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6781177582</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 31 May 2022 05:28:34 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220531_189/1653972323942zL7qs_JPEG/55108212418581637_843220098.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아톰북 Atombook - Warm Hello From The Sun (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6740338701</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6740338701</guid>
-            <pubDate>Tue, 31 May 2022 05:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220531_202/1653971884135Lwkom_JPEG/55107772574492204_324317527.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana - Live On Kaos-FM Seattle 1987 (180G PICTURE DISC LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6737190135</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6737190135</guid>
-            <pubDate>Mon, 30 May 2022 12:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[30,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220530_242/1653910098976aV2YK_JPEG/55045933797853513_240181568.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
