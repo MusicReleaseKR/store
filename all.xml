@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 08:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 09:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Soundtrack - 동사서독 Ashes of Time (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6780905076</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6780905076</guid>
+            <pubDate>Fri, 10 Jun 2022 09:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[28,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220610_64/1654851040941kGhSY_JPEG/55986875775523737_183326854.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Chungking Express 중경삼림 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6780882482</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6780882482</guid>
+            <pubDate>Fri, 10 Jun 2022 09:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[28,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220610_125/1654850466419JoXIC_JPEG/55986294243749091_354758907.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인페이스 Inphase - The Fractal (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6780838423</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6780838423</guid>
+            <pubDate>Fri, 10 Jun 2022 09:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220610_27/1654849544203EcV5k_JPEG/55985439747969111_107993164.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넉살 X 까데호 - 당신께 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6780795961</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6780795961</guid>
@@ -598,30 +622,6 @@
             <pubDate>Mon, 30 May 2022 12:47:36 GMT</pubDate>
             <content:encoded><![CDATA[38,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220530_78/1653909682342mzASz_JPEG/55045516958785481_2110932219.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream Theater - Live At Luna Park (3CD & 2DVD) [SPECIAL EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6737158682</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6737158682</guid>
-            <pubDate>Mon, 30 May 2022 11:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[70,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220530_196/1653909343654GC706_JPEG/55045178484029732_1332298414.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이성수 - Only Lovers Left Alive (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6736235377</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6736235377</guid>
-            <pubDate>Mon, 30 May 2022 05:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220530_257/1653887893940eK8EE_JPEG/55023673448169193_1818595731.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김신일 - Soul Soul Soul [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6736217283</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6736217283</guid>
-            <pubDate>Mon, 30 May 2022 05:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220530_1/1653887252967SuIzp_JPEG/55023032112986716_866429240.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시다발 / 엄지용 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
