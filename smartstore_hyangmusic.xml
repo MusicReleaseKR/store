@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 07:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 08:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넉살 X 까데호 - 당신께 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6780795961</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6780795961</guid>
+            <pubDate>Fri, 10 Jun 2022 08:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220610_39/1654848377745lFi2y_JPEG/55984265816632017_2070802501.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소울바이서울 SOULBYSEL - SOULBYSEL Compilation 01 [180G 반투명 블루컬러 LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6780777219</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6780777219</guid>
+            <pubDate>Fri, 10 Jun 2022 08:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220610_116/1654847702536S5NXX_JPEG/55983591245073336_1589077933.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Norah Jones - Come Away With Me (20th Anniversary Super Deluxe Edition, 4LP Box Set)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6775174286</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 30 May 2022 05:31:36 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220530_1/1653887252967SuIzp_JPEG/55023032112986716_866429240.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심현필 & 고희안 - Iceland (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6724268520</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6724268520</guid>
-            <pubDate>Fri, 27 May 2022 02:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220527_261/16536129197065QUo4_JPEG/54748747523168661_1889592896.jpeg?type=f200" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elvis Presley - 베스트 30 선곡집 1954 - 1962 [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6721033188</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6721033188</guid>
-            <pubDate>Thu, 09 Jun 2022 07:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220526_105/1653548654653Uvqxl_JPEG/54684438369277964_1944003239.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
