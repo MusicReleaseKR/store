@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 11:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 12:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라스트 챤스 - Go Go 춤을 위한 경음악 (180G RED COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6781423820</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6781423820</guid>
+            <pubDate>Fri, 10 Jun 2022 12:45:44 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220610_224/1654863119818za9EW_JPEG/55998965471565451_31171367.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라스트 챤스 - Go Go 춤을 위한 경음악 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6781419898</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6781419898</guid>
+            <pubDate>Fri, 10 Jun 2022 12:45:44 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220610_99/1654862942560upp8m_JPEG/55998788278115210_200039913.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아우릴고트 OUREALGOAT - 나비처럼 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6781297916</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 31 May 2022 10:28:56 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220531_133/1653988852887oLyUc_JPEG/55124680717502714_1023601522.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김시호 - 18평방자 [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6740719493</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6740719493</guid>
-            <pubDate>Tue, 31 May 2022 07:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220531_108/16539805300535CkUv_JPEG/55116375448755986_1718179520.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판다곰 Panda Gomm - Vertigo [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6740368317</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6740368317</guid>
-            <pubDate>Tue, 31 May 2022 05:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220531_189/1653972323942zL7qs_JPEG/55108212418581637_843220098.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
