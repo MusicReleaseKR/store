@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 08:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 09:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Florence + The Machine - Dance Fever (LIMITED EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6791670547</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6791670547</guid>
+            <pubDate>Mon, 13 Jun 2022 09:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220613_60/1655110188821Llb5n_JPEG/56246016634667762_778395987.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Top Gun Maverick (탑 건 매버릭) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6791638586</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6791638586</guid>
+            <pubDate>Mon, 13 Jun 2022 09:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[23,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220613_291/1655109646415WbKbu_JPEG/56245474002554983_61511441.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홀로시티 Holocity - 영화처럼 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Thu, 02 Jun 2022 13:51:30 GMT</pubDate>
             <content:encoded><![CDATA[75,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220602_128/1654175952158ejXpu_JPEG/55311785977702265_1173680749.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amy Winehouse - Back To Black (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6749592277</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6749592277</guid>
-            <pubDate>Thu, 02 Jun 2022 13:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[38,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220602_150/1654175578640i6Chc_JPEG/55311412454897520_1741917038.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신해철 - 2집 Myself (180G RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6748094207</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6748094207</guid>
-            <pubDate>Thu, 02 Jun 2022 06:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220602_151/1654148002344e8f1X_JPEG/55283845058579369_361602177.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시다발 / 엄지용 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
