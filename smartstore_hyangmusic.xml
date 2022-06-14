@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 05:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 06:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Post Malone - Twelve Carat Toothache (Deluxe) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6794883615</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6794883615</guid>
+            <pubDate>Tue, 14 Jun 2022 06:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220614_268/1655184667505THNiL_JPEG/56320510208137964_621291217.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Florence + The Machine - Dance Fever (LIMITED EDITION) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6791670547</link>
@@ -104,7 +112,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220610_64/1654851040941kGhSY_JPEG/55986875775523737_183326854.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack - Chungking Express 중경삼림 [CD]]]></title>
+            <title><![CDATA[Soundtrack - 중경삼림 Express [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6780882482</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6780882482</guid>
             <pubDate>Fri, 10 Jun 2022 09:22:11 GMT</pubDate>
@@ -112,7 +120,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220610_125/1654850466419JoXIC_JPEG/55986294243749091_354758907.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인페이스 Inphase - The Fractal (CD)]]></title>
+            <title><![CDATA[인페이즈 Inphase - The Fractal (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6780838423</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6780838423</guid>
             <pubDate>Fri, 10 Jun 2022 09:22:11 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 02 Jun 2022 13:51:30 GMT</pubDate>
             <content:encoded><![CDATA[42,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220602_52/1654176658171K4rTd_JPEG/55312491983071914_1631522102.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Lennon - Plastic Ono Band - The Ultimate Mixes (Gate-Fold 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6749604441</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6749604441</guid>
-            <pubDate>Thu, 02 Jun 2022 13:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[75,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220602_128/1654175952158ejXpu_JPEG/55311785977702265_1173680749.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
