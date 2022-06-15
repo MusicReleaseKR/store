@@ -4,16 +4,48 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 10:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 11:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ronnie Foster - Two-Headed Freap (Blue Note The Classic Vinyl Reissue Series) [180g LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6801148448</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6801148448</guid>
+            <pubDate>Wed, 15 Jun 2022 11:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[32,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220615_283/1655291702467F4AmA_JPEG/56427545174385553_497258021.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jack McDuff - Moon Rappin' (Blue Note The Classic Vinyl Reissue Series) [180g LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6801136376</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6801136376</guid>
+            <pubDate>Wed, 15 Jun 2022 11:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[32,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220615_239/165529110113834hFb_JPEG/56426999850761158_407142583.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Duke Ellington, Coleman Hawkins - Duke Ellington Meets Coleman Hawkins [180g LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6801120396</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6801120396</guid>
+            <pubDate>Wed, 15 Jun 2022 11:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[54,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220615_73/1655290724708GfvQ5_JPEG/56426622725454768_994165519.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grant Green - The Latin Bit (Blue Note Tone Poet Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6801110309</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6801110309</guid>
+            <pubDate>Wed, 15 Jun 2022 11:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[54,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220615_270/1655290476768jJxyq_JPEG/56426375472189128_1415234974.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시나위 - 6집 은퇴선언 (180g 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6800707994</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6800707994</guid>
             <pubDate>Wed, 15 Jun 2022 09:25:23 GMT</pubDate>
             <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_60/1655282215056xO4QX_JPEG/56418042870963961_394860011.jpg?type=f140" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220615_60/1655282215056xO4QX_JPEG/56418042870963961_394860011.jpg?type=f80_80" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Amalia Rodrigues - Recitals Parisiens (파리지앵 리사이틀) [LP]]]></title>
@@ -21,7 +53,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/6800590250</guid>
             <pubDate>Wed, 15 Jun 2022 08:31:22 GMT</pubDate>
             <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_11/1655279341102Ss6bU_JPEG/56415186780841284_497758824.jpg?type=f140" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220615_11/1655279341102Ss6bU_JPEG/56415186780841284_497758824.jpg?type=f80_80" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dalida - Premieres Scenes Live (프리미어 공연실황) [180g LP]]]></title>
@@ -29,7 +61,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/6800570284</guid>
             <pubDate>Wed, 15 Jun 2022 08:31:22 GMT</pubDate>
             <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_116/16552789528268dmsw_JPEG/56414798303737124_780635706.jpg?type=f140" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220615_116/16552789528268dmsw_JPEG/56414798303737124_780635706.jpg?type=f80_80" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Barbara - Premiers Micros Live (프리미어 공연실황) [180g LP]]]></title>
@@ -37,7 +69,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/6800557246</guid>
             <pubDate>Wed, 15 Jun 2022 08:31:22 GMT</pubDate>
             <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_188/1655278536302KeRdo_JPEG/56414382023382394_148575191.jpg?type=f140" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220615_188/1655278536302KeRdo_JPEG/56414382023382394_148575191.jpg?type=f80_80" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시크릿넘버 - Fire Saturday (3RD SINGLE B TYPE CD) [한정반]]]></title>
@@ -294,38 +326,6 @@
             <pubDate>Tue, 07 Jun 2022 11:20:04 GMT</pubDate>
             <content:encoded><![CDATA[42,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220607_42/1654598594342DaLdV_JPEG/55734437056495515_1230972665.jpg?type=f80_80" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rammstein - Zeit [GATE-FOLD 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6768274723</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6768274723</guid>
-            <pubDate>Tue, 07 Jun 2022 11:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[68,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220607_154/1654598333529GNWVW_JPEG/55734176040325336_1879603075.jpg?type=f80_80" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rammstein - Zeit [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6768267372</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6768267372</guid>
-            <pubDate>Tue, 07 Jun 2022 11:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220607_247/165459801715898pDT_JPEG/55733859863805307_994563414.jpg?type=f80_80" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nigo - I Know Nigo (Alternate Cover) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6768259694</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6768259694</guid>
-            <pubDate>Tue, 07 Jun 2022 11:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220607_237/1654597757391y2HwQ_JPEG/55733600098321455_262936027.jpg?type=f80_80" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boywithuke - Serotonin Dreams (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6768250689</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6768250689</guid>
-            <pubDate>Tue, 07 Jun 2022 11:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220607_22/1654596055932PQldn_JPEG/55731951667358493_1101152879.jpg?type=f80_80" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
