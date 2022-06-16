@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해파 - 죽은 척하기 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6805016740</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6805016740</guid>
+            <pubDate>Thu, 16 Jun 2022 08:33:14 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220616_130/1655367521229veCfw_JPEG/56503409935470893_1898650451.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 스물다섯 스물하나 (180G CRYSTAL CLEAR COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6804863678</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6804863678</guid>
+            <pubDate>Thu, 16 Jun 2022 08:33:14 GMT</pubDate>
+            <content:encoded><![CDATA[70,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220616_79/16553650277452oq4A_JPEG/56500855340664453_459557790.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[릴 체리 & 골드부다 (Lil Cherry & GOLDBUUDA) - Space Talk [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6804761645</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 08 Jun 2022 11:23:13 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220608_215/1654684549195S1xt5_JPEG/55820447903642673_1232750593.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beach Fossils - The Other Side of Life - Piano Ballads (카세트 테이프)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6772418285</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6772418285</guid>
-            <pubDate>Wed, 08 Jun 2022 11:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220608_277/1654683876866frlmg_JPEG/55819765579858160_1886953629.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[QUEEN - THE PLATINUM COLLECTION [180G COLOURED 6LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6771522808</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6771522808</guid>
-            <pubDate>Wed, 08 Jun 2022 06:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[195,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220608_73/1654666332362UTqK9_JPEG/55802160192452709_585491683.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
