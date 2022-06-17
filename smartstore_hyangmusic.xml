@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 06:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 07:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백예린 - 물고기 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6808331330</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6808331330</guid>
+            <pubDate>Fri, 17 Jun 2022 07:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[21,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220617_79/1655450308995BIhMG_JPEG/56586197071385452_1319993821.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[이무진 - Room Vol 1 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6808266440</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6808266440</guid>
+            <pubDate>Fri, 17 Jun 2022 07:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220617_69/165544903607153xFl_JPEG/56584924782621441_1663941427.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[해파 - 죽은 척하기 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6805016740</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 09 Jun 2022 06:28:42 GMT</pubDate>
             <content:encoded><![CDATA[240,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220609_23/1654754658691apcJC_JPEG/55890491967518603_1348235794.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rupa - Disco Jazz [SUNSUGAR COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6772463916</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6772463916</guid>
-            <pubDate>Wed, 08 Jun 2022 11:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220608_15/1654685188045yD1TY_JPEG/55821076751579382_1313208639.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monophonics - Sage Motel (TRANSPARENT ORANGE & BLACK SWIRL COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6772444861</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6772444861</guid>
-            <pubDate>Wed, 08 Jun 2022 11:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220608_215/1654684549195S1xt5_JPEG/55820447903642673_1232750593.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
