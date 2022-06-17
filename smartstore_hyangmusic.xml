@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 07:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 08:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Conan Gray - Superache (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6808379531</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6808379531</guid>
+            <pubDate>Fri, 17 Jun 2022 08:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220617_167/1655451556229VlIO9_JPEG/56587401907945086_603637846.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린 - 물고기 (CD & KEYEING)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6808341271</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6808341271</guid>
+            <pubDate>Fri, 17 Jun 2022 08:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[55,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220617_27/1655450926349GceR8_JPEG/56586760171044615_1090636419.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[백예린 - 물고기 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6808331330</link>
@@ -216,14 +232,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220613_35/16551075461069UVuD_JPEG/56243391552693915_878994486.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콜드 Colde - 생일을 축하해 (SINGLE) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6791484204</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6791484204</guid>
-            <pubDate>Mon, 13 Jun 2022 08:30:12 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220613_116/1655107197553uusKK_JPEG/56243042908099449_1850744060.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[VA - 엄마의 노래 (Mother Song) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6791453437</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6791453437</guid>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 10 Jun 2022 08:27:47 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220610_116/1654847702536S5NXX_JPEG/55983591245073336_1589077933.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norah Jones - Come Away With Me (20th Anniversary Super Deluxe Edition, 4LP Box Set)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6775174286</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6775174286</guid>
-            <pubDate>Thu, 09 Jun 2022 06:28:42 GMT</pubDate>
-            <content:encoded><![CDATA[240,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220609_23/1654754658691apcJC_JPEG/55890491967518603_1348235794.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
