@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 22:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 23:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20200323_195/1584973045095vgVwG_JPEG/22335378662001911_886452822.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박스셋]WHITE WILLOW 전집 - 화이트 박스 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4675228807</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4675228807</guid>
+            <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[279,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190920_90/1568960991997svivh_JPEG/6322534585460862_1998916645.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[LP] 잠비나이 - 잠비나이 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
             <link>https://smartstore.naver.com/hionerecords/products/5307640381</link>
             <guid>https://smartstore.naver.com/hionerecords/products/5307640381</guid>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20191111_195/1573451638319CUgIH_JPEG/10813971869260678_847153660.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박스셋]WHITE WILLOW 전집 - 화이트 박스 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
-            <link>https://smartstore.naver.com/hionerecords/products/4675228807</link>
-            <guid>https://smartstore.naver.com/hionerecords/products/4675228807</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[279,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20190920_90/1568960991997svivh_JPEG/6322534585460862_1998916645.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박스셋]All Over Everywhere - Inner Firmaments Decay (네이버 스마트스토어 ─ 하이원레코드)]]></title>
