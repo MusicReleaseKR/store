@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 07:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 08:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소음발광 - 2집 기쁨, 꽃 [140G COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6818185007</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6818185007</guid>
+            <pubDate>Mon, 20 Jun 2022 08:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220620_122/1655712726634Le1v9_JPEG/56848571892178194_1309900800.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소음발광 - 1집 도화선 (140G ORANGE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6818170228</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6818170228</guid>
+            <pubDate>Mon, 20 Jun 2022 08:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220620_250/1655712314307JjBc9_JPEG/56848160015877409_1019136266.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패티스 Pattys - No Food No Life (45RPM 140G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6818160047</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6818160047</guid>
+            <pubDate>Mon, 20 Jun 2022 08:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220620_158/1655712028323n6dsN_JPEG/56847873892560091_1330672238.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Conan Gray - Superache (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6808379531</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 10 Jun 2022 09:22:11 GMT</pubDate>
             <content:encoded><![CDATA[28,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220610_64/1654851040941kGhSY_JPEG/55986875775523737_183326854.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 중경삼림 Express [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6780882482</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6780882482</guid>
-            <pubDate>Fri, 10 Jun 2022 09:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[28,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220610_125/1654850466419JoXIC_JPEG/55986294243749091_354758907.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인페이즈 Inphase - The Fractal (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6780838423</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6780838423</guid>
-            <pubDate>Fri, 10 Jun 2022 09:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220610_27/1654849544203EcV5k_JPEG/55985439747969111_107993164.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넉살 X 까데호 - 당신께 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6780795961</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6780795961</guid>
-            <pubDate>Fri, 10 Jun 2022 08:27:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220610_39/1654848377745lFi2y_JPEG/55984265816632017_2070802501.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
