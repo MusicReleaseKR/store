@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 08:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 09:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왑띠 - Jordan Wants to Play (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6818299225</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6818299225</guid>
+            <pubDate>Mon, 20 Jun 2022 09:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220620_62/1655714777573GADkx_JPEG/56850673075605291_219209991.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방의경 - 내노래 모음 (140G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6818271416</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6818271416</guid>
+            <pubDate>Mon, 20 Jun 2022 09:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220620_95/1655714433776XHocT_JPEG/56850329312341613_280899246.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방의경 - 내노래 모음 (140G PINK COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6818267412</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6818267412</guid>
+            <pubDate>Mon, 20 Jun 2022 09:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220620_192/1655713651231H7Q0d_JPEG/56849478461787884_1711801442.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소음발광 - 2집 기쁨, 꽃 [140G COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6818185007</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 10 Jun 2022 11:20:16 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220610_56/16548593982818bYxW_JPEG/55995240996075189_2072201680.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joan Baez - Diamonds & Rust (180G TRANSPARENT ORANGE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6781261514</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6781261514</guid>
-            <pubDate>Fri, 10 Jun 2022 11:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220610_180/1654856947716p3yKg_JPEG/55992793428732504_542577577.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chuck Mangione - Feels So Good (180G TRANSPARENT RED COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6781177582</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6781177582</guid>
-            <pubDate>Fri, 10 Jun 2022 10:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220610_118/1654854812601Hwh6t_JPEG/55990708108111490_1728952353.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 동사서독 Ashes of Time (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6780905076</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6780905076</guid>
-            <pubDate>Fri, 10 Jun 2022 09:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[28,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220610_64/1654851040941kGhSY_JPEG/55986875775523737_183326854.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
