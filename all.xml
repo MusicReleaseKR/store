@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 20:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 21:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,14 +152,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20191002_123/1570003889398r7qSI_JPEG/7366222946702653_1439167578.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[LP] BUBU - El Eco Del Sol (네이버 스마트스토어 ─ 하이원레코드)]]></title>
-            <link>https://smartstore.naver.com/hionerecords/products/4864403041</link>
-            <guid>https://smartstore.naver.com/hionerecords/products/4864403041</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[38,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20200323_195/1584973045095vgVwG_JPEG/22335378662001911_886452822.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[박스셋]WHITE WILLOW 전집 - 화이트 박스 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
             <link>https://smartstore.naver.com/hionerecords/products/4675228807</link>
             <guid>https://smartstore.naver.com/hionerecords/products/4675228807</guid>
@@ -222,6 +214,14 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[126,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20200324_14/1584977583581uPxiM_JPEG/22339917153290673_696358225.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] BUBU - El Eco Del Sol (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4864403041</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4864403041</guid>
+            <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200323_195/1584973045095vgVwG_JPEG/22335378662001911_886452822.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LP] BUBU - Anabelas (네이버 스마트스토어 ─ 하이원레코드)]]></title>
