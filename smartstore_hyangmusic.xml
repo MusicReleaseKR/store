@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:43:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강산에 - 1집 Vol 0 [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6822622055</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6822622055</guid>
+            <pubDate>Tue, 21 Jun 2022 08:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220621_269/1655799067057gQKEw_JPEG/56934901882301606_593291599.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왑띠 - Jordan Wants to Play (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6818299225</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 10 Jun 2022 12:45:44 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220610_99/1654862942560upp8m_JPEG/55998788278115210_200039913.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아우릴고트 OUREALGOAT - 나비처럼 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6781297916</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6781297916</guid>
-            <pubDate>Fri, 10 Jun 2022 11:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220610_56/16548593982818bYxW_JPEG/55995240996075189_2072201680.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
