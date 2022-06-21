@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 08:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 09:27:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버스커 버스커 Busker Busker - 1집 & 1집 마무리 합본 (10th Anniversary UHQ-CD Edition)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6822709246</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6822709246</guid>
+            <pubDate>Tue, 21 Jun 2022 09:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220621_259/1655799961282w6gcJ_JPEG/56935795855314725_570657131.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강산에 - 1집 Vol 0 [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6822622055</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 10 Jun 2022 12:45:44 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220610_224/1654863119818za9EW_JPEG/55998965471565451_31171367.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라스트 챤스 - Go Go 춤을 위한 경음악 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6781419898</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6781419898</guid>
-            <pubDate>Fri, 10 Jun 2022 12:45:44 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220610_99/1654862942560upp8m_JPEG/55998788278115210_200039913.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
