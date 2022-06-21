@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 12:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 13:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -133,7 +133,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/6808341271</guid>
             <pubDate>Fri, 17 Jun 2022 08:30:11 GMT</pubDate>
             <content:encoded><![CDATA[55,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220617_27/1655450926349GceR8_JPEG/56586760171044615_1090636419.jpeg?type=f140" length="0" type="image/jpeg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220621_183/1655817540525Udkur_JPEG/56953436263636063_1575879428.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백예린 - 물고기 (CD)]]></title>
@@ -141,7 +141,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/6808331330</guid>
             <pubDate>Fri, 17 Jun 2022 07:26:30 GMT</pubDate>
             <content:encoded><![CDATA[21,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220617_79/1655450308995BIhMG_JPEG/56586197071385452_1319993821.jpeg?type=f140" length="0" type="image/jpeg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220621_217/16558175642583IEQP_JPEG/56953459781295844_682712379.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이무진 - Room Vol 1 (CD)]]></title>
