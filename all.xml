@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 19:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 20:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마더바이브 Mothervives - 1집 Mothervives (WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6828723230</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6828723230</guid>
+            <pubDate>Wed, 22 Jun 2022 20:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220623_115/1655925391823HPtWX_JPEG/57061171542512036_503413222.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노르웨이 숲 - 4집 나의 밤, 너의 밤 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Tue, 14 Jun 2022 06:29:18 GMT</pubDate>
             <content:encoded><![CDATA[15,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220614_268/1655184667505THNiL_JPEG/56320510208137964_621291217.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Florence + The Machine - Dance Fever (LIMITED EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6791670547</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6791670547</guid>
-            <pubDate>Mon, 13 Jun 2022 09:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220613_60/1655110188821Llb5n_JPEG/56246016634667762_778395987.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시다발 / 엄지용 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
