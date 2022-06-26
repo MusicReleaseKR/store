@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 14:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 15:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자우림 Jaurim - HAPPY 25th JAURIM (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6843043026</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6843043026</guid>
+            <pubDate>Sun, 26 Jun 2022 15:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220627_68/1656255756880lHaDM_JPEG/57391591704877186_1765500050.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마더바이브 Mothervives - 1집 Mothervives (WHITE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6828723230</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 15 Jun 2022 06:28:44 GMT</pubDate>
             <content:encoded><![CDATA[11,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220615_53/1655271453632EnOuK_JPEG/56407280918444598_1656707387.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Post Malone - Twelve Carat Toothache (Deluxe) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6794883615</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6794883615</guid>
-            <pubDate>Tue, 14 Jun 2022 06:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220614_268/1655184667505THNiL_JPEG/56320510208137964_621291217.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
