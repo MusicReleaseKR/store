@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 06:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 07:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클래지콰이 - Mucho Punk (RED COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6845437114</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6845437114</guid>
+            <pubDate>Mon, 27 Jun 2022 07:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[67,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220627_265/16563133271645etI1_JPEG/57449172491030043_492582740.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박소은 - 재활용 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6845397411</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6845397411</guid>
+            <pubDate>Mon, 27 Jun 2022 07:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220627_28/1656312528586IUdYN_JPEG/57448374103738679_321214788.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자우림 Jaurim - HAPPY 25th JAURIM (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6843043026</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 15 Jun 2022 06:28:44 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220615_282/1655272343914nbvpe_JPEG/56408171743835484_2054971937.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성훈 (브라운 아이드 소울) - 1집 Cronicle [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6800214025</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6800214025</guid>
-            <pubDate>Wed, 15 Jun 2022 06:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_17/1655271779637zmW81_JPEG/56407607380653419_1466817524.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악동뮤지션 Akdong Musician - 콩떡빙수 (CD) [재발매]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6800166967</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6800166967</guid>
-            <pubDate>Wed, 15 Jun 2022 06:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[11,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_53/1655271453632EnOuK_JPEG/56407280918444598_1656707387.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
