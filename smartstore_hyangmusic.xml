@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 06:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 07:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장기하와 얼굴들 - Mono (재발매)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6849869407</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6849869407</guid>
+            <pubDate>Tue, 28 Jun 2022 07:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220628_291/16563979755235AWOp_JPEG/57533818071671342_1293336674.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청하 - 2집 Bare & Rare Pt.1 [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6849823107</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 15 Jun 2022 08:31:22 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220615_277/16552780513741TPmF_JPEG/56413897089683089_1016354088.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시크릿넘버 - Fire Saturday (3RD SINGLE A TYPE CD) [한정반, 포스터 미포함]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6800531991</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6800531991</guid>
-            <pubDate>Wed, 15 Jun 2022 08:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_9/1655277714526CRhly_JPEG/56413560239125562_933254889.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
