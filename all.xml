@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 09:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 10:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,38 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Muna - Muna (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6850757832</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6850757832</guid>
+            <pubDate>Tue, 28 Jun 2022 10:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[33,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220628_176/1656411856608n0HIJ_JPEG/57547751761024286_813281690.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Muna - Muna (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6850736097</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6850736097</guid>
+            <pubDate>Tue, 28 Jun 2022 10:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,200]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220628_181/1656411399251JAXdv_JPEG/57547294989321874_497157740.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joan Shelley - The Spur [CLEAR COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6850652887</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6850652887</guid>
+            <pubDate>Tue, 28 Jun 2022 10:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220628_103/1656410398220qs1ES_JPEG/57546181937787026_1325614953.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bobby Oroza - Get On The Otherside [NEON ORANGE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6850521480</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6850521480</guid>
+            <pubDate>Tue, 28 Jun 2022 10:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[33,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220628_202/1656404136863xRbVB_JPEG/57539979578905878_49773212.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장기하와 얼굴들 - Mono (재발매) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6849869407</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6849869407</guid>
@@ -590,38 +622,6 @@
             <pubDate>Wed, 15 Jun 2022 09:25:23 GMT</pubDate>
             <content:encoded><![CDATA[55,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220615_60/1655282215056xO4QX_JPEG/56418042870963961_394860011.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amalia Rodrigues - Recitals Parisiens (파리지앵 리사이틀) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6800590250</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6800590250</guid>
-            <pubDate>Wed, 15 Jun 2022 08:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_11/1655279341102Ss6bU_JPEG/56415186780841284_497758824.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dalida - Premieres Scenes Live (프리미어 공연실황) [180g LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6800570284</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6800570284</guid>
-            <pubDate>Wed, 15 Jun 2022 08:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_116/16552789528268dmsw_JPEG/56414798303737124_780635706.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barbara - Premiers Micros Live (프리미어 공연실황) [180g LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6800557246</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6800557246</guid>
-            <pubDate>Wed, 15 Jun 2022 08:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_188/1655278536302KeRdo_JPEG/56414382023382394_148575191.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시크릿넘버 - Fire Saturday (3RD SINGLE B TYPE CD) [한정반, 포스터 미포함] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6800534994</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6800534994</guid>
-            <pubDate>Wed, 15 Jun 2022 08:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_277/16552780513741TPmF_JPEG/56413897089683089_1016354088.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시다발 / 엄지용 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
