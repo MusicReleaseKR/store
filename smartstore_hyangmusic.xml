@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 07:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 08:32:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김목인 - 4집 저장된 풍경 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6854309314</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6854309314</guid>
+            <pubDate>Wed, 29 Jun 2022 08:31:52 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220629_19/1656490360966RzCNn_JPEG/57626194393957952_299393905.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eddie Higgins Trio - Best Of Best - Memories Eddie Higgins [2CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6850959499</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 15 Jun 2022 11:21:04 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220615_283/1655291702467F4AmA_JPEG/56427545174385553_497258021.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jack McDuff - Moon Rappin' (Blue Note The Classic Vinyl Reissue Series) [180g LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6801136376</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6801136376</guid>
-            <pubDate>Wed, 15 Jun 2022 11:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_239/165529110113834hFb_JPEG/56426999850761158_407142583.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
