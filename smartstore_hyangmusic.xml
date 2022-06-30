@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 07:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 08:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크랙실버 Craxilver - Make A Dash (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6858871529</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6858871529</guid>
+            <pubDate>Thu, 30 Jun 2022 08:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[13,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220630_55/1656577283591vXi5G_JPEG/57713063310602197_418572846.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불싸조 - 한(국힙)합 (카세트 테이프)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6854823356</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 17 Jun 2022 07:26:30 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220617_69/165544903607153xFl_JPEG/56584924782621441_1663941427.jpeg?type=f140" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[해파 - 죽은 척하기 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6805016740</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6805016740</guid>
-            <pubDate>Thu, 16 Jun 2022 08:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220616_130/1655367521229veCfw_JPEG/56503409935470893_1898650451.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

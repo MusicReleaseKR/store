@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 07:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 08:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도망친 곳에도 낙원이 없다면 / 이윤지 에세이]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6858859185</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6858859185</guid>
+            <pubDate>Thu, 30 Jun 2022 08:32:10 GMT</pubDate>
+            <content:encoded><![CDATA[9,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220630_138/1656576973055lnGj1_JPEG/57712800862635328_1089531717.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한때 내게 삶이었던  / 안리타 에세이]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6858811436</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6858811436</guid>
+            <pubDate>Thu, 30 Jun 2022 08:32:10 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220630_120/1656575553574FWhyw_JPEG/57711387375737711_377826348.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시다발 / 엄지용 시집]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6772436137</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[24,300]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220219_15/1645281792494n5juj_JPEG/46417572199817554_2081219268.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플로 FIO vol.0 땀 SWEAT/STITCH / 독립잡지]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6323454999</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6323454999</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220219_43/1645276242134AS8Dp_JPEG/46412140833595940_2126227062.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 윌리엄즈 The Williams - Love Child  (CD음반)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6310003842</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6310003842</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220216_265/1645003276139gf3GS_JPEG/46139121840153494_1164043693.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
