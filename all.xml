@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 08:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 09:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김다미 Dami Kim - Timepass (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6858904001</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6858904001</guid>
+            <pubDate>Thu, 30 Jun 2022 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220630_148/16565778255844OO9C_JPEG/57713605296176030_1558758607.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크랙실버 Craxilver - Make A Dash (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -616,12 +624,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220621_217/16558175642583IEQP_JPEG/56953459781295844_682712379.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이무진 - Room Vol 1 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6808266440</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6808266440</guid>
-            <pubDate>Fri, 17 Jun 2022 07:26:30 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220617_69/165544903607153xFl_JPEG/56584924782621441_1663941427.jpeg?type=f140" length="0" type="image/jpeg"/>
+            <title><![CDATA[잔디와 발자국 / 이종혁 소설 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6858960430</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6858960430</guid>
+            <pubDate>Thu, 30 Jun 2022 09:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220630_238/1656579034435qjGwa_JPEG/57714814152801695_606467690.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도망친 곳에도 낙원이 없다면 / 이윤지 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
@@ -934,14 +942,6 @@
             <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
             <content:encoded><![CDATA[9,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220301_145/1646137156125YzTP0_JPEG/47272990950684155_1552884824.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[APIECEOF vol.5 GIRIBOY : HEART / 어피스오브 스튜디오 매거진 / 디자인 이음 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6323606148</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6323606148</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[24,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220219_15/1645281792494n5juj_JPEG/46417572199817554_2081219268.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12월의 책 고양이와 김승일 (네이버 스마트스토어 ─ 재미공작소)]]></title>
