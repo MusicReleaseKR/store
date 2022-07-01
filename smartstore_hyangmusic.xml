@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 08:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장기호 - Chagall Out of Town (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6862109891</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6862109891</guid>
+            <pubDate>Fri, 01 Jul 2022 08:30:47 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220510_124/1652109220674VbGJW_JPEG/53245063389560815_1105858502.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄여름가을겨울 - 브라보 마이 라이프 20주년 2022 MIX [180G 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6861973225</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6861973225</guid>
+            <pubDate>Fri, 01 Jul 2022 08:30:47 GMT</pubDate>
+            <content:encoded><![CDATA[99,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220701_276/1656654320598qXl7F_JPEG/57790166308242469_961506513.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김다미 Dami Kim - Timepass (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6858904001</link>
@@ -181,7 +197,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/6843043026</guid>
             <pubDate>Sun, 26 Jun 2022 15:22:45 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220627_68/1656255756880lHaDM_JPEG/57391591704877186_1765500050.jpg?type=f140" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220701_54/1656653222893s2nU7_JPEG/57789057729138691_1449741352.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마더바이브 Mothervives - 1집 Mothervives (WHITE COLOURED LP)]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 17 Jun 2022 08:30:11 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220617_167/1655451556229VlIO9_JPEG/56587401907945086_603637846.jpeg?type=f140" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린 - 물고기 (CD & KEYRING)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6808341271</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6808341271</guid>
-            <pubDate>Fri, 17 Jun 2022 08:30:11 GMT</pubDate>
-            <content:encoded><![CDATA[55,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220621_183/1655817540525Udkur_JPEG/56953436263636063_1575879428.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린 - 물고기 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6808331330</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6808331330</guid>
-            <pubDate>Fri, 17 Jun 2022 07:26:30 GMT</pubDate>
-            <content:encoded><![CDATA[21,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220621_217/16558175642583IEQP_JPEG/56953459781295844_682712379.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
