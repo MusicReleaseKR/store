@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 22:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 23:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -944,6 +944,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220301_73/1646140624259qxpy7_JPEG/47276469958310184_1721655439.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리들의 황금시대 2 (네이버 스마트스토어 ─ 재미공작소)]]></title>
+            <link>https://smartstore.naver.com/studiozemi/products/4728820535</link>
+            <guid>https://smartstore.naver.com/studiozemi/products/4728820535</guid>
+            <pubDate>Sat, 23 Apr 2022 13:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191112_245/1573556165698KUpb9_JPEG/10919554242488577_1575279506.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[12월의 책 고양이와 김승일 (네이버 스마트스토어 ─ 재미공작소)]]></title>
             <link>https://smartstore.naver.com/studiozemi/products/5503218245</link>
             <guid>https://smartstore.naver.com/studiozemi/products/5503218245</guid>
@@ -982,14 +990,6 @@
             <pubDate>Sat, 23 Apr 2022 13:29:39 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20191112_116/15735579008524sHJM_JPEG/10917735400880486_1979879031.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리들의 황금시대 2 (네이버 스마트스토어 ─ 재미공작소)]]></title>
-            <link>https://smartstore.naver.com/studiozemi/products/4728820535</link>
-            <guid>https://smartstore.naver.com/studiozemi/products/4728820535</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:39 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20191112_245/1573556165698KUpb9_JPEG/10919554242488577_1575279506.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패브릭포스터 검은 고양이 NEW 행운의 상징 (노렌 미니가림막) (네이버 스마트스토어 ─ 스트레인지 )]]></title>
