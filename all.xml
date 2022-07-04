@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 05:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 06:34:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허성현 Huh - 926 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6873758885</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6873758885</guid>
+            <pubDate>Mon, 04 Jul 2022 06:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220704_231/1656916254592rqb1f_JPEG/58052034308434033_531061594.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 송해 1927 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6873605040</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6873605040</guid>
+            <pubDate>Mon, 04 Jul 2022 06:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220704_52/1656913065304ds9lX_JPEG/58048911024590197_1150243510.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빌리 Billlie & 윤종신 - track by YOON: 팥빙수 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Mon, 20 Jun 2022 08:33:31 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220620_122/1655712726634Le1v9_JPEG/56848571892178194_1309900800.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소음발광 - 1집 도화선 (140G ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6818170228</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6818170228</guid>
-            <pubDate>Mon, 20 Jun 2022 08:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220620_250/1655712314307JjBc9_JPEG/56848160015877409_1019136266.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패티스 Pattys - No Food No Life (45RPM 140G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6818160047</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6818160047</guid>
-            <pubDate>Mon, 20 Jun 2022 08:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220620_158/1655712028323n6dsN_JPEG/56847873892560091_1330672238.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[술을 잘못 배워서 / 이보람 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
