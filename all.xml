@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 04:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 05:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Sat, 23 Apr 2022 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빌리 Billlie & 윤종신 - track by YOON: 팥빙수 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6873520953</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6873520953</guid>
+            <pubDate>Mon, 04 Jul 2022 05:33:53 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220704_139/1656910677803bEgx7_JPEG/58046523523812759_1593937966.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장기호 - Chagall Out of Town (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Mon, 20 Jun 2022 08:33:31 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220620_158/1655712028323n6dsN_JPEG/56847873892560091_1330672238.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Conan Gray - Superache (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6808379531</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6808379531</guid>
-            <pubDate>Fri, 17 Jun 2022 08:30:11 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220617_167/1655451556229VlIO9_JPEG/56587401907945086_603637846.jpeg?type=f140" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[술을 잘못 배워서 / 이보람 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
