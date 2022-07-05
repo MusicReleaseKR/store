@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 23:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 02:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,14 +584,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220621_259/1655799961282w6gcJ_JPEG/56935795855314725_570657131.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강산에 - 1집 Vol 0 [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6822622055</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6822622055</guid>
-            <pubDate>Tue, 21 Jun 2022 08:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220621_269/1655799067057gQKEw_JPEG/56934901882301606_593291599.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[왑띠 - Jordan Wants to Play (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6818299225</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6818299225</guid>
@@ -622,6 +614,14 @@
             <pubDate>Mon, 20 Jun 2022 08:33:31 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220620_122/1655712726634Le1v9_JPEG/56848571892178194_1309900800.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소음발광 - 1집 도화선 (140G ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6818170228</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6818170228</guid>
+            <pubDate>Tue, 05 Jul 2022 02:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220620_250/1655712314307JjBc9_JPEG/56848160015877409_1019136266.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[술을 잘못 배워서 / 이보람 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
