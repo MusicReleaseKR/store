@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 05:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 06:29:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유익종 - Best Album [180G COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6877658392</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6877658392</guid>
+            <pubDate>Tue, 05 Jul 2022 06:29:08 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_289/16569996703123znGg_JPEG/58135559026008594_1537761715.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허성현 Huh - 926 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6873758885</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 20 Jun 2022 08:33:31 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220620_122/1655712726634Le1v9_JPEG/56848571892178194_1309900800.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소음발광 - 1집 도화선 (140G ORANGE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6818170228</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6818170228</guid>
-            <pubDate>Tue, 05 Jul 2022 02:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220620_250/1655712314307JjBc9_JPEG/56848160015877409_1019136266.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
