@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 06:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 07:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IBIS - IBIS (180G YELLOW COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6877961863</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6877961863</guid>
+            <pubDate>Tue, 05 Jul 2022 07:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220602_15/1654177259318zlLHe_JPEG/55313105025365591_1248846790.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콧 Cott - Twist (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6877918523</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6877918523</guid>
+            <pubDate>Tue, 05 Jul 2022 07:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_201/1657004521182wFQrX_JPEG/58140416910663935_1344291502.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박정웅 - 방울방울 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6877902918</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6877902918</guid>
+            <pubDate>Tue, 05 Jul 2022 07:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[9,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_39/16570040889097DSig_JPEG/58139984646418876_119410021.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유익종 - Best Album [180G COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6877658392</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 20 Jun 2022 09:23:46 GMT</pubDate>
             <content:encoded><![CDATA[11,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220620_62/1655714777573GADkx_JPEG/56850673075605291_219209991.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방의경 - 내노래 모음 (140G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6818271416</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6818271416</guid>
-            <pubDate>Mon, 20 Jun 2022 09:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220620_95/1655714433776XHocT_JPEG/56850329312341613_280899246.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방의경 - 내노래 모음 (140G PINK COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6818267412</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6818267412</guid>
-            <pubDate>Mon, 20 Jun 2022 09:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220620_192/1655713651231H7Q0d_JPEG/56849478461787884_1711801442.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소음발광 - 2집 기쁨, 꽃 [140G COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6818185007</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6818185007</guid>
-            <pubDate>Mon, 20 Jun 2022 08:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220620_122/1655712726634Le1v9_JPEG/56848571892178194_1309900800.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
