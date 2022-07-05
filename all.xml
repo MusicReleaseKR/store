@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 07:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 08:29:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,62 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Triade - 1998: La Storia Di Sabazio (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6878161471</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6878161471</guid>
+            <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_142/1657009132836V5rx9_JPEG/58144912559723804_16502097.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quella Vecchia Locanda - Quella Vecchia Locanda (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6878142421</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6878142421</guid>
+            <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_54/165700861146991IiH_JPEG/58144507206713761_1448147949.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Osanna - Palepoli [180G COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6878123492</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6878123492</guid>
+            <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_257/1657008109623m1EGh_JPEG/58144005356811277_367204624.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Osanna - L'uomo [180G COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6878068062</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6878068062</guid>
+            <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_192/16570071351750J2SC_JPEG/58142977888006979_1753866356.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Osanna - Milano Calibro 9 [180G COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6878054099</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6878054099</guid>
+            <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_270/1657006790630s29v2_JPEG/58142633335605999_1789467844.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metamorfosi - Inferno (180G CLEAR RED COLOURED 1LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6878025145</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6878025145</guid>
+            <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_227/1657006077867Vxk4a_JPEG/58141973605499878_1515592318.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maxophone - Maxophone (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6877994623</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6877994623</guid>
+            <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_286/1657005789001FsRh7_JPEG/58141684729839842_803977339.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[IBIS - IBIS (180G YELLOW COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6877961863</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6877961863</guid>
@@ -566,62 +622,6 @@
             <pubDate>Tue, 21 Jun 2022 10:31:47 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220621_297/1655806833152aeoO7_JPEG/56942721829971301_1592006848.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤이즈 Heize - Undo [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6823077305</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6823077305</guid>
-            <pubDate>Tue, 21 Jun 2022 10:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220621_35/1655805927710l9Kq0_JPEG/56941762536025990_566504671.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney - Spark (MILKY WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6823029907</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6823029907</guid>
-            <pubDate>Tue, 21 Jun 2022 10:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220621_154/16558056203002R25j_JPEG/56941455136764573_1727915134.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney - Spark (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6823013135</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6823013135</guid>
-            <pubDate>Tue, 21 Jun 2022 10:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220621_90/1655805350045R4ddh_JPEG/56941184875971825_1152506065.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney - Spark (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6822986728</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6822986728</guid>
-            <pubDate>Tue, 21 Jun 2022 10:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220621_24/1655805103312w20dK_JPEG/56940938139088162_1379850366.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney - Spark (카세트테이프) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6822894359</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6822894359</guid>
-            <pubDate>Tue, 21 Jun 2022 10:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220621_191/16558042419094wmjN_JPEG/56940084620699985_22827516.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버스커 버스커 Busker Busker - 1집 & 1집 마무리 합본 (10th Anniversary UHQ-CD Edition) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6822709246</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6822709246</guid>
-            <pubDate>Tue, 21 Jun 2022 09:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220621_259/1655799961282w6gcJ_JPEG/56935795855314725_570657131.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왑띠 - Jordan Wants to Play (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6818299225</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6818299225</guid>
-            <pubDate>Mon, 20 Jun 2022 09:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[11,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220620_62/1655714777573GADkx_JPEG/56850673075605291_219209991.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[술을 잘못 배워서 / 이보람 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
