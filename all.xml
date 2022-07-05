@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 08:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 09:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김추자 - 스테레오 힛트 앨범 Vol 3 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6878225541</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6878225541</guid>
+            <pubDate>Tue, 05 Jul 2022 09:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_156/1657010850141Lwyev_JPEG/58146692848660866_1450028010.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김추자 - 스테레오힛트 앨범 Vol 2 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6878215957</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6878215957</guid>
+            <pubDate>Tue, 05 Jul 2022 09:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_130/1657010614082K2npY_JPEG/58146456790242150_1867388092.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김추자 - 스테레오힛트 앨범 Vol 1 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6878204457</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6878204457</guid>
+            <pubDate>Tue, 05 Jul 2022 09:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220705_124/1657010303312HV3OL_JPEG/58146146027321768_310201184.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Triade - 1998: La Storia Di Sabazio (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6878161471</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6878161471</guid>
@@ -598,30 +622,6 @@
             <pubDate>Mon, 27 Jun 2022 07:23:54 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220627_28/1656312528586IUdYN_JPEG/57448374103738679_321214788.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 Jaurim - HAPPY 25th JAURIM (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6843043026</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6843043026</guid>
-            <pubDate>Sun, 26 Jun 2022 15:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220701_54/1656653222893s2nU7_JPEG/57789057729138691_1449741352.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마더바이브 Mothervives - 1집 Mothervives (WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6828723230</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6828723230</guid>
-            <pubDate>Wed, 22 Jun 2022 20:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220623_115/1655925391823HPtWX_JPEG/57061171542512036_503413222.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노르웨이 숲 - 4집 나의 밤, 너의 밤 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6823141579</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6823141579</guid>
-            <pubDate>Tue, 21 Jun 2022 10:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220621_297/1655806833152aeoO7_JPEG/56942721829971301_1592006848.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[술을 잘못 배워서 / 이보람 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
