@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 07:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 08:30:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김동률 - 1집 The Shadow Of Forgetfulness (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6882833306</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6882833306</guid>
+            <pubDate>Wed, 06 Jul 2022 08:29:55 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220706_160/1657095778011OzJQQ_JPEG/58231605833227784_28124543.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[터보 Turbo - 1집 280 Km/h Speed (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6882807536</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6882807536</guid>
+            <pubDate>Wed, 06 Jul 2022 08:29:55 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220706_32/1657095216770fLzmQ_JPEG/58231044590940254_588593997.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[터보 Turbo - 2집 New Sensation (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6882764516</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6882764516</guid>
+            <pubDate>Wed, 06 Jul 2022 08:29:55 GMT</pubDate>
+            <content:encoded><![CDATA[73,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220706_278/1657094418618xi4EY_JPEG/58230261332861691_640367871.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김추자 - 스테레오 힛트 앨범 Vol 3 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6878225541</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6878225541</guid>
@@ -600,28 +624,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220628_291/16563979755235AWOp_JPEG/57533818071671342_1293336674.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청하 - 2집 Bare & Rare Pt.1 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6849823107</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6849823107</guid>
-            <pubDate>Tue, 28 Jun 2022 06:30:20 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220628_110/1656396988301HWvhf_JPEG/57532816121930328_1285100555.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래지콰이 - Mucho Punk (RED COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6845437114</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6845437114</guid>
-            <pubDate>Mon, 27 Jun 2022 07:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[67,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220627_265/16563133271645etI1_JPEG/57449172491030043_492582740.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박소은 - 재활용 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6845397411</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6845397411</guid>
-            <pubDate>Mon, 27 Jun 2022 07:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220627_28/1656312528586IUdYN_JPEG/57448374103738679_321214788.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[구아구아 / 누구 에세이 / 두카 츨판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6882808256</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6882808256</guid>
+            <pubDate>Wed, 06 Jul 2022 08:30:04 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220706_22/1657095394295Sc7Rt_JPEG/58231240014370512_898352953.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[술을 잘못 배워서 / 이보람 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
@@ -934,14 +942,6 @@
             <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
             <content:encoded><![CDATA[29,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220302_279/1646146862385mziXE_JPEG/47282761090055326_1866052109.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행은 밖에서 사랑은 안에서 / 엄상연 산문 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6360100713</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6360100713</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[15,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220301_73/1646140624259qxpy7_JPEG/47276469958310184_1721655439.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리들의 황금시대 2 (네이버 스마트스토어 ─ 재미공작소)]]></title>

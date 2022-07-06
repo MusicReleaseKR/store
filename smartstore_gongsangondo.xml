@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 07:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 08:30:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구아구아 / 누구 에세이 / 두카 츨판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6882808256</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6882808256</guid>
+            <pubDate>Wed, 06 Jul 2022 08:30:04 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220706_22/1657095394295Sc7Rt_JPEG/58231240014370512_898352953.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[술을 잘못 배워서 / 이보람 에세이]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6859258504</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[29,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220302_279/1646146862385mziXE_JPEG/47282761090055326_1866052109.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행은 밖에서 사랑은 안에서 / 엄상연 산문]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6360100713</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6360100713</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[15,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220301_73/1646140624259qxpy7_JPEG/47276469958310184_1721655439.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
