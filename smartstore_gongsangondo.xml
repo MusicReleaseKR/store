@@ -4,11 +4,19 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 08:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 09:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[구아구아 / 누구 에세이 / 두카 츨판]]></title>
+            <title><![CDATA[투명에 던지는 수영 / 한호정 시]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6882967401</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6882967401</guid>
+            <pubDate>Wed, 06 Jul 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[14,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220706_199/16570978524353oA66_JPEG/58233636147848595_544844049.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구아구아 / 누구 에세이 / 두카 출판]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6882808256</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/6882808256</guid>
             <pubDate>Wed, 06 Jul 2022 08:30:04 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[12,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220305_290/1646406218798Qlmvl_JPEG/47542114534572174_114469970.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Without Frame! Vol.1 슬픈구멍 / 사진 매거진]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6360313830</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6360313830</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220302_279/1646146862385mziXE_JPEG/47282761090055326_1866052109.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
