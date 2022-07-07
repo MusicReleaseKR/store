@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 06:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 07:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Foals - Antidotes [RECYCLED COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6887997115</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6887997115</guid>
+            <pubDate>Thu, 07 Jul 2022 07:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[33,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220707_230/16571767573899loJd_JPEG/58312646103459324_1118334514.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruno Mars - Unorthodox Jukebox [DARK RED COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6887975214</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6887975214</guid>
+            <pubDate>Thu, 07 Jul 2022 07:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[37,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220707_135/1657176068881Fy66v_JPEG/58311914594033688_1798410876.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김호중 - 클래식 2집 PANORAMA (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6887907967</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6887907967</guid>
+            <pubDate>Thu, 07 Jul 2022 07:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220707_105/16571752955430f5eU_JPEG/58311191272236235_178644420.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오렌지 팡팡 보이즈 - Meraki (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6887814986</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 28 Jun 2022 10:27:24 GMT</pubDate>
             <content:encoded><![CDATA[33,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220628_176/1656411856608n0HIJ_JPEG/57547751761024286_813281690.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Muna - Muna (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6850736097</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6850736097</guid>
-            <pubDate>Tue, 28 Jun 2022 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[17,200]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220628_181/1656411399251JAXdv_JPEG/57547294989321874_497157740.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joan Shelley - The Spur [CLEAR COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6850652887</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6850652887</guid>
-            <pubDate>Tue, 28 Jun 2022 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220628_103/1656410398220qs1ES_JPEG/57546181937787026_1325614953.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Oroza - Get On The Otherside [NEON ORANGE COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6850521480</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6850521480</guid>
-            <pubDate>Tue, 28 Jun 2022 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[33,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220628_202/1656404136863xRbVB_JPEG/57539979578905878_49773212.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
