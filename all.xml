@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 09:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 10:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sia - 1000 Forms Of Fear [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6888563588</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6888563588</guid>
+            <pubDate>Thu, 07 Jul 2022 10:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[34,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220503_7/16515733933669dnBU_JPEG/52709289098919816_1174918451.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liam Gallagher - Down By The River Thames (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6888437691</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6888437691</guid>
+            <pubDate>Thu, 07 Jul 2022 10:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[46,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220707_36/1657186692149mn1e3_JPEG/58322580853707318_969836786.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liam Gallagher - C'mon You Know (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6888426325</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6888426325</guid>
+            <pubDate>Thu, 07 Jul 2022 10:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[33,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220707_46/1657185364816G25H9_JPEG/58321192637419419_2027916918.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Liam Gallagher - C'mon You Know (Deluxe) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6888381292</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6888381292</guid>
@@ -598,30 +622,6 @@
             <pubDate>Wed, 29 Jun 2022 09:24:31 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220629_110/1656494188070Blu2D_JPEG/57630076782655490_6524141.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김목인 - 4집 저장된 풍경 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6854309314</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6854309314</guid>
-            <pubDate>Wed, 29 Jun 2022 08:31:52 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220629_19/1656490360966RzCNn_JPEG/57626194393957952_299393905.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio - Best Of Best - Memories Eddie Higgins [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6850959499</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6850959499</guid>
-            <pubDate>Tue, 28 Jun 2022 12:48:50 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220628_7/1656418220272cSOdQ_JPEG/57554048098277909_331893439.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio - Romance [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6850896487</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6850896487</guid>
-            <pubDate>Tue, 28 Jun 2022 12:48:50 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220628_137/1656414601566R9LlI_JPEG/57550381288307510_704421065.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[18평반자 / 김시호 1st EP (네이버 스마트스토어 ─ 공상온도)]]></title>
