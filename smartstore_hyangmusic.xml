@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 07:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 08:31:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Foals - Life Is Yours (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6888218516</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6888218516</guid>
+            <pubDate>Thu, 07 Jul 2022 08:31:01 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220707_44/1657178020927joC08_JPEG/58313854749981458_1016187020.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Foals - Antidotes [RECYCLED COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6887997115</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 28 Jun 2022 11:19:44 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220628_130/1656412108939wYQRk_JPEG/57548004447557745_299224424.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Muna - Muna (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6850757832</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6850757832</guid>
-            <pubDate>Tue, 28 Jun 2022 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[33,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220628_176/1656411856608n0HIJ_JPEG/57547751761024286_813281690.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

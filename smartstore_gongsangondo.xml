@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 07:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 08:31:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[18평반자 / 김시호 1st EP]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6888188418</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6888188418</guid>
+            <pubDate>Thu, 07 Jul 2022 08:31:10 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220707_281/1657181350888qPgw7_JPEG/58317246616642507_778276036.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투명에 던지는 수영 / 한호정 시]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6882967401</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
             <content:encoded><![CDATA[10,800]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220305_10/1646407615696SKG0j_JPEG/47543449499477572_821259897.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[29.9 / 셋이봉 에세이]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6373483268</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6373483268</guid>
-            <pubDate>Sat, 12 Mar 2022 16:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[12,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220305_290/1646406218798Qlmvl_JPEG/47542114534572174_114469970.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
