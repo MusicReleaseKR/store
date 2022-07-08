@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 06:30:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 07:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하현상 - Calibrate (REMASTERED) [45RPM COKE BOTTLE CLEAR COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6891733092</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6891733092</guid>
+            <pubDate>Fri, 08 Jul 2022 07:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220708_48/1657263708889iyEma_JPEG/58399542698688695_1112049325.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Muse - Will Of The People (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6891576186</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Jun 2022 11:20:54 GMT</pubDate>
             <content:encoded><![CDATA[160,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220629_223/1656499343755kEReH_JPEG/57635232469427317_783988558.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Velvet Underground - The Velvet Underground & Nico (PICTURE DISC LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6854759342</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6854759342</guid>
-            <pubDate>Wed, 29 Jun 2022 11:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[38,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220629_28/1656498859745otWdq_JPEG/57634748452772296_859017980.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
