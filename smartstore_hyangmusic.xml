@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 06:30:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Muse - Will Of The People (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6891576186</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6891576186</guid>
+            <pubDate>Fri, 08 Jul 2022 06:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220708_113/1657260428169u8v36_JPEG/58396270883892413_68369979.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Smashing Pumpkins - Mellon Collie And The Infinite Sadness (REMASTERED) [2CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6888587131</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Jun 2022 11:20:54 GMT</pubDate>
             <content:encoded><![CDATA[38,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220629_28/1656498859745otWdq_JPEG/57634748452772296_859017980.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans & Jim Hall - Undercurrent (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6854743184</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6854743184</guid>
-            <pubDate>Wed, 29 Jun 2022 11:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220629_195/1656498342374mk8hL_JPEG/57634176187317250_13145166.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
