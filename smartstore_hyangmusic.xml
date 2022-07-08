@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 11:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 12:47:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bob Dylan - The Freewheelin' Bob Dylan (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6893044105</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6893044105</guid>
+            <pubDate>Fri, 08 Jul 2022 12:47:18 GMT</pubDate>
+            <content:encoded><![CDATA[27,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220708_167/16572797493424nIkd_JPEG/58415592058438849_1423363032.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Whitney Houston - I Will Always Love You - The Best Of Whitney Houston (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6892929791</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 30 Jun 2022 09:22:22 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220630_148/16565778255844OO9C_JPEG/57713605296176030_1558758607.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크랙실버 Craxilver - Make A Dash (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6858871529</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6858871529</guid>
-            <pubDate>Thu, 30 Jun 2022 08:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220630_55/1656577283591vXi5G_JPEG/57713063310602197_418572846.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
