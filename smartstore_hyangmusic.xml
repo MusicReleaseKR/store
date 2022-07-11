@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 09:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 10:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크라티아 Cratia - PHOENIX LIVE (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6903310797</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6903310797</guid>
+            <pubDate>Mon, 11 Jul 2022 10:28:25 GMT</pubDate>
+            <content:encoded><![CDATA[23,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220711_221/1657533695358icw4X_JPEG/58669523181392260_1985568576.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - DJ LP BAR vol1 [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6903250250</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6903250250</guid>
+            <pubDate>Mon, 11 Jul 2022 10:28:25 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220711_265/1657532220187ULvq5_JPEG/58668062857155588_629554090.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 내일은 국민가수 라이브 앨범 (2CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6903130097</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 05 Jul 2022 06:29:08 GMT</pubDate>
             <content:encoded><![CDATA[38,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220705_289/16569996703123znGg_JPEG/58135559026008594_1537761715.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허성현 Huh - 926 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6873758885</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6873758885</guid>
-            <pubDate>Mon, 04 Jul 2022 06:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220704_231/1656916254592rqb1f_JPEG/58052034308434033_531061594.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 송해 1927 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6873605040</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6873605040</guid>
-            <pubDate>Mon, 04 Jul 2022 06:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220704_52/1656913065304ds9lX_JPEG/58048911024590197_1150243510.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
