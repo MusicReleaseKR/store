@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 07:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 08:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장필순 - 4집 하루 (2022 REMASTERED) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6902983538</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6902983538</guid>
+            <pubDate>Mon, 11 Jul 2022 08:32:14 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220711_181/1657527319036hG6i5_JPEG/58663102753870029_617223184.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bob Dylan - The Freewheelin' Bob Dylan (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6893044105</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 01 Jul 2022 08:30:47 GMT</pubDate>
             <content:encoded><![CDATA[99,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220701_276/1656654320598qXl7F_JPEG/57790166308242469_961506513.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김다미 Dami Kim - Timepass (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6858904001</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6858904001</guid>
-            <pubDate>Thu, 30 Jun 2022 09:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220630_148/16565778255844OO9C_JPEG/57713605296176030_1558758607.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
