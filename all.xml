@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 23:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 02:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -990,6 +990,22 @@
             <pubDate>Sat, 09 Jul 2022 12:40:01 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20191112_245/1573556165698KUpb9_JPEG/10919554242488577_1575279506.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[친환경 티셔츠] GRRR 로고 PET 리사이클 티셔츠 남여공용 호랑이 오버핏 블랙 커플 티셔츠 (네이버 스마트스토어 ─ 스트레인지 )]]></title>
+            <link>https://smartstore.naver.com/strangetiger/products/6902959632</link>
+            <guid>https://smartstore.naver.com/strangetiger/products/6902959632</guid>
+            <pubDate>Tue, 12 Jul 2022 02:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220711_82/1657526081085Rm4re_JPEG/58661969744308032_663784558.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[친환경 티셔츠] 아이스크림 컬러 PET 리사이클 티셔츠 남여공용 호랑이 오버핏 블랙 커플 티셔츠 (네이버 스마트스토어 ─ 스트레인지 )]]></title>
+            <link>https://smartstore.naver.com/strangetiger/products/6902919430</link>
+            <guid>https://smartstore.naver.com/strangetiger/products/6902919430</guid>
+            <pubDate>Tue, 12 Jul 2022 02:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220711_116/1657508797793a5dQu_JPEG/58644631506210929_1157306820.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패브릭포스터 검은 고양이 NEW 행운의 상징 (노렌 미니가림막) (네이버 스마트스토어 ─ 스트레인지 )]]></title>
