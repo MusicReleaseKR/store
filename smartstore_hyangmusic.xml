@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 09:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 10:27:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛과 소금 - 6집 Here We Go [MQA CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6907686455</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6907686455</guid>
+            <pubDate>Tue, 12 Jul 2022 10:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220712_90/1657618596391HR9gT_JPEG/58754495091630019_934521458.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크라티아 Cratia - PHOENIX LIVE (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6903310797</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 05 Jul 2022 07:22:36 GMT</pubDate>
             <content:encoded><![CDATA[9,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220705_39/16570040889097DSig_JPEG/58139984646418876_119410021.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유익종 - Best Album [180G COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6877658392</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6877658392</guid>
-            <pubDate>Tue, 05 Jul 2022 06:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[38,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_289/16569996703123znGg_JPEG/58135559026008594_1537761715.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
