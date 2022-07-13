@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:32:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Wed, 06 Jul 2022 22:23:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rust - The Brazilian Songbook (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6911293755</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6911293755</guid>
+            <pubDate>Wed, 13 Jul 2022 06:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220713_219/1657690196012K1DOK_JPEG/58826023839882129_172655479.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알리 Ali - 청춘기 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -616,15 +624,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220705_286/1657005789001FsRh7_JPEG/58141684729839842_803977339.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IBIS - IBIS (180G YELLOW COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6877961863</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6877961863</guid>
-            <pubDate>Tue, 05 Jul 2022 07:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220602_15/1654177259318zlLHe_JPEG/55313105025365591_1248846790.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[18평반자 / 김시호 1st EP (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <title><![CDATA[18평방자 / 김시호 1st EP (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6888188418</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/6888188418</guid>
             <pubDate>Thu, 07 Jul 2022 08:31:10 GMT</pubDate>
