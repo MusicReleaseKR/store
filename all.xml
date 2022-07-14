@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 06:30:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Wed, 06 Jul 2022 22:23:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김종국 - 3집 This Is Me (180G COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6914933014</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6914933014</guid>
+            <pubDate>Thu, 14 Jul 2022 06:29:54 GMT</pubDate>
+            <content:encoded><![CDATA[65,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220714_259/1657779028141WWdJ0_JPEG/58914926853686794_1167580500.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시나위 - 7집 Psychedelos (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -616,12 +624,20 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220705_270/1657006790630s29v2_JPEG/58142633335605999_1789467844.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Metamorfosi - Inferno (180G CLEAR RED COLOURED 1LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6878025145</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6878025145</guid>
-            <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_227/1657006077867Vxk4a_JPEG/58141973605499878_1515592318.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[부디, 나를 사랑해주세요 / 서로 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6914895367</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6914895367</guid>
+            <pubDate>Thu, 14 Jul 2022 06:30:04 GMT</pubDate>
+            <content:encoded><![CDATA[12,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220714_221/1657778890630KIY05_JPEG/58914718449249531_1711606638.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SAY SAY ESSAY / 세이세이 에세이 / 태재 질문집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6914744385</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6914744385</guid>
+            <pubDate>Thu, 14 Jul 2022 06:30:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220713_265/165770929205988Kj9_JPEG/58845180769455236_912787108.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[굿바이 에반스라운지 / 공연 관계자 인터뷰집 (네이버 스마트스토어 ─ 공상온도)]]></title>
@@ -926,22 +942,6 @@
             <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
             <content:encoded><![CDATA[7,700]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20200903_247/1599140534334CH98w_JPEG/276433042901830_1186682250.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EZMONSTER’s Sudoku / EZ 스도쿠 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6446409264</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6446409264</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[2,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220323_169/1647961362432qvIee_JPEG/49097196210677192_1361851041.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갈 데가 있어서요 / 이택민 에세이 / 책편사 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6373712049</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6373712049</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220305_275/1646408984506EVwiF_JPEG/47544819122009339_290528692.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12월의 책 고양이와 김승일 (네이버 스마트스토어 ─ 재미공작소)]]></title>

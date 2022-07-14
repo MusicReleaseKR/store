@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 06:30:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김종국 - 3집 This Is Me (180G COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6914933014</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6914933014</guid>
+            <pubDate>Thu, 14 Jul 2022 06:29:54 GMT</pubDate>
+            <content:encoded><![CDATA[65,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220714_259/1657779028141WWdJ0_JPEG/58914926853686794_1167580500.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시나위 - 7집 Psychedelos (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6911481572</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220705_270/1657006790630s29v2_JPEG/58142633335605999_1789467844.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metamorfosi - Inferno (180G CLEAR RED COLOURED 1LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6878025145</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6878025145</guid>
-            <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_227/1657006077867Vxk4a_JPEG/58141973605499878_1515592318.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
