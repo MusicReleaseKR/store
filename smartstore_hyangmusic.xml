@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 10:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 11:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Machine Head - Øf KingdØm And CrØwn [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6915853050</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6915853050</guid>
+            <pubDate>Thu, 14 Jul 2022 11:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220714_174/1657794808431efoBG_JPEG/58930704160884128_1109257567.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arch Enemy - Deceivers [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6915836241</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6915836241</guid>
+            <pubDate>Thu, 14 Jul 2022 11:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220714_245/1657794355645cfjBF_JPEG/58930251367112207_613820273.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김종국 - 3집 This Is Me (180G COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6914933014</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220705_257/1657008109623m1EGh_JPEG/58144005356811277_367204624.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Osanna - L'uomo [180G COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6878068062</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6878068062</guid>
-            <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_192/16570071351750J2SC_JPEG/58142977888006979_1753866356.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Osanna - Milano Calibro 9 [180G COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6878054099</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6878054099</guid>
-            <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_270/1657006790630s29v2_JPEG/58142633335605999_1789467844.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
