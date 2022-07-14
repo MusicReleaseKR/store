@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 06:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 07:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -624,6 +624,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220705_270/1657006790630s29v2_JPEG/58142633335605999_1789467844.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[걔의 세계 / 김림 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6915022128</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6915022128</guid>
+            <pubDate>Thu, 14 Jul 2022 07:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[10,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220714_278/16577802789682e0bh_JPEG/58916113785457153_274844435.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부디, 나를 사랑해주세요 / 서로 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6914895367</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/6914895367</guid>
@@ -934,14 +942,6 @@
             <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
             <content:encoded><![CDATA[7,200]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220328_17/16484469746600XrX2_JPEG/49582863358291281_335570654.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신은 나의 취향입니다 / 김규열 산문집 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6458266255</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6458266255</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[7,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20200903_247/1599140534334CH98w_JPEG/276433042901830_1186682250.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12월의 책 고양이와 김승일 (네이버 스마트스토어 ─ 재미공작소)]]></title>
