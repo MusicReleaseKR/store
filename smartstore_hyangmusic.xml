@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 06:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 07:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Amy Winehouse - Live At Glastonbury 2007 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6930165425</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6930165425</guid>
+            <pubDate>Mon, 18 Jul 2022 07:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_20/1658127693349iDV7r_JPEG/59263528179649956_453986396.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하덕규 - 신곡집 (180G TRANSPARENT YELLOW COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6930094154</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6930094154</guid>
+            <pubDate>Mon, 18 Jul 2022 07:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_235/1658126465279ngp4G_JPEG/59262300114812321_672425998.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하덕규 - 신곡집 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6930086297</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6930086297</guid>
+            <pubDate>Mon, 18 Jul 2022 07:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_122/1658125987278psBGb_JPEG/59261822115680700_2085495347.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허림 (해와 달) - 나뭇잎 대한팔경 (180G ORANGE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6930038079</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 07 Jul 2022 06:30:36 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220707_293/165717307193105TB7_JPEG/58308899750013185_1180616553.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김동률 - 1집 The Shadow Of Forgetfulness (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6882833306</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6882833306</guid>
-            <pubDate>Wed, 06 Jul 2022 08:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220706_160/1657095778011OzJQQ_JPEG/58231605833227784_28124543.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터보 Turbo - 1집 280 Km/h Speed (180G RED COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6882807536</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6882807536</guid>
-            <pubDate>Wed, 06 Jul 2022 08:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220706_32/1657095216770fLzmQ_JPEG/58231044590940254_588593997.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터보 Turbo - 2집 New Sensation (180G PURPLE & YELLOW COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6882764516</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6882764516</guid>
-            <pubDate>Wed, 06 Jul 2022 08:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[73,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220706_278/1657094418618xi4EY_JPEG/58230261332861691_640367871.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
