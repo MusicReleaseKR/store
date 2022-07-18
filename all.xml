@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 05:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 06:32:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,38 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[허림 (해와 달) - 나뭇잎 대한팔경 (180G ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6930038079</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6930038079</guid>
+            <pubDate>Mon, 18 Jul 2022 06:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_283/1658124843106QnuBD_JPEG/59260738829665435_913481857.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허림 (해와 달) - 나뭇잎 대한팔경 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6930026450</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6930026450</guid>
+            <pubDate>Mon, 18 Jul 2022 06:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_113/1658125326504qJveu_JPEG/59261222240600551_1454731982.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심수봉 - 골든앨범 (180G TRANSPARENT NATURAL COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6930001875</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6930001875</guid>
+            <pubDate>Mon, 18 Jul 2022 06:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_7/1658124343411GA109_JPEG/59260239148503598_462809068.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심수봉 - 골든앨범 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6929994130</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6929994130</guid>
+            <pubDate>Mon, 18 Jul 2022 06:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_285/1658123858472aqU1o_JPEG/59259754208677388_55267316.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오르내림 OLNL - 청소년관람불가 (180G RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6919660195</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6919660195</guid>
@@ -590,38 +622,6 @@
             <pubDate>Wed, 06 Jul 2022 08:29:55 GMT</pubDate>
             <content:encoded><![CDATA[73,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220706_278/1657094418618xi4EY_JPEG/58230261332861691_640367871.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김추자 - 스테레오 힛트 앨범 Vol 3 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6878225541</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6878225541</guid>
-            <pubDate>Tue, 05 Jul 2022 09:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_156/1657010850141Lwyev_JPEG/58146692848660866_1450028010.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김추자 - 스테레오힛트 앨범 Vol 2 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6878215957</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6878215957</guid>
-            <pubDate>Tue, 05 Jul 2022 09:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_130/1657010614082K2npY_JPEG/58146456790242150_1867388092.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김추자 - 스테레오힛트 앨범 Vol 1 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6878204457</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6878204457</guid>
-            <pubDate>Tue, 05 Jul 2022 09:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_124/1657010303312HV3OL_JPEG/58146146027321768_310201184.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Triade - 1998: La Storia Di Sabazio (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6878161471</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6878161471</guid>
-            <pubDate>Tue, 05 Jul 2022 08:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_142/1657009132836V5rx9_JPEG/58144912559723804_16502097.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[걔의 세계 / 김림 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
