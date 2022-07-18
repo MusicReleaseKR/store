@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 11:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 12:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,14 +224,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220708_12/1657275991308VsaGy_JPEG/58411887033887529_298053213.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack - 갯마을 차차차 (180G CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6891940064</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6891940064</guid>
-            <pubDate>Fri, 08 Jul 2022 08:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220708_109/1657268618652Ffguc_JPEG/58404453478456539_307475347.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하현상 - Calibrate (REMASTERED) [45RPM COKE BOTTLE CLEAR COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6891733092</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6891733092</guid>
@@ -326,6 +318,14 @@
             <pubDate>Thu, 07 Jul 2022 06:30:36 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220707_293/165717307193105TB7_JPEG/58308899750013185_1180616553.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김동률 - 1집 The Shadow Of Forgetfulness (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6882833306</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6882833306</guid>
+            <pubDate>Mon, 18 Jul 2022 12:48:51 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220706_160/1657095778011OzJQQ_JPEG/58231605833227784_28124543.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
