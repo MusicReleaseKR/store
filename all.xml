@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 12:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 13:54:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Wed, 06 Jul 2022 22:23:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 나의 해방일지 (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6931502936</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6931502936</guid>
+            <pubDate>Mon, 18 Jul 2022 13:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_250/1658149022464YeQLQ_JPEG/59284850290704509_567347175.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Amy Winehouse - Live At Glastonbury 2007 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Thu, 07 Jul 2022 06:30:36 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220707_293/165717307193105TB7_JPEG/58308899750013185_1180616553.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김동률 - 1집 The Shadow Of Forgetfulness (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6882833306</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6882833306</guid>
-            <pubDate>Mon, 18 Jul 2022 12:48:51 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220706_160/1657095778011OzJQQ_JPEG/58231605833227784_28124543.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[걔의 세계 / 김림 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
