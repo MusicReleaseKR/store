@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 06:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 07:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조용필 - 16 - 19집 (4LP BOX)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6934077262</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6934077262</guid>
+            <pubDate>Tue, 19 Jul 2022 07:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[182,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220719_16/1658213562060qqFDI_JPEG/59349345776838890_1167846985.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조용필 - 18집 Over The Rainbow (180G WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6933986855</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6933986855</guid>
+            <pubDate>Tue, 19 Jul 2022 07:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220719_265/1658211968890Xd1x1_JPEG/59347857604113410_1074288146.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조용필 - 17집 Ambition (140G BLUE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6933946077</link>
@@ -248,6 +264,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220708_12/1657275991308VsaGy_JPEG/58411887033887529_298053213.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Soundtrack - 갯마을 차차차 (180G CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6891940064</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6891940064</guid>
+            <pubDate>Tue, 19 Jul 2022 07:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220708_109/1657268618652Ffguc_JPEG/58404453478456539_307475347.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하현상 - Calibrate (REMASTERED) [45RPM COKE BOTTLE CLEAR COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6891733092</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6891733092</guid>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 07 Jul 2022 09:24:43 GMT</pubDate>
             <content:encoded><![CDATA[23,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220707_46/1657185364816G25H9_JPEG/58321192637419419_2027916918.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Foals - Life Is Yours (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6888218516</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6888218516</guid>
-            <pubDate>Thu, 07 Jul 2022 08:31:01 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220707_44/1657178020927joC08_JPEG/58313854749981458_1016187020.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Foals - Antidotes [RECYCLED COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6887997115</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6887997115</guid>
-            <pubDate>Thu, 07 Jul 2022 07:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[33,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220707_230/16571767573899loJd_JPEG/58312646103459324_1118334514.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Mars - Unorthodox Jukebox [DARK RED COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6887975214</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6887975214</guid>
-            <pubDate>Thu, 07 Jul 2022 07:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[37,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220707_135/1657176068881Fy66v_JPEG/58311914594033688_1798410876.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
