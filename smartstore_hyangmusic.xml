@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 11:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 12:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지코 Zico - Grown Ass Kid [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6939023119</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6939023119</guid>
+            <pubDate>Wed, 20 Jul 2022 12:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220720_270/16583173395048OyHP_JPEG/59453185213955782_129878906.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - Young Festival Vol 3 (180G 24BIT REMASTERED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6938871012</link>
@@ -72,6 +80,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220719_265/16582248437618OTVF_JPEG/59360678596815932_834541581.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Cigarettes After Sex - Cigarettes After Sex (CLEAR COLOURED LP) [RE-ISSUE]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6934554979</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6934554979</guid>
+            <pubDate>Wed, 20 Jul 2022 12:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220719_2/1658223983559FMpQu_JPEG/59359818396687365_411002301.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Miles Davis - What It Is - Montreal 7/7/83 [2LP] - 2022 RSD 한정반]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6934496123</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6934496123</guid>
@@ -134,14 +150,6 @@
             <pubDate>Tue, 19 Jul 2022 06:29:48 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220719_31/1658210447840TPqOx_JPEG/59346231558118957_1075554322.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 나의 해방일지 (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6931502936</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6931502936</guid>
-            <pubDate>Mon, 18 Jul 2022 13:54:28 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220718_250/1658149022464YeQLQ_JPEG/59284850290704509_567347175.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Amy Winehouse - Live At Glastonbury 2007 (180G LP)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 11 Jul 2022 08:32:14 GMT</pubDate>
             <content:encoded><![CDATA[43,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220711_181/1657527319036hG6i5_JPEG/58663102753870029_617223184.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bob Dylan - The Freewheelin' Bob Dylan (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6893044105</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6893044105</guid>
-            <pubDate>Fri, 08 Jul 2022 12:47:18 GMT</pubDate>
-            <content:encoded><![CDATA[27,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220708_167/16572797493424nIkd_JPEG/58415592058438849_1423363032.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
