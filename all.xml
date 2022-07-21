@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 09:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Wed, 06 Jul 2022 22:23:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metallica - ...And Justice For All (카세트 테이프) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6942818288</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6942818288</guid>
+            <pubDate>Thu, 21 Jul 2022 10:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220721_51/1658395788129UJy9E_JPEG/59531621945629140_1059315020.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시인과 촌장 - 짝사랑 / 님타령 (150G CRYSTAL COLOURED LP) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Mon, 11 Jul 2022 09:29:05 GMT</pubDate>
             <content:encoded><![CDATA[58,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220711_56/1657529424145M7bIK_JPEG/58665269861114045_1440767891.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마리아 킴 - With Strings : Dream of You (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6903060946</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6903060946</guid>
-            <pubDate>Mon, 11 Jul 2022 09:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[47,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220711_148/1657528771650Y0Btp_JPEG/58664617361395920_538105622.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[걔의 세계 / 김림 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
