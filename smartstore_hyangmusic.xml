@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 07:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 08:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시인과 촌장 - 짝사랑 / 님타령 (150G CRYSTAL COLOURED LP) [재발매]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6942452999</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6942452999</guid>
+            <pubDate>Thu, 21 Jul 2022 08:29:53 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220721_81/1658388261663fDttR_JPEG/59524107382816259_1914036497.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지코 Zico - Grown Ass Kid [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6939023119</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 11 Jul 2022 09:29:05 GMT</pubDate>
             <content:encoded><![CDATA[47,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220711_148/1657528771650Y0Btp_JPEG/58664617361395920_538105622.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장필순 - 4집 하루 (2022 REMASTERED) [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6902983538</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6902983538</guid>
-            <pubDate>Mon, 11 Jul 2022 08:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220711_181/1657527319036hG6i5_JPEG/58663102753870029_617223184.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
