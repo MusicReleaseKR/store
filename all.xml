@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 08:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 09:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이소라 - Best (CLEAR COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6945038093</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6945038093</guid>
+            <pubDate>Fri, 22 Jul 2022 09:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[63,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220722_214/1658479863755p0WiF_JPEG/59615759463004472_981757589.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이소라 - Best (CLEAR PINK COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6945036319</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6945036319</guid>
+            <pubDate>Fri, 22 Jul 2022 09:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[63,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220722_175/1658479660216yKi7r_JPEG/59615555949365226_1259404390.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소울라이츠 - 도시의 밤 (45RPM 180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6945017810</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6945017810</guid>
+            <pubDate>Fri, 22 Jul 2022 09:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220722_196/1658478963312AjGrA_JPEG/59614806023055269_1399723992.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Soundtrack - 중경삼림 Express [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6944990635</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6944990635</guid>
@@ -598,30 +622,6 @@
             <pubDate>Wed, 13 Jul 2022 05:26:12 GMT</pubDate>
             <content:encoded><![CDATA[43,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220713_168/1657689226325yqejH_JPEG/58825072042109866_258386841.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛과 소금 - 6집 Here We Go [MQA CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6907686455</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6907686455</guid>
-            <pubDate>Tue, 12 Jul 2022 10:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220712_90/1657618596391HR9gT_JPEG/58754495091630019_934521458.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크라티아 Cratia - PHOENIX LIVE (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6903310797</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6903310797</guid>
-            <pubDate>Mon, 11 Jul 2022 10:28:25 GMT</pubDate>
-            <content:encoded><![CDATA[23,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220711_221/1657533695358icw4X_JPEG/58669523181392260_1985568576.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - DJ LP BAR vol1 [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6903250250</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6903250250</guid>
-            <pubDate>Mon, 11 Jul 2022 10:28:25 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220711_265/1657532220187ULvq5_JPEG/58668062857155588_629554090.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[걔의 세계 / 김림 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
