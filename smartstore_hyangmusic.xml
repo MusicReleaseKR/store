@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 05:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 06:32:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - THE BOX 더 박스 (PURPLE OPAQUE COULURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6956997724</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6956997724</guid>
+            <pubDate>Mon, 25 Jul 2022 06:31:34 GMT</pubDate>
+            <content:encoded><![CDATA[68,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220725_156/1658729900629OsGyH_JPEG/59865799319755917_199199627.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 20th Anniversary of the Club Evans (클럽에반스 20주년) [COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6956969919</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6956969919</guid>
+            <pubDate>Mon, 25 Jul 2022 06:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220725_42/1658729149685rEPAS_JPEG/59865048395516636_1387189513.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이소라 - Best (CLEAR COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6945038093</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 13 Jul 2022 06:32:34 GMT</pubDate>
             <content:encoded><![CDATA[60,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220713_219/1657690196012K1DOK_JPEG/58826023839882129_172655479.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알리 Ali - 청춘기 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6911263490</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6911263490</guid>
-            <pubDate>Wed, 13 Jul 2022 05:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220713_118/1657689636535zK2lF_JPEG/58825482254588468_773923419.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅베이비드라이버 Big Baby Driver - Leftover & Remainder [WHITE COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6911243095</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6911243095</guid>
-            <pubDate>Wed, 13 Jul 2022 05:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220713_168/1657689226325yqejH_JPEG/58825072042109866_258386841.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
