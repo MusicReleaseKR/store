@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 12:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 13:49:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Wed, 06 Jul 2022 22:23:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재성 - 3집 촛불잔치 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6958092842</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6958092842</guid>
+            <pubDate>Mon, 25 Jul 2022 13:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[36,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220725_252/1658755374548cjdXP_JPEG/59891270285231652_333539975.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sting - The Bridge (180G Super Deluxe LP) [LIMITED EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Mon, 18 Jul 2022 07:22:28 GMT</pubDate>
             <content:encoded><![CDATA[51,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220718_20/1658127693349iDV7r_JPEG/59263528179649956_453986396.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하덕규 - 신곡집 (180G TRANSPARENT YELLOW COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6930094154</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6930094154</guid>
-            <pubDate>Mon, 18 Jul 2022 07:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220718_235/1658126465279ngp4G_JPEG/59262300114812321_672425998.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[걔의 세계 / 김림 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
