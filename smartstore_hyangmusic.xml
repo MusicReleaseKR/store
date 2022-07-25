@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 06:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 07:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생각의 여름 - 4집 손 [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6957147439</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6957147439</guid>
+            <pubDate>Mon, 25 Jul 2022 07:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220725_75/1658732405604gYrgO_JPEG/59868301324736758_1195007730.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이콜드 Boycold - Daft Love [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6957071167</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6957071167</guid>
+            <pubDate>Mon, 25 Jul 2022 07:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220725_101/1658730897452xMAaY_JPEG/59866796163250440_533575106.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - THE BOX 더 박스 (PURPLE OPAQUE COULURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6956997724</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 14 Jul 2022 11:19:32 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220714_245/1657794355645cfjBF_JPEG/58930251367112207_613820273.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시나위 - 7집 Psychedelos (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6911481572</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6911481572</guid>
-            <pubDate>Wed, 13 Jul 2022 07:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[55,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220713_277/1657694324060OgSm2_JPEG/58830169770478427_2021265015.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rust - The Brazilian Songbook (180G 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6911293755</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6911293755</guid>
-            <pubDate>Wed, 13 Jul 2022 06:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220713_219/1657690196012K1DOK_JPEG/58826023839882129_172655479.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
