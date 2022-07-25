@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 07:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 08:32:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[있지 Itzy - Checkmate (SPECIAL EDITION) [3종 중 1종 랜덤 발송] (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6957228373</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6957228373</guid>
+            <pubDate>Mon, 25 Jul 2022 08:32:06 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220725_299/1658734326443JWOQd_JPEG/59870169159526088_54188576.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생각의 여름 - 4집 손 [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6957147439</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 14 Jul 2022 11:19:32 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220714_174/1657794808431efoBG_JPEG/58930704160884128_1109257567.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arch Enemy - Deceivers [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6915836241</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6915836241</guid>
-            <pubDate>Thu, 14 Jul 2022 11:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220714_245/1657794355645cfjBF_JPEG/58930251367112207_613820273.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
