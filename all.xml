@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 23:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 02:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,30 +376,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220725_282/16587445954221XyOz_JPEG/59880379129690024_736242757.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뉴진스 NewJeans - 1st EP New Jeans Bag - Red (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957711181</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957711181</guid>
-            <pubDate>Mon, 25 Jul 2022 10:28:15 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_114/1658744430759my142_JPEG/59880214477184477_1545883186.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 NewJeans - 1st EP New Jeans Bag - White (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957708301</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957708301</guid>
-            <pubDate>Mon, 25 Jul 2022 10:28:15 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_209/1658744361299Epzco_JPEG/59880145016892270_549628237.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 NewJeans - 1st EP New Jeans Bag - Black (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957704020</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957704020</guid>
-            <pubDate>Mon, 25 Jul 2022 10:28:15 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_284/1658740741398TAiGU_JPEG/59876584113873350_1549711755.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[있지 Itzy - Checkmate (SPECIAL EDITION) [3종 중 1종 랜덤 발송] (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6957228373</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6957228373</guid>
@@ -622,6 +598,30 @@
             <pubDate>Tue, 19 Jul 2022 07:22:50 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220719_265/1658211968890Xd1x1_JPEG/59347857604113410_1074288146.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조용필 - 17집 Ambition (140G BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6933946077</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6933946077</guid>
+            <pubDate>Wed, 27 Jul 2022 02:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220719_127/1658211092064zEH3P_JPEG/59346875781545032_1696616168.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조용필 - 16집 Eternally (140G SILVER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6933914345</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6933914345</guid>
+            <pubDate>Wed, 27 Jul 2022 02:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220719_31/1658210447840TPqOx_JPEG/59346231558118957_1075554322.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amy Winehouse - Live At Glastonbury 2007 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6930165425</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6930165425</guid>
+            <pubDate>Wed, 27 Jul 2022 02:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_20/1658127693349iDV7r_JPEG/59263528179649956_453986396.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[걔의 세계 / 김림 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
