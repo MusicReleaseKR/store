@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 06:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Wed, 06 Jul 2022 22:23:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2차분] Soundtrack - 그 해 우리는 (LP) [1인 1매 주문] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6973691481</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6973691481</guid>
+            <pubDate>Fri, 29 Jul 2022 06:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_257/1647592217152mGBgY_JPEG/48728112827537940_1753236142.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저스디스 Justhis - Do Not Go Gentle Into That Good Night II [SOLID WHITE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Tue, 19 Jul 2022 10:27:57 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220719_265/16582248437618OTVF_JPEG/59360678596815932_834541581.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cigarettes After Sex - Cigarettes After Sex (CLEAR COLOURED LP) [RE-ISSUE] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6934554979</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6934554979</guid>
-            <pubDate>Wed, 20 Jul 2022 12:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220719_2/1658223983559FMpQu_JPEG/59359818396687365_411002301.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[걔의 세계 / 김림 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
