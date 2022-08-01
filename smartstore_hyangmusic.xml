@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 05:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:44:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sarah Vaughan - With Clifford Brown [180G BLUE COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6985742779</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6985742779</guid>
+            <pubDate>Mon, 01 Aug 2022 06:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220801_207/1659335576397az5pv_JPEG/60471422117346219_1884466714.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Coltrane - Giant Steps [180G BLUE COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6985723186</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6985723186</guid>
+            <pubDate>Mon, 01 Aug 2022 06:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220801_297/1659335147739bn2UX_JPEG/60470993446646682_442092141.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cannonball Adderley - Somethin' Else [180g LP & CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6985704600</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6985704600</guid>
+            <pubDate>Mon, 01 Aug 2022 06:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220801_49/1659334513160gIpeA_JPEG/60470358878516514_1479545685.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세이수미 Say Sue Me - 1집 We’ve Sobered Up (140G BLUE COLOURED REMASTERED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6985543708</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 20 Jul 2022 10:28:09 GMT</pubDate>
             <content:encoded><![CDATA[27,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220720_206/1658310825851dfHWp_JPEG/59446668566973874_753570814.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prince - The Versace Experience (PRELUDE 2 GOLD) [PURPLE COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6938810243</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6938810243</guid>
-            <pubDate>Wed, 20 Jul 2022 10:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[27,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220720_97/1658310580701HlqJF_JPEG/59446423415830918_1971554855.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nas - Illmatic (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6938801209</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6938801209</guid>
-            <pubDate>Wed, 20 Jul 2022 10:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[27,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220720_199/1658310254697oKl8l_JPEG/59446097410419404_1392113923.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay - Viva La Vida Or Death And All His Friends (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6938791571</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6938791571</guid>
-            <pubDate>Wed, 20 Jul 2022 10:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220720_167/1658309980834YfDbQ_JPEG/59445823550704168_2074120632.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
