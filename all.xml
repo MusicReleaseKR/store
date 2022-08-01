@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 07:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Beyonce - Renaissance (CD) [포스터 삽입] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6985890073</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6985890073</guid>
+            <pubDate>Mon, 01 Aug 2022 07:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220801_206/1659337894460q16rQ_JPEG/60473722284249477_1128112419.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West - Donda (4LP) [Limited Deluxe Edition] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6985799863</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6985799863</guid>
+            <pubDate>Mon, 01 Aug 2022 07:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[113,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220801_224/1659336767373I9ULh_JPEG/60472595203447731_54760132.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conan Gray - Superache [RUBY RED TRANSLUCENT COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6985779443</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6985779443</guid>
+            <pubDate>Mon, 01 Aug 2022 07:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[59,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220801_82/1659336005141ScIxk_JPEG/60471850862712892_1429987095.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sarah Vaughan - With Clifford Brown [180G BLUE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6985742779</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6985742779</guid>
@@ -598,30 +622,6 @@
             <pubDate>Thu, 21 Jul 2022 08:29:53 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220721_81/1658388261663fDttR_JPEG/59524107382816259_1914036497.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지코 Zico - Grown Ass Kid [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6939023119</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6939023119</guid>
-            <pubDate>Wed, 20 Jul 2022 12:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220720_270/16583173395048OyHP_JPEG/59453185213955782_129878906.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Young Festival Vol 3 (180G 24BIT REMASTERED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6938871012</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6938871012</guid>
-            <pubDate>Wed, 20 Jul 2022 10:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[38,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220720_30/1658312369566KsduU_JPEG/59448212281592918_255039051.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Simon & Garfunkel - Sounds Of Silence (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6938848900</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6938848900</guid>
-            <pubDate>Wed, 20 Jul 2022 10:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[27,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220720_206/1658310825851dfHWp_JPEG/59446668566973874_753570814.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[걔의 세계 / 김림 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
