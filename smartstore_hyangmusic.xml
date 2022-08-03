@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 07:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일기예보 - 2집 떠나려는 그대를 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6995194653</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6995194653</guid>
+            <pubDate>Wed, 03 Aug 2022 07:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220803_39/1659508734128yXEmV_JPEG/60644622841433765_1317178385.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일기예보 - 1집 Unplugged (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6995139901</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 25 Jul 2022 07:23:17 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220725_75/1658732405604gYrgO_JPEG/59868301324736758_1195007730.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이콜드 Boycold - Daft Love [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957071167</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957071167</guid>
-            <pubDate>Mon, 25 Jul 2022 07:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_263/1658745038510QQlKM_JPEG/59880822221461672_772143528.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
