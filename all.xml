@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 08:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 09:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Wed, 06 Jul 2022 22:23:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daft Punk - Daft Club (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6995744803</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6995744803</guid>
+            <pubDate>Wed, 03 Aug 2022 09:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220803_43/16595174019967RNVL_JPEG/60653290710186140_657851284.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daft Punk - Alive 2007 [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6995639815</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6995639815</guid>
+            <pubDate>Wed, 03 Aug 2022 09:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[63,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220803_184/1659516530324LdaHJ_JPEG/60652376045098889_1306339169.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일기예보 - 2집 떠나려는 그대를 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Thu, 28 Jul 2022 08:30:58 GMT</pubDate>
             <content:encoded><![CDATA[22,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220725_284/1658740741398TAiGU_JPEG/59876584113873350_1549711755.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있지 Itzy - Checkmate (SPECIAL EDITION) [3종 중 1종 랜덤 발송] (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957228373</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957228373</guid>
-            <pubDate>Mon, 25 Jul 2022 08:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_299/1658734326443JWOQd_JPEG/59870169159526088_54188576.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생각의 여름 - 4집 손 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957147439</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957147439</guid>
-            <pubDate>Mon, 25 Jul 2022 07:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_75/1658732405604gYrgO_JPEG/59868301324736758_1195007730.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DIVE / 오종길 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
