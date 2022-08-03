@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 06:29:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일기예보 - 1집 Unplugged (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6995139901</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6995139901</guid>
+            <pubDate>Wed, 03 Aug 2022 06:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220803_34/1659507839258zwXqx_JPEG/60643737966987393_69990653.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손지창 - 1집 Son Ji Chang (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6995122419</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6995122419</guid>
+            <pubDate>Wed, 03 Aug 2022 06:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220803_265/16595073973051RRKg_JPEG/60643296008408131_1445235594.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장혜진 - Before the Party (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6995071782</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6995071782</guid>
+            <pubDate>Wed, 03 Aug 2022 06:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220803_291/1659506273448bIdzy_JPEG/60642101265768608_413569246.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위 아더 나잇 We Are The Night - 미래를 향해, 피해, 사랑해 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6990643164</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6990643164</guid>
@@ -600,28 +624,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220725_263/1658745038510QQlKM_JPEG/59880822221461672_772143528.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack - THE BOX 더 박스 (PURPLE OPAQUE COULURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6956997724</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6956997724</guid>
-            <pubDate>Mon, 25 Jul 2022 06:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[68,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_156/1658729900629OsGyH_JPEG/59865799319755917_199199627.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 20th Anniversary of the Club Evans (클럽에반스 20주년) [COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6956969919</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6956969919</guid>
-            <pubDate>Mon, 25 Jul 2022 06:31:35 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_42/1658729149685rEPAS_JPEG/59865048395516636_1387189513.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이소라 - Best (CLEAR COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6945038093</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6945038093</guid>
-            <pubDate>Fri, 22 Jul 2022 09:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[63,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220722_214/1658479863755p0WiF_JPEG/59615759463004472_981757589.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[비공개글 / AIN 단상집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6995020827</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6995020827</guid>
+            <pubDate>Wed, 03 Aug 2022 06:29:19 GMT</pubDate>
+            <content:encoded><![CDATA[6,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220803_116/1659506059320xTfDJ_JPEG/60641839029828594_775268945.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[춤과 땡땡 / 인터뷰집 (네이버 스마트스토어 ─ 공상온도)]]></title>
@@ -934,14 +942,6 @@
             <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
             <content:encoded><![CDATA[9,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220328_87/1648451072065aKGFY_JPEG/49586855537169221_1906150473.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자아, 예술가, 아빠 / 김다은 인터뷰집 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6469957610</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6469957610</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220328_48/1648448921439rHdrw_JPEG/49584766385774906_136502722.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12월의 책 고양이와 김승일 (네이버 스마트스토어 ─ 재미공작소)]]></title>
