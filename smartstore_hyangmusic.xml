@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 10:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 11:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mary Lattimore - At The Dam [WATERFALL COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7000656742</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7000656742</guid>
+            <pubDate>Thu, 04 Aug 2022 11:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[33,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220804_124/1659610581822qNwAJ_JPEG/60746409651833743_808225501.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kevin Morby - This Is A Photograph (GOLD NUGGET COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7000569096</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7000569096</guid>
+            <pubDate>Thu, 04 Aug 2022 11:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[33,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220804_107/16596092212525riSj_JPEG/60745055068711510_218003623.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nirvana - Nevermind (180G 9LP) [Super Deluxe] (30th Anniversary)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7000522976</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 26 Jul 2022 06:31:01 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220725_104/1658756196651Inzcs_JPEG/59892092384526514_1759038318.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재성 - 3집 촛불잔치 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6958092842</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6958092842</guid>
-            <pubDate>Mon, 25 Jul 2022 13:48:55 GMT</pubDate>
-            <content:encoded><![CDATA[36,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_252/1658755374548cjdXP_JPEG/59891270285231652_333539975.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sting - The Bridge (180G Super Deluxe LP) [LIMITED EDITION]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957995284</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957995284</guid>
-            <pubDate>Mon, 25 Jul 2022 12:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_289/1658752388277KLBFA_JPEG/59888284014749733_788969241.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
