@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 08:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 09:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Wed, 06 Jul 2022 22:23:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ella Fitzgerald - Ella at the Hollywood Bowl - The Irving Berlin Songbook [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7000268873</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7000268873</guid>
+            <pubDate>Thu, 04 Aug 2022 09:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[33,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220804_160/1659594541872KmsGa_JPEG/60730437608935477_285933424.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bill Evans - You Must Believe In Spring [45RPM 180g 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Mon, 25 Jul 2022 10:28:15 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220725_282/16587445954221XyOz_JPEG/59880379129690024_736242757.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 NewJeans - 1st EP New Jeans Bag - Red (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957711181</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957711181</guid>
-            <pubDate>Thu, 28 Jul 2022 08:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_114/1658744430759my142_JPEG/59880214477184477_1545883186.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DIVE / 오종길 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
