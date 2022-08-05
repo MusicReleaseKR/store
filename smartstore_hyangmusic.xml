@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 10:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 11:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디피알 이안 DPR Ian - 1집 Moodswings In To Order [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7005430401</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7005430401</guid>
+            <pubDate>Fri, 05 Aug 2022 11:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[30,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220805_12/1659695293446TD9cs_JPEG/60831128281448856_1999099213.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kendrick Lamar - Mr.Morale & The Big Steppers (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7004690428</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 29 Jul 2022 04:09:00 GMT</pubDate>
             <content:encoded><![CDATA[55,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220727_153/1658897807245o8ial_JPEG/60033652954373857_1040465057.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용필 - 스테레오 힛트앨범 (2022 REMASTERED) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6970797355</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6970797355</guid>
-            <pubDate>Thu, 28 Jul 2022 10:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220728_137/1659002173029UrvEI_JPEG/60138007858314931_1327788566.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
