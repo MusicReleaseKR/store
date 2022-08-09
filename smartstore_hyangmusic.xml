@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 11:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 12:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안예은 - 섬으로 [140G CLEAR COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7021021128</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7021021128</guid>
+            <pubDate>Tue, 09 Aug 2022 12:52:14 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220809_99/1660044976207CU1xK_JPEG/61180810014741171_1653417122.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어반자카파 - UZ [45RPM 180G CLEAR COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7021005530</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7021005530</guid>
+            <pubDate>Tue, 09 Aug 2022 12:52:14 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220809_244/1660044386421Q3RF7_JPEG/61180220226388617_291338672.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칠보장 - 칼 세이건 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7020445388</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 01 Aug 2022 11:21:10 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220801_206/1659351549902HpvHG_JPEG/60487329619862562_1954713846.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[European Jazz Trio - The Year After (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6986586180</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6986586180</guid>
-            <pubDate>Mon, 01 Aug 2022 11:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_85/16593511592487wIYu_JPEG/60486938966135793_427585561.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - My Best Friend's Wedding 내 남자 친구의 결혼식 [BLACK & WHITE COLOURED 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6986551175</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6986551175</guid>
-            <pubDate>Mon, 01 Aug 2022 11:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_241/1659350252209XTAkH_JPEG/60486031935499354_760758823.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
