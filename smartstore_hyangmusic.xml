@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 05:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 06:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 너의 이름은 (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7020030376</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7020030376</guid>
+            <pubDate>Tue, 09 Aug 2022 06:30:57 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220809_72/1660025085282zEN1r_JPEG/61160973996266046_141223854.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제이홉 J-Hope - Jack In The Box (LP) {LIMITED EDITION]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7016227149</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 01 Aug 2022 07:28:14 GMT</pubDate>
             <content:encoded><![CDATA[59,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220801_82/1659336005141ScIxk_JPEG/60471850862712892_1429987095.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sarah Vaughan - With Clifford Brown [180G BLUE COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6985742779</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6985742779</guid>
-            <pubDate>Mon, 01 Aug 2022 06:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_207/1659335576397az5pv_JPEG/60471422117346219_1884466714.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
