@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 07:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 08:31:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칠보장 - 칼 세이건 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7020445388</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7020445388</guid>
+            <pubDate>Tue, 09 Aug 2022 08:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220809_194/16600327751905YM6q_JPEG/61168610025179185_1319076610.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TOOL - Fear Inoculum [3LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7020366029</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7020366029</guid>
+            <pubDate>Tue, 09 Aug 2022 08:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[90,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220809_115/166003128333875l0x_JPEG/61167111166157412_1106657177.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hot Milk - The King and Queen of Gasoline [180G WHITE COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7020342453</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7020342453</guid>
+            <pubDate>Tue, 09 Aug 2022 08:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220809_139/1660030943869J77Lg_JPEG/61166771694546939_1652108391.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 슬기로운 의사생활 시즌 2 [180G SOLID WHITE & SOLID BLUE COLOURED 2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7020128983</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 01 Aug 2022 11:21:10 GMT</pubDate>
             <content:encoded><![CDATA[55,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220801_241/1659350252209XTAkH_JPEG/60486031935499354_760758823.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Home Alone 나 홀로 집에 [HOLLY GREEN COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6986526374</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6986526374</guid>
-            <pubDate>Mon, 01 Aug 2022 11:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_123/16593489088383fClb_JPEG/60484743651813726_1916523467.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyonce - Renaissance (CD) [포스터 삽입]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6985890073</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6985890073</guid>
-            <pubDate>Mon, 01 Aug 2022 07:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_206/1659337894460q16rQ_JPEG/60473722284249477_1128112419.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West - Donda (4LP) [Limited Deluxe Edition]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6985799863</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6985799863</guid>
-            <pubDate>Mon, 01 Aug 2022 07:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[113,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_224/1659336767373I9ULh_JPEG/60472595203447731_54760132.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
