@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 06:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 07:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 슬기로운 의사생활 시즌 2 [180G SOLID WHITE & SOLID BLUE COLOURED 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7020128983</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7020128983</guid>
+            <pubDate>Tue, 09 Aug 2022 07:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[73,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220809_17/1660026399972qoMSH_JPEG/61162242686528601_1689337965.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 너의 이름은 (180G 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7020030376</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 01 Aug 2022 07:28:14 GMT</pubDate>
             <content:encoded><![CDATA[113,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220801_224/1659336767373I9ULh_JPEG/60472595203447731_54760132.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Conan Gray - Superache [RUBY RED TRANSLUCENT COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6985779443</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6985779443</guid>
-            <pubDate>Mon, 01 Aug 2022 07:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[59,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_82/1659336005141ScIxk_JPEG/60471850862712892_1429987095.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
