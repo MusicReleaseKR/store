@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 06:31:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Wed, 06 Jul 2022 22:23:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포지션 Position - I Love You (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7024511438</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7024511438</guid>
+            <pubDate>Wed, 10 Aug 2022 06:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220810_256/1660110833525F0WRt_JPEG/61246679245719710_1962601745.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안예은 - 섬으로 [140G CLEAR COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Mon, 01 Aug 2022 11:21:10 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220801_61/1659352068036Nhcyv_JPEG/60487895858075303_1095479028.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조규희 Lucio Kyuhee Cho - Alte Liebe (옛사랑) [150G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6986602043</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6986602043</guid>
-            <pubDate>Mon, 01 Aug 2022 11:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_206/1659351549902HpvHG_JPEG/60487329619862562_1954713846.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DIVE / 오종길 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
