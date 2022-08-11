@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 02:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 03:49:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 Blackpink - BORN PINK (LP) [LIMITED EDITION]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7028791341</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7028791341</guid>
+            <pubDate>Thu, 11 Aug 2022 03:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220811_283/16601855770203wov2_JPEG/61321411854343047_1495057021.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[포지션 Position - I Love You (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7024511438</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 02 Aug 2022 07:24:01 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220802_130/1659423859659xI38f_JPEG/60559639374416175_375478618.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조정아 - 김죽파류 가야금산조 (LP) [재발매]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6986634832</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6986634832</guid>
-            <pubDate>Mon, 01 Aug 2022 11:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_61/1659352068036Nhcyv_JPEG/60487895858075303_1095479028.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
