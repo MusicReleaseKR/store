@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 08:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엉클밥 - 엉클밥 (140G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7034553566</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7034553566</guid>
+            <pubDate>Fri, 12 Aug 2022 09:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220812_140/1660295008340UFxGt_JPEG/61430792054991026_171009417.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지다 JIDA - Summer Colours (180G COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7029849326</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 03 Aug 2022 10:27:43 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220803_68/1659518741848uyvXP_JPEG/60654640561105815_1886457238.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daft Punk - Daft Club (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6995744803</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6995744803</guid>
-            <pubDate>Wed, 03 Aug 2022 09:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220803_43/16595174019967RNVL_JPEG/60653290710186140_657851284.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
