@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 09:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 10:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,12 +304,20 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김목인 - 4집 저장된 풍경 [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7050520927</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7050520927</guid>
+            <pubDate>Tue, 16 Aug 2022 10:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220629_19/1656490360966RzCNn_JPEG/57626194393957952_299393905.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[허밍 어반 스테레오 Humming Urban Stereo - Gros Calin (180G PEACH COLOURED LP & CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7049446399</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7049446399</guid>
             <pubDate>Tue, 16 Aug 2022 05:24:11 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220816_105/1660625251259LLvpu_JPEG/61761139972663842_1790951091.JPG?type=f140" length="0" type="image/JPG"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220816_105/1660645204979lni5r_JPEG/61781032805168625_695207148.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조관우 - 2집 Memory (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -317,7 +325,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/7049414592</guid>
             <pubDate>Tue, 16 Aug 2022 05:24:11 GMT</pubDate>
             <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220816_65/1660624409336stKww_JPEG/61760304954300754_861076765.jpeg?type=f140" length="0" type="image/jpeg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220816_254/16606448270465F7hB_JPEG/61780654875729997_1597266910.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김현식 - 김현식 In Live (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -325,7 +333,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/7049276333</guid>
             <pubDate>Tue, 16 Aug 2022 04:05:23 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220816_134/16606208847187A07P_JPEG/61756727433890031_540587821.jpeg?type=f140" length="0" type="image/jpeg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220816_79/1660645089399hUowV_JPEG/61780917228410009_2123298727.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack - 이상한 변호사 우영우 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -333,7 +341,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/7049203230</guid>
             <pubDate>Tue, 16 Aug 2022 04:05:23 GMT</pubDate>
             <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220816_161/1660619706919OtfTD_JPEG/61755534748176171_1130339324.jpeg?type=f140" length="0" type="image/jpeg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220816_272/1660644446604Bq0oB_JPEG/61780274428155569_955002779.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lauv - All 4 Nothing [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Thu, 04 Aug 2022 10:26:55 GMT</pubDate>
             <content:encoded><![CDATA[256,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220804_213/1659608122714a4XmM_JPEG/60743957552396004_183188481.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김장훈 - BEST (CLEAR WINE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7000434901</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7000434901</guid>
-            <pubDate>Thu, 04 Aug 2022 10:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220804_206/1659606337566qFMeF_JPEG/60742117267631499_177882531.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DIVE / 오종길 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
