@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 09:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 10:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Alicia Keys - KEYS ll (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7055458553</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7055458553</guid>
+            <pubDate>Wed, 17 Aug 2022 10:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[23,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220817_114/1660731313736KscO6_JPEG/61867148566953654_1258498743.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소울바이서울 SOULBYSEL - SOULBYSEL Compilation 02 [140G ORANGE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7055398838</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7055398838</guid>
+            <pubDate>Wed, 17 Aug 2022 10:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220817_267/16607307981601az8K_JPEG/61866632994991436_1690529719.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시나위 - 4집 Four (180G ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7055358205</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7055358205</guid>
+            <pubDate>Wed, 17 Aug 2022 10:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220817_75/1660730082028w4AUC_JPEG/61865916855051041_1760483477.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyonce - Renaissance (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7051024914</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7051024914</guid>
@@ -598,30 +622,6 @@
             <pubDate>Thu, 04 Aug 2022 12:47:24 GMT</pubDate>
             <content:encoded><![CDATA[26,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220804_48/1659612300858Akwqi_JPEG/60748199571266427_1490600575.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mary Lattimore - Hundreds of Days [ROSE PETAL COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7000667979</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7000667979</guid>
-            <pubDate>Thu, 04 Aug 2022 12:47:24 GMT</pubDate>
-            <content:encoded><![CDATA[33,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220804_44/1659612014894dglTo_JPEG/60747913607171852_1787856160.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mary Lattimore - At The Dam [WATERFALL COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7000656742</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7000656742</guid>
-            <pubDate>Thu, 04 Aug 2022 11:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[33,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220804_124/1659610581822qNwAJ_JPEG/60746409651833743_808225501.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kevin Morby - This Is A Photograph (GOLD NUGGET COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7000569096</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7000569096</guid>
-            <pubDate>Thu, 04 Aug 2022 11:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[33,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220804_107/16596092212525riSj_JPEG/60745055068711510_218003623.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DIVE / 오종길 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
