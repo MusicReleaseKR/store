@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 11:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 12:53:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤명운 - 아침 기다리며, 할머니 부르스 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7059329159</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7059329159</guid>
+            <pubDate>Thu, 18 Aug 2022 12:52:47 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220818_110/16608250200718BghM_JPEG/61960799796385792_631863714.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[들국화 - Best (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7058459105</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 11 Aug 2022 06:29:29 GMT</pubDate>
             <content:encoded><![CDATA[39,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220811_75/166019628360140nzd_JPEG/61332126301648349_989591892.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 Blackpink - BORN PINK (LP) [LIMITED EDITION]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7028791341</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7028791341</guid>
-            <pubDate>Thu, 11 Aug 2022 03:49:12 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220811_148/1660203078354NhWO8_JPEG/61338862062696320_139418759.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
