@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 05:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 06:31:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김대환과 김트리오 악단 - 드럼 드럼 드럼 앰프기타 고고 (LP) [2022 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7058340752</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7058340752</guid>
+            <pubDate>Thu, 18 Aug 2022 06:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220818_198/16608037182555r9CR_JPEG/61939497979606845_782972235.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Calvin Harris -  Funk Wav Bounces Vol 2 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7055498999</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 05 Aug 2022 07:22:20 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220805_19/1659681509926BNOwe_JPEG/60817293635581140_470872668.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kaitlyn Aurelia Smith & Emile Mosseri - I Could Be Your Dog / I Could Be Your Moon [BLUE LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7000760721</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7000760721</guid>
-            <pubDate>Thu, 04 Aug 2022 12:47:24 GMT</pubDate>
-            <content:encoded><![CDATA[33,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220804_259/1659612869000PLMxz_JPEG/60748648720420948_235416963.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
