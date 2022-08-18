@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 07:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,7 +304,47 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김대환과 김트리오 악단 - 드럼 드럼 드럼 앰프기타 고고 (LP) [2022 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[들국화 - Best (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7058459105</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7058459105</guid>
+            <pubDate>Thu, 18 Aug 2022 07:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220818_291/16608068545429oIpT_JPEG/61942700262154342_1372715141.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[들국화 - Best (180G WHITE & YELLOW COMBO SPLATTER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7058445222</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7058445222</guid>
+            <pubDate>Thu, 18 Aug 2022 07:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220818_250/1660806319219eiGac_JPEG/61942153041008218_53035974.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현식 - 6집 사랑 내 곁에 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7058390134</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7058390134</guid>
+            <pubDate>Thu, 18 Aug 2022 07:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220818_14/1660805122488JDWpE_JPEG/61940902214176934_1305448647.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현식 - 6집 사랑 내 곁에 (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7058386292</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7058386292</guid>
+            <pubDate>Thu, 18 Aug 2022 07:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220818_183/1660804828013T6KjS_JPEG/61940607730625525_446587618.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양병집 - 넋두리 (180G LP) [2022 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7058353688</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7058353688</guid>
+            <pubDate>Thu, 18 Aug 2022 07:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220818_109/1660804113615bKG3Y_JPEG/61939893342446301_949480548.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김대환과 김트리오 악단 - 드럼 드럼 드럼 앰프기타 고고 (180G LP) [2022 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7058340752</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7058340752</guid>
             <pubDate>Thu, 18 Aug 2022 06:30:45 GMT</pubDate>
@@ -582,46 +622,6 @@
             <pubDate>Fri, 05 Aug 2022 12:50:32 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220805_89/1659700466197ycgll_JPEG/60836311917562938_844602326.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[They Hate Change - Finally, New (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7005648344</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7005648344</guid>
-            <pubDate>Fri, 05 Aug 2022 12:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220805_253/1659698234305Y5KKr_JPEG/60834130031435807_418559591.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디피알 이안 DPR Ian - 1집 Moodswings In To Order [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7005430401</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7005430401</guid>
-            <pubDate>Fri, 05 Aug 2022 11:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[30,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220805_12/1659695293446TD9cs_JPEG/60831128281448856_1999099213.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kendrick Lamar - Mr.Morale & The Big Steppers (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7004690428</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7004690428</guid>
-            <pubDate>Fri, 05 Aug 2022 08:29:01 GMT</pubDate>
-            <content:encoded><![CDATA[23,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220607_231/1654594124067RnlQt_JPEG/55730012771912525_1146521829.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[템페스트 TEMPEST - 미니앨범 1집 It’s ME, It's WE [CLEAR RED COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7004484233</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7004484233</guid>
-            <pubDate>Fri, 05 Aug 2022 07:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220805_128/16596819092967Sx96_JPEG/60817693003432415_1846508.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곽푸른하늘 - Nearly (T)here [140G WHITE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7004452854</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7004452854</guid>
-            <pubDate>Fri, 05 Aug 2022 07:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220805_19/1659681509926BNOwe_JPEG/60817293635581140_470872668.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DIVE / 오종길 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
