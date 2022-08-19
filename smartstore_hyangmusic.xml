@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 09:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 10:29:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Guns N Roses - Use Your Illusion I (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7062495946</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7062495946</guid>
+            <pubDate>Fri, 19 Aug 2022 10:29:30 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220819_288/1660904205409dgqPE_JPEG/62040094107024459_2099114738.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤명운 - 아침 기다리며, 할머니 부르스 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7059329159</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 11 Aug 2022 06:29:29 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220811_153/1660198311952QfP3y_JPEG/61334146784877196_182532815.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 - 4집 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7029359735</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7029359735</guid>
-            <pubDate>Thu, 11 Aug 2022 06:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220811_75/166019628360140nzd_JPEG/61332126301648349_989591892.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
