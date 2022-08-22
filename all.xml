@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 07:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 08:32:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,46 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울매직클럽 - Peace & Bless [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7073963973</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7073963973</guid>
+            <pubDate>Mon, 22 Aug 2022 08:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220822_45/1661156642456gN8Pj_JPEG/62292488164128391_1802072816.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신중현과 퀘션스 - In A Kadda Da Vida (The Psychedelic Sound) [180G 3 COLORS SPLATTER LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7073929189</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7073929189</guid>
+            <pubDate>Mon, 22 Aug 2022 08:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220822_215/1661155826960OBzSE_JPEG/62291672678835208_1443752781.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신중현과 퀘션스 - In A Kadda Da Vida (The Psychedelic Sound) [180G 3 COLORS SPLATTER LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7073920227</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7073920227</guid>
+            <pubDate>Mon, 22 Aug 2022 08:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220822_15/1661155818390hIHXx_JPEG/62291664107727133_1883162778.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[석찬 - 모닥불 황혼 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7073886001</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7073886001</guid>
+            <pubDate>Mon, 22 Aug 2022 08:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220822_289/166115493168332Qw6_JPEG/62290711394318948_2100494537.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[석찬 - 모닥불 황혼 (180G GREEN MARBLE SPLATTER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7073879555</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7073879555</guid>
+            <pubDate>Mon, 22 Aug 2022 08:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220822_72/1661154924047zdhJb_JPEG/62290703772099829_1338370773.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Maroon 5 - Songs About Jane (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7063264417</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7063264417</guid>
@@ -582,46 +622,6 @@
             <pubDate>Tue, 16 Aug 2022 04:05:23 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220816_79/1660645089399hUowV_JPEG/61780917228410009_2123298727.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 이상한 변호사 우영우 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7049203230</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7049203230</guid>
-            <pubDate>Tue, 16 Aug 2022 04:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220816_272/1660644446604Bq0oB_JPEG/61780274428155569_955002779.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lauv - All 4 Nothing [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7034769799</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7034769799</guid>
-            <pubDate>Fri, 12 Aug 2022 10:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220812_51/16602957049467207L_JPEG/61431484660956851_2101322137.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엉클밥 - 엉클밥 (140G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7034553566</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7034553566</guid>
-            <pubDate>Fri, 12 Aug 2022 09:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220812_140/1660295008340UFxGt_JPEG/61430792054991026_171009417.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지다 JIDA - Summer Colours (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7029849326</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7029849326</guid>
-            <pubDate>Thu, 11 Aug 2022 08:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220811_255/1660205487853G880a_JPEG/61341322681675214_86860074.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루시 Lucy - 1집 Childhood [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7029547242</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7029547242</guid>
-            <pubDate>Thu, 11 Aug 2022 07:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220811_270/1660199594629HNPVz_JPEG/61335429429386585_701430706.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[죽은 척하기 / 해파 정규 1집 (네이버 스마트스토어 ─ 공상온도)]]></title>
