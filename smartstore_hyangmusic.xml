@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dusko Goykovich]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7073996131</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7073996131</guid>
+            <pubDate>Mon, 22 Aug 2022 09:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220822_16/1661157086203pSXat_JPEG/62292931924161458_811304658.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울매직클럽 - Peace & Bless [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7073963973</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 16 Aug 2022 05:24:11 GMT</pubDate>
             <content:encoded><![CDATA[41,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220816_254/16606448270465F7hB_JPEG/61780654875729997_1597266910.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 - 김현식 In Live (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7049276333</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7049276333</guid>
-            <pubDate>Tue, 16 Aug 2022 04:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220816_79/1660645089399hUowV_JPEG/61780917228410009_2123298727.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
