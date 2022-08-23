@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 06:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 07:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김아름 - Summer City (140G BLUE CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7077540106</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7077540106</guid>
+            <pubDate>Tue, 23 Aug 2022 07:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220823_19/1661237488346MEyL5_JPEG/62373334024475442_732442993.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dusko Goykovich]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7073996131</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 16 Aug 2022 05:24:11 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220816_105/1660645204979lni5r_JPEG/61781032805168625_695207148.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조관우 - 2집 Memory (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7049414592</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7049414592</guid>
-            <pubDate>Tue, 16 Aug 2022 05:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220816_254/16606448270465F7hB_JPEG/61780654875729997_1597266910.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
