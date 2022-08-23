@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 08:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이석 / 임아영 - 두 마음 비둘기 집 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7077721602</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7077721602</guid>
+            <pubDate>Tue, 23 Aug 2022 08:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220823_113/1661241131552VYvBm_JPEG/62376966374555660_1978402111.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이석 / 임아영 - 두 마음 비둘기 집 (180G BABY BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7077716134</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7077716134</guid>
+            <pubDate>Tue, 23 Aug 2022 08:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220823_6/1661240772893SGABn_JPEG/62376607721203526_1411417407.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김아름 - Summer City (140G BLUE CLEAR COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7077540106</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 16 Aug 2022 13:34:56 GMT</pubDate>
             <content:encoded><![CDATA[68,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220816_145/1660654627263FNhAx_JPEG/61790515971911389_709494510.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김목인 - 4집 저장된 풍경 [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7050520927</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7050520927</guid>
-            <pubDate>Tue, 16 Aug 2022 10:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[38,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220629_19/1656490360966RzCNn_JPEG/57626194393957952_299393905.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허밍 어반 스테레오 Humming Urban Stereo - Gros Calin (180G PEACH COLOURED LP & CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7049446399</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7049446399</guid>
-            <pubDate>Tue, 16 Aug 2022 05:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220816_105/1660645204979lni5r_JPEG/61781032805168625_695207148.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
