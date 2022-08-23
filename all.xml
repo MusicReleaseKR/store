@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Wed, 06 Jul 2022 22:23:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리치맨과 그루브나이스 Richiman and Groove Nice - Memphis Special one take live [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7078027859</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7078027859</guid>
+            <pubDate>Tue, 23 Aug 2022 09:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220823_214/16612458018936FEOI_JPEG/62381581611986939_1815351634.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude Bolling / Jean-Pierre Rampal - Suite For Flute And Jazz Piano Trio (180G GREEN COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7077962301</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7077962301</guid>
+            <pubDate>Tue, 23 Aug 2022 09:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220823_141/1661245374186EQKWU_JPEG/62381153908410097_522249013.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이석 / 임아영 - 두 마음 비둘기 집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Wed, 17 Aug 2022 10:27:14 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220817_267/16607307981601az8K_JPEG/61866632994991436_1690529719.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시나위 - 4집 Four (180G ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7055358205</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7055358205</guid>
-            <pubDate>Wed, 17 Aug 2022 10:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220817_75/1660730082028w4AUC_JPEG/61865916855051041_1760483477.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyonce - Renaissance (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7051024914</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7051024914</guid>
-            <pubDate>Tue, 16 Aug 2022 13:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[68,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220816_145/1660654627263FNhAx_JPEG/61790515971911389_709494510.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[죽은 척하기 / 해파 정규 1집 (네이버 스마트스토어 ─ 공상온도)]]></title>
