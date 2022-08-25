@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 06:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 07:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두번째달 - 1집 두번째달 (CLEAR COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7086589036</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7086589036</guid>
+            <pubDate>Thu, 25 Aug 2022 07:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_97/1661411772517lpBs8_JPEG/62547552233530327_2104713345.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weezer - Weezer (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7082931731</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 23 Aug 2022 10:27:35 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220819_225/1660893088271Ovr0j_JPEG/62028976981339473_101616701.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prince - The Gold Experience [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061327544</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061327544</guid>
-            <pubDate>Tue, 23 Aug 2022 10:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_246/1660892760376f0zks_JPEG/62028649085407305_478718487.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
