@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Wed, 06 Jul 2022 22:23:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stratovarius - Survive (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7086694665</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7086694665</guid>
+            <pubDate>Thu, 25 Aug 2022 08:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_155/1661413465267g7OKc_JPEG/62549293083269666_309428520.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blind Guardian - The God Machine (2CD Deluxe Edition) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7086640553</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7086640553</guid>
+            <pubDate>Thu, 25 Aug 2022 08:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_154/1661412453966A4ich_JPEG/62548349703929311_2033156144.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두번째달 - 1집 두번째달 (CLEAR COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -608,20 +624,20 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220819_27/1660894025443vKPep_JPEG/62029914065010510_400653669.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mike Bloomfield And Al Kooper And Steve Stills - Super Session (REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061372652</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061372652</guid>
-            <pubDate>Tue, 23 Aug 2022 10:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_65/1660893561232zH0Uz_JPEG/62029449940186058_2048999011.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[지워지는 나를 지키는 일 / 연옥 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7086782711</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7086782711</guid>
+            <pubDate>Thu, 25 Aug 2022 08:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[11,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_202/1661415275312lVe2u_JPEG/62551103124456222_249583414.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Iron Maiden - Piece Of Mind (2015 REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061344644</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061344644</guid>
-            <pubDate>Tue, 23 Aug 2022 10:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_225/1660893088271Ovr0j_JPEG/62028976981339473_101616701.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[정해져 있지 않은 거주지: 오드라데크 / 히스테리안 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7086673424</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7086673424</guid>
+            <pubDate>Thu, 25 Aug 2022 08:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_2/1661413378538GUyBc_JPEG/62549206349575320_969615066.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[죽은 척하기 / 해파 정규 1집 (네이버 스마트스토어 ─ 공상온도)]]></title>
@@ -926,22 +942,6 @@
             <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
             <content:encoded><![CDATA[13,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220329_152/1648556231806MLLRj_JPEG/49692066492641652_370561402.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인류 최후의 목욕탕 / 손강 소설 / 모닥킨스튜디오 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6475999519</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6475999519</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[9,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220329_182/1648554503844vljkO_JPEG/49690402549446106_92447080.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬리핑보틀 Sleeping Bottle / 잠들기전 마시는 슬리핑보틀 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6475014809</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6475014809</guid>
-            <pubDate>Sat, 23 Apr 2022 13:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[4,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220329_104/16485417493364v4Xz_JPEG/49677582916819044_393230601.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[씬의 아이들 (네이버 스마트스토어 ─ 재미공작소)]]></title>

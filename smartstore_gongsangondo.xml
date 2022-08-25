@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:32:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지워지는 나를 지키는 일 / 연옥 에세이]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7086782711</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7086782711</guid>
+            <pubDate>Thu, 25 Aug 2022 08:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[11,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_202/1661415275312lVe2u_JPEG/62551103124456222_249583414.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정해져 있지 않은 거주지: 오드라데크 / 히스테리안 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7086673424</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7086673424</guid>
+            <pubDate>Thu, 25 Aug 2022 08:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_2/1661413378538GUyBc_JPEG/62549206349575320_969615066.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[죽은 척하기 / 해파 정규 1집]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7059083084</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 29 Mar 2022 12:46:05 GMT</pubDate>
             <content:encoded><![CDATA[13,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220329_152/1648556231806MLLRj_JPEG/49692066492641652_370561402.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인류 최후의 목욕탕 / 손강 소설 / 모닥킨스튜디오 출판]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6475999519</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6475999519</guid>
-            <pubDate>Tue, 29 Mar 2022 12:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[9,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220329_182/1648554503844vljkO_JPEG/49690402549446106_92447080.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬리핑보틀 Sleeping Bottle / 잠들기전 마시는 슬리핑보틀]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6475014809</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6475014809</guid>
-            <pubDate>Tue, 29 Mar 2022 08:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[4,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220329_104/16485417493364v4Xz_JPEG/49677582916819044_393230601.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

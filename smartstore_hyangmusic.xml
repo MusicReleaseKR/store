@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stratovarius - Survive (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7086694665</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7086694665</guid>
+            <pubDate>Thu, 25 Aug 2022 08:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_155/1661413465267g7OKc_JPEG/62549293083269666_309428520.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blind Guardian - The God Machine (2CD Deluxe Edition)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7086640553</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7086640553</guid>
+            <pubDate>Thu, 25 Aug 2022 08:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_154/1661412453966A4ich_JPEG/62548349703929311_2033156144.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두번째달 - 1집 두번째달 (CLEAR COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7086589036</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 23 Aug 2022 10:27:35 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220819_27/1660894025443vKPep_JPEG/62029914065010510_400653669.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mike Bloomfield And Al Kooper And Steve Stills - Super Session (REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061372652</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061372652</guid>
-            <pubDate>Tue, 23 Aug 2022 10:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_65/1660893561232zH0Uz_JPEG/62029449940186058_2048999011.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iron Maiden - Piece Of Mind (2015 REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061344644</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061344644</guid>
-            <pubDate>Tue, 23 Aug 2022 10:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_225/1660893088271Ovr0j_JPEG/62028976981339473_101616701.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
