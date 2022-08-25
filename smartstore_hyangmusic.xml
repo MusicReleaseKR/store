@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 13:00:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 13:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Paul McCartney - McCartney I / II / III (3CD) [BOX SET]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7087684617</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7087684617</guid>
+            <pubDate>Thu, 25 Aug 2022 13:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[62,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_78/1661433115408Rg0CI_JPEG/62568895115996375_189787596.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paul McCartney - McCartney I / II / III (180G 3LP) [BOX SET]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7087677800</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7087677800</guid>
+            <pubDate>Thu, 25 Aug 2022 13:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[145,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_288/16614326238505UaJI_JPEG/62568403569481168_1912831945.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Le Orme - Di Pezza (180G CLEAR RED COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7087247225</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220819_98/16608954848993RM5t_JPEG/62031264613845162_1809234472.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 IU - 4집 Palette (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061462394</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061462394</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_33/1660895292346emkKx_JPEG/62031072063615284_281407086.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Love Letter (러브 레터) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061449624</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061449624</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_237/1660895023241oGv23_JPEG/62030802948283740_794253276.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
