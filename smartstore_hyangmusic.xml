@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 09:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 10:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Le Orme - Di Pezza (180G CLEAR RED COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7087247225</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7087247225</guid>
+            <pubDate>Thu, 25 Aug 2022 10:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_225/1661422074712K0P6J_JPEG/62557908533505209_1279622969.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Louis Armstrong - A Gift To Pops - The Wonderful World of Louis Armstrong All Stars [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7087202076</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7087202076</guid>
+            <pubDate>Thu, 25 Aug 2022 10:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[30,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220228_236/1646039414050KPTS0_JPEG/47175193766619105_1851615595.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stratovarius - Survive (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7086694665</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 23 Aug 2022 10:27:35 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220819_237/1660895023241oGv23_JPEG/62030802948283740_794253276.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queen - Greatest Hits I II & III - The Platinum Collection (2011 REMASTERED) [3CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061441421</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061441421</guid>
-            <pubDate>Tue, 23 Aug 2022 10:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[26,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_289/16608948117319DWeW_JPEG/62030591455992094_492413582.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queensryche - Operation Mindcrime (REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061415301</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061415301</guid>
-            <pubDate>Tue, 23 Aug 2022 10:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_27/1660894025443vKPep_JPEG/62029914065010510_400653669.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
