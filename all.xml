@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 04:45:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 05:57:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,86 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Weezer - Weezer (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7082931731</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7082931731</guid>
+            <pubDate>Thu, 25 Aug 2022 05:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220824_10/1661336935623lJprt_JPEG/62472831356597926_318171701.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd - Kiss Land (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7082915989</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7082915989</guid>
+            <pubDate>Thu, 25 Aug 2022 05:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220824_237/1661336477649f06BD_JPEG/62472373381170894_2082907854.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Slayer - Reign In Blood (EXPANDED EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7082891380</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7082891380</guid>
+            <pubDate>Thu, 25 Aug 2022 05:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220824_250/1661336130407uPogr_JPEG/62472026144866328_1875590845.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rush - Moving Pictures (REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7082770261</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7082770261</guid>
+            <pubDate>Thu, 25 Aug 2022 05:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220824_247/1661334717015QMFiS_JPEG/62470559718910695_56849911.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rainbow - Ritchie Blackmore's Rainbow (REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7082741576</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7082741576</guid>
+            <pubDate>Thu, 25 Aug 2022 05:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220824_59/16613344230173vFl7_JPEG/62470265733324634_854341866.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rainbow - Rising (REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7082690127</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7082690127</guid>
+            <pubDate>Thu, 25 Aug 2022 05:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220824_171/1661334042065VIj2O_JPEG/62469884779390911_384944737.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Drake - Pink Moon (MINT DIGI-PAK) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7082284483</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7082284483</guid>
+            <pubDate>Thu, 25 Aug 2022 05:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220824_79/1661328975637OUJX2_JPEG/62464759353591064_1248455279.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Drake - Five Leaves Left (MINT DIGI-PAK) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7082274819</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7082274819</guid>
+            <pubDate>Thu, 25 Aug 2022 05:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220824_20/16613287232486srNu_JPEG/62464506964295803_1193373924.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Lamar - Good Kid, M.A.A.D City (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7082265247</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7082265247</guid>
+            <pubDate>Thu, 25 Aug 2022 05:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220824_120/16613284406411c7se_JPEG/62464224351183982_1385727995.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West - Graduation (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7082252920</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7082252920</guid>
+            <pubDate>Thu, 25 Aug 2022 05:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220824_54/1661328030893mXfJd_JPEG/62463814603644715_67267123.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신세하 Xin Seha - I Just Can't Control My Feet [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7082185678</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7082185678</guid>
@@ -542,86 +622,6 @@
             <pubDate>Tue, 23 Aug 2022 10:27:35 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220819_246/1660892760376f0zks_JPEG/62028649085407305_478718487.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd - The Wall (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061297815</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061297815</guid>
-            <pubDate>Tue, 23 Aug 2022 10:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_213/1660892383627hVgW0_JPEG/62028272341041351_266207578.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤명운 - 아침 기다리며, 할머니 부르스 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7059329159</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7059329159</guid>
-            <pubDate>Thu, 18 Aug 2022 12:52:47 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220818_110/16608250200718BghM_JPEG/61960799796385792_631863714.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들국화 - Best (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7058459105</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7058459105</guid>
-            <pubDate>Thu, 18 Aug 2022 07:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220818_291/16608068545429oIpT_JPEG/61942700262154342_1372715141.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들국화 - Best (180G WHITE & YELLOW COMBO SPLATTER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7058445222</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7058445222</guid>
-            <pubDate>Thu, 18 Aug 2022 07:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220818_250/1660806319219eiGac_JPEG/61942153041008218_53035974.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 - 6집 사랑 내 곁에 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7058390134</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7058390134</guid>
-            <pubDate>Thu, 18 Aug 2022 07:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220818_14/1660805122488JDWpE_JPEG/61940902214176934_1305448647.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 - 6집 사랑 내 곁에 (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7058386292</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7058386292</guid>
-            <pubDate>Thu, 18 Aug 2022 07:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220818_183/1660804828013T6KjS_JPEG/61940607730625525_446587618.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양병집 - 넋두리 (180G LP) [2022 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7058353688</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7058353688</guid>
-            <pubDate>Thu, 18 Aug 2022 07:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220818_109/1660804113615bKG3Y_JPEG/61939893342446301_949480548.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김대환과 김트리오 악단 - 드럼 드럼 드럼 앰프기타 고고 (180G LP) [2022 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7058340752</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7058340752</guid>
-            <pubDate>Thu, 18 Aug 2022 06:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220818_198/16608037182555r9CR_JPEG/61939497979606845_782972235.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Velvet Underground - The Velvet Underground & Nico (45TH ANNIVERSARY REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7055909634</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7055909634</guid>
-            <pubDate>Thu, 18 Aug 2022 08:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220817_256/1660745084809EQudB_JPEG/61880868517702488_551610988.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jay-Z - The Blueprint (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7055901548</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7055901548</guid>
-            <pubDate>Thu, 18 Aug 2022 08:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220817_39/1660744784232g5Ry0_JPEG/61880567936723072_135126034.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[죽은 척하기 / 해파 정규 1집 (네이버 스마트스토어 ─ 공상온도)]]></title>
