@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 09:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 10:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -624,6 +624,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220819_30/1660897398316S3hQw_JPEG/62033182022225877_312151115.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사랑을 빼놓고선 적을 문장이 없다. / 김유라 산문 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7092649239</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7092649239</guid>
+            <pubDate>Fri, 26 Aug 2022 10:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220826_50/166150908188110pCt_JPEG/62644909698016379_930282093.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우연적인 환상 / 김민지 SF 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7092387040</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7092387040</guid>
+            <pubDate>Fri, 26 Aug 2022 10:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220826_206/16615065543422Xa0m_JPEG/62642443046998004_2104877734.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[불안 한 톳 / 이택민 에세이 / 책편사 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7091782360</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7091782360</guid>
@@ -926,22 +942,6 @@
             <pubDate>Thu, 25 Aug 2022 12:48:25 GMT</pubDate>
             <content:encoded><![CDATA[28,800]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220409_267/1649434981022MAC14_JPEG/50570869736115859_1086376075.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 소나타 / 도흔 에세이 / 조그만북스 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6522426221</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6522426221</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[8,600]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220409_222/16494304610403vrc1_JPEG/50566303750264654_923194363.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어른이다 / 박민지, 이다연, 이승주 동화책 / 팀 소꿉노리 출판 / 그림책 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6476141495</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6476141495</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[15,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220329_81/16485590537347iPN2_JPEG/49694887306227652_1573719863.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[씬의 아이들 (네이버 스마트스토어 ─ 재미공작소)]]></title>
