@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 08:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 09:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크랙샷 Crackshot - New Wave (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7091838866</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7091838866</guid>
+            <pubDate>Fri, 26 Aug 2022 09:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220826_282/1661503919294AKG9w_JPEG/62639747101562453_399669444.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이용복 - 오리지날총결산 (그얼굴에 햇살을 / 사랑의 모닥불) [180G GREEN COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7091731885</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7091731885</guid>
+            <pubDate>Fri, 26 Aug 2022 09:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220826_145/16615034071823dpTV_JPEG/62639235013365561_1821934937.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정수라 - 2집 바람이었나 / 외로운 소녀 [180G RED COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7091690960</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7091690960</guid>
+            <pubDate>Fri, 26 Aug 2022 09:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220826_261/1661503074116Eurqn_JPEG/62638901946082513_405232801.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Paul McCartney - McCartney I / II / III (3CD) [BOX SET]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7087684617</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
             <content:encoded><![CDATA[17,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220819_30/1660897398316S3hQw_JPEG/62033182022225877_312151115.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넬 Nell - 7집 C [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061551036</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061551036</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_221/1660897064299BtCzF_JPEG/62032848006199611_2044414985.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넬 Nell - 5집 Slip Away (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061541464</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061541464</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_215/1660896868175O3WVG_JPEG/62032651887581017_321648221.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 IU - Love Poem (5TH MINI ALBUM) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061527870</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061527870</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_98/16608954848993RM5t_JPEG/62031264613845162_1809234472.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
