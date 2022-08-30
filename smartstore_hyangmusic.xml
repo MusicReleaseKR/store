@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 10:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 11:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반 (Baan) - To Telescope (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7110149775</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7110149775</guid>
+            <pubDate>Tue, 30 Aug 2022 11:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[6,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220830_119/1661855369386DDavP_JPEG/62991197215821413_406760492.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2차분예약] 제이홉 J-Hope - Jack In The Box (LP) [LIMITED EDITION]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7109956134</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220824_59/16613344230173vFl7_JPEG/62470265733324634_854341866.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rainbow - Rising (REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7082690127</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7082690127</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220824_171/1661334042065VIj2O_JPEG/62469884779390911_384944737.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
