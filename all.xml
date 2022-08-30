@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 09:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 10:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Thu, 25 Aug 2022 12:48:08 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2차분예약] 제이홉 J-Hope - Jack In The Box (LP) [LIMITED EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7109956134</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7109956134</guid>
+            <pubDate>Tue, 30 Aug 2022 10:26:41 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220808_269/1659944635364yWvm7_JPEG/61080481069214000_1557114269.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허밍 어반 스테레오 Humming Urban Stereo - Gros Calin (180G WHITE COLOURED LP & CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220824_171/1661334042065VIj2O_JPEG/62469884779390911_384944737.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nick Drake - Pink Moon (MINT DIGI-PAK) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7082284483</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7082284483</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220824_79/1661328975637OUJX2_JPEG/62464759353591064_1248455279.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑을 빼놓고선 적을 문장이 없다. / 김유라 산문 (네이버 스마트스토어 ─ 공상온도)]]></title>
