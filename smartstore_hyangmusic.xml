@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 05:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 07:00:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김현식 - 5집 넋두리 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7114569331</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7114569331</guid>
+            <pubDate>Wed, 31 Aug 2022 06:59:56 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220831_248/1661926088949OCmLc_JPEG/63061931665181580_1723273603.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현식 - 3집 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7114491060</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7114491060</guid>
+            <pubDate>Wed, 31 Aug 2022 06:59:56 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220831_97/1661925487660IK1Er_JPEG/63061330375191280_999117919.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반 (Baan) - To Telescope (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7110149775</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220824_250/1661336130407uPogr_JPEG/62472026144866328_1875590845.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rush - Moving Pictures (REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7082770261</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7082770261</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220824_247/1661334717015QMFiS_JPEG/62470559718910695_56849911.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rainbow - Ritchie Blackmore's Rainbow (REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7082741576</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7082741576</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220824_59/16613344230173vFl7_JPEG/62470265733324634_854341866.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
