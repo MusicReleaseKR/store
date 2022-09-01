@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 02:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 04:39:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,7 +352,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220831_144/1661933513212wcVKQ_JPEG/63069348039826922_869110399.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임재범 - Seven (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[임재범 - Seven (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7115019434</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7115019434</guid>
             <pubDate>Wed, 31 Aug 2022 07:42:10 GMT</pubDate>
