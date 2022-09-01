@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 08:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 09:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김광석 - 못다 한 이야기 (180G CLEAR & YELLOW CLEAR COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7120741765</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7120741765</guid>
+            <pubDate>Thu, 01 Sep 2022 09:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[68,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220901_84/16620238923812urhV_JPEG/63159781084252868_569569678.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신촌블루스 - 1집 그대없는 거리 (180G LP) [패닉버튼 리이슈]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7115796073</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 26 Aug 2022 12:47:32 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220825_119/1661425973933UQ6XY_JPEG/62561807755003998_1028428486.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 Lee-Tzsche - 13집 The Third Place (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7087404818</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7087404818</guid>
-            <pubDate>Fri, 26 Aug 2022 12:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220825_38/1661425769303wwaCx_JPEG/62561603113020521_2049901214.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
