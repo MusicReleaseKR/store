@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 09:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 10:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Thu, 25 Aug 2022 12:48:08 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silk Sonic - An Evening With Silk Sonic [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7125271273</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7125271273</guid>
+            <pubDate>Fri, 02 Sep 2022 10:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[39,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220902_65/1662112551213Vdm4A_JPEG/63248386030427793_853114972.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유해인 / 이사라 - You & I (CD + LP + 악보집) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Fri, 26 Aug 2022 12:47:32 GMT</pubDate>
             <content:encoded><![CDATA[9,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220825_129/16614319800028SKmG_JPEG/62567759716652255_922527909.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김일두 - 2집 달과 별의 영혼 (재발매) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7087630369</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7087630369</guid>
-            <pubDate>Fri, 26 Aug 2022 12:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220825_286/1661431394553LMNhi_JPEG/62567240261062482_1152130731.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑을 빼놓고선 적을 문장이 없다. / 김유라 산문 (네이버 스마트스토어 ─ 공상온도)]]></title>
