@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 13:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 14:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박창근 - 베스트 20 (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7125888894</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7125888894</guid>
+            <pubDate>Fri, 02 Sep 2022 14:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[70,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220902_183/1662126413059TfYvG_JPEG/63262240887096521_1436041015.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Silk Sonic - An Evening With Silk Sonic [LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7125271273</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 13:47:26 GMT</pubDate>
             <content:encoded><![CDATA[145,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220825_288/16614326238505UaJI_JPEG/62568403569481168_1912831945.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넬 Nell - Speechless (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7087650994</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7087650994</guid>
-            <pubDate>Fri, 26 Aug 2022 12:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[9,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220825_129/16614319800028SKmG_JPEG/62567759716652255_922527909.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
