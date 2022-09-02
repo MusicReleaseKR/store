@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 06:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 07:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SMMT - Mr Hollywood (CD) [사인CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7124278164</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7124278164</guid>
+            <pubDate>Fri, 02 Sep 2022 07:29:33 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220902_138/1662101457519yz9hO_JPEG/63237292349487402_350993018.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 김정호 추모앨범 [180g LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7120992000</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 26 Aug 2022 12:47:32 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220825_270/1661429813291hmbGb_JPEG/62565709015491518_1918676814.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조소정 - 들켜버려도 좋은 (일기) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7087542693</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7087542693</guid>
-            <pubDate>Fri, 26 Aug 2022 12:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220825_43/16614295152694IBAS_JPEG/62565410994319069_1589471147.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
