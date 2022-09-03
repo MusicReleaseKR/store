@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 11:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 12:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cigarettes After Sex - Cigarettes After Sex (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7130493386</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7130493386</guid>
+            <pubDate>Sat, 03 Sep 2022 12:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220311_256/1647002086113szUSQ_JPEG/48137931827191010_1584076724.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eric Clapton - At 70 - Live At The Royal Albert Hall (Blu-Ray)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7130355570</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7130355570</guid>
+            <pubDate>Sat, 03 Sep 2022 12:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[27,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220903_283/1662204394864riqvD_JPEG/63340174571759465_28945968.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쏜애플 Thornapple - 2집 이상기후 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7130031284</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 26 Aug 2022 09:24:15 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220826_145/16615034071823dpTV_JPEG/62639235013365561_1821934937.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정수라 - 2집 바람이었나 / 외로운 소녀 [180G RED COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7091690960</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7091690960</guid>
-            <pubDate>Fri, 26 Aug 2022 09:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220826_261/1661503074116Eurqn_JPEG/62638901946082513_405232801.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paul McCartney - McCartney I / II / III (3CD) [BOX SET]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7087684617</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7087684617</guid>
-            <pubDate>Thu, 25 Aug 2022 13:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[62,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220825_78/1661433115408Rg0CI_JPEG/62568895115996375_189787596.jpeg?type=f140" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
