@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 10:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 11:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쏜애플 Thornapple - 2집 이상기후 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7130031284</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7130031284</guid>
+            <pubDate>Sat, 03 Sep 2022 11:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220903_143/1662201266303auQDF_JPEG/63337050013993672_126194417.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박창근 - 베스트 20 (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7125888894</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 13:47:26 GMT</pubDate>
             <content:encoded><![CDATA[62,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220825_78/1661433115408Rg0CI_JPEG/62568895115996375_189787596.jpeg?type=f140" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paul McCartney - McCartney I / II / III (180G 3LP) [BOX SET]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7087677800</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7087677800</guid>
-            <pubDate>Thu, 25 Aug 2022 13:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[145,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220825_288/16614326238505UaJI_JPEG/62568403569481168_1912831945.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
