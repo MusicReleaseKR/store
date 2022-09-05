@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 10:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 11:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Belle and Sebastian - A Bit of Previous (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7140928357</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7140928357</guid>
+            <pubDate>Mon, 05 Sep 2022 11:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220905_294/1662376575447vTM9I_JPEG/63512471176156305_523241198.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Horsegirl - Versions of Modern Performance (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7140921435</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7140921435</guid>
+            <pubDate>Mon, 05 Sep 2022 11:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220905_194/1662376333825gyvet_JPEG/63512229562569916_157941283.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Interpol - The Other Side Of Make Believe (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7140913470</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7140913470</guid>
+            <pubDate>Mon, 05 Sep 2022 11:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220905_214/1662376075524mAV99_JPEG/63511971247687714_488487623.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cigarettes After Sex - Cigarettes After Sex (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7130493386</link>
@@ -30,6 +54,14 @@
             <pubDate>Sat, 03 Sep 2022 11:19:56 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220903_143/1662201266303auQDF_JPEG/63337050013993672_126194417.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생각의 여름 - The Republic Of Trees (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7129876841</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7129876841</guid>
+            <pubDate>Mon, 05 Sep 2022 11:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[10,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220903_200/1662199296074HRfoS_JPEG/63335184783764671_751669121.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박창근 - 베스트 20 (2LP)]]></title>
@@ -294,38 +326,6 @@
             <pubDate>Wed, 31 Aug 2022 08:30:20 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220826_176/1661512066512moOXA_JPEG/62647909217868541_958684783.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루시드 폴 Lucid Fall - 2집 오, 사랑 (REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7092812020</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7092812020</guid>
-            <pubDate>Wed, 31 Aug 2022 08:30:20 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220826_265/1661511762066UAbCC_JPEG/62647604773182202_1492259974.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이프 앤 타임 Life And Time - The Great Deep (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7092798068</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7092798068</guid>
-            <pubDate>Wed, 31 Aug 2022 08:30:20 GMT</pubDate>
-            <content:encoded><![CDATA[8,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220826_265/1661511465918zkV4n_JPEG/62647354616737098_1096267095.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크랙샷 Crackshot - New Wave (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7091838866</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7091838866</guid>
-            <pubDate>Fri, 26 Aug 2022 09:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220826_282/1661503919294AKG9w_JPEG/62639747101562453_399669444.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이용복 - 오리지날총결산 (그얼굴에 햇살을 / 사랑의 모닥불) [180G GREEN COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7091731885</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7091731885</guid>
-            <pubDate>Fri, 26 Aug 2022 09:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220826_145/16615034071823dpTV_JPEG/62639235013365561_1821934937.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
