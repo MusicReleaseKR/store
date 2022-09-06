@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에픽 하이 Epik High - Sleepless In __________ (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7144863849</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7144863849</guid>
+            <pubDate>Tue, 06 Sep 2022 07:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220906_17/16624487396723SoJT_JPEG/63584574507671206_498020148.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도도어스 - 멸종의 기원 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7144808343</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7144808343</guid>
+            <pubDate>Tue, 06 Sep 2022 07:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220906_120/1662446196246Spm2Y_JPEG/63582038918097684_927538578.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Belle and Sebastian - A Bit of Previous (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7140928357</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
             <content:encoded><![CDATA[11,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220903_243/1662199796502WGs2o_JPEG/63335685214520477_932074738.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불고기디스코 Bulgogidisco - Bulgog Disco [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7129887320</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7129887320</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_175/1662199522765tGXsL_JPEG/63335411472372179_56687506.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생각의 여름 - The Republic Of Trees (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7129876841</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7129876841</guid>
-            <pubDate>Mon, 05 Sep 2022 11:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[10,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_200/1662199296074HRfoS_JPEG/63335184783764671_751669121.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
