@@ -4,9 +4,49 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 09:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 10:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임억련 Sandy Lam - 경전가곡 (HQ-180G AUDIOPHILE LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7145950055</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7145950055</guid>
+            <pubDate>Tue, 06 Sep 2022 10:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220906_11/16624598198812Js6f_JPEG/63595653693221227_1456263941.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis - Be Here Now (SILVER COLOURED 2LP) [25TH ANNIVERSARY]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7145875117</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7145875117</guid>
+            <pubDate>Tue, 06 Sep 2022 10:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[83,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220906_159/1662459288718kYlGM_JPEG/63595134436783725_227675550.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arch Enemy - Deceivers [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7145833461</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7145833461</guid>
+            <pubDate>Tue, 06 Sep 2022 10:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[37,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220906_150/1662458842417qPj9I_JPEG/63594688129347782_53960615.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김광석 - 다시부르기 2 (아트 콜렉터스 에디션) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7145767584</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7145767584</guid>
+            <pubDate>Tue, 06 Sep 2022 10:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220906_267/1662458134106EyejQ_JPEG/63593913824406635_1489656505.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김광석 - 다시부르기 1 (아트 콜렉터스 에디션) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7145707838</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7145707838</guid>
+            <pubDate>Tue, 06 Sep 2022 10:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220906_202/1662457631025acWbx_JPEG/63593410744801358_1645979221.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에픽 하이 Epik High - Sleepless In __________ (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7144863849</link>
@@ -286,46 +326,6 @@
             <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
             <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220903_125/1662201972515uTvBq_JPEG/63337800336848340_2082287112.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 Thornapple - 서울병 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7130060341</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7130060341</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_1/1662201540323UhU77_JPEG/63337324036594617_779854127.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 Thornapple - 2집 이상기후 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7130031284</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7130031284</guid>
-            <pubDate>Sat, 03 Sep 2022 11:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_143/1662201266303auQDF_JPEG/63337050013993672_126194417.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 Thornapple - 3집 계몽 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7129999937</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7129999937</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_217/16622010441417xVrA_JPEG/63336827843285570_506731199.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 Thornapple - 1집 난 자꾸 말을 더듬고 잠드는 법도 잊었네 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7129922754</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7129922754</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_64/1662200020372WYWhO_JPEG/63335909082786491_631865300.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이 앤트 메리 My Aunt Mary - 3집 - Just Pop]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7129906740</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7129906740</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[11,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_243/1662199796502WGs2o_JPEG/63335685214520477_932074738.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
