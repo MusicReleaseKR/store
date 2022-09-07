@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 14:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 15:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,38 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Pavement - Slanted & Enchanted (레드 블랙 화이트 스플래터 컬러 LP) [30TH ANNIVERSARY] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7151424352</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7151424352</guid>
+            <pubDate>Wed, 07 Sep 2022 15:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[47,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220908_249/1662563945806A4zcA_JPEG/63699788512110563_295653695.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Interpol - The Other Side Of Make Believe (RED COLOURED LP) [인디스토어 에디션] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7151403331</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7151403331</guid>
+            <pubDate>Wed, 07 Sep 2022 15:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220908_142/1662563140314t6zRO_JPEG/63699036039501423_949434781.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Horsegirl - Versions of Modern Performance (PURPLE COLOURED LP) [인디스토어 에디션] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7151392008</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7151392008</guid>
+            <pubDate>Wed, 07 Sep 2022 15:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[40,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220907_46/1662562567851iUECY_JPEG/63698463577656426_403120979.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백건우 - 그라나도스-고예스카스 (CD) [엽서 2종 온팩 증정] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7151369165</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7151369165</guid>
+            <pubDate>Wed, 07 Sep 2022 15:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220907_201/1662561798042uCiDQ_JPEG/63697693776780516_1318406900.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김광석 - 2집 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7149849715</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7149849715</guid>
@@ -590,38 +622,6 @@
             <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
             <content:encoded><![CDATA[13,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220903_280/1662205106810PsWJf_JPEG/63340995523892655_21817650.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Belle And Sebastian - The Boy With The Arab Strap (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7130385310</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7130385310</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[13,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_252/1662204683453oTkuP_JPEG/63340463177188212_747693942.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Clapton - At 70 - Live At The Royal Albert Hall (Blu-Ray) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7130355570</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7130355570</guid>
-            <pubDate>Sat, 03 Sep 2022 12:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[27,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_283/1662204394864riqvD_JPEG/63340174571759465_28945968.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 붕가붕가 레코드 컴필레이션 - 믿거나 말거나 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7130296273</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7130296273</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_137/1662203973046mueVd_JPEG/63339752766268606_1953194443.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Re-Encounter The Miracle (블랙홀 30주년 헌정 앨범) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7130271191</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7130271191</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210225_76/1614195540842lT5Yu_JPEG/15331383555263414_303879932.jpeg?type=f140" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[사랑을 빼놓고선 적을 문장이 없다. / 김유라 산문 (네이버 스마트스토어 ─ 공상온도)]]></title>
