@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 05:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 07:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Thu, 25 Aug 2022 12:48:08 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김광석 - 2집 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7149849715</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7149849715</guid>
+            <pubDate>Wed, 07 Sep 2022 07:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220907_274/1662531415839dDOLI_JPEG/63667243669560019_1887785556.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[껌엑스 Gum X - Worst Greatest Hits Ever! [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7149570659</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7149570659</guid>
+            <pubDate>Wed, 07 Sep 2022 07:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[27,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220907_69/1662528881229OTf4u_JPEG/63664664943506298_953795164.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임억련 Sandy Lam - 경전가곡 (HQ-180G AUDIOPHILE LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
             <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210225_76/1614195540842lT5Yu_JPEG/15331383555263414_303879932.jpeg?type=f140" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[휘모리 Hwimory - 1집 Hwimory (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7130261705</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7130261705</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_186/1662203396631gaUFV_JPEG/63339176358054004_1177282070.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해머링 Hammering - 1집 Breach Of Trust (DELUXE EDITION) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7130245525</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7130245525</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_191/1662203167859LIfiY_JPEG/63338947581213501_1330850814.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑을 빼놓고선 적을 문장이 없다. / 김유라 산문 (네이버 스마트스토어 ─ 공상온도)]]></title>
