@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 02:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 04:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세쿠카네-메이슨 Sheku Kanneh-Mason - SONG (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7155540602</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7155540602</guid>
+            <pubDate>Thu, 08 Sep 2022 04:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220908_293/1662611502698gqYhc_JPEG/63747337531834104_1898789045.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오소영 - 웃고 살 거야, 아이처럼 - 20주년 기념 콘서트 앨범 [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7155465026</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7155465026</guid>
+            <pubDate>Thu, 08 Sep 2022 04:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220908_226/1662610505500nrMv0_JPEG/63746348215023776_179278541.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검정치마 The Black Skirts - 3집 Teen Troubles (Part 3) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7154377537</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220905_222/1662369444209qzHU4_JPEG/63505278016052121_1775749138.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay - A Rush Of Blood To The Head (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7140529400</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7140529400</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220905_243/1662369234620kR8ov_JPEG/63505068443738636_1563238029.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay - Mylo Xyloto (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7140499973</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7140499973</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220905_159/1662368959182CWHDE_JPEG/63504792992589485_1935910342.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
