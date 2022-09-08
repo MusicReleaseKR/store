@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 09:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 10:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eva Cassidy - Songbird (45RPM 180G CLEAR RED COLOURED 2LP) [60주년 한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7157525645</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7157525645</guid>
+            <pubDate>Thu, 08 Sep 2022 10:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220908_273/1662629958301EiKNW_JPEG/63765738028311543_1624578945.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세쿠카네-메이슨 Sheku Kanneh-Mason - SONG (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7155540602</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220905_168/1662369720243LUqdB_JPEG/63505554056647844_842467660.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dua Lipa - Future Nostalgia (THE MOONLIGHT EXPANDED EDITION) [ CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7140555943</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7140555943</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220905_222/1662369444209qzHU4_JPEG/63505278016052121_1775749138.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
