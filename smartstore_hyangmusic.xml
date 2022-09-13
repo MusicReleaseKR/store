@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 09:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 10:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카키 Khakii - Tide (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7177467613</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7177467613</guid>
+            <pubDate>Tue, 13 Sep 2022 10:29:48 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220913_233/1663062368308A6upo_JPEG/64198257018891841_104815224.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eva Cassidy - The Best Of Eva Cassidy (180G WHITE COLOURED 2LP & 1CD) [60주년 기념 한정반]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7158164225</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
             <content:encoded><![CDATA[9,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220905_173/1662374651926ryyR4_JPEG/63510547650686643_886810593.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Muse - Showbiz (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7140849706</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7140849706</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220905_14/16623743712148JG8D_JPEG/63510266950519274_542115482.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
