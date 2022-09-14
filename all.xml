@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 21:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 22:27:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,6 +152,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20191002_123/1570003889398r7qSI_JPEG/7366222946702653_1439167578.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박스셋]Deluge Grander - August in the Urals / 한정판 박스셋 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4672705711</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4672705711</guid>
+            <pubDate>Thu, 25 Aug 2022 12:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[80,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190917_32/1568701635765CaXf7_JPEG/6065024309436818_359227455.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[LP] 잠비나이 - 잠비나이 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
             <link>https://smartstore.naver.com/hionerecords/products/5307640381</link>
             <guid>https://smartstore.naver.com/hionerecords/products/5307640381</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 25 Aug 2022 12:48:08 GMT</pubDate>
             <content:encoded><![CDATA[80,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190918_180/1568785014571QLcMR_JPEG/6145753204689859_427827906.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박스셋]Deluge Grander - August in the Urals / 한정판 박스셋 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
-            <link>https://smartstore.naver.com/hionerecords/products/4672705711</link>
-            <guid>https://smartstore.naver.com/hionerecords/products/4672705711</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:08 GMT</pubDate>
-            <content:encoded><![CDATA[80,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20190917_32/1568701635765CaXf7_JPEG/6065024309436818_359227455.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LP]Deluge Grander - August in the Urals (네이버 스마트스토어 ─ 하이원레코드)]]></title>
