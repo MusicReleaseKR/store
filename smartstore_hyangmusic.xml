@@ -4,14 +4,30 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 07:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 08:36:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[베이스캠프 Basecamp - Underground (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7191190051</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7191190051</guid>
+            <pubDate>Thu, 15 Sep 2022 08:36:22 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220915_177/16632279972522krQF_JPEG/64363832071246986_1677974328.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Mint Paper Presents - Bright #11]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7191117339</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7191117339</guid>
+            <pubDate>Thu, 15 Sep 2022 08:36:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220915_238/1663227402085Lu70s_JPEG/64363236913349072_1298125789.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이광조 - 꽃이라 부르지 마오 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7191040615</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7191040615</guid>
-            <pubDate>Thu, 15 Sep 2022 07:35:20 GMT</pubDate>
+            <link>https://smartstore.naver.com/hyangmusic/products/7191090260</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7191090260</guid>
+            <pubDate>Thu, 15 Sep 2022 08:36:22 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220915_31/1663226768730M1HuT_JPEG/64362603557125648_1778205507.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220905_154/1662375796073yAdcg_JPEG/63511691793576767_1719895332.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead - Amnesiac [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7140891233</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7140891233</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220905_173/1662375529659Xkoq2_JPEG/63511425397972877_1183387414.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead - Kid A (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7140877626</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7140877626</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220905_224/16623752332266I6Vy_JPEG/63511128951209528_465832618.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
