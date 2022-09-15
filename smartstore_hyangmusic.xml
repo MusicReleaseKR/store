@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 10:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 11:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미역수염 - 1집 - Bombora (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7192069451</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7192069451</guid>
+            <pubDate>Thu, 15 Sep 2022 11:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220915_267/16632377189184tPSn_JPEG/64373546732309049_601287232.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매디엑스피 MADDYXP - Epocalypse (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7191908177</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 05 Sep 2022 11:22:40 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220905_194/1662376333825gyvet_JPEG/63512229562569916_157941283.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Interpol - The Other Side Of Make Believe (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7140913470</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7140913470</guid>
-            <pubDate>Mon, 05 Sep 2022 11:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220905_214/1662376075524mAV99_JPEG/63511971247687714_488487623.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
