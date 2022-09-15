@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 09:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 10:30:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매디엑스피 MADDYXP - Epocalypse (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7191908177</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7191908177</guid>
+            <pubDate>Thu, 15 Sep 2022 10:29:38 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220915_114/1663235999846D1966_JPEG/64371833654853714_64049075.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이스캠프 Basecamp - Underground (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7191190051</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 05 Sep 2022 11:22:40 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220905_214/1662376075524mAV99_JPEG/63511971247687714_488487623.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yo La Tengo - I Am Not Afraid Of You And I Will Beat Your Ass (2CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7140904004</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7140904004</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220905_154/1662375796073yAdcg_JPEG/63511691793576767_1719895332.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
