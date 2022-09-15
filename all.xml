@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:35:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Thu, 25 Aug 2022 12:48:08 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이광조 - 꽃이라 부르지 마오 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7191040615</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7191040615</guid>
+            <pubDate>Thu, 15 Sep 2022 07:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220915_31/1663226768730M1HuT_JPEG/64362603557125648_1778205507.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페퍼톤스 Peppertones - Thousand Years (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7190978660</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7190978660</guid>
+            <pubDate>Thu, 15 Sep 2022 07:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220915_124/1663226058934UjGWM_JPEG/64361893764020765_171236879.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카키 Khakii - Tide (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220905_224/16623752332266I6Vy_JPEG/63511128951209528_465832618.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead - Ok Computer (OKNOTOK 1997-2017) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7140865540</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7140865540</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210512_149/1620747718188EqUx2_JPEG/21883552008105861_1639741956.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis - (What's The Story) Morning Glory (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7140858611</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7140858611</guid>
-            <pubDate>Mon, 05 Sep 2022 12:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[9,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220905_173/1662374651926ryyR4_JPEG/63510547650686643_886810593.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑을 빼놓고선 적을 문장이 없다. / 김유라 산문 (네이버 스마트스토어 ─ 공상온도)]]></title>
