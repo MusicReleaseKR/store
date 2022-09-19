@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 04:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 06:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선과영 - 밤과낮 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7215694672</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7215694672</guid>
+            <pubDate>Mon, 19 Sep 2022 06:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220919_261/1663566805494V3aSk_JPEG/64702704205516990_549319179.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박학기 - 베스트 (180G CLEAR BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7215666451</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7215666451</guid>
+            <pubDate>Mon, 19 Sep 2022 06:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220919_20/1663566306038JxXvd_JPEG/64702204743180188_321694462.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vince Guaraldi Trio - A Charlie Brown Christmas (Gold Foil Edition) [LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7198195363</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 06 Sep 2022 10:28:40 GMT</pubDate>
             <content:encoded><![CDATA[83,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220906_159/1662459288718kYlGM_JPEG/63595134436783725_227675550.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arch Enemy - Deceivers [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7145833461</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7145833461</guid>
-            <pubDate>Tue, 06 Sep 2022 10:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[37,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220906_150/1662458842417qPj9I_JPEG/63594688129347782_53960615.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김광석 - 다시부르기 2 (아트 콜렉터스 에디션) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7145767584</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7145767584</guid>
-            <pubDate>Tue, 06 Sep 2022 10:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220906_267/1662458134106EyejQ_JPEG/63593913824406635_1489656505.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
