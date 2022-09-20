@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 11:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 12:53:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Robbie Williams - XXV [CLEAR BLUE COLOURED 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7224380044</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7224380044</guid>
+            <pubDate>Tue, 20 Sep 2022 12:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[62,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220920_203/1663677991198CFmav_JPEG/64813836916770012_1816137169.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ozzy Osbourne - Patient Number 9 [RED & BLACK MARBLE COLOURED 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7224359106</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7224359106</guid>
+            <pubDate>Tue, 20 Sep 2022 12:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[71,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220920_243/1663677531856je0SN_JPEG/64813377556803436_10309305.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선과영 - 밤과낮 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7215694672</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 07 Sep 2022 07:01:38 GMT</pubDate>
             <content:encoded><![CDATA[27,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220907_69/1662528881229OTf4u_JPEG/63664664943506298_953795164.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임억련 Sandy Lam - 경전가곡 (HQ-180G AUDIOPHILE LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7145950055</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7145950055</guid>
-            <pubDate>Tue, 06 Sep 2022 10:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220906_11/16624598198812Js6f_JPEG/63595653693221227_1456263941.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis - Be Here Now (SILVER COLOURED 2LP) [25TH ANNIVERSARY]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7145875117</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7145875117</guid>
-            <pubDate>Tue, 06 Sep 2022 10:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[83,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220906_159/1662459288718kYlGM_JPEG/63595134436783725_227675550.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
