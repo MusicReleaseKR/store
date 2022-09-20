@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 07:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 08:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -461,7 +461,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/7154377537</guid>
             <pubDate>Thu, 08 Sep 2022 02:39:31 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220908_214/1662599800552IQaqP_JPEG/63735643264101806_852650448.jpg?type=f140" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220920_270/16636603396988LxvA_JPEG/64796173383458114_1003058140.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Belle and Sebastian - A Bit of Previous [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
