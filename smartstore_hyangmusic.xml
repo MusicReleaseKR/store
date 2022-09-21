@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 14:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 15:29:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허클베리 핀 (Huckleberry Finn) - 7집 The Light Of Rain (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7232641365</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7232641365</guid>
+            <pubDate>Wed, 21 Sep 2022 15:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220922_292/1663772746762jHiWR_JPEG/64908530475855460_46171385.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Robbie Williams - XXV [CLEAR BLUE COLOURED 2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7224380044</link>
@@ -112,7 +120,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220915_177/16632279972522krQF_JPEG/64363832071246986_1677974328.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[VA - Mint Paper Presents - Bright #11]]></title>
+            <title><![CDATA[VA - Mint Paper Presents - Bright #11 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7191117339</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7191117339</guid>
             <pubDate>Thu, 15 Sep 2022 08:36:22 GMT</pubDate>
@@ -166,14 +174,6 @@
             <pubDate>Thu, 08 Sep 2022 04:43:12 GMT</pubDate>
             <content:encoded><![CDATA[14,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220908_293/1662611502698gqYhc_JPEG/63747337531834104_1898789045.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오소영 - 웃고 살 거야, 아이처럼 - 20주년 기념 콘서트 앨범 [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7155465026</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7155465026</guid>
-            <pubDate>Thu, 08 Sep 2022 04:43:12 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220908_226/1662610505500nrMv0_JPEG/63746348215023776_179278541.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
