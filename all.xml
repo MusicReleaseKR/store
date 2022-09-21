@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 08:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 09:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -464,6 +464,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220908_226/1662610505500nrMv0_JPEG/63746348215023776_179278541.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Postwar / Guinneissik 기나이직 ep (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7230720320</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7230720320</guid>
+            <pubDate>Wed, 21 Sep 2022 09:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220921_299/1663750967974sqvGM_JPEG/64886795788246119_183322126.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일곱 개의 원호 2호 “삶” / 퀴어 문예지 / 18도의 얼그레이 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7230284603</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7230284603</guid>
@@ -598,14 +606,6 @@
             <pubDate>Thu, 25 Aug 2022 12:48:25 GMT</pubDate>
             <content:encoded><![CDATA[10,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220706_22/1657095394295Sc7Rt_JPEG/58231240014370512_898352953.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술을 잘못 배워서 / 이보람 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6859258504</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6859258504</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220630_215/165658392294760NCn_JPEG/57719757768423258_461936236.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2020 컬러링컬러링캘린더 (네이버 스마트스토어 ─ 재미공작소)]]></title>
