@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 07:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 08:37:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,14 +142,6 @@
             <pubDate>Wed, 21 Sep 2022 06:22:02 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190219_15/mirrorball_m_1550541991001sxcoD_JPEG/33260849766504738_80619374.jpeg?type=f232_232" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LP] 신현희와 김루트 - EP 1집 신현희와김루트 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
-            <link>https://smartstore.naver.com/mirrorballmusic/products/3812108582</link>
-            <guid>https://smartstore.naver.com/mirrorballmusic/products/3812108582</guid>
-            <pubDate>Wed, 21 Sep 2022 07:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20191002_123/1570003889398r7qSI_JPEG/7366222946702653_1439167578.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LP] 잠비나이 - 잠비나이 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
@@ -472,6 +464,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220908_226/1662610505500nrMv0_JPEG/63746348215023776_179278541.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일곱 개의 원호 2호 “삶” / 퀴어 문예지 / 18도의 얼그레이 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7230284603</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7230284603</guid>
+            <pubDate>Wed, 21 Sep 2022 08:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[14,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220921_17/1663746292112FxMim_JPEG/64882187816387273_1072480588.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사랑을 빼놓고선 적을 문장이 없다. / 김유라 산문 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7092649239</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7092649239</guid>
@@ -606,14 +606,6 @@
             <pubDate>Thu, 25 Aug 2022 12:48:25 GMT</pubDate>
             <content:encoded><![CDATA[10,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220630_215/165658392294760NCn_JPEG/57719757768423258_461936236.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUSTAIN-EATS Vol.4  / 식문화 매거진 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6859187858</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6859187858</guid>
-            <pubDate>Thu, 25 Aug 2022 12:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220630_176/1656582290443UDVFy_JPEG/57718074154792798_1846557507.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2020 컬러링컬러링캘린더 (네이버 스마트스토어 ─ 재미공작소)]]></title>
