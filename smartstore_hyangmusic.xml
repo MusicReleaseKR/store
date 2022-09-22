@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 11:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 12:53:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,62 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220920_243/1663677531856je0SN_JPEG/64813377556803436_10309305.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메스카멜 Methkamel - 20th Century (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7224308677</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7224308677</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220920_277/16636767453784CClO_JPEG/64812529084918794_777332042.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[J-Live - All Of The Above (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7224273645</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7224273645</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220920_91/16636763771799RbWc_JPEG/64812160890284635_1192110347.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jacula - Tardo Pede In Magiam Versus [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7223988825</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7223988825</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220920_192/1663673535684Bbx2r_JPEG/64809378392465968_414873528.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[J.E.T. - Fede, Speranza, Carita (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7223961081</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7223961081</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220920_102/16636732471847LvpH_JPEG/64809089894874887_1256769000.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Il Balletto Di Bronzo - On The Road To Ys (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7223900540</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7223900540</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220920_151/1663672481759kTuSD_JPEG/64808380462402477_1678939559.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Belle And Sebastian - Tigermilk (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7223866692</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7223866692</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[13,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220920_220/1663672153636KfpX0_JPEG/64808052340202194_95265017.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김두수 - 자유혼 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7223850787</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7223850787</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220920_54/1663671864903vBQsW_JPEG/64807763600635342_374810522.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[선과영 - 밤과낮 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7215694672</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7215694672</guid>
@@ -110,62 +166,6 @@
             <pubDate>Fri, 16 Sep 2022 07:33:53 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220916_135/1663312656491Q5KKB_JPEG/64448490311868351_1277550172.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이광조 - 가까이 하기엔 너무 먼 당신 (180G LP) [2022 REMASTERED]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7197954189</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7197954189</guid>
-            <pubDate>Fri, 16 Sep 2022 07:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220916_89/1663312124930C3yKq_JPEG/64448020668126146_1796554511.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백미현 - 3집 다시 사랑할 수 있다면 (180G LP) [2022 REMASTERED]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7197903827</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7197903827</guid>
-            <pubDate>Fri, 16 Sep 2022 07:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220916_162/1663311770608xi9EL_JPEG/64447666342848437_33072862.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물과 음 - 잠재적 초점 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7197830725</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7197830725</guid>
-            <pubDate>Fri, 16 Sep 2022 07:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220916_239/1663311291674cnRtm_JPEG/64447187409499818_33143395.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미역수염 - 1집 - Bombora (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7192069451</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7192069451</guid>
-            <pubDate>Thu, 15 Sep 2022 11:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220915_267/16632377189184tPSn_JPEG/64373546732309049_601287232.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매디엑스피 MADDYXP - Epocalypse (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7191908177</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7191908177</guid>
-            <pubDate>Thu, 15 Sep 2022 10:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220915_114/1663235999846D1966_JPEG/64371833654853714_64049075.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이스캠프 Basecamp - Underground (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7191190051</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7191190051</guid>
-            <pubDate>Thu, 15 Sep 2022 08:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[11,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220915_177/16632279972522krQF_JPEG/64363832071246986_1677974328.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Mint Paper Presents - Bright #11 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7191117339</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7191117339</guid>
-            <pubDate>Thu, 15 Sep 2022 08:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220915_238/1663227402085Lu70s_JPEG/64363236913349072_1298125789.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
