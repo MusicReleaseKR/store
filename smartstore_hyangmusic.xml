@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 10:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 11:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mura Masa - Demon Time [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7239205674</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7239205674</guid>
+            <pubDate>Thu, 22 Sep 2022 11:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220922_6/1663845611615iWht5_JPEG/64981445438197744_545619338.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mura Masa - Demon Time (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7239153830</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7239153830</guid>
+            <pubDate>Thu, 22 Sep 2022 11:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220922_261/1663844641285oAKcw_JPEG/64980539997884947_2091527850.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Lamar - Mr. Morale & The Big Steppers [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7239087474</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7239087474</guid>
+            <pubDate>Thu, 22 Sep 2022 11:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[48,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220922_291/1663843777299CxOkz_JPEG/64979673031668984_1031773910.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이준형 - UTOPIA (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7237494696</link>
@@ -16,7 +40,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220922_70/1663829698068UthzJ_JPEG/64965532900267290_622638466.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[허클베리 핀 (Huckleberry Finn) - 7집 The Light Of Rain (CD)]]></title>
+            <title><![CDATA[허클베리핀 (Huckleberry Finn) - 7집 The Light Of Rain (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7232641365</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7232641365</guid>
             <pubDate>Wed, 21 Sep 2022 15:28:44 GMT</pubDate>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 15 Sep 2022 08:36:22 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220915_238/1663227402085Lu70s_JPEG/64363236913349072_1298125789.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이광조 - 꽃이라 부르지 마오 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7191090260</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7191090260</guid>
-            <pubDate>Thu, 15 Sep 2022 08:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220915_31/1663226768730M1HuT_JPEG/64362603557125648_1778205507.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페퍼톤스 Peppertones - Thousand Years (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7190978660</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7190978660</guid>
-            <pubDate>Thu, 15 Sep 2022 07:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220915_124/1663226058934UjGWM_JPEG/64361893764020765_171236879.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카키 Khakii - Tide (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7177467613</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7177467613</guid>
-            <pubDate>Tue, 13 Sep 2022 10:29:48 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220913_233/1663062368308A6upo_JPEG/64198257018891841_104815224.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
