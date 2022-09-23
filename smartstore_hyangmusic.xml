@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 07:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 08:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임아영 - 데뷔앨범 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7245597276</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7245597276</guid>
+            <pubDate>Fri, 23 Sep 2022 08:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220923_188/1663919376674huEXd_JPEG/65055275385415139_1552949692.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김상희 - 최신가요 힛 퍼레이드 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7245556607</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7245556607</guid>
+            <pubDate>Fri, 23 Sep 2022 08:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220923_29/1663918660379v4ddz_JPEG/65054559087715775_20444792.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mura Masa - Demon Time [LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7239205674</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 16 Sep 2022 08:32:29 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220916_58/1663314328155HmsBD_JPEG/64450111872798096_379479274.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 만추 (HQ REMASTERED) [일본 수입반] (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7198125108</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7198125108</guid>
-            <pubDate>Fri, 16 Sep 2022 08:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220916_179/1663313644207PXEgO_JPEG/64449427910641572_1204177917.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웅산 - 10집 Who Stole the Skies (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7197981100</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7197981100</guid>
-            <pubDate>Fri, 16 Sep 2022 07:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220916_135/1663312656491Q5KKB_JPEG/64448490311868351_1277550172.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
