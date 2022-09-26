@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Sep 2022 06:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 07:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이권형 - 창작자의 방 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7264950411</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7264950411</guid>
+            <pubDate>Mon, 26 Sep 2022 07:40:55 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220926_250/1664175505522Nr1uc_JPEG/65311340358111409_1911652688.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pink Floyd - Animals (2018 Remix) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7246276534</link>
@@ -174,14 +182,6 @@
             <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220919_261/1663566805494V3aSk_JPEG/64702704205516990_549319179.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박학기 - 베스트 (180G CLEAR BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7215666451</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7215666451</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220919_20/1663566306038JxXvd_JPEG/64702204743180188_321694462.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
