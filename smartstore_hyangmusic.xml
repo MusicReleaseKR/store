@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Sep 2022 09:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 10:30:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Charlie Puth - Charlie (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7265983083</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7265983083</guid>
+            <pubDate>Mon, 26 Sep 2022 10:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220926_206/1664186682288kh5YC_JPEG/65322570991180124_1148647018.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이권형 - 창작자의 방 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7264950411</link>
@@ -174,14 +182,6 @@
             <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220920_54/1663671864903vBQsW_JPEG/64807763600635342_374810522.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선과영 - 밤과낮 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7215694672</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7215694672</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220919_261/1663566805494V3aSk_JPEG/64702704205516990_549319179.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
