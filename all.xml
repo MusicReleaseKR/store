@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 09:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 10:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -464,6 +464,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220920_54/1663671864903vBQsW_JPEG/64807763600635342_374810522.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고기자의 정체: 쓰며 그리며 달리며 / 고기자 에세이 / 출판공동체 편않 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7272496203</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7272496203</guid>
+            <pubDate>Tue, 27 Sep 2022 10:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_11/1664274288764SUS1i_JPEG/65410187438506708_24089210.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손정빈의 환영: 영화관을 나서며 / 손정빈 에세이 / 출판공동체 편않 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7272425421</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7272425421</guid>
+            <pubDate>Tue, 27 Sep 2022 10:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_42/1664273527398hKzIx_JPEG/65409362206678392_2128913545.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박정환의 현장: 다시, 주사위를 던지며 / 박정환 에세이 / 출판공동체 편않 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7272313196</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7272313196</guid>
+            <pubDate>Tue, 27 Sep 2022 10:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_40/1664272078496aBCih_JPEG/65407924187026270_783498153.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Guinneissik 기나이직 정규 2집 / 'Postwar' USB (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7230720320</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7230720320</guid>
@@ -590,22 +614,6 @@
             <pubDate>Sun, 25 Sep 2022 10:29:19 GMT</pubDate>
             <content:encoded><![CDATA[12,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220707_281/1657181350888qPgw7_JPEG/58317246616642507_778276036.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투명에 던지는 수영 / 한호정 시 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6882967401</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6882967401</guid>
-            <pubDate>Sun, 25 Sep 2022 10:29:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220706_199/16570978524353oA66_JPEG/58233636147848595_544844049.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구아구아 / 누구 에세이 / 두카 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6882808256</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6882808256</guid>
-            <pubDate>Sun, 25 Sep 2022 10:29:19 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220706_22/1657095394295Sc7Rt_JPEG/58231240014370512_898352953.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2020 컬러링컬러링캘린더 (네이버 스마트스토어 ─ 재미공작소)]]></title>
