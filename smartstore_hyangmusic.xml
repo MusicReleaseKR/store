@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 12:57:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 14:02:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김건모 - 3집 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7273154472</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7273154472</guid>
+            <pubDate>Tue, 27 Sep 2022 14:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_101/16642865648723d20g_JPEG/65422398694725406_2064652873.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박미경 - 2집 Jungle Style [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7273138835</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7273138835</guid>
+            <pubDate>Tue, 27 Sep 2022 14:01:59 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_214/1664286164523n5gbk_JPEG/65421998335587544_1751826347.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클론 - 1집 Are You Ready [180g LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7273124943</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7273124943</guid>
+            <pubDate>Tue, 27 Sep 2022 14:01:59 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_236/16642852805226sK5R_JPEG/65421114339286826_1046090824.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시나위 - 4집 Four (180G ORANGE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7272989671</link>
@@ -168,28 +192,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220920_243/1663677531856je0SN_JPEG/64813377556803436_10309305.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메스카멜 Methkamel - 20th Century (CD)]]></title>
+            <title><![CDATA[23]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7224308677</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7224308677</guid>
             <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220920_277/16636767453784CClO_JPEG/64812529084918794_777332042.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[J-Live - All Of The Above (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7224273645</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7224273645</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220920_91/16636763771799RbWc_JPEG/64812160890284635_1192110347.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jacula - Tardo Pede In Magiam Versus [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7223988825</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7223988825</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220920_192/1663673535684Bbx2r_JPEG/64809378392465968_414873528.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
