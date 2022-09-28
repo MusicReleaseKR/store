@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Sep 2022 09:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 10:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김범룡 - 3집 안녕이라 하지 마 / 내 사랑 모니카 (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7279433753</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7279433753</guid>
+            <pubDate>Wed, 28 Sep 2022 10:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220928_160/1664357451722a8Efi_JPEG/65493286549197725_443648622.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김범룡 - 님 떠나가네 / 그대는 미운 사람 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7279410380</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7279410380</guid>
@@ -470,14 +478,6 @@
             <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
             <content:encoded><![CDATA[48,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220922_291/1663843777299CxOkz_JPEG/64979673031668984_1031773910.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준형 - UTOPIA (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7237494696</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7237494696</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220922_70/1663829698068UthzJ_JPEG/64965532900267290_622638466.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고기자의 정체: 쓰며 그리며 달리며 / 고기자 에세이 / 출판공동체 편않 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
