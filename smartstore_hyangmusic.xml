@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Sep 2022 07:39:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 08:37:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마마무 - Mic On (12TH MINI ALBUM) - 1Takes Ver]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7278815356</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7278815356</guid>
+            <pubDate>Wed, 28 Sep 2022 08:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220928_47/16643520245255NHyA_JPEG/65487920258910887_796868337.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김광석 - 3집 나의 노래 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7278779782</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7278779782</guid>
+            <pubDate>Wed, 28 Sep 2022 08:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220928_161/1664351675215elGe0_JPEG/65487570939406572_2068268366.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마마무 - Mic On (12TH MINI ALBUM) - NEMO Ver [한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7278737385</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7278737385</guid>
+            <pubDate>Wed, 28 Sep 2022 08:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220928_190/1664351372720SNvY8_JPEG/65487268398992650_1432192806.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건모 - 3집 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7273154472</link>
@@ -174,30 +198,6 @@
             <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220920_133/1663680951692qWMeA_JPEG/64816735410044543_1476194684.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robbie Williams - XXV [CLEAR BLUE COLOURED 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7224380044</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7224380044</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[62,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220920_203/1663677991198CFmav_JPEG/64813836916770012_1816137169.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ozzy Osbourne - Patient Number 9 [RED & BLACK MARBLE COLOURED 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7224359106</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7224359106</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[71,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220920_243/1663677531856je0SN_JPEG/64813377556803436_10309305.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메스카멜 Methkamel - 20th Century (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7224308677</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7224308677</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220920_277/16636767453784CClO_JPEG/64812529084918794_777332042.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
