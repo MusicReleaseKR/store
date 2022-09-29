@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 11:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 12:55:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Charlie Megira - The Abtomatic Miesterzinger Mambo Chic [TRI-COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7287872873</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7287872873</guid>
+            <pubDate>Thu, 29 Sep 2022 12:55:04 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220929_222/1664455534545Ertjh_JPEG/65591318252070448_67684239.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[동양고주파 - 틈 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7286340616</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7286340616</guid>
@@ -454,30 +462,6 @@
             <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220923_296/1663926597661dTGOY_JPEG/65062443380974645_2017375224.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd - Animals (2018 Remix) [BLU-RAY AUDIO] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7246236629</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7246236629</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[38,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220923_100/1663926002809BDeDz_JPEG/65061898544399716_17066175.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd - Animals (2018 Remix) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7246191645</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7246191645</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220923_116/1663925352055AuSe6_JPEG/65061247791545039_310518520.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임아영 - 데뷔앨범 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7245597276</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7245597276</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220923_188/1663919376674huEXd_JPEG/65055275385415139_1552949692.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고기자의 정체: 쓰며 그리며 달리며 / 고기자 에세이 / 출판공동체 편않 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
