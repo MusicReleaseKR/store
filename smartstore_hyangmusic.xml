@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 06:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 07:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동양고주파 - 틈 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7286340616</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7286340616</guid>
+            <pubDate>Thu, 29 Sep 2022 07:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220929_4/1664435076843MUvn2_JPEG/65570975554248625_1679512540.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동양고주파 - 곡면 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7286319316</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7286319316</guid>
+            <pubDate>Thu, 29 Sep 2022 07:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220929_178/1664434919502yqmo0_JPEG/65570818179605466_636222335.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동양고주파 - 결 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7286268997</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7286268997</guid>
+            <pubDate>Thu, 29 Sep 2022 07:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220929_139/1664434370601l0GUl_JPEG/65570266328212259_849015942.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[철수크라이 - 순간의 의미 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7286177673</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7286177673</guid>
+            <pubDate>Thu, 29 Sep 2022 07:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220929_226/166443374730881w2s_JPEG/65569593022279090_852134520.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김범룡 - 3집 안녕이라 하지 마 / 내 사랑 모니카]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7279433753</link>
@@ -166,38 +198,6 @@
             <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220923_188/1663919376674huEXd_JPEG/65055275385415139_1552949692.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김상희 - 최신가요 힛 퍼레이드 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7245556607</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7245556607</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220923_29/1663918660379v4ddz_JPEG/65054559087715775_20444792.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mura Masa - Demon Time [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7239205674</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7239205674</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220922_6/1663845611615iWht5_JPEG/64981445438197744_545619338.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mura Masa - Demon Time (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7239153830</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7239153830</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220922_261/1663844641285oAKcw_JPEG/64980539997884947_2091527850.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kendrick Lamar - Mr. Morale & The Big Steppers [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7239087474</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7239087474</guid>
-            <pubDate>Fri, 23 Sep 2022 22:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[48,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220922_291/1663843777299CxOkz_JPEG/64979673031668984_1031773910.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
