@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 05:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 06:56:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이문세 - 2집 The Best (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7291318193</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7291318193</guid>
+            <pubDate>Fri, 30 Sep 2022 06:56:31 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220930_240/1664520181069812s0_JPEG/65656014890474445_1059198932.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서유석 - 2집 비야비야, 아름다운사람 [180g LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7291252379</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7291252379</guid>
+            <pubDate>Fri, 30 Sep 2022 06:56:31 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220930_25/1664519092801pvw5j_JPEG/65654872526030435_1465331659.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stella Donnelly - Flood (카세트 테이프)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7287920394</link>
@@ -174,14 +190,6 @@
             <pubDate>Tue, 27 Sep 2022 12:57:16 GMT</pubDate>
             <content:encoded><![CDATA[53,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220927_109/1664278618204uwvHt_JPEG/65414446016822832_532554111.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 패닉버튼 디깅플레이트 Vol 8 - 느린 사랑의 時 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7272785628</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7272785628</guid>
-            <pubDate>Tue, 27 Sep 2022 12:57:16 GMT</pubDate>
-            <content:encoded><![CDATA[45,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220927_9/1664277691105j3bur_JPEG/65413586836416065_2052505047.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
