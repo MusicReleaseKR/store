@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 07:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 08:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Megadeth - The Sick, The Dying And The Dead (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7291927920</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7291927920</guid>
+            <pubDate>Fri, 30 Sep 2022 08:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[18,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220930_146/1664525901678eYyJk_JPEG/65661744388811848_569279573.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keane - The Best Of Keane (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7291734199</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7291734199</guid>
+            <pubDate>Fri, 30 Sep 2022 08:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[55,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220930_218/16645243432123aAC7_JPEG/65660171042040414_273957265.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Megadeth - The Sick, The Dyin And The Dead [180g 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7291705500</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7291705500</guid>
+            <pubDate>Fri, 30 Sep 2022 08:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[55,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220930_237/1664523961215dylQk_JPEG/65659789035346298_825122217.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이문세 - 2집 The Best (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7291318193</link>
@@ -166,30 +190,6 @@
             <pubDate>Tue, 27 Sep 2022 12:57:16 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220927_66/16642819114591Wxq7_JPEG/65417739286714637_1657505874.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 슬기로운 의사생활 (140G 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7272972725</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7272972725</guid>
-            <pubDate>Tue, 27 Sep 2022 12:57:16 GMT</pubDate>
-            <content:encoded><![CDATA[69,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220927_269/1664281481476PG93t_JPEG/65417309301503917_1267729491.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alice In Chains - Dirt [YELLOW COLOURED 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7272862885</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7272862885</guid>
-            <pubDate>Tue, 27 Sep 2022 12:57:16 GMT</pubDate>
-            <content:encoded><![CDATA[47,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220927_241/1664279109820L6XnV_JPEG/65414937645775344_1262131459.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madonna - Rebel Heart Tour (PURPLE COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7272842934</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7272842934</guid>
-            <pubDate>Tue, 27 Sep 2022 12:57:16 GMT</pubDate>
-            <content:encoded><![CDATA[53,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220927_109/1664278618204uwvHt_JPEG/65414446016822832_532554111.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
