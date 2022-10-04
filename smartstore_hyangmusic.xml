@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 08:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 09:32:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김건모 - 1집 김건모 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7318248645</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7318248645</guid>
+            <pubDate>Tue, 04 Oct 2022 09:31:42 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221004_173/1664872833982dngf0_JPEG/66008667794912129_1840976964.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이사흘 - 볕과 그늘 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7317519526</link>
@@ -182,14 +190,6 @@
             <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220927_66/16642819114591Wxq7_JPEG/65417739286714637_1657505874.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 슬기로운 의사생활 (140G 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7272972725</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7272972725</guid>
-            <pubDate>Tue, 04 Oct 2022 06:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[69,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220927_269/1664281481476PG93t_JPEG/65417309301503917_1267729491.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
