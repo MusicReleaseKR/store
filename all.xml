@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 05:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 06:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이사흘 - 볕과 그늘 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7317519526</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7317519526</guid>
+            <pubDate>Tue, 04 Oct 2022 06:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221004_57/1664865016610rRfsj_JPEG/66000912331637041_1869283723.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Megadeth - The Sick, The Dying And The Dead (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7291927920</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7291927920</guid>
@@ -358,22 +366,6 @@
             <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220929_222/1664455534545Ertjh_JPEG/65591318252070448_67684239.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동양고주파 - 틈 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7286340616</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7286340616</guid>
-            <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220929_4/1664435076843MUvn2_JPEG/65570975554248625_1679512540.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동양고주파 - 곡면 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7286319316</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7286319316</guid>
-            <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220929_178/1664434919502yqmo0_JPEG/65570818179605466_636222335.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동양고주파 - 결 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -470,6 +462,14 @@
             <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220927_66/16642819114591Wxq7_JPEG/65417739286714637_1657505874.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 슬기로운 의사생활 (140G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7272972725</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7272972725</guid>
+            <pubDate>Tue, 04 Oct 2022 06:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[69,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_269/1664281481476PG93t_JPEG/65417309301503917_1267729491.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고기자의 정체: 쓰며 그리며 달리며 / 고기자 에세이 / 출판공동체 편않 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
