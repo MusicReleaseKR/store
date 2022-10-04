@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 11:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 13:00:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Andrew Lloyd Webber - Jesus Christ Superstar (50주년 기념 2021 REMASTERED) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7319549469</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7319549469</guid>
+            <pubDate>Tue, 04 Oct 2022 13:00:22 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221004_102/1664887375813UwN1G_JPEG/66023218513446421_1235749647.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넉아웃 Knockout - One Step Back (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7318747814</link>
@@ -166,14 +174,6 @@
             <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
             <content:encoded><![CDATA[14,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220928_171/1664357244412pOnXS_JPEG/65493079249300952_681057344.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김범룡 - 1집 바람 바람 바람 / 별빛 속의 님 [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7279383796</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7279383796</guid>
-            <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220928_292/16643569781680J0pv_JPEG/65492812992249550_501786903.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
