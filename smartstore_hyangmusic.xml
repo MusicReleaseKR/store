@@ -4,11 +4,35 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 09:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 10:34:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[김현철 4집 / Who Stepped on It (180G LP) [2022 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7326259682</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7326259682</guid>
+            <pubDate>Wed, 05 Oct 2022 10:34:12 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221005_215/1664961091589pr5PU_JPEG/66096990293689894_244130013.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Michael - Older (5CD+3LP) [Deluxe Limited Edition Box Set]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7326153304</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7326153304</guid>
+            <pubDate>Wed, 05 Oct 2022 10:34:12 GMT</pubDate>
+            <content:encoded><![CDATA[326,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221005_63/1664963913626kVegl_JPEG/66099697335399045_1218579732.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Michael - Older [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7326097275</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7326097275</guid>
+            <pubDate>Wed, 05 Oct 2022 10:34:12 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221005_171/1664963505996Vvu43_JPEG/66099289712978810_1983452536.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 4집 / Who Stepped on It (180G GOLD COLOURED LP) [2022 REMASTERED]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7325820627</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7325820627</guid>
             <pubDate>Wed, 05 Oct 2022 09:31:06 GMT</pubDate>
@@ -152,28 +176,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220929_197/1664456684922mzTWR_JPEG/65592580658474483_1688298356.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수플 - 산책 (CD)]]></title>
+            <title><![CDATA[21]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7287887654</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7287887654</guid>
             <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220929_166/1664456060707w9VCO_JPEG/65591906427514878_916509975.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Megira - The Abtomatic Miesterzinger Mambo Chic [TRI-COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7287872873</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7287872873</guid>
-            <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220929_222/1664455534545Ertjh_JPEG/65591318252070448_67684239.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7286268997</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7286268997</guid>
-            <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220929_139/1664434370601l0GUl_JPEG/65570266328212259_849015942.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
