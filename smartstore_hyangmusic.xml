@@ -1,8 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://smartstore.naver.com/hyangmusic/category/32562d12fd7b46f2835fcb246ba18ce1?cp=1</id>
-    <title>네이버 스마트스토어 ─ 향뮤직</title>
-    <updated>2022-10-05T13:03:04.479Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://smartstore.naver.com/hyangmusic/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 스마트스토어 ─ 향뮤직</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 05 Oct 2022 14:25:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김현철 4집 / Who Stepped on It (180G LP) [2022 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7326259682</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7326259682</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221005_215/1664961091589pr5PU_JPEG/66096990293689894_244130013.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Michael - Older (5CD+3LP) [Deluxe Limited Edition Box Set]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7326153304</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7326153304</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[326,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221005_63/1664963913626kVegl_JPEG/66099697335399045_1218579732.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Michael - Older [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7326097275</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7326097275</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221005_171/1664963505996Vvu43_JPEG/66099289712978810_1983452536.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 4집 / Who Stepped on It (180G GOLD COLOURED LP) [2022 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7325820627</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7325820627</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221005_35/1664960788050N6i6T_JPEG/66096686760432433_611168261.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신형원 - 2집 개똥벌레 (180G LP) [2022 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7325761985</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7325761985</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221005_284/16649598415901VbHI_JPEG/66095625298901751_1345827923.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신형원 - 1집 불씨 (180G LP) [2022 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7325688069</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7325688069</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221005_211/1664959293525IsilQ_JPEG/66095077236999917_47717758.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andrew Lloyd Webber - Jesus Christ Superstar (50주년 기념 2021 REMASTERED) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7319549469</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7319549469</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221004_102/1664887375813UwN1G_JPEG/66023218513446421_1235749647.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넉아웃 Knockout - One Step Back (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7318747814</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7318747814</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221004_8/1664878471917lcR5R_JPEG/66014317635828191_1041839717.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryusenkei - route no 3 shibuya feat - yasuyuki horigome (7INCH LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7318732044</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7318732044</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221004_257/166487818617540LXy_JPEG/66014031897077442_743188389.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛과 소금 - 6집 Here We Go (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7318625815</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7318625815</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221004_79/1664876964508wJV0o_JPEG/66012799334076312_1448859318.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클론 - 2집 One More Time (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7318595727</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7318595727</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221004_119/1664876516825oVvAK_JPEG/66012351653638136_17320802.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노이즈 - 5집 Unchangeable (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7318499195</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7318499195</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221004_187/1664875688125GMcyl_JPEG/66011522962921854_440753674.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건모 - 1집 김건모 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7318248645</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7318248645</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221004_173/1664872833982dngf0_JPEG/66008667794912129_1840976964.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이사흘 - 볕과 그늘 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7317519526</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7317519526</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221004_57/1664865016610rRfsj_JPEG/66000912331637041_1869283723.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Megadeth - The Sick, The Dying And The Dead (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7291927920</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7291927920</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[18,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220930_146/1664525901678eYyJk_JPEG/65661744388811848_569279573.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keane - The Best Of Keane (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7291734199</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7291734199</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[55,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220930_218/16645243432123aAC7_JPEG/65660171042040414_273957265.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Megadeth - The Sick, The Dyin And The Dead [180g 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7291705500</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7291705500</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[55,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220930_237/1664523961215dylQk_JPEG/65659789035346298_825122217.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이문세 - 2집 The Best (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7291318193</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7291318193</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220930_240/1664520181069812s0_JPEG/65656014890474445_1059198932.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서유석 - 2집 비야비야, 아름다운사람 [180g LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7291252379</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7291252379</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220930_25/1664519092801pvw5j_JPEG/65654872526030435_1465331659.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stella Donnelly - Flood (카세트 테이프)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7287920394</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7287920394</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220929_123/1664456986051PhlB6_JPEG/65592881780031628_1508178539.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marlon Williams - My Boy (LEMON YELLOW COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7287909727</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7287909727</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220929_197/1664456684922mzTWR_JPEG/65592580658474483_1688298356.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수플 - 산책 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7287887654</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7287887654</guid>
+            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220929_166/1664456060707w9VCO_JPEG/65591906427514878_916509975.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
