@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 08:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 09:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김현철 4집 / Who Stepped on It (180G LP) [2022 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7325820627</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7325820627</guid>
+            <pubDate>Wed, 05 Oct 2022 09:31:06 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221005_35/1664960788050N6i6T_JPEG/66096686760432433_611168261.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신형원 - 2집 개똥벌레 (180G LP) [2022 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7325761985</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7325761985</guid>
+            <pubDate>Wed, 05 Oct 2022 09:31:06 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221005_284/16649598415901VbHI_JPEG/66095625298901751_1345827923.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신형원 - 1집 불씨 (180G LP) [2022 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7325688069</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7325688069</guid>
+            <pubDate>Wed, 05 Oct 2022 09:31:06 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221005_211/1664959293525IsilQ_JPEG/66095077236999917_47717758.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Andrew Lloyd Webber - Jesus Christ Superstar (50주년 기념 2021 REMASTERED) [2CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7319549469</link>
@@ -144,36 +168,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220929_222/1664455534545Ertjh_JPEG/65591318252070448_67684239.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[동양고주파 - 결 (CD)]]></title>
+            <title><![CDATA[20]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7286268997</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7286268997</guid>
             <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220929_139/1664434370601l0GUl_JPEG/65570266328212259_849015942.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[철수크라이 - 순간의 의미 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7286177673</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7286177673</guid>
-            <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220929_226/166443374730881w2s_JPEG/65569593022279090_852134520.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김범룡 - 3집 안녕이라 하지 마 / 내 사랑 모니카]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7279433753</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7279433753</guid>
-            <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220928_160/1664357451722a8Efi_JPEG/65493286549197725_443648622.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김범룡 - 님 떠나가네 / 그대는 미운 사람 [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7279410380</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7279410380</guid>
-            <pubDate>Sun, 02 Oct 2022 16:37:16 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220928_171/1664357244412pOnXS_JPEG/65493079249300952_681057344.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
