@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 09:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 10:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새빛깔 / 김새녘 1st EP / CD 음반]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7333022526</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7333022526</guid>
+            <pubDate>Thu, 06 Oct 2022 10:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,300]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221006_145/1665051603582ah2Kh_JPEG/66187502267943869_1833068945.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고기자의 정체: 쓰며 그리며 달리며 / 고기자 에세이 / 출판공동체 편않 출판]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7272496203</link>
@@ -37,7 +45,7 @@
             <guid>https://smartstore.naver.com/gongsangondo/products/7230720320</guid>
             <pubDate>Sun, 25 Sep 2022 10:29:18 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220921_299/1663750967974sqvGM_JPEG/64886795788246119_183322126.jpg?type=f295_381" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20221006_82/16650508154979txlR_JPEG/66186711188483730_95727940.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일곱 개의 원호 2호 “삶” / 퀴어 문예지 / 18도의 얼그레이 출판]]></title>
@@ -150,14 +158,6 @@
             <pubDate>Sun, 25 Sep 2022 10:29:19 GMT</pubDate>
             <content:encoded><![CDATA[10,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220713_132/1657694241714jH8jx_JPEG/58830076548029349_136407145.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[18평방자 / 김시호 1st EP]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6888188418</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6888188418</guid>
-            <pubDate>Sun, 25 Sep 2022 10:29:19 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220707_281/1657181350888qPgw7_JPEG/58317246616642507_778276036.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
