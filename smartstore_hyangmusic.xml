@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 08:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 09:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - KBS클래식FM 당신의 밤과 음악 40주년 - 기다리고 있었습니다 [3CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7332511521</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7332511521</guid>
+            <pubDate>Thu, 06 Oct 2022 09:32:54 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221006_225/1665043857472hYVgl_JPEG/66179641179838591_1165264047.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pink Floyd - Animals (2018 REMIX) (180G LP+CD+BLU-RAY+DVD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7332042939</link>
@@ -166,14 +174,6 @@
             <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
             <content:encoded><![CDATA[55,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220930_218/16645243432123aAC7_JPEG/65660171042040414_273957265.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Megadeth - The Sick, The Dyin And The Dead [180g 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7291705500</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7291705500</guid>
-            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220930_237/1664523961215dylQk_JPEG/65659789035346298_825122217.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
