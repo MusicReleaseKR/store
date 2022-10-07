@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 08:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 09:31:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,6 +344,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221007_72/1665120085662vrHaW_JPEG/66255928369786970_1238677966.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 BTS - Love Yourself 承 Her (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7337088949</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7337088949</guid>
+            <pubDate>Fri, 07 Oct 2022 09:31:10 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221007_59/1665111362983xmq0C_JPEG/66247251694084121_503929183.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[VA - KBS클래식FM 당신의 밤과 음악 40주년 - 기다리고 있었습니다 [3CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7332511521</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7332511521</guid>
@@ -446,14 +454,6 @@
             <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
             <content:encoded><![CDATA[12,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221004_8/1664878471917lcR5R_JPEG/66014317635828191_1041839717.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryusenkei - route no 3 shibuya feat - yasuyuki horigome (7INCH LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7318732044</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7318732044</guid>
-            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221004_257/166487818617540LXy_JPEG/66014031897077442_743188389.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과몰입 / 산해 앨범책 (네이버 스마트스토어 ─ 공상온도)]]></title>
