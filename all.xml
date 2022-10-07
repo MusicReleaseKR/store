@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 05:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 06:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,38 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송영주 - Atmosphere (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7338267192</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7338267192</guid>
+            <pubDate>Fri, 07 Oct 2022 06:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221007_293/16651230017548wyk1_JPEG/66258890468818613_418255326.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 쎅스폰의 유혹 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7338207229</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7338207229</guid>
+            <pubDate>Fri, 07 Oct 2022 06:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221007_95/1665122517937WI87x_JPEG/66258406636150203_1111855326.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 시원한 키타 경음악 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7338169923</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7338169923</guid>
+            <pubDate>Fri, 07 Oct 2022 06:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221007_56/1665122209404TSR2t_JPEG/66258098103873442_803338011.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강산에 - 2집 나는 사춘기 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7338135785</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7338135785</guid>
+            <pubDate>Fri, 07 Oct 2022 06:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221007_14/1665121664714Yz6GW_JPEG/66257553421442167_2136725661.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[산울림 - 3집 내 마음 (180G LP) [2500장 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7338035847</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7338035847</guid>
@@ -422,38 +454,6 @@
             <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221004_257/166487818617540LXy_JPEG/66014031897077442_743188389.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛과 소금 - 6집 Here We Go (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7318625815</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7318625815</guid>
-            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221004_79/1664876964508wJV0o_JPEG/66012799334076312_1448859318.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클론 - 2집 One More Time (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7318595727</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7318595727</guid>
-            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221004_119/1664876516825oVvAK_JPEG/66012351653638136_17320802.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노이즈 - 5집 Unchangeable (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7318499195</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7318499195</guid>
-            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221004_187/1664875688125GMcyl_JPEG/66011522962921854_440753674.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건모 - 1집 김건모 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7318248645</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7318248645</guid>
-            <pubDate>Wed, 05 Oct 2022 14:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221004_173/1664872833982dngf0_JPEG/66008667794912129_1840976964.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과몰입 / 산해 앨범책 (네이버 스마트스토어 ─ 공상온도)]]></title>
