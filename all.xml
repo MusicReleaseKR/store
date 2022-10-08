@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Oct 2022 08:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 09:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,6 +456,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221004_8/1664878471917lcR5R_JPEG/66014317635828191_1041839717.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[악당수업 / 효일 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7344477080</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7344477080</guid>
+            <pubDate>Sat, 08 Oct 2022 09:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221008_102/1665220258763GgTxh_JPEG/66356154465912064_1637239795.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구시대적 사랑 / 김단한 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7344347981</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7344347981</guid>
+            <pubDate>Sat, 08 Oct 2022 09:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[9,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221008_157/1665217930948O63Vs_JPEG/66353819626348607_615295459.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[과몰입 / 산해 앨범책 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7333365413</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7333365413</guid>
@@ -590,22 +606,6 @@
             <pubDate>Sun, 25 Sep 2022 10:29:18 GMT</pubDate>
             <content:encoded><![CDATA[10,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220714_278/16577802789682e0bh_JPEG/58916113785457153_274844435.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부디, 나를 사랑해주세요 / 서로 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6914895367</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6914895367</guid>
-            <pubDate>Sun, 25 Sep 2022 10:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[12,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220714_221/1657778890630KIY05_JPEG/58914718449249531_1711606638.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SAY SAY ESSAY / 세이세이 에세이 / 태재 질문집 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6914744385</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6914744385</guid>
-            <pubDate>Sun, 25 Sep 2022 10:29:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220713_265/165770929205988Kj9_JPEG/58845180769455236_912787108.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2020 컬러링컬러링캘린더 (네이버 스마트스토어 ─ 재미공작소)]]></title>
