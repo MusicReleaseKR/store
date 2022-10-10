@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Oct 2022 07:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 08:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작당모의 / 라이프&컬처 매거진]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7356569266</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7356569266</guid>
+            <pubDate>Mon, 10 Oct 2022 08:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221010_133/1665389517685DLMa5_JPEG/66525406384713372_1535346452.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발작 / 박치치 노래집]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7350114888</link>
@@ -150,14 +158,6 @@
             <pubDate>Sun, 25 Sep 2022 10:29:18 GMT</pubDate>
             <content:encoded><![CDATA[6,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220803_116/1659506059320xTfDJ_JPEG/60641839029828594_775268945.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춤과 땡땡 / 인터뷰집]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6994922865</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6994922865</guid>
-            <pubDate>Sun, 25 Sep 2022 10:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220803_147/1659504042568MbPBQ_JPEG/60639941252421091_887876901.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
