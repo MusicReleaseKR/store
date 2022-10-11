@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 07:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 08:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임재범 - 5집 (180G RED SPLATTER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7363553228</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7363553228</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221011_214/1665477089566rdeW4_JPEG/66612924401324495_2060741416.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임재범 - 3집 (180G RED SPLATTER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7363522769</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7363522769</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221011_284/16654766573104T9Hd_JPEG/66612492134643452_1361223005.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[송영주 - Atmosphere (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7338267192</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7338267192</guid>
@@ -440,20 +456,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221005_211/1664959293525IsilQ_JPEG/66095077236999917_47717758.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Andrew Lloyd Webber - Jesus Christ Superstar (50주년 기념 2021 REMASTERED) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[undefined (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7319549469</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7319549469</guid>
             <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221004_102/1664887375813UwN1G_JPEG/66023218513446421_1235749647.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넉아웃 Knockout - One Step Back (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7318747814</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7318747814</guid>
-            <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221004_8/1664878471917lcR5R_JPEG/66014317635828191_1041839717.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 모든 것이 연기는 아니야 / 정지혜 에세이 / 여행마을 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
