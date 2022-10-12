@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Oct 2022 15:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2022 16:51:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신중현과 뮤직파워 - 2집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7371804570</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7371804570</guid>
+            <pubDate>Wed, 12 Oct 2022 16:51:33 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221013_249/1665592511268JwbRH_JPEG/66728346103918027_1992802728.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신중현과 엽전들 - 1집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7371752229</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7371752229</guid>
+            <pubDate>Wed, 12 Oct 2022 16:51:33 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221013_243/1665591417422SnB6D_JPEG/66727201140609765_1079871032.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[설 Surl - 1집 Of Us (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7368395527</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7368395527</guid>
@@ -438,30 +454,6 @@
             <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
             <content:encoded><![CDATA[326,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221005_63/1664963913626kVegl_JPEG/66099697335399045_1218579732.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[George Michael - Older [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7326097275</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7326097275</guid>
-            <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[54,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221005_171/1664963505996Vvu43_JPEG/66099289712978810_1983452536.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - 4집 Who Stepped on It (180G GOLD COLOURED LP) [2022 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7325820627</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7325820627</guid>
-            <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221005_35/1664960788050N6i6T_JPEG/66096686760432433_611168261.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7325761985</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7325761985</guid>
-            <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221005_284/16649598415901VbHI_JPEG/66095625298901751_1345827923.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 모든 것이 연기는 아니야 / 정지혜 에세이 / 여행마을 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
