@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 23:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2022 02:44:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설 Surl - 1집 Of Us (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7368395527</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7368395527</guid>
+            <pubDate>Wed, 12 Oct 2022 02:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221012_178/1665539125209Oe7KH_JPEG/66674960039865157_1735606606.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Beatles - White Album (50TH ANNIVERSARY EDITION) [2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7364724788</link>
@@ -174,14 +182,6 @@
             <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
             <content:encoded><![CDATA[41,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221005_284/16649598415901VbHI_JPEG/66095625298901751_1345827923.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신형원 - 1집 불씨 (180G LP) [2022 REMASTERED]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7325688069</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7325688069</guid>
-            <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221005_211/1664959293525IsilQ_JPEG/66095077236999917_47717758.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
