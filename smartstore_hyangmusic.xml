@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 09:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 10:31:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto - 익셉션 Exception (Soundtrack from the Netflix Anime Series) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7378198080</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7378198080</guid>
+            <pubDate>Thu, 13 Oct 2022 10:31:30 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221013_20/1665656211787lBEb7_JPEG/66792100488998637_822353012.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박보검 - All My Love (LIMITED EDITION) [CD & DVD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7377421468</link>
@@ -166,14 +174,6 @@
             <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221007_59/16651204983103XVVA_JPEG/66256341019989004_1144032515.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 1집 아니벌써 (180G LP) [2500장 넘버링 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7337978538</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7337978538</guid>
-            <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221007_72/1665120085662vrHaW_JPEG/66255928369786970_1238677966.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
