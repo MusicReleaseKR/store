@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 07:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 08:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박보검 - All My Love (LIMITED EDITION) [CD & DVD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7377421468</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7377421468</guid>
+            <pubDate>Thu, 13 Oct 2022 08:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221013_138/1665649257877EoMw3_JPEG/66785092714037892_2033648324.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 나의 아저씨 (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7377126735</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7377126735</guid>
+            <pubDate>Thu, 13 Oct 2022 08:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[73,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221013_130/16656463815682gii3_JPEG/66782280279486410_1340254780.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김주환 - Candy - Memorie of Nat King Cole Trio [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7376608517</link>
@@ -158,22 +174,6 @@
             <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221007_72/1665120085662vrHaW_JPEG/66255928369786970_1238677966.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 BTS - Love Yourself 承 Her (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7337088949</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7337088949</guid>
-            <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[52,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221007_59/1665111362983xmq0C_JPEG/66247251694084121_503929183.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - KBS클래식FM 당신의 밤과 음악 40주년 - 기다리고 있었습니다 [3CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7332511521</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7332511521</guid>
-            <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221006_225/1665043857472hYVgl_JPEG/66179641179838591_1165264047.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
