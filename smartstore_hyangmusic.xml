@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Oct 2022 04:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 06:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여섯개의 달 - To the Universe (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7381853584</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7381853584</guid>
+            <pubDate>Fri, 14 Oct 2022 06:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221014_133/16657266381886S7jM_JPEG/66862526903458608_1814323793.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peder Elias - Love & Loneliness (WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7381802095</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7381802095</guid>
+            <pubDate>Fri, 14 Oct 2022 06:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221014_57/1665726188571AiwmX_JPEG/66862077274678880_1755328303.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lauv - All 4 Nothing (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7381776643</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7381776643</guid>
+            <pubDate>Fri, 14 Oct 2022 06:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[47,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221014_236/16657255996540ua6m_JPEG/66861488368246291_1337925714.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ryuichi Sakamoto - 익셉션 Exception (Soundtrack from the Netflix Anime Series) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7378198080</link>
@@ -150,30 +174,6 @@
             <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221007_56/1665122209404TSR2t_JPEG/66258098103873442_803338011.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강산에 - 2집 나는 사춘기 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7338135785</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7338135785</guid>
-            <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221007_14/1665121664714Yz6GW_JPEG/66257553421442167_2136725661.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 3집 내 마음 (180G LP) [2500장 넘버링 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7338035847</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7338035847</guid>
-            <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221007_3/1665120856535wugBq_JPEG/66256699251167023_1863768574.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 2집 내 마음에 주단을 깔고 (180G LP) [2500장 넘버링 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7338010733</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7338010733</guid>
-            <pubDate>Mon, 10 Oct 2022 22:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221007_59/16651204983103XVVA_JPEG/66256341019989004_1144032515.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
