@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 05:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 07:00:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김광석 - 4집 일어나, 서른즈음에 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7400553775</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7400553775</guid>
+            <pubDate>Mon, 17 Oct 2022 06:59:58 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221017_84/1665988688564aHNMV_JPEG/67124516391843250_567773890.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로이킴 - 4집 그리고 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7400525219</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7400525219</guid>
+            <pubDate>Mon, 17 Oct 2022 06:59:58 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221017_134/1665988340905Lf1ck_JPEG/67124168727506920_2111138962.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마콤마 Macomma - Mind, Heart (CD) [한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7400427321</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7400427321</guid>
+            <pubDate>Mon, 17 Oct 2022 06:59:58 GMT</pubDate>
+            <content:encoded><![CDATA[13,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221017_95/1665986708300cQF7Y_JPEG/67122543132823223_1883668361.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여섯개의 달 - To the Universe (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7381853584</link>
@@ -152,28 +176,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221011_284/16654766573104T9Hd_JPEG/66612492134643452_1361223005.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[송영주 - Atmosphere (CD)]]></title>
+            <title><![CDATA[21]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7338267192</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7338267192</guid>
             <pubDate>Sun, 16 Oct 2022 12:52:22 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221007_293/16651230017548wyk1_JPEG/66258890468818613_418255326.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 쎅스폰의 유혹 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7338207229</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7338207229</guid>
-            <pubDate>Sun, 16 Oct 2022 12:52:22 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221007_95/1665122517937WI87x_JPEG/66258406636150203_1111855326.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 시원한 키타 경음악 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7338169923</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7338169923</guid>
-            <pubDate>Sun, 16 Oct 2022 12:52:22 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221007_56/1665122209404TSR2t_JPEG/66258098103873442_803338011.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
