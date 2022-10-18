@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 02:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 04:57:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 냉정과 열정사이 (180G BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7406509898</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7406509898</guid>
+            <pubDate>Tue, 18 Oct 2022 04:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221018_68/166606747844405ETT_JPEG/67203377126169175_182586113.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일레인 Elaine - 2집 2 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7401486138</link>
@@ -166,14 +174,6 @@
             <pubDate>Sun, 16 Oct 2022 12:52:22 GMT</pubDate>
             <content:encoded><![CDATA[88,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221011_39/1665489813421jkyGg_JPEG/66625648249237695_451440184.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임재범 - 5집 (180G RED SPLATTER COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7363553228</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7363553228</guid>
-            <pubDate>Sun, 16 Oct 2022 12:52:22 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221011_214/1665477089566rdeW4_JPEG/66612924401324495_2060741416.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
