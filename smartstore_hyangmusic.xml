@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 11:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 13:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,14 +198,6 @@
             <pubDate>Wed, 19 Oct 2022 08:44:31 GMT</pubDate>
             <content:encoded><![CDATA[26,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221013_300/16656424931886j2Tr_JPEG/66778391898955147_2011394610.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대니 구 Danny Koo - Connected (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7376498940</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7376498940</guid>
-            <pubDate>Wed, 19 Oct 2022 08:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221013_64/16656415453262u8x7_JPEG/66777434036914003_123882349.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
