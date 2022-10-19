@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 07:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 08:44:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://smartstore.naver.com/gongsangondo/products/7350114888</guid>
             <pubDate>Sun, 09 Oct 2022 06:36:14 GMT</pubDate>
             <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221009_126/1665296381516csjnN_JPEG/66432165210086425_1034914848.jpg?type=f295_381" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20221019_300/1666168714473NxiOA_JPEG/67304548267193893_292146907.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[악당수업 / 효일 에세이]]></title>
@@ -158,6 +158,22 @@
             <pubDate>Sun, 25 Sep 2022 10:29:18 GMT</pubDate>
             <content:encoded><![CDATA[11,800]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220803_244/1659513955962CTJFD_JPEG/60649789757982400_1073010404.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비공개글 / AIN 단상집]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6995020827</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6995020827</guid>
+            <pubDate>Wed, 19 Oct 2022 08:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[6,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220803_116/1659506059320xTfDJ_JPEG/60641839029828594_775268945.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[춤과 땡땡 / 인터뷰집]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6994922865</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6994922865</guid>
+            <pubDate>Wed, 19 Oct 2022 08:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220803_147/1659504042568MbPBQ_JPEG/60639941252421091_887876901.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
