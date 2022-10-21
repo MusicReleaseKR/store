@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Oct 2022 09:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 10:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쎄이 SAAY - S:INEMA (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7429238701</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7429238701</guid>
+            <pubDate>Fri, 21 Oct 2022 10:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221021_55/1666346377693O3yBg_JPEG/67482211516205896_1358255717.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송골매 - 1집 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7428967196</link>
@@ -214,22 +222,6 @@
             <pubDate>Tue, 18 Oct 2022 10:33:37 GMT</pubDate>
             <content:encoded><![CDATA[27,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221018_235/1666086301780TDdrR_JPEG/67222129605079887_886271313.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Legend - Legend (Deluxe Edition) [2CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7408479037</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7408479037</guid>
-            <pubDate>Tue, 18 Oct 2022 13:00:24 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221018_235/1666086301780TDdrR_JPEG/67222129605079887_886271313.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 냉정과 열정사이 (180G BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7406509898</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7406509898</guid>
-            <pubDate>Tue, 18 Oct 2022 04:57:27 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221018_68/166606747844405ETT_JPEG/67203377126169175_182586113.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
