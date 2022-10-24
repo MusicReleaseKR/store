@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 10:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 11:28:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Oscar Peterson Trio - We Get Requests (Acoustic Sounds Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7447589534</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7447589534</guid>
+            <pubDate>Mon, 24 Oct 2022 11:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_86/1666610424492KYDQR_JPEG/67746258313718933_1523807985.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norah Jones - I Dream Of Christmas (DELUXE EDITION) [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7447411147</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7447411147</guid>
+            <pubDate>Mon, 24 Oct 2022 11:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_168/1666608306692sJesY_JPEG/67744134510256363_42594821.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kenny Burrell - Kenny Burrell (Blue Note Tone Poet Series) [180g LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7447335168</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7447335168</guid>
+            <pubDate>Mon, 24 Oct 2022 11:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_218/1666606352703QeSL9_JPEG/67742136414133410_1646623698.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grant Green - Feelin' The Spirit (Blue Note Tone Poet Series) [180g LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7446971036</link>
@@ -198,38 +222,6 @@
             <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
             <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221019_288/1666161750447ShOQT_JPEG/67297584266152526_77244559.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정은지 - 리메이크 앨범 Log (Special log ver) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7414638844</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7414638844</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_88/1666161458387He4Oj_JPEG/67297292206900134_2133309433.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정은지 - 리메이크 앨범 Log (Daily log ver) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7414621191</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7414621191</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_159/1666161205124N30QN_JPEG/67297038938866580_1405611114.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정은지 - 리메이크 앨범 Log (PLATFORM ver) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7414587801</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7414587801</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[12,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_29/16661608474178y7pC_JPEG/67296681234326056_647792112.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 김현식 추모 앨범 하나로 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7414556493</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7414556493</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_220/1666159182944uIoKr_JPEG/67295028663213921_1530027966.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
