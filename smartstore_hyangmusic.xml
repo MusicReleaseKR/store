@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 13:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 14:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,14 +214,6 @@
             <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221019_28/1666174440474oLljr_JPEG/67310329170833229_2101097035.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Curtis Fuller - Blues Ette (Bonus Track) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7415730011</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7415730011</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_275/1666174155529mnQX1_JPEG/67310044243389316_776493390.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
