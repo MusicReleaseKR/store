@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 08:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 09:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Grant Green - Feelin' The Spirit (Blue Note Tone Poet Series) [180g LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7446971036</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7446971036</guid>
+            <pubDate>Mon, 24 Oct 2022 09:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_9/1666603546129DbMEp_JPEG/67739444837181062_181472667.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Michael Jackson - Thriller 40th anniversary (Alternate Cover) [LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7446290026</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 24 Oct 2022 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[36,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221014_57/1665726188571AiwmX_JPEG/66862077274678880_1755328303.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lauv - All 4 Nothing (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7381776643</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7381776643</guid>
-            <pubDate>Mon, 24 Oct 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[47,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221014_236/16657255996540ua6m_JPEG/66861488368246291_1337925714.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
