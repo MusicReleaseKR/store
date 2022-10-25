@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 22:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 23:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,7 +208,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221019_106/1666176633668Iff08_JPEG/67312417385558321_1640525290.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beatles - Abbey Road 50th Anniversary (2CD)]]></title>
+            <title><![CDATA[25]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7415823426</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7415823426</guid>
             <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
