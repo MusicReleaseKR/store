@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 05:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 07:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Woody Allen - illustration by CORBOZ [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7453101666</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7453101666</guid>
+            <pubDate>Tue, 25 Oct 2022 07:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221025_107/1666681017934OSaTi_JPEG/67816863651574012_1027283794.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[9와 숫자들 - 토털리 블루 (45RPM CLEAR BLUE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7452006726</link>
@@ -200,20 +208,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221019_106/1666176633668Iff08_JPEG/67312417385558321_1640525290.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beatles - Abbey Road 50th Anniversary (2CD)]]></title>
+            <title><![CDATA[25]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7415823426</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7415823426</guid>
             <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
             <content:encoded><![CDATA[27,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221019_226/16661753974810ol0R_JPEG/67311286196566813_1685912642.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Abbey Road 50th Anniversary (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7415801130</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7415801130</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_131/16661749524670z1Kh_JPEG/67310841175507066_1720529518.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
