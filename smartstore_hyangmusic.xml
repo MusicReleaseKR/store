@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 02:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 05:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9와 숫자들 - 토털리 블루 (45RPM CLEAR BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7452006726</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7452006726</guid>
+            <pubDate>Tue, 25 Oct 2022 05:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221025_195/1666668910235wtuLg_JPEG/67804744048446604_55630767.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vince Guaraldi - A Charlie Brown Christmas (180G 2LP) [Deluxe Edition]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7447860617</link>
@@ -206,14 +214,6 @@
             <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221019_131/16661749524670z1Kh_JPEG/67310841175507066_1720529518.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Art Blakey & The Jazz Messengers - Moanin' [CLEAR COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7415758972</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7415758972</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_28/1666174440474oLljr_JPEG/67310329170833229_2101097035.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
