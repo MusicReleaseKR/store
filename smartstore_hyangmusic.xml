@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 09:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 10:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond - 불사경전기념판 [HQ-180G AUDIOPHILE LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7460734537</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7460734537</guid>
+            <pubDate>Wed, 26 Oct 2022 10:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_282/1666779881055epR8e_JPEG/67915664767713002_137789630.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왕걸 - 일번걸작 [HQ-180G AUDIOPHILE LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7460711002</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7460711002</guid>
+            <pubDate>Wed, 26 Oct 2022 10:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_218/1666779488180XsvKG_JPEG/67915271895362088_1384263407.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤딴딴 - 1집 옛사랑에게 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7460442327</link>
@@ -174,22 +190,6 @@
             <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221020_26/1666246637447gCydo_JPEG/67382421153742845_140108862.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이안캐시 Ian Ka$h - ICEBOX (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7420981182</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7420981182</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221020_189/1666246125976ynrsa_JPEG/67381909693630180_1813956107.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[릴보이 Lilboi - Meantime (일반반) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7416083977</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7416083977</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_237/1666178772582SNcAM_JPEG/67314556291709894_1024303703.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
