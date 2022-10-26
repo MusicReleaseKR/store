@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 04:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 06:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송골매 - 2집 모두 다 사랑하리 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7459471726</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7459471726</guid>
+            <pubDate>Wed, 26 Oct 2022 06:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_112/1666764815431fjrM6_JPEG/67900661142998105_1571440639.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정재원 (적재) - 1집 The LIGHTS [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7459365321</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7459365321</guid>
+            <pubDate>Wed, 26 Oct 2022 06:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_63/1666764449655aRMGB_JPEG/67900295377505682_1588911773.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화자 Hwaja - 1집 놀이터 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7459317692</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7459317692</guid>
+            <pubDate>Wed, 26 Oct 2022 06:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_138/1666764060673xEJH0_JPEG/67899906377861938_1221250179.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Woody Allen - illustration by CORBOZ [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7453101666</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7453101666</guid>
@@ -464,52 +488,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221019_203/1666178272188Xi8BV_JPEG/67314055906086897_1222342810.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beatles - Rubber Soul (2009 REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[undefined (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7416034487</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7416034487</guid>
             <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
             <content:encoded><![CDATA[19,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221019_186/1666178006062iUmq5_JPEG/67313789774545730_27685529.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Revolver (2009 REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7416000948</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7416000948</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_30/1666177722081FA7E6_JPEG/67313505797502351_777071921.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Please Please Me (180G REMASTERED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7415972612</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7415972612</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[26,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_36/16661772822783rmvX_JPEG/67313065977269487_106479284.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Magical Mystery Tour (180G REMASTERED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7415957396</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7415957396</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[26,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_127/16661768624537lFCR_JPEG/67312646155775098_1481184365.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Help! (180G REMASTERED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7415923491</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7415923491</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[26,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_106/1666176633668Iff08_JPEG/67312417385558321_1640525290.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Abbey Road 50th Anniversary (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7415823426</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7415823426</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[27,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_226/16661753974810ol0R_JPEG/67311286196566813_1685912642.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 모든 것이 연기는 아니야 / 정지혜 에세이 / 여행마을 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
@@ -672,7 +656,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220803_116/1659506059320xTfDJ_JPEG/60641839029828594_775268945.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[춤과 땡땡 / 인터뷰집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <title><![CDATA[undefined (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6994922865</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/6994922865</guid>
             <pubDate>Wed, 19 Oct 2022 08:44:39 GMT</pubDate>
