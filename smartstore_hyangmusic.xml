@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 10:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 11:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Olafur Arnalds - Some Kind of Peace - Piano Reworks [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7460785667</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7460785667</guid>
+            <pubDate>Wed, 26 Oct 2022 11:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_222/1666780887090if5RM_JPEG/67916670801041400_673679870.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stanley Turrentine - Common Touch (Blue Note Classic Vinyl Series) [180g LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7460761391</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7460761391</guid>
+            <pubDate>Wed, 26 Oct 2022 11:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_39/1666780549384QSS8Q_JPEG/67916333097783609_419951602.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto - The Kakutougi Session (CLEAR YELLOW COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7460745041</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7460745041</guid>
+            <pubDate>Wed, 26 Oct 2022 11:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[52,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_239/1666780117959dqGUA_JPEG/67915901676783990_862570786.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beyond - 불사경전기념판 [HQ-180G AUDIOPHILE LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7460734537</link>
@@ -166,30 +190,6 @@
             <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221021_55/1666346377693O3yBg_JPEG/67482211516205896_1358255717.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송골매 - 1집 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7428967196</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7428967196</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221021_166/1666343340959yqXdx_JPEG/67479183675064323_70400487.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선우정아 - Studio X (1 Phase) [CD] (3종 중 1종 랜덤발송)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7428907407</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7428907407</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221021_253/1666342759318oaWzE_JPEG/67478602024831772_1659080572.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손혜은 - 기억의 조각들 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7421037913</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7421037913</guid>
-            <pubDate>Fri, 21 Oct 2022 20:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221020_26/1666246637447gCydo_JPEG/67382421153742845_140108862.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
