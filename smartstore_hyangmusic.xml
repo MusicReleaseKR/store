@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 06:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 07:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이소 (E So) - 2집 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7466165696</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7466165696</guid>
+            <pubDate>Thu, 27 Oct 2022 07:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221027_263/1666852887209evlPG_JPEG/67988666934549958_1836201856.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[European Jazz Trio - 디즈니 & 지브리 (GREEN COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7466016468</link>
@@ -174,22 +182,6 @@
             <pubDate>Mon, 24 Oct 2022 07:04:30 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221024_207/1666590982222kLi30_JPEG/67726817041713232_2065610694.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비비 BIBI - 1집 - Lowlife Princess - Noir (애 Ver) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7445751733</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7445751733</guid>
-            <pubDate>Mon, 24 Oct 2022 07:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_294/1666590758660ipsyl_JPEG/67726593494541149_1146137594.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비비 BIBI - 1집 - Lowlife Princess - Noir (나쁜X Ver) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7445732256</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7445732256</guid>
-            <pubDate>Mon, 24 Oct 2022 07:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_39/16665903389637Up9a_JPEG/67726173783727833_1173858138.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
