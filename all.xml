@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 07:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 08:32:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[VA - 안녕, 광석이형 (25Th Anniversary) [150G CLEAR RED COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7466458212</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7466458212</guid>
+            <pubDate>Thu, 27 Oct 2022 08:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221027_201/16668558150969vEhc_JPEG/67991713806276535_1762590282.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이소 (E So) - 2집 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7466165696</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7466165696</guid>
@@ -472,14 +480,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221024_37/1666596159890deXOK_JPEG/67732002604661984_1677743469.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비비 BIBI - 1집 - Lowlife Princess - Noir (금지 Ver / 한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7445767438</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7445767438</guid>
-            <pubDate>Mon, 24 Oct 2022 07:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_207/1666590982222kLi30_JPEG/67726817041713232_2065610694.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이 모든 것이 연기는 아니야 / 정지혜 에세이 / 여행마을 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7356758155</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7356758155</guid>
@@ -640,7 +640,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220803_116/1659506059320xTfDJ_JPEG/60641839029828594_775268945.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <title><![CDATA[춤과 땡땡 / 인터뷰집 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6994922865</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/6994922865</guid>
             <pubDate>Wed, 19 Oct 2022 08:44:39 GMT</pubDate>
