@@ -1,8 +1,179 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://smartstore.naver.com/gongsangondo/category/593714ce0fbf46cabd0c3f8da4976cfe</id>
-    <title>네이버 스마트스토어 ─ 공상온도</title>
-    <updated>2022-10-28T21:23:48.004Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://smartstore.naver.com/gongsangondo/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 스마트스토어 ─ 공상온도</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 28 Oct 2022 22:26:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 모든 것이 연기는 아니야 / 정지혜 에세이 / 여행마을 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7356758155</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7356758155</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221010_210/1665393944213E36R4_JPEG/66529727925484215_435903913.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작당모의 / 라이프&컬처 매거진]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7356569266</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7356569266</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221010_133/1665389517685DLMa5_JPEG/66525406384713372_1535346452.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발작 / 박치치 노래집]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7350114888</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7350114888</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221019_300/1666168714473NxiOA_JPEG/67304548267193893_292146907.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[악당수업 / 효일 에세이]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7344477080</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7344477080</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221008_102/1665220258763GgTxh_JPEG/66356154465912064_1637239795.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구시대적 사랑 / 김단한 에세이]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7344347981</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7344347981</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[9,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221008_157/1665217930948O63Vs_JPEG/66353819626348607_615295459.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과몰입 / 산해 앨범책]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7333365413</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7333365413</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221006_127/16650554369621Dsba_JPEG/66191220644139575_48038045.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새빛깔 / 김새녘 1st EP / CD 음반]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7333022526</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7333022526</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[17,300]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221006_145/1665051603582ah2Kh_JPEG/66187502267943869_1833068945.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고기자의 정체: 쓰며 그리며 달리며 / 고기자 에세이 / 출판공동체 편않 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7272496203</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7272496203</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_11/1664274288764SUS1i_JPEG/65410187438506708_24089210.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손정빈의 환영: 영화관을 나서며 / 손정빈 에세이 / 출판공동체 편않 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7272425421</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7272425421</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_42/1664273527398hKzIx_JPEG/65409362206678392_2128913545.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박정환의 현장: 다시, 주사위를 던지며 / 박정환 에세이 / 출판공동체 편않 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7272313196</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7272313196</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_40/1664272078496aBCih_JPEG/65407924187026270_783498153.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guinneissik 기나이직 정규 2집 / 'Postwar' USB]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7230720320</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7230720320</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221006_82/16650508154979txlR_JPEG/66186711188483730_95727940.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일곱 개의 원호 2호 “삶” / 퀴어 문예지 / 18도의 얼그레이 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7230284603</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7230284603</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[14,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220921_17/1663746292112FxMim_JPEG/64882187816387273_1072480588.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 빼놓고선 적을 문장이 없다. (개정판) / 김유라 산문]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7092649239</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7092649239</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220826_50/166150908188110pCt_JPEG/62644909698016379_930282093.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우연적인 환상 / 김민지 SF 시집]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7092387040</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7092387040</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220826_206/16615065543422Xa0m_JPEG/62642443046998004_2104877734.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불안 한 톳 / 이택민 에세이 / 책편사 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7091782360</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7091782360</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220826_21/1661503724459ifyVh_JPEG/62639623148935969_1602830474.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지워지는 나를 지키는 일 / 연옥 에세이]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7086782711</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7086782711</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[11,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_202/1661415275312lVe2u_JPEG/62551103124456222_249583414.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정해져 있지 않은 거주지: 오드라데크 / 히스테리안 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7086673424</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7086673424</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_2/1661413378538GUyBc_JPEG/62549206349575320_969615066.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죽은 척하기 / 해파 정규 1집]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7059083084</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7059083084</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220819_266/1660872848998KSXj6_JPEG/62008744700609294_1281490677.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DIVE / 오종길 에세이]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6995459566</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6995459566</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[11,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220803_244/1659513955962CTJFD_JPEG/60649789757982400_1073010404.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비공개글 / AIN 단상집]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6995020827</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6995020827</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[6,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220803_116/1659506059320xTfDJ_JPEG/60641839029828594_775268945.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/6994922865</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/6994922865</guid>
+            <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220803_147/1659504042568MbPBQ_JPEG/60639941252421091_887876901.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
