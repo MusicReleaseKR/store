@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Oct 2022 09:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 10:34:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송골매 - 3집 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7473679480</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7473679480</guid>
+            <pubDate>Fri, 28 Oct 2022 10:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221028_57/1666950794915VmUaW_JPEG/68086628738040042_2130074481.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - Revolver (4LP + 7INCH LP) [2022 SUPER DELUXE LP Box Set]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7473518632</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7473518632</guid>
+            <pubDate>Fri, 28 Oct 2022 10:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[280,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221028_54/1666949366880yGClb_JPEG/68085200688226838_817248959.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beatles - Revolver (2022 Sessions Highlights) [2CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7473499146</link>
@@ -174,14 +190,6 @@
             <pubDate>Mon, 24 Oct 2022 11:28:37 GMT</pubDate>
             <content:encoded><![CDATA[51,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221024_168/1666608306692sJesY_JPEG/67744134510256363_42594821.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kenny Burrell - Kenny Burrell (Blue Note Tone Poet Series) [180g LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7447335168</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7447335168</guid>
-            <pubDate>Mon, 24 Oct 2022 11:28:37 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_218/1666606352703QeSL9_JPEG/67742136414133410_1646623698.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
