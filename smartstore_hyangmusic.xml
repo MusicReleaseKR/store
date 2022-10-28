@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Oct 2022 08:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 09:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beatles - Revolver (2022 Sessions Highlights) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7473499146</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7473499146</guid>
+            <pubDate>Fri, 28 Oct 2022 09:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[37,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221028_283/1666949117187O36ow_JPEG/68084950997081826_1052417330.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - Revolver (2022 Remixes) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7473481981</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7473481981</guid>
+            <pubDate>Fri, 28 Oct 2022 09:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[32,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221028_174/1666948797334dbMd7_JPEG/68084631146871874_1633934812.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 안녕, 광석이형 (25Th Anniversary) [150G CLEAR RED COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7466458212</link>
@@ -166,22 +182,6 @@
             <pubDate>Mon, 24 Oct 2022 11:28:37 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221024_218/1666606352703QeSL9_JPEG/67742136414133410_1646623698.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grant Green - Feelin' The Spirit (Blue Note Tone Poet Series) [180g LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7446971036</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7446971036</guid>
-            <pubDate>Mon, 24 Oct 2022 09:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_9/1666603546129DbMEp_JPEG/67739444837181062_181472667.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Jackson - Thriller 40th anniversary (Alternate Cover) [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7446290026</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7446290026</guid>
-            <pubDate>Mon, 24 Oct 2022 08:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_37/1666596159890deXOK_JPEG/67732002604661984_1677743469.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
