@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Oct 2022 19:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 20:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,7 +648,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220803_116/1659506059320xTfDJ_JPEG/60641839029828594_775268945.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[춤과 땡땡 / 인터뷰집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <title><![CDATA[undefined (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/6994922865</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/6994922865</guid>
             <pubDate>Fri, 28 Oct 2022 22:25:50 GMT</pubDate>
