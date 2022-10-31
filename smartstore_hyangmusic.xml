@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 08:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 09:28:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Marie Laforet - Best Of The Best (180G TRANSPARENT GREEN-CYAN COLOURED LP) [2022 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7491964167</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7491964167</guid>
+            <pubDate>Mon, 31 Oct 2022 09:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_139/16672078511752Yehe_JPEG/68343630892512980_2043872448.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Benson - The Other Side Of Abbey Road (180G TRANSPARENT WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7491931605</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7491931605</guid>
+            <pubDate>Mon, 31 Oct 2022 09:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_248/1667206943797FDtbA_JPEG/68342786501153485_2009650851.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송골매 - 4집 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7491816406</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7491816406</guid>
+            <pubDate>Mon, 31 Oct 2022 09:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_158/1667206271378zbqsX_JPEG/68342055087069258_1781035219.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송골매 - 3집 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7473679480</link>
@@ -158,38 +182,6 @@
             <pubDate>Mon, 24 Oct 2022 13:01:40 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221024_253/1666613466785Wz3ye_JPEG/67749300604654121_923238941.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Blue Note Re-imagined II (2022) [CLEAR COLOURED 2LP] (INDIE ONLY)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7447824462</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7447824462</guid>
-            <pubDate>Mon, 24 Oct 2022 13:01:40 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_65/1666613238746kPp9L_JPEG/67749072568434058_772401985.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Blue Note Re-imagined II (2022) [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7447771881</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7447771881</guid>
-            <pubDate>Mon, 24 Oct 2022 13:01:40 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_201/1666611750950zMbik_JPEG/67747593658759669_2060065814.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oscar Peterson Trio - We Get Requests (Acoustic Sounds Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7447589534</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7447589534</guid>
-            <pubDate>Mon, 24 Oct 2022 11:28:37 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_86/1666610424492KYDQR_JPEG/67746258313718933_1523807985.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norah Jones - I Dream Of Christmas (DELUXE EDITION) [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7447411147</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7447411147</guid>
-            <pubDate>Mon, 24 Oct 2022 11:28:37 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_168/1666608306692sJesY_JPEG/67744134510256363_42594821.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
