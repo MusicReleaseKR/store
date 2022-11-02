@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Nov 2022 07:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 08:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김일두X하헌진 - 34:03 (140G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7505629120</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7505629120</guid>
+            <pubDate>Wed, 02 Nov 2022 08:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221102_233/1667376700224glmp9_JPEG/68512534044342874_1975774315.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배드램 Badlamb - Universal Anxiety (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7497706708</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7497706708</guid>
@@ -470,14 +478,6 @@
             <pubDate>Wed, 02 Nov 2022 05:47:43 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221026_138/1666764060673xEJH0_JPEG/67899906377861938_1221250179.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Woody Allen - illustration by CORBOZ [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7453101666</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7453101666</guid>
-            <pubDate>Wed, 02 Nov 2022 05:47:43 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221025_107/1666681017934OSaTi_JPEG/67816863651574012_1027283794.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허구한 날 서울 타령 / 조민희 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
