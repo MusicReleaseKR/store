@@ -4,9 +4,65 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 09:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 10:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pusha T - It's Almost Dry (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515689843</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515689843</guid>
+            <pubDate>Fri, 04 Nov 2022 10:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_9/1667557241337zbPl4_JPEG/68693025053142570_1899697574.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Francoise Hardy - Francoise Hardy (180G LP) [DELUXE EDITION]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515652880</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515652880</guid>
+            <pubDate>Fri, 04 Nov 2022 10:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[31,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_284/16675568403019BMDu_JPEG/68692624010284176_1977087363.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Darkest Era - Wither On The Vine (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515601744</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515601744</guid>
+            <pubDate>Fri, 04 Nov 2022 10:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[24,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_94/1667556290372XKznJ_JPEG/68692074080105576_1210431496.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비니셔스 Vinicius - 사이 (LP) [2018 서울레코드페어 한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515583754</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515583754</guid>
+            <pubDate>Fri, 04 Nov 2022 10:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[35,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_261/16675559351833Y29s_JPEG/68691718901440061_265926429.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포르테 디콰트로 Forte Di Quattro - 포르테 디콰트로 (180G CLEAR ORANGE COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515552895</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515552895</guid>
+            <pubDate>Fri, 04 Nov 2022 10:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[36,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_54/1667555603075hhcJi_JPEG/68691386791332658_722734681.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밀실 - 1집 밀실 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515489443</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515489443</guid>
+            <pubDate>Fri, 04 Nov 2022 10:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_21/1667554874943ENCMC_JPEG/68690709776046749_1255999719.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쓰다 Xeuda - 1집 이름 없는 것들 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515461459</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515461459</guid>
+            <pubDate>Fri, 04 Nov 2022 10:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_26/1667554576375uNvbY_JPEG/68690411200905449_1954986227.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정미조 - 바람같은 날을 살다가 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7510945822</link>
@@ -118,70 +174,6 @@
             <pubDate>Thu, 03 Nov 2022 08:33:57 GMT</pubDate>
             <content:encoded><![CDATA[280,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221028_54/1666949366880yGClb_JPEG/68085200688226838_817248959.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Revolver (2022 Sessions Highlights) [2CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7473499146</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7473499146</guid>
-            <pubDate>Thu, 03 Nov 2022 08:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[37,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221028_283/1666949117187O36ow_JPEG/68084950997081826_1052417330.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Revolver (2022 Remixes) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7473481981</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7473481981</guid>
-            <pubDate>Thu, 03 Nov 2022 08:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221028_174/1666948797334dbMd7_JPEG/68084631146871874_1633934812.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 안녕, 광석이형 (25Th Anniversary) [150G CLEAR RED COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7466458212</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7466458212</guid>
-            <pubDate>Thu, 03 Nov 2022 08:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221027_201/16668558150969vEhc_JPEG/67991713806276535_1762590282.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이소 (E So) - 2집 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7466165696</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7466165696</guid>
-            <pubDate>Thu, 03 Nov 2022 08:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221027_263/1666852887209evlPG_JPEG/67988666934549958_1836201856.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[European Jazz Trio - 디즈니 & 지브리 (GREEN COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7466016468</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7466016468</guid>
-            <pubDate>Thu, 03 Nov 2022 08:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221027_94/16668512870379pVnp_JPEG/67987114855961918_528521892.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Olafur Arnalds - Some Kind of Peace - Piano Reworks [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7460785667</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7460785667</guid>
-            <pubDate>Thu, 03 Nov 2022 08:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221026_222/1666780887090if5RM_JPEG/67916670801041400_673679870.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stanley Turrentine - Common Touch (Blue Note Classic Vinyl Series) [180g LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7460761391</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7460761391</guid>
-            <pubDate>Thu, 03 Nov 2022 08:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221026_39/1666780549384QSS8Q_JPEG/67916333097783609_419951602.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryuichi Sakamoto - The Kakutougi Session (CLEAR YELLOW COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7460745041</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7460745041</guid>
-            <pubDate>Thu, 03 Nov 2022 08:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[52,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221026_239/1666780117959dqGUA_JPEG/67915901676783990_862570786.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
