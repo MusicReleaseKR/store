@@ -4,9 +4,633 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Nov 2022 05:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 06:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스위트피 (Sweetpea) - 에코백 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5486746720</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5486746720</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210329_151/16169858665260ThJz_JPEG/18121700199183298_1323137602.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이준형 [Happy end] 앨범 + 굿즈 세트 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5435529267</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5435529267</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210303_15/1614765774514ohOmY_JPEG/15901609330862228_1294435629.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[얼큰이 뮤직박스 (크라잉넛 '좋지 아니한가') (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5348655091</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5348655091</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[90,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210121_255/1611197727371sxwTt_JPEG/12333555117758798_1162591832.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 크라잉 넛 (Crying Nut) - 25주년 베스트 앨범 [2LP][LP 가방증정) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5274886211</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5274886211</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20201214_258/1607913266475CKIYp_JPEG/9049165177437637_1523469073.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카세트 테이프] 프롬 (Fromm) - CELLOPHANE (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5187047508</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5187047508</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20201028_246/1603867232378IT6Do_JPEG/5003078084116928_1518211692.jpeg?type=f296_296" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 스위트피 (Sweetpea) - LP Box Set 月出 (DELUXE) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5105687129</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5105687129</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[150,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200909_242/1599615329862C8OuJ_JPEG/751218570180281_313592264.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 스위트피 (Sweetpea) - LP Box Set 月出 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5105672956</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5105672956</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[75,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200909_177/1599613555544WYflJ_JPEG/36975888881631273_1283266899.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프롬 (FROMM) SEOUL LIGHT 글리터 아크릴 키링 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4755680193</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4755680193</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[7,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191210_21/1575947996915afYak_JPEG/13308735541811609_304775864.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 옥수사진관 - 3집 Dreamography (2019 Remastered) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4675118449</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4675118449</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191002_176/15700032782393QwWH_JPEG/7366666781645753_1054619455.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 옥수사진관 - 2집 Candid (2019 Remastered) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4675104033</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4675104033</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191002_167/1570003114308hdNCi_JPEG/7363852941434875_698216182.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP]  옥수사진관 - 1집 옥수사진관 (2019 Remastered) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4675070641</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4675070641</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191002_57/1570003037963nwhyD_JPEG/7363776595986507_692583673.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 스위트피(Sweetpea) - 그걸로 됐어 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4675030830</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4675030830</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[34,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190920_195/1568959976885QXVKI_JPEG/6321519481930781_2093320903.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 스위트피(Sweetpea) - Neverendingstories (결코 끝나지 않을 이야기들)(Remastering) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4674998688</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4674998688</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190910_177/1568104142213pEI7P_JPEG/5465684811566104_1032530137.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP+CD] 스위트피(Sweetpea) - 하늘에 피는 꽃(Remastering) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4674848569</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4674848569</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[37,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190910_283/1568104925743TUnBn_JPEG/5468314289917565_472783271.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] J n joy 20 - Travel Project One (Just Travel... Walking... and Thinking...) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4674828420</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4674828420</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190920_291/1568948624473J3XoK_JPEG/6309363104932121_2117322622.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 피터팬 콤플렉스 - 1 9 9 9 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4674779671</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4674779671</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190919_244/1568874053296xV0WT_JPEG/6237441840189163_90401549.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[한정 사인반] 로큰롤라디오 - YOU'VE NEVER HAD IT SO GOOD (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4225661235</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4225661235</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190219_15/mirrorball_m_1550541991001sxcoD_JPEG/33260849766504738_80619374.jpeg?type=f296_296" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 신현희와 김루트 - EP 1집 신현희와김루트 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/3812108582</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/3812108582</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191002_123/1570003889398r7qSI_JPEG/7366222946702653_1439167578.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 잠비나이 - 잠비나이 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/5307640381</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/5307640381</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210101_57/1609494051090jVbRT_JPEG/10629884727695306_1954582277.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP/재발매/취소분판매] 스텔라장 - Colors (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/5121036792</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/5121036792</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200917_12/1600310780694pf8ay_JPEG/1446608343761810_1027102016.jpeg?type=f295_381" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] [SPECIAL] 스텔라장 - Colors (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/5071522183</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/5071522183</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[120,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200820_58/15978854309556jLgF_JPEG/35246169566683118_614458150.jpeg?type=f295_381" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 스텔라장 - Colors (투명반) (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/5070792720</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/5070792720</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200820_12/1597881213773o66xS_JPEG/35241952383958221_928510508.jpeg?type=f295_381" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 치타 - 초미의 관심사(Jazzy Misfits) OST (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4967214691</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4967214691</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200610_104/15917948444504QO2l_PNG/29154678836873589_1782786838.png?type=f295_381" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] [SPECIAL] BUBU - El Eco Del Sol (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4864435983</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4864435983</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[126,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200324_200/1584979528294RdWYF_JPEG/22340266928428305_878713593.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] [SPECIAL] BUBU - Anabelas (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4864430978</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4864430978</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[126,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200324_14/1584977583581uPxiM_JPEG/22339917153290673_696358225.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] BUBU - El Eco Del Sol (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4864403041</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4864403041</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200323_195/1584973045095vgVwG_JPEG/22335378662001911_886452822.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] BUBU - Anabelas (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4863884684</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4863884684</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200323_257/1584942892753hYCx5_JPEG/22305226312117425_817524365.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 에몬 1집 - In Your Sight (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4727193249</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4727193249</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[38,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191111_164/1573453593505tYnaN_JPEG/10815927055802954_322993452.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 뉴올 - FINDER / 서울 레코드 페어 최초 공개반 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4727192769</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4727192769</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191111_182/1573448576160knTii_JPEG/10808410532919364_1905531617.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 딕펑스 - Bicycle Man / 서울 레코드 페어 최초 공개반 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4727192450</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4727192450</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191111_195/1573451638319CUgIH_JPEG/10813971869260678_847153660.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[박스셋]WHITE WILLOW 전집 - 화이트 박스 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4675228807</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4675228807</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[279,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190920_90/1568960991997svivh_JPEG/6322534585460862_1998916645.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[박스셋]All Over Everywhere - Inner Firmaments Decay (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4673911025</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4673911025</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[69,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190919_191/1568871199149Xqlia_JPEG/6232741626433109_1987577544.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[박스셋]Birds and Buildings – Bantam to Behemoth / 한정판 박스셋 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4672851494</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4672851494</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[80,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190918_180/1568785014571QLcMR_JPEG/6145753204689859_427827906.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[박스셋]Deluge Grander - August in the Urals / 한정판 박스셋 (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4672705711</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4672705711</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[80,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190917_32/1568701635765CaXf7_JPEG/6065024309436818_359227455.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP]Deluge Grander - August in the Urals (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4671744032</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4671744032</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[49,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190917_257/1568701603637iUIiv_JPEG/6061438182539033_2146888741.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP]All Over Everywhere - Inner Firmaments Decay (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4671711572</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4671711572</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190917_138/15687003465448jQgx_JPEG/6061085168664737_575134619.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP]Birds and Buildings - Bantam to Behemoth (네이버 스마트스토어 ─ 하이원레코드)]]></title>
+            <link>https://smartstore.naver.com/hionerecords/products/4670507641</link>
+            <guid>https://smartstore.naver.com/hionerecords/products/4670507641</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[49,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[R.E.M. - Chronic Town EP (40th Anniversary Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515733416</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515733416</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_80/1667557597958H8Pcn_JPEG/68693381675908253_1059892118.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pusha T - It's Almost Dry (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515689843</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515689843</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_9/1667557241337zbPl4_JPEG/68693025053142570_1899697574.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Francoise Hardy - Francoise Hardy (180G LP) [DELUXE EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515652880</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515652880</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[31,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_284/16675568403019BMDu_JPEG/68692624010284176_1977087363.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Darkest Era - Wither On The Vine (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515601744</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515601744</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[24,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_94/1667556290372XKznJ_JPEG/68692074080105576_1210431496.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비니셔스 Vinicius - 사이 (LP) [2018 서울레코드페어 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515583754</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515583754</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[35,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_261/16675559351833Y29s_JPEG/68691718901440061_265926429.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포르테 디콰트로 Forte Di Quattro - 포르테 디콰트로 (180G CLEAR ORANGE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515552895</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515552895</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[36,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_54/1667555603075hhcJi_JPEG/68691386791332658_722734681.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밀실 - 1집 밀실 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515489443</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515489443</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_21/1667554874943ENCMC_JPEG/68690709776046749_1255999719.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쓰다 Xeuda - 1집 이름 없는 것들 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7515461459</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7515461459</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221104_26/1667554576375uNvbY_JPEG/68690411200905449_1954986227.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정미조 - 바람같은 날을 살다가 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7510945822</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7510945822</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221103_186/16674576748574Lta6_JPEG/68593570593531453_261189421.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정미조 - 37년 (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7510912478</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7510912478</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221103_30/1667457234001tzpL1_JPEG/68593129730310525_1138688192.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최백호 - 다시 길 위에서 (180G LP) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7510861527</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7510861527</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221103_33/1667456819718y9cFk_JPEG/68592662422877327_969136106.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지압공원 - 사춘기 리턴즈 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7510823424</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7510823424</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221103_69/1667456334274oIlyE_JPEG/68592176987796800_902514829.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예람 - 세상의 끝에서 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7510800548</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7510800548</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221103_72/1667455781964YbtLP_JPEG/68591561684200173_1777864498.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페이퍼리버 PaperRiver - why why (140G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7505732939</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7505732939</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221102_222/1667377961269VVYuw_JPEG/68513744977668046_1039689035.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김일두 X 하헌진 - 34:03 (140G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7505629120</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7505629120</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221102_233/1667376700224glmp9_JPEG/68512534044342874_1975774315.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배드램 Badlamb - Universal Anxiety (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7497706708</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7497706708</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221101_56/1667282321885mJUdo_JPEG/68418155704845575_857726931.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이비티비 ABTB - iii (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7492421225</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7492421225</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_16/1667212451646cilOc_JPEG/68348285468328573_370695639.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marie Laforet - Best Of The Best (180G TRANSPARENT GREEN-CYAN COLOURED LP) [2022 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7491964167</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7491964167</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_139/16672078511752Yehe_JPEG/68343630892512980_2043872448.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Benson - The Other Side Of Abbey Road (180G TRANSPARENT WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7491931605</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7491931605</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_248/1667206943797FDtbA_JPEG/68342786501153485_2009650851.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송골매 - 4집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7491816406</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7491816406</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_158/1667206271378zbqsX_JPEG/68342055087069258_1781035219.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송골매 - 3집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7473679480</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7473679480</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221028_57/1666950794915VmUaW_JPEG/68086628738040042_2130074481.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허구한 날 서울 타령 / 조민희 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7492222012</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7492222012</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_208/1667210799999HXnDS_JPEG/68346642697223784_74215033.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머릿속에 블루스크린이 떴다 / 이은별 시집 / 소라카 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7492021936</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7492021936</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_80/1667208603243LGTXo_JPEG/68344382946180414_240193834.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 모든 것이 연기는 아니야 / 정지혜 에세이 / 여행마을 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7356758155</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7356758155</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221010_210/1665393944213E36R4_JPEG/66529727925484215_435903913.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작당모의 / 라이프&컬처 매거진 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7356569266</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7356569266</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221010_133/1665389517685DLMa5_JPEG/66525406384713372_1535346452.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발작 / 박치치 노래집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7350114888</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7350114888</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221019_300/1666168714473NxiOA_JPEG/67304548267193893_292146907.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[악당수업 / 효일 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7344477080</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7344477080</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221008_102/1665220258763GgTxh_JPEG/66356154465912064_1637239795.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구시대적 사랑 / 김단한 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7344347981</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7344347981</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[9,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221008_157/1665217930948O63Vs_JPEG/66353819626348607_615295459.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과몰입 / 산해 앨범책 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7333365413</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7333365413</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221006_127/16650554369621Dsba_JPEG/66191220644139575_48038045.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새빛깔 / 김새녘 1st EP / CD 음반 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7333022526</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7333022526</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[17,300]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221006_145/1665051603582ah2Kh_JPEG/66187502267943869_1833068945.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고기자의 정체: 쓰며 그리며 달리며 / 고기자 에세이 / 출판공동체 편않 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7272496203</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7272496203</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_11/1664274288764SUS1i_JPEG/65410187438506708_24089210.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손정빈의 환영: 영화관을 나서며 / 손정빈 에세이 / 출판공동체 편않 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7272425421</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7272425421</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_42/1664273527398hKzIx_JPEG/65409362206678392_2128913545.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박정환의 현장: 다시, 주사위를 던지며 / 박정환 에세이 / 출판공동체 편않 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7272313196</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7272313196</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_40/1664272078496aBCih_JPEG/65407924187026270_783498153.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guinneissik 기나이직 정규 2집 / 'Postwar' USB (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7230720320</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7230720320</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221006_82/16650508154979txlR_JPEG/66186711188483730_95727940.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일곱 개의 원호 2호 “삶” / 퀴어 문예지 / 18도의 얼그레이 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7230284603</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7230284603</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[14,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220921_17/1663746292112FxMim_JPEG/64882187816387273_1072480588.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 빼놓고선 적을 문장이 없다. (개정판) / 김유라 산문 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7092649239</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7092649239</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220826_50/166150908188110pCt_JPEG/62644909698016379_930282093.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우연적인 환상 / 김민지 SF 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7092387040</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7092387040</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220826_206/16615065543422Xa0m_JPEG/62642443046998004_2104877734.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불안 한 톳 / 이택민 에세이 / 책편사 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7091782360</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7091782360</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220826_21/1661503724459ifyVh_JPEG/62639623148935969_1602830474.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지워지는 나를 지키는 일 / 연옥 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7086782711</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7086782711</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[11,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_202/1661415275312lVe2u_JPEG/62551103124456222_249583414.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정해져 있지 않은 거주지: 오드라데크 / 히스테리안 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7086673424</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7086673424</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_2/1661413378538GUyBc_JPEG/62549206349575320_969615066.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죽은 척하기 / 해파 정규 1집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7059083084</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7059083084</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220819_266/1660872848998KSXj6_JPEG/62008744700609294_1281490677.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소스 리스트 (네이버 스마트스토어 ─ 재미공작소)]]></title>
             <link>https://smartstore.naver.com/studiozemi/products/7491359328</link>
@@ -54,6 +678,78 @@
             <pubDate>Sat, 05 Nov 2022 08:29:21 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20191112_245/1573556165698KUpb9_JPEG/10919554242488577_1575279506.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고양이 키링 고로 흑니켈 키링 (네이버 스마트스토어 ─ 스트레인지 )]]></title>
+            <link>https://smartstore.naver.com/strangetiger/products/6953588104</link>
+            <guid>https://smartstore.naver.com/strangetiger/products/6953588104</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220724_24/165862895373503k1R_JPEG/59764849391875152_1125576017.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[친환경 티셔츠] GRRR 로고 PET 리사이클 티셔츠 남여공용 호랑이 오버핏 블랙 커플 티셔츠 (네이버 스마트스토어 ─ 스트레인지 )]]></title>
+            <link>https://smartstore.naver.com/strangetiger/products/6902959632</link>
+            <guid>https://smartstore.naver.com/strangetiger/products/6902959632</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220711_23/1657526099671Bz1mq_JPEG/58661988327675758_130861079.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[친환경 티셔츠] 아이스크림 컬러 PET 리사이클 티셔츠 남여공용 호랑이 오버핏 블랙 커플 티셔츠 (네이버 스마트스토어 ─ 스트레인지 )]]></title>
+            <link>https://smartstore.naver.com/strangetiger/products/6902919430</link>
+            <guid>https://smartstore.naver.com/strangetiger/products/6902919430</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220711_84/1657515733195C87u6_JPEG/58651578799824643_770186064.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패브릭포스터 검은 고양이 NEW 행운의 상징 (노렌 미니가림막) (네이버 스마트스토어 ─ 스트레인지 )]]></title>
+            <link>https://smartstore.naver.com/strangetiger/products/6330574304</link>
+            <guid>https://smartstore.naver.com/strangetiger/products/6330574304</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220221_181/1645451033967ham9F_JPEG/46586817640589116_802131965.JPG?type=f295_381" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[[7인치 바이닐] 곽푸른하늘 x MARVIN(마빈) [날] by Artist Square 컬러반 싱글 LP 7inch 한정반 + 굿즈 세트 (네이버 스마트스토어 ─ 스트레인지 )]]></title>
+            <link>https://smartstore.naver.com/strangetiger/products/6309018672</link>
+            <guid>https://smartstore.naver.com/strangetiger/products/6309018672</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[38,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220216_12/1644975521057nnQs7_JPEG/46111354560642846_1470426513.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1+1] 코르크 컵받침 스트타 호랑이 코스터 흑호 굿즈 (맥주 커피 티) (네이버 스마트스토어 ─ 스트레인지 )]]></title>
+            <link>https://smartstore.naver.com/strangetiger/products/6171774226</link>
+            <guid>https://smartstore.naver.com/strangetiger/products/6171774226</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220110_279/1641754959322cXikC_JPEG/42890857925915253_1155052596.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴대폰 스트랩 견생갓생 (강아지 캐릭터 폰줄 핑거스트랩 아이폰 갤럭시 스마트폰 전기종) (네이버 스마트스토어 ─ 스트레인지 )]]></title>
+            <link>https://smartstore.naver.com/strangetiger/products/6130518857</link>
+            <guid>https://smartstore.naver.com/strangetiger/products/6130518857</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211227_5/1640595238379Ypovm_JPEG/41731072990784400_48453878.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴대폰 스트랩 묘작도 (고양이 캐릭터 폰줄 핑거스트랩 아이폰 갤럭시 스마트폰 전기종) (네이버 스마트스토어 ─ 스트레인지 )]]></title>
+            <link>https://smartstore.naver.com/strangetiger/products/5998039199</link>
+            <guid>https://smartstore.naver.com/strangetiger/products/5998039199</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211109_7/1636430663510U9EKG_JPEG/37566443192751492_1196760911.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캘린더 2021 레이지걸 (벽걸이형/탁상형) (네이버 스마트스토어 ─ 스트레인지 )]]></title>
+            <link>https://smartstore.naver.com/strangetiger/products/5749702522</link>
+            <guid>https://smartstore.naver.com/strangetiger/products/5749702522</guid>
+            <pubDate>Sun, 06 Nov 2022 06:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210728_98/1627452846592Ibc7D_JPEG/28588689116272488_283956615.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
