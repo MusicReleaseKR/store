@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 07:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 08:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수호 - Grey Suit (2ND MINI ALBUM) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7525997277</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7525997277</guid>
+            <pubDate>Mon, 07 Nov 2022 08:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221107_26/1667807819527CKw0u_JPEG/68943662237815678_1711388086.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘던 Eldon - Do monsters love too (180G CLEAR COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7525407999</link>
@@ -174,14 +182,6 @@
             <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
             <content:encoded><![CDATA[19,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221101_56/1667282321885mJUdo_JPEG/68418155704845575_857726931.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이비티비 ABTB - iii (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7492421225</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7492421225</guid>
-            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221031_16/1667212451646cilOc_JPEG/68348285468328573_370695639.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
