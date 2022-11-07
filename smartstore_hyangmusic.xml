@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 05:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 06:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김현철 - BEST (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7525329495</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7525329495</guid>
+            <pubDate>Mon, 07 Nov 2022 06:31:05 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221107_29/1667802086901nhyRY_JPEG/68937921736234219_1623978387.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 - BEST (180G TRANSPARENT ORANGE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7525322142</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7525322142</guid>
+            <pubDate>Mon, 07 Nov 2022 06:31:05 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221107_247/16678017101846gjBv_JPEG/68937545016495339_758434691.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 Jambinai - 발현 (Apparition) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7525199272</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7525199272</guid>
+            <pubDate>Mon, 07 Nov 2022 06:31:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221107_294/1667800794688ugagQ_JPEG/68936693396825505_1494595055.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에코 브릿지 Eco Bridge - COMPILATION (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7525122923</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7525122923</guid>
+            <pubDate>Mon, 07 Nov 2022 06:31:05 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221107_83/1667799708212NVSAy_JPEG/68935603948205014_392746385.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[R.E.M. - Chronic Town EP (40th Anniversary Edition) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7515733416</link>
@@ -150,30 +182,6 @@
             <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221031_139/16672078511752Yehe_JPEG/68343630892512980_2043872448.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[George Benson - The Other Side Of Abbey Road (180G TRANSPARENT WHITE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7491931605</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7491931605</guid>
-            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221031_248/1667206943797FDtbA_JPEG/68342786501153485_2009650851.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송골매 - 4집 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7491816406</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7491816406</guid>
-            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221031_158/1667206271378zbqsX_JPEG/68342055087069258_1781035219.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송골매 - 3집 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7473679480</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7473679480</guid>
-            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221028_57/1666950794915VmUaW_JPEG/68086628738040042_2130074481.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
