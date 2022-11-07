@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 09:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 10:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Olafur Arnalds - Some Kind of Peace - Piano Reworks (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7526811064</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7526811064</guid>
+            <pubDate>Mon, 07 Nov 2022 10:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221107_147/1667816370300ceHYa_JPEG/68952150017758068_2102342492.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수호 - Grey Suit (2ND MINI ALBUM) [LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7525997277</link>
@@ -174,14 +182,6 @@
             <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221102_233/1667376700224glmp9_JPEG/68512534044342874_1975774315.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배드램 Badlamb - Universal Anxiety (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7497706708</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7497706708</guid>
-            <pubDate>Sun, 06 Nov 2022 06:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221101_56/1667282321885mJUdo_JPEG/68418155704845575_857726931.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
