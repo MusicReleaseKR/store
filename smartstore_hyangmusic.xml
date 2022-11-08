@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Nov 2022 11:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 12:54:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Michael Jackson - Thriller 40th anniversary (2CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7534707122</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7534707122</guid>
+            <pubDate>Tue, 08 Nov 2022 12:53:39 GMT</pubDate>
+            <content:encoded><![CDATA[22,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221108_274/16679069812540r7t9_JPEG/69042876969767737_1861258613.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Royal Hunt - Dystopia Part II (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7534687397</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7534687397</guid>
+            <pubDate>Tue, 08 Nov 2022 12:53:39 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221108_214/1667906586866yaMVw_JPEG/69042482599699819_1909488173.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vio-Lence - Eternal Nightmare (2CD REMASTERED)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7534656013</link>
@@ -168,20 +184,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221104_26/1667554576375uNvbY_JPEG/68690411200905449_1954986227.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정미조 - 바람같은 날을 살다가 (180G LP)]]></title>
+            <title><![CDATA[22]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7510945822</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7510945822</guid>
             <pubDate>Mon, 07 Nov 2022 18:29:39 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221103_186/16674576748574Lta6_JPEG/68593570593531453_261189421.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정미조 - 37년 (180G WHITE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7510912478</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7510912478</guid>
-            <pubDate>Mon, 07 Nov 2022 18:29:39 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221103_30/1667457234001tzpL1_JPEG/68593129730310525_1138688192.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
