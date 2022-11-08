@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Nov 2022 10:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 11:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vio-Lence - Eternal Nightmare (2CD REMASTERED)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7534656013</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7534656013</guid>
+            <pubDate>Tue, 08 Nov 2022 11:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221108_127/1667905927679W5MCj_JPEG/69041762515632383_1333978002.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[있지 Itzy - CHESHIRE (CD) [한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7534501981</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7534501981</guid>
+            <pubDate>Tue, 08 Nov 2022 11:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221108_76/1667903417469atRAe_JPEG/69039263190281438_1316974795.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jamiroquai - A Funk Odyssey (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7533760131</link>
@@ -166,22 +182,6 @@
             <pubDate>Mon, 07 Nov 2022 18:29:39 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221103_30/1667457234001tzpL1_JPEG/68593129730310525_1138688192.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최백호 - 다시 길 위에서 (180G LP) [재발매]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7510861527</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7510861527</guid>
-            <pubDate>Mon, 07 Nov 2022 18:29:39 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221103_33/1667456819718y9cFk_JPEG/68592662422877327_969136106.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지압공원 - 사춘기 리턴즈 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7510823424</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7510823424</guid>
-            <pubDate>Mon, 07 Nov 2022 18:29:39 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221103_69/1667456334274oIlyE_JPEG/68592176987796800_902514829.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
