@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 07:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 08:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존노 / 고영열 - Cantar (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7540873714</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7540873714</guid>
+            <pubDate>Wed, 09 Nov 2022 08:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221109_166/1667981832940n3H2d_JPEG/69117678660770792_330594732.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임형주 - Lost In Memory (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7540801243</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7540801243</guid>
+            <pubDate>Wed, 09 Nov 2022 08:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221109_104/1667981287487LyQsV_JPEG/69117133207271440_368302901.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Michael Jackson - Thriller 40th anniversary (2CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7534707122</link>
@@ -174,22 +190,6 @@
             <pubDate>Mon, 07 Nov 2022 18:29:39 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221104_21/1667554874943ENCMC_JPEG/68690709776046749_1255999719.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쓰다 Xeuda - 1집 이름 없는 것들 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7515461459</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7515461459</guid>
-            <pubDate>Mon, 07 Nov 2022 18:29:39 GMT</pubDate>
-            <content:encoded><![CDATA[24,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221104_26/1667554576375uNvbY_JPEG/68690411200905449_1954986227.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[22]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7510945822</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7510945822</guid>
-            <pubDate>Mon, 07 Nov 2022 18:29:39 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221103_186/16674576748574Lta6_JPEG/68593570593531453_261189421.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
