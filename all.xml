@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 12:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 13:55:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오왼 Owen - Cry (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7547137956</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7547137956</guid>
+            <pubDate>Thu, 10 Nov 2022 13:55:19 GMT</pubDate>
+            <content:encoded><![CDATA[21,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221110_117/1668084608327cgfUH_JPEG/69220507038865775_1540663745.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김석준 - 30 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7546885758</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7546885758</guid>
@@ -480,6 +488,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221107_83/1667799708212NVSAy_JPEG/68935603948205014_392746385.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사랑에 온도가 있다면 / 김다흠 단상집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7547248886</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7547248886</guid>
+            <pubDate>Thu, 10 Nov 2022 13:55:27 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221110_113/16680863244586P8gQ_JPEG/69222223152454683_437749044.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사람에게는 얼마만큼의 잠잘 땅이 필요한가 / 조현익 저널리즘 / 스튜디오 하프-보틀 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7545646089</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7545646089</guid>
@@ -630,14 +646,6 @@
             <pubDate>Thu, 10 Nov 2022 11:21:44 GMT</pubDate>
             <content:encoded><![CDATA[11,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220826_21/1661503724459ifyVh_JPEG/62639623148935969_1602830474.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지워지는 나를 지키는 일 / 연옥 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7086782711</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7086782711</guid>
-            <pubDate>Thu, 10 Nov 2022 11:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[11,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220825_202/1661415275312lVe2u_JPEG/62551103124456222_249583414.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소스 리스트 (네이버 스마트스토어 ─ 재미공작소)]]></title>
