@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 11:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 12:55:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김석준 - 30 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7546885758</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7546885758</guid>
+            <pubDate>Thu, 10 Nov 2022 12:55:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,200]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221110_127/1668081268906yyn7N_JPEG/69217102729225822_69277487.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초록불꽃소년단 - 2집 Green Bridge (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7546728751</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7546728751</guid>
+            <pubDate>Thu, 10 Nov 2022 12:55:20 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221110_237/1668080181560Dg4vm_JPEG/69216070250172678_914691937.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트 오브 파티스 - Ophelia (COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7544179896</link>
@@ -166,30 +182,6 @@
             <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221107_83/1667799708212NVSAy_JPEG/68935603948205014_392746385.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[R.E.M. - Chronic Town EP (40th Anniversary Edition) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7515733416</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7515733416</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221104_80/1667557597958H8Pcn_JPEG/68693381675908253_1059892118.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pusha T - It's Almost Dry (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7515689843</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7515689843</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221104_9/1667557241337zbPl4_JPEG/68693025053142570_1899697574.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[22]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7515652880</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7515652880</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[31,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221104_284/16675568403019BMDu_JPEG/68692624010284176_1977087363.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
