@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 23:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 02:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아트 오브 파티스 - Ophelia (COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7544179896</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7544179896</guid>
+            <pubDate>Thu, 10 Nov 2022 02:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[63,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221110_18/1668043043690Lcsmw_JPEG/69178827394602917_1391406458.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팔로알토 Paloalto - 발자국 (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7541626143</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7541626143</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
             <content:encoded><![CDATA[31,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221104_284/16675568403019BMDu_JPEG/68692624010284176_1977087363.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Darkest Era - Wither On The Vine (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7515601744</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7515601744</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[24,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221104_94/1667556290372XKznJ_JPEG/68692074080105576_1210431496.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허구한 날 서울 타령 / 조민희 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
