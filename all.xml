@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 07:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 08:38:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -488,6 +488,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221104_284/16675568403019BMDu_JPEG/68692624010284176_1977087363.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사람에게는 얼마만큼의 잠잘 땅이 필요한가 / 조현익 저널리즘 / 스튜디오 하프-보틀 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7545646089</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7545646089</guid>
+            <pubDate>Thu, 10 Nov 2022 08:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221110_243/1668068870094YRYz4_JPEG/69204703910377498_299941177.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김제형 정규 앨범 / 띄 움 / 띄움 / CD음반 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7543652287</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7543652287</guid>
@@ -638,14 +646,6 @@
             <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
             <content:encoded><![CDATA[11,800]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220825_202/1661415275312lVe2u_JPEG/62551103124456222_249583414.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정해져 있지 않은 거주지: 오드라데크 / 히스테리안 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7086673424</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7086673424</guid>
-            <pubDate>Sun, 06 Nov 2022 06:29:35 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220825_2/1661413378538GUyBc_JPEG/62549206349575320_969615066.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소스 리스트 (네이버 스마트스토어 ─ 재미공작소)]]></title>
