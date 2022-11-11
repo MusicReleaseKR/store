@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 07:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 08:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조수미 Sumi Jo - In Love (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7552452446</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7552452446</guid>
+            <pubDate>Fri, 11 Nov 2022 08:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221111_169/1668153466851yaKO5_JPEG/69289355565695593_1398710753.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3호선 버터플라이 - Dreamtalk (180G 2LP BOX SET) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7552401971</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7552401971</guid>
+            <pubDate>Fri, 11 Nov 2022 08:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[87,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221111_101/1668152921520Ty8Nq_JPEG/69288810222898672_1750771750.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콩코드 - 1집 초음속 여객기 (180G RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7552341750</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7552341750</guid>
+            <pubDate>Fri, 11 Nov 2022 08:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221111_34/1668152307052UTeWg_JPEG/69288195747690898_1690895919.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오왼 Owen - Cry (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7547137956</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7547137956</guid>
@@ -454,38 +478,6 @@
             <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221107_4/1667802533830aQzpI_JPEG/68938313537100923_1221460459.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - BEST (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7525329495</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7525329495</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221107_29/1667802086901nhyRY_JPEG/68937921736234219_1623978387.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - BEST (180G TRANSPARENT ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7525322142</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7525322142</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221107_247/16678017101846gjBv_JPEG/68937545016495339_758434691.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠비나이 Jambinai - 발현 (Apparition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7525199272</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7525199272</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221107_294/1667800794688ugagQ_JPEG/68936693396825505_1494595055.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에코 브릿지 Eco Bridge - COMPILATION (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7525122923</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7525122923</guid>
-            <pubDate>Fri, 11 Nov 2022 07:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221107_83/1667799708212NVSAy_JPEG/68935603948205014_392746385.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어스 / 이종혁, 홍은화, 양단우, 주얼, 본본 소설 / 그런 의미에서 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
