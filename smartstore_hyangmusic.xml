@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 19:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 20:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,7 +192,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221108_76/1667903417469atRAe_JPEG/69039263190281438_1316974795.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jamiroquai - A Funk Odyssey (2LP)]]></title>
+            <title><![CDATA[23]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7533760131</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7533760131</guid>
             <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
