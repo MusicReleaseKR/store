@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 10:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 11:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Guns N Roses - Use Your Illusion II (2022 REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7571013375</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7571013375</guid>
+            <pubDate>Mon, 14 Nov 2022 11:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221114_201/1668422651616oUQu5_JPEG/69558550322636738_1049330399.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guns N Roses - Use Your Illusion I (2022 REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7570978201</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7570978201</guid>
+            <pubDate>Mon, 14 Nov 2022 11:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221114_113/1668422259906Wmqsq_JPEG/69558158607916371_66805030.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요조 Yozoh - 이름들 (45RPM 180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7570908667</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7570908667</guid>
+            <pubDate>Mon, 14 Nov 2022 11:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221114_216/1668421082193YyP9A_JPEG/69556977931674969_838833448.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박혜원 Hynn - First of all (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7570719596</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7570719596</guid>
@@ -470,22 +494,6 @@
             <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
             <content:encoded><![CDATA[55,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221108_160/1667895516953WO59Y_JPEG/69031344780433437_341329860.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리쌍 - 2집 재, 계발 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7533688504</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7533688504</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221108_91/1667894737576ALgem_JPEG/69030572395428736_800132627.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift - Midnights (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7533615849</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7533615849</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221108_180/1667893691729OpYSY_JPEG/69029526566075325_1049996535.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어스 / 이종혁, 홍은화, 양단우, 주얼, 본본 소설 / 그런 의미에서 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
