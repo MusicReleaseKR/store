@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 08:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 09:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[급한노새 - 미술관 (SINGLE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7570505965</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7570505965</guid>
+            <pubDate>Mon, 14 Nov 2022 09:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[9,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221114_201/1668417514311cSIjM_JPEG/69553410037993332_655813264.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Queen / Face It Alone (7INCH SINGLE LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7552965186</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7552965186</guid>
@@ -470,14 +478,6 @@
             <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
             <content:encoded><![CDATA[21,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221108_180/1667893691729OpYSY_JPEG/69029526566075325_1049996535.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Olafur Arnalds - Some Kind of Peace - Piano Reworks (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7526811064</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7526811064</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221107_147/1667816370300ceHYa_JPEG/68952150017758068_2102342492.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어스 / 이종혁, 홍은화, 양단우, 주얼, 본본 소설 / 그런 의미에서 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
