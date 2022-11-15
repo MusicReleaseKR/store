@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 06:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 07:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[10 to 4 - 말하기 듣기 쓰기 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7576842000</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7576842000</guid>
+            <pubDate>Tue, 15 Nov 2022 07:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221115_56/1668496163217OPBqP_JPEG/69631997035331912_77790430.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Guns N Roses - Use Your Illusion II (2022 REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7571013375</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7571013375</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221108_127/1667905927679W5MCj_JPEG/69041762515632383_1333978002.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있지 Itzy - CHESHIRE (CD) [한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7534501981</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7534501981</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221108_76/1667903417469atRAe_JPEG/69039263190281438_1316974795.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어스 / 이종혁, 홍은화, 양단우, 주얼, 본본 소설 / 그런 의미에서 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
