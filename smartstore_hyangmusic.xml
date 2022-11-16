@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 09:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 10:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arts Symphony Orchestra - 하루키 소설 속 클래식 (180G GREEN CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7584379869</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7584379869</guid>
+            <pubDate>Wed, 16 Nov 2022 10:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221116_80/16685927919224PTDz_JPEG/69728625737356172_319533909.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나훈아 - 해변의 여인 (180G GREEN COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7584349685</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7584349685</guid>
+            <pubDate>Wed, 16 Nov 2022 10:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221116_121/1668591899478yl6c2_JPEG/69727788171305289_1922160112.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어니언스 - 2집 돌에 핀꽃 (180G LP) [2022 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7584329241</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7584329241</guid>
+            <pubDate>Wed, 16 Nov 2022 10:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221116_116/1668590957453v5lbB_JPEG/69726846164705532_554459047.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어니언스 - 작은새 사랑의 진실 (180G LP) [2022 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7584309108</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7584309108</guid>
+            <pubDate>Wed, 16 Nov 2022 10:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221116_268/1668591433248wQcAc_JPEG/69727321961454978_1043232220.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홈존 - homezone (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7584108928</link>
@@ -158,38 +190,6 @@
             <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
             <content:encoded><![CDATA[42,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221109_241/1667989508784T5taX_JPEG/69125351493694547_1859383831.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박종범 - 문학집 1 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7541361686</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7541361686</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221109_58/1667986708411S7r4M_JPEG/69122492118213325_1924584830.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mariah Carey - Merry Christmas Deluxe Anniversary Edition (2CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7541323914</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7541323914</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221109_3/1667982309399otitq_JPEG/69118155110928179_601072746.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존노 / 고영열 - Cantar (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7540873714</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7540873714</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221109_166/1667981832940n3H2d_JPEG/69117678660770792_330594732.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임형주 - Lost In Memory (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7540801243</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7540801243</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221109_104/1667981287487LyQsV_JPEG/69117133207271440_368302901.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
