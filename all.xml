@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 07:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 08:37:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,7 +304,23 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노브레인 - Big Mistake (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[홈존 - homezone (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7584108928</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7584108928</guid>
+            <pubDate>Wed, 16 Nov 2022 08:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221116_156/1668586669881Ni2U1_JPEG/69722453595923197_1175564475.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Christmas Voices (180G BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7583931057</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7583931057</guid>
+            <pubDate>Wed, 16 Nov 2022 08:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221116_186/1668583655858ij7Rw_JPEG/69719554552673923_897687880.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노브레인 - Big Mistake (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7582426340</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7582426340</guid>
             <pubDate>Wed, 16 Nov 2022 03:56:03 GMT</pubDate>
@@ -470,22 +486,6 @@
             <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
             <content:encoded><![CDATA[18,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221109_104/1667981287487LyQsV_JPEG/69117133207271440_368302901.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Jackson - Thriller 40th anniversary (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7534707122</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7534707122</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221108_274/16679069812540r7t9_JPEG/69042876969767737_1861258613.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Royal Hunt - Dystopia Part II (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7534687397</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7534687397</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221108_214/1667906586866yaMVw_JPEG/69042482599699819_1909488173.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어스 / 이종혁, 홍은화, 양단우, 주얼, 본본 소설 / 그런 의미에서 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
