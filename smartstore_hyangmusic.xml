@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 06:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 07:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김제형 - 띄 움 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7596185413</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7596185413</guid>
+            <pubDate>Fri, 18 Nov 2022 07:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221118_223/1668755579740tB7jv_JPEG/69891414576295739_1225202396.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제인 - 나의 시선 끝에는 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7591803457</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:24:47 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221107_147/1667816370300ceHYa_JPEG/68952150017758068_2102342492.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수호 - Grey Suit (2ND MINI ALBUM) [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7525997277</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7525997277</guid>
-            <pubDate>Wed, 16 Nov 2022 17:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[53,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221107_26/1667807819527CKw0u_JPEG/68943662237815678_1711388086.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
