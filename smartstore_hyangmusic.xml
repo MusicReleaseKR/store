@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 09:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 10:26:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강산에 - 3집 삐따기 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7613630340</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7613630340</guid>
+            <pubDate>Mon, 21 Nov 2022 10:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221121_175/16690230439948rvA7_JPEG/70158827712461620_579143060.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Top Gun Maverick 탑 건 매버릭 (WHITE COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7613602114</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7613602114</guid>
+            <pubDate>Mon, 21 Nov 2022 10:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221121_199/1669022418652Kk4IO_JPEG/70158202364412678_282033439.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 신세계 (180G GOLD OPAQUE COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7613540740</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 11 Nov 2022 08:33:20 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221111_34/1668152307052UTeWg_JPEG/69288195747690898_1690895919.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오왼 Owen - Cry (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7547137956</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7547137956</guid>
-            <pubDate>Thu, 10 Nov 2022 13:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[21,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221110_117/1668084608327cgfUH_JPEG/69220507038865775_1540663745.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김석준 - 30 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7546885758</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7546885758</guid>
-            <pubDate>Thu, 10 Nov 2022 12:55:20 GMT</pubDate>
-            <content:encoded><![CDATA[16,200]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221110_127/1668081268906yyn7N_JPEG/69217102729225822_69277487.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
