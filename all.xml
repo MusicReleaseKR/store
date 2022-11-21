@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 07:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 08:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산이슬 - 고운 노래모음 (180G TRANSPARENT BLUE SMOKING LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7613227216</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7613227216</guid>
+            <pubDate>Mon, 21 Nov 2022 08:30:21 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221121_278/16690144313989jty2_JPEG/70150215097778910_881954512.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산이슬 - 고운 노래모음 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7613217064</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7613217064</guid>
+            <pubDate>Mon, 21 Nov 2022 08:30:21 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221121_281/16690156221975A5WU_JPEG/70151517912409285_244000013.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jamiroquai - Dynamite (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Thu, 10 Nov 2022 12:55:20 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221110_237/1668080181560Dg4vm_JPEG/69216070250172678_914691937.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트 오브 파티스 - Ophelia (COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7544179896</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7544179896</guid>
-            <pubDate>Thu, 10 Nov 2022 02:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[75,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221110_18/1668043043690Lcsmw_JPEG/69178827394602917_1391406458.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔로알토 Paloalto - 발자국 (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7541626143</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7541626143</guid>
-            <pubDate>Wed, 09 Nov 2022 11:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221109_241/1667989508784T5taX_JPEG/69125351493694547_1859383831.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어스 / 이종혁, 홍은화, 양단우, 주얼, 본본 소설 / 그런 의미에서 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
