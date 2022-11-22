@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 08:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 09:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김오키 Kimoki - 거대한 뿌리 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7619306938</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7619306938</guid>
+            <pubDate>Tue, 22 Nov 2022 09:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221122_268/1669106885705Gl7Bs_JPEG/70242728397985382_2095671663.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자우림 Jaurim - Merry Spooky X-Mas (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7618617352</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 11 Nov 2022 10:29:26 GMT</pubDate>
             <content:encoded><![CDATA[53,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221111_75/1668159005056LkMW9_JPEG/69294903765779900_125745383.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조수미 Sumi Jo - In Love (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7552452446</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7552452446</guid>
-            <pubDate>Fri, 11 Nov 2022 08:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221111_169/1668153466851yaKO5_JPEG/69289355565695593_1398710753.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
