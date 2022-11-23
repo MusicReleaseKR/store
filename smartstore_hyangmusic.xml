@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 06:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 07:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키라라 Kirara - 4Live (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7625308412</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7625308412</guid>
+            <pubDate>Wed, 23 Nov 2022 07:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221123_8/1669185770775hDvmK_JPEG/70321550490582330_971981087.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어니언스 - Gold (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7625276358</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7625276358</guid>
+            <pubDate>Wed, 23 Nov 2022 07:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221123_88/1669185492621AiPF8_JPEG/70321276325775520_901968085.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어니언스 - Gold (180G WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7625269174</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7625269174</guid>
+            <pubDate>Wed, 23 Nov 2022 07:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221123_51/1669185436803PqKkB_JPEG/70321271630111510_1613644090.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구만 (9.10000) - Analo9ue [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7625176058</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 08:37:08 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221116_186/1668583655858ij7Rw_JPEG/69719554552673923_897687880.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노브레인 - Big Mistake (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7582426340</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7582426340</guid>
-            <pubDate>Wed, 16 Nov 2022 03:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221116_258/1668568547505vq59p_JPEG/69704381323741904_552407890.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 to 4 - 말하기 듣기 쓰기 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7576842000</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7576842000</guid>
-            <pubDate>Tue, 15 Nov 2022 07:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221115_56/1668496163217OPBqP_JPEG/69631997035331912_77790430.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Guns N Roses - Use Your Illusion II (2022 REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7571013375</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7571013375</guid>
-            <pubDate>Mon, 14 Nov 2022 11:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221114_201/1668422651616oUQu5_JPEG/69558550322636738_1049330399.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
