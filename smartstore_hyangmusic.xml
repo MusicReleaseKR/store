@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 10:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 11:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beatles - Revolver (2022 SUPER DELUXE 5CD Box Set)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7632911856</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7632911856</guid>
+            <pubDate>Thu, 24 Nov 2022 11:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[173,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221124_176/16692879775584YO8m_JPEG/70423757281616801_1289012016.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최유리 - 여운 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7632838990</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7632838990</guid>
+            <pubDate>Thu, 24 Nov 2022 11:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221124_205/1669287392894QwcV2_JPEG/70423220713024296_601549290.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차세대 - 거짓말 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7632825004</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7632825004</guid>
+            <pubDate>Thu, 24 Nov 2022 11:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221124_212/1669287110515CQzz7_JPEG/70422938342829606_1520424422.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키라라 Kirara - 4Live (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7625308412</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 10:25:15 GMT</pubDate>
             <content:encoded><![CDATA[41,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221116_116/1668590957453v5lbB_JPEG/69726846164705532_554459047.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어니언스 - 작은새 사랑의 진실 (180G LP) [2022 REMASTERED]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7584309108</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7584309108</guid>
-            <pubDate>Wed, 16 Nov 2022 10:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221116_268/1668591433248wQcAc_JPEG/69727321961454978_1043232220.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홈존 - homezone (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7584108928</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7584108928</guid>
-            <pubDate>Wed, 16 Nov 2022 08:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221116_156/1668586669881Ni2U1_JPEG/69722453595923197_1175564475.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Christmas Voices (180G BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7583931057</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7583931057</guid>
-            <pubDate>Wed, 16 Nov 2022 08:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221116_186/1668583655858ij7Rw_JPEG/69719554552673923_897687880.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
