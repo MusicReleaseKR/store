@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 09:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 10:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[써니힐 & 데이브레이크 - 들었다 놨다 (45RPM COLOURED 7INCH SINGLE LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7640081504</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7640081504</guid>
+            <pubDate>Fri, 25 Nov 2022 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[24,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221125_130/1669370436373v8axg_JPEG/70506282091727036_944970919.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[긱스 & 소유 - Officially Missing You (45RPM COLOURED 7INCH SINGLE LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7640033895</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7640033895</guid>
+            <pubDate>Fri, 25 Nov 2022 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[24,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221125_99/1669370011615BTIYy_JPEG/70505857324396259_61558137.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 바이퍼스 - Burn Out (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Fri, 18 Nov 2022 08:28:52 GMT</pubDate>
             <content:encoded><![CDATA[99,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221019_237/1666178772582SNcAM_JPEG/67314556291709894_1024303703.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김제형 - 띄 움 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7596185413</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7596185413</guid>
-            <pubDate>Fri, 18 Nov 2022 07:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221118_223/1668755579740tB7jv_JPEG/69891414576295739_1225202396.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제인 - 나의 시선 끝에는 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7591803457</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7591803457</guid>
-            <pubDate>Thu, 17 Nov 2022 15:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221118_144/1668697739299dIXED_JPEG/69833638008873437_916083388.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어스 / 이종혁, 홍은화, 양단우, 주얼, 본본 소설 / 그런 의미에서 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
