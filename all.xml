@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 11:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 12:42:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미노이 Meenoi - Noi Mas (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7640651988</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7640651988</guid>
+            <pubDate>Fri, 25 Nov 2022 12:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221125_215/1669374953789iSaha_JPEG/70510842504201560_1663202596.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오렌지캬라멜 & 10cm - 안아줘요 (45RPM COLOURED 7INCH SINGLE LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Fri, 18 Nov 2022 08:28:52 GMT</pubDate>
             <content:encoded><![CDATA[8,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221118_206/1668759872165yf9gC_JPEG/69895717879101188_126103443.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오아잇 oait - Your Love (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7596674922</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7596674922</guid>
-            <pubDate>Fri, 18 Nov 2022 08:28:52 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221118_211/16687594854395VAx1_JPEG/69895331152287807_237363135.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어스 / 이종혁, 홍은화, 양단우, 주얼, 본본 소설 / 그런 의미에서 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>

@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 11:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 12:42:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미노이 Meenoi - Noi Mas (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7640651988</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7640651988</guid>
+            <pubDate>Fri, 25 Nov 2022 12:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221125_215/1669374953789iSaha_JPEG/70510842504201560_1663202596.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오렌지캬라멜 & 10cm - 안아줘요 (45RPM COLOURED 7INCH SINGLE LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7640321119</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 18 Nov 2022 08:28:52 GMT</pubDate>
             <content:encoded><![CDATA[8,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221118_206/1668759872165yf9gC_JPEG/69895717879101188_126103443.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오아잇 oait - Your Love (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7596674922</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7596674922</guid>
-            <pubDate>Fri, 18 Nov 2022 08:28:52 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221118_211/16687594854395VAx1_JPEG/69895331152287807_237363135.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
