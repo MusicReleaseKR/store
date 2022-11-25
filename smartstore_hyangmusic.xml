@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 08:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 09:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 바이퍼스 - Burn Out (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7639668891</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7639668891</guid>
+            <pubDate>Fri, 25 Nov 2022 09:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221125_23/1669367642481YyL9j_JPEG/70503488191232413_597596244.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어텐션 24 Attention 24 - Purple (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7639592764</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7639592764</guid>
+            <pubDate>Fri, 25 Nov 2022 09:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[9,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221125_190/1669364007708q1PG7_JPEG/70499791411359677_162533221.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백예린 -  단독공연 [Turn on that Blue Vinyl] 라이브 특별반 (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7637891771</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 17 Nov 2022 15:25:34 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221118_144/1668697739299dIXED_JPEG/69833638008873437_916083388.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신노이 Sinnoi - Illumination (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7591764361</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7591764361</guid>
-            <pubDate>Thu, 17 Nov 2022 15:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221118_107/1668697384477nwV0F_JPEG/69833283175805697_1947354891.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소울맨 앤 마이노스 Soulman & Minos - Coffee Calls For A Cigarette (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7591738769</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7591738769</guid>
-            <pubDate>Thu, 17 Nov 2022 15:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221117_256/16686963833351jIBo_JPEG/69832279067867515_2034184980.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
