@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 13:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 14:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,14 +94,6 @@
             <pubDate>Fri, 25 Nov 2022 05:19:45 GMT</pubDate>
             <content:encoded><![CDATA[54,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221126_136/1669430484473eijVu_JPEG/70566312271304490_61236077.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린 - 선물 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7637831597</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7637831597</guid>
-            <pubDate>Fri, 25 Nov 2022 05:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[38,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221126_235/1669430537686nA0Yq_JPEG/70566365417250409_1236628424.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백예린 - 2집 Tellusboutyourself & Remix [3LP]]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Fri, 18 Nov 2022 12:42:48 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221118_45/1668771822311qYKmc_JPEG/69907602037914952_803028032.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Imagine Dragons - Night Visions (10th Anniversary / Expanded Edition)[2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7597968624</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7597968624</guid>
+            <pubDate>Mon, 28 Nov 2022 14:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[24,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221118_273/1668771481815BF8nQ_JPEG/69907261533596101_2140446384.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
