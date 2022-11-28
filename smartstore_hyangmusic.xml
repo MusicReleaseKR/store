@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 06:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 07:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐시 Kvsh - 1집 Sin City (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7655909763</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7655909763</guid>
+            <pubDate>Mon, 28 Nov 2022 07:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221128_88/1669618950024HTOPq_JPEG/70754845760141561_2088008612.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이찬혁 - 1집 ERROR (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7655565500</link>
@@ -72,7 +80,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221125_190/1669364007708q1PG7_JPEG/70499791411359677_162533221.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[백예린 -  단독공연 [Turn on that Blue Vinyl] 라이브 특별반 (LP)]]></title>
+            <title><![CDATA[백예린 -  단독공연 [Turn on that Blue Vinyl] 라이브 특별반 (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7637891771</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7637891771</guid>
             <pubDate>Fri, 25 Nov 2022 05:19:45 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 18 Nov 2022 12:42:48 GMT</pubDate>
             <content:encoded><![CDATA[24,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221118_273/1668771481815BF8nQ_JPEG/69907261533596101_2140446384.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Glass Animals - Dreamland (DELUXE EDITION) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7597931902</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7597931902</guid>
-            <pubDate>Fri, 18 Nov 2022 12:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221118_73/1668770951950lS8C3_JPEG/69906847677049394_1231788646.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
