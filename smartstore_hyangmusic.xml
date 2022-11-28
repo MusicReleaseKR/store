@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 05:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 06:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이찬혁 - 1집 ERROR (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7655565500</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7655565500</guid>
+            <pubDate>Mon, 28 Nov 2022 06:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221128_232/1669615255308vXMg5_JPEG/70751154020272215_859391537.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미노이 Meenoi - Noi Mas (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7640651988</link>
@@ -88,12 +96,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221126_138/1669430678984K1ae1_JPEG/70566506697940452_1940327916.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[백예린 - 1집 - Every Letter I Sent You (일반반) [2LP]]]></title>
+            <title><![CDATA[백예린 - 1집 Every Letter I Sent You (일반반) [2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7637696678</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7637696678</guid>
             <pubDate>Fri, 25 Nov 2022 05:19:45 GMT</pubDate>
             <content:encoded><![CDATA[54,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221126_239/1669430723114bmN6E_JPEG/70566550864460044_356006263.jpg?type=f140" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20221128_112/1669616084999nc15h_JPEG/70751918820512405_1494773033.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beatles - Revolver (2022 SUPER DELUXE 5CD Box Set)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 18 Nov 2022 12:42:48 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221118_73/1668770951950lS8C3_JPEG/69906847677049394_1231788646.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리얼프로그 - 방백 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7596725735</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7596725735</guid>
-            <pubDate>Fri, 18 Nov 2022 08:28:52 GMT</pubDate>
-            <content:encoded><![CDATA[8,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221118_206/1668759872165yf9gC_JPEG/69895717879101188_126103443.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
