@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 10:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 11:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최백호 - 찰나 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7657195955</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7657195955</guid>
+            <pubDate>Mon, 28 Nov 2022 11:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221128_286/1669632175273wbSLG_JPEG/70768010085201428_44996043.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐시 Kvsh - 1집 Sin City (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7655909763</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 18 Nov 2022 12:42:48 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221118_45/1668771822311qYKmc_JPEG/69907602037914952_803028032.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Imagine Dragons - Night Visions (10th Anniversary / Expanded Edition)[2CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7597968624</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7597968624</guid>
-            <pubDate>Fri, 18 Nov 2022 12:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[24,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221118_273/1668771481815BF8nQ_JPEG/69907261533596101_2140446384.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
