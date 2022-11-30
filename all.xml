@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 08:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 09:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,54 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[얄개들 - 1집 그래, 아무것도 하지 말자 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7670276789</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7670276789</guid>
+            <pubDate>Wed, 30 Nov 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221130_129/1669799878894yrn0G_JPEG/70935706705219281_918630297.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신해남과 환자들 - 야간비행 / Like It (7INCH 45RPM SINGLE LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7670191744</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7670191744</guid>
+            <pubDate>Wed, 30 Nov 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221130_284/1669798880663VMV65_JPEG/70934708484881768_493441273.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김오키 Kimoki - 거대한 뿌리 (카세트 테이프) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7670125045</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7670125045</guid>
+            <pubDate>Wed, 30 Nov 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221130_153/1669798109852IaNRa_JPEG/70934008549410454_1517563883.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박지하 - 1집 Communion (카세트 테이프) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7670105462</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7670105462</guid>
+            <pubDate>Wed, 30 Nov 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221130_72/16697977978913rswj_JPEG/70933696584828709_1334454897.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문 앤 바운서스 Moon & Bouncers - Meets Valencia (10 INCH LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7670074513</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7670074513</guid>
+            <pubDate>Wed, 30 Nov 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[28,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221130_243/1669797512294FacLs_JPEG/70933410997276424_635913675.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[따로 또 같이 - 2집 따로 또 같이 II (180G CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7670020159</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7670020159</guid>
+            <pubDate>Wed, 30 Nov 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221130_227/1669796777871H6HPd_JPEG/70932676574133627_982986873.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김오키 Kimoki - 거대한 뿌리 (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7669557207</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7669557207</guid>
@@ -574,54 +622,6 @@
             <pubDate>Tue, 22 Nov 2022 09:23:48 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221130_107/1669792226033M5kv6_JPEG/70928121743681302_502713208.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 Jaurim - Merry Spooky X-Mas (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7618617352</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7618617352</guid>
-            <pubDate>Tue, 22 Nov 2022 07:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221122_255/1669098571993LnaAV_JPEG/70234460696021069_270657855.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스쿼시바인즈 Squash Vines - 2집 출입 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7614295645</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7614295645</guid>
-            <pubDate>Mon, 21 Nov 2022 13:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221121_145/1669037933428F2aLI_JPEG/70173776068362200_1862579742.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강산에 - 3집 삐따기 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7613630340</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7613630340</guid>
-            <pubDate>Mon, 21 Nov 2022 10:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221121_175/16690230439948rvA7_JPEG/70158827712461620_579143060.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Top Gun Maverick 탑 건 매버릭 (WHITE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7613602114</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7613602114</guid>
-            <pubDate>Mon, 21 Nov 2022 10:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221121_199/1669022418652Kk4IO_JPEG/70158202364412678_282033439.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 신세계 (180G GOLD OPAQUE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7613540740</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7613540740</guid>
-            <pubDate>Mon, 21 Nov 2022 09:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221121_58/16690210715491BpVw_JPEG/70156855256668236_733152301.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산이슬 - 고운 노래모음 (180G TRANSPARENT BLUE SMOKING LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7613227216</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7613227216</guid>
-            <pubDate>Mon, 21 Nov 2022 08:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221121_278/16690144313989jty2_JPEG/70150215097778910_881954512.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[살기 위해 기분전환 / 임효경 에세이 / 전환 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
