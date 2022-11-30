@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 10:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 11:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[종코 - 숨 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7670759526</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7670759526</guid>
+            <pubDate>Wed, 30 Nov 2022 11:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221130_180/16698053824382PMxp_JPEG/70941271134511303_1290004809.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신해경 - 최저낙원 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7670706386</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7670706386</guid>
+            <pubDate>Wed, 30 Nov 2022 11:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221130_135/1669804785828oXlQY_JPEG/70940674541989745_2092202258.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신해경 - 나의 가역반응 (재발매) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7670682358</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7670682358</guid>
+            <pubDate>Wed, 30 Nov 2022 11:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221130_5/1669804462764ncLaY_JPEG/70940351455505326_648769972.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Parker & Dizzy Gillespie   Bird And Diz (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7670646992</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7670646992</guid>
+            <pubDate>Wed, 30 Nov 2022 11:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[32,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221130_293/1669803960031EJUo8_JPEG/70939802741802613_2012870920.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Charlie Parker - Jam Session (180G YELLOW COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7670611506</link>
@@ -294,38 +326,6 @@
             <pubDate>Thu, 24 Nov 2022 11:18:43 GMT</pubDate>
             <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221124_205/1669287392894QwcV2_JPEG/70423220713024296_601549290.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차세대 - 거짓말 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7632825004</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7632825004</guid>
-            <pubDate>Thu, 24 Nov 2022 11:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221124_212/1669287110515CQzz7_JPEG/70422938342829606_1520424422.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키라라 Kirara - 4Live (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7625308412</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7625308412</guid>
-            <pubDate>Wed, 23 Nov 2022 07:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221123_8/1669185770775hDvmK_JPEG/70321550490582330_971981087.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어니언스 - Gold (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7625276358</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7625276358</guid>
-            <pubDate>Wed, 23 Nov 2022 07:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221123_88/1669185492621AiPF8_JPEG/70321276325775520_901968085.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어니언스 - Gold (180G WHITE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7625269174</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7625269174</guid>
-            <pubDate>Wed, 23 Nov 2022 07:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221123_51/1669185436803PqKkB_JPEG/70321271630111510_1613644090.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
