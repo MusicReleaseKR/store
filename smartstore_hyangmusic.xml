@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 06:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 07:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김오키 Kimoki - 거대한 뿌리 (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7669557207</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7669557207</guid>
+            <pubDate>Wed, 30 Nov 2022 07:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221130_41/1669792287701QYrnm_JPEG/70928183421747359_1529430540.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sia - Everyday Is Christmas (WHITE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7663982434</link>
@@ -269,7 +277,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/7619306938</guid>
             <pubDate>Tue, 22 Nov 2022 09:23:48 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221122_268/1669106885705Gl7Bs_JPEG/70242728397985382_2095671663.jpg?type=f140" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20221130_107/1669792226033M5kv6_JPEG/70928121743681302_502713208.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 Jaurim - Merry Spooky X-Mas (CD)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 21 Nov 2022 08:30:21 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221121_278/16690144313989jty2_JPEG/70150215097778910_881954512.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산이슬 - 고운 노래모음 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7613217064</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7613217064</guid>
-            <pubDate>Mon, 21 Nov 2022 08:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221121_281/16690156221975A5WU_JPEG/70151517912409285_244000013.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
