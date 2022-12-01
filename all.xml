@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 08:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 09:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마냉 - zzonzzo ultimate (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7674993241</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7674993241</guid>
+            <pubDate>Thu, 01 Dec 2022 09:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[22,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221201_7/1669885431672xISe8_JPEG/71021320385815587_1824500804.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[종코 - 숨 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Thu, 24 Nov 2022 11:18:43 GMT</pubDate>
             <content:encoded><![CDATA[173,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221124_176/16692879775584YO8m_JPEG/70423757281616801_1289012016.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최유리 - 여운 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7632838990</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7632838990</guid>
-            <pubDate>Thu, 24 Nov 2022 11:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221124_205/1669287392894QwcV2_JPEG/70423220713024296_601549290.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[hi love  / 웨스턴 카잇 EP (네이버 스마트스토어 ─ 공상온도)]]></title>
