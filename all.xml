@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 06:32:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 07:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -624,6 +624,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221124_205/1669287392894QwcV2_JPEG/70423220713024296_601549290.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[hi love  / 웨스턴 카잇 EP (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7674554917</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7674554917</guid>
+            <pubDate>Thu, 01 Dec 2022 07:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221201_95/1669878065694HBG4z_JPEG/71013964402886830_818059297.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[출입 : Mandala / 스쿼시바인즈 2집 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7674407066</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7674407066</guid>
+            <pubDate>Thu, 01 Dec 2022 07:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221201_184/16698734887518E1Vx_JPEG/71009384476730687_1168574922.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[목마른 야채 / 김은주 소설 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7671210526</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7671210526</guid>
@@ -926,22 +942,6 @@
             <pubDate>Wed, 16 Nov 2022 16:37:43 GMT</pubDate>
             <content:encoded><![CDATA[12,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220707_281/1657181350888qPgw7_JPEG/58317246616642507_778276036.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투명에 던지는 수영 / 한호정 시 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6882967401</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6882967401</guid>
-            <pubDate>Wed, 16 Nov 2022 16:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[14,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220706_199/16570978524353oA66_JPEG/58233636147848595_544844049.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구아구아 / 누구 에세이 / 두카 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6882808256</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6882808256</guid>
-            <pubDate>Wed, 16 Nov 2022 16:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220706_22/1657095394295Sc7Rt_JPEG/58231240014370512_898352953.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소스 리스트 (네이버 스마트스토어 ─ 재미공작소)]]></title>
