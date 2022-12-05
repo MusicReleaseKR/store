@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 10:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 11:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박강수 - Album 9 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7698358870</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7698358870</guid>
+            <pubDate>Mon, 05 Dec 2022 11:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221205_214/16702361412269FbhQ_JPEG/71371924928418662_907082010.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스텔라장 Stella Jang - WinterStella (45RPM LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7695855454</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Nov 2022 09:21:34 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221125_23/1669367642481YyL9j_JPEG/70503488191232413_597596244.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어텐션 24 Attention 24 - Purple (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7639592764</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7639592764</guid>
-            <pubDate>Fri, 25 Nov 2022 09:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[9,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221125_190/1669364007708q1PG7_JPEG/70499791411359677_162533221.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
