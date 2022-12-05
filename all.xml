@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 01:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스텔라장 Stella Jang - WinterStella (45RPM LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7695855454</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7695855454</guid>
+            <pubDate>Mon, 05 Dec 2022 02:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[45,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221205_261/1670207296852xUAGK_JPEG/71343080559235390_1678569526.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 Jaurim - 11집 영원한 사랑 (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7695819378</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7695819378</guid>
+            <pubDate>Mon, 05 Dec 2022 02:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221205_218/1670206652796bYO1v_JPEG/71342432519335665_2011605607.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업타운 Uptown - 1집 Represent (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Fri, 25 Nov 2022 09:21:34 GMT</pubDate>
             <content:encoded><![CDATA[9,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221125_190/1669364007708q1PG7_JPEG/70499791411359677_162533221.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린 -  단독공연 [Turn on that Blue Vinyl] 라이브 특별반 (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7637891771</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7637891771</guid>
-            <pubDate>Fri, 25 Nov 2022 05:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[54,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221126_136/1669430484473eijVu_JPEG/70566312271304490_61236077.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린 - 2집 Tellusboutyourself & Remix [3LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7637775209</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7637775209</guid>
-            <pubDate>Fri, 25 Nov 2022 05:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221126_138/1669430678984K1ae1_JPEG/70566506697940452_1940327916.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[hi love  / 웨스턴 카잇 EP (네이버 스마트스토어 ─ 공상온도)]]></title>
