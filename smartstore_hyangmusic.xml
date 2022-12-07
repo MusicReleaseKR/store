@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 06:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 07:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마인드 바디 앤 소울 - Road To Blues (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7709902753</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7709902753</guid>
+            <pubDate>Wed, 07 Dec 2022 07:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221207_253/1670396790454qG91h_JPEG/71532625275631900_1025592946.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto - 12 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7709792167</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7709792167</guid>
+            <pubDate>Wed, 07 Dec 2022 07:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221207_229/1670395599318OhYOU_JPEG/71531498019714584_727139216.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박강수 - Album 9 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7698358870</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 25 Nov 2022 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[24,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221125_130/1669370436373v8axg_JPEG/70506282091727036_944970919.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긱스 & 소유 - Officially Missing You (45RPM COLOURED 7INCH SINGLE LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7640033895</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7640033895</guid>
-            <pubDate>Fri, 25 Nov 2022 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[24,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221125_99/1669370011615BTIYy_JPEG/70505857324396259_61558137.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 바이퍼스 - Burn Out (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7639668891</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7639668891</guid>
-            <pubDate>Fri, 25 Nov 2022 09:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221125_23/1669367642481YyL9j_JPEG/70503488191232413_597596244.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
