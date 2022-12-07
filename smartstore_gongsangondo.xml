@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 18:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 19:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,7 +116,7 @@
             <link>https://smartstore.naver.com/gongsangondo/products/7492021936</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7492021936</guid>
             <pubDate>Thu, 10 Nov 2022 11:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <content:encoded><![CDATA[9,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221031_80/1667208603243LGTXo_JPEG/68344382946180414_240193834.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -268,7 +268,7 @@
             <link>https://smartstore.naver.com/gongsangondo/products/6995459566</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/6995459566</guid>
             <pubDate>Wed, 16 Nov 2022 16:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[11,800]]></content:encoded>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220803_244/1659513955962CTJFD_JPEG/60649789757982400_1073010404.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
