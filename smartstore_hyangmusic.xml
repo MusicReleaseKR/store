@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 11:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 12:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[계피자매 - 고리 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7716259613</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7716259613</guid>
+            <pubDate>Thu, 08 Dec 2022 12:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221208_13/1670495373460NHCcx_JPEG/71631262176180358_1572751241.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김현철 - 4집 Who Stepped on It (150G SILVER COLOURED LP) [2022 REMASTERED]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7715795048</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 29 Nov 2022 09:21:43 GMT</pubDate>
             <content:encoded><![CDATA[28,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221129_88/16697111184674pYzG_JPEG/70846964179816613_205169487.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift - Midnights (MOONSTONE BLUE MABLE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7663541387</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7663541387</guid>
-            <pubDate>Tue, 29 Nov 2022 09:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221129_96/1669710600167vLolb_JPEG/70846445882985881_1529120459.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
