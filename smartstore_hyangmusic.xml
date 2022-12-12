@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 11:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 12:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장필순 - 베스트 (180G LIGHT GREEN COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7740420004</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7740420004</guid>
+            <pubDate>Mon, 12 Dec 2022 12:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221212_264/1670848299257pHTBx_JPEG/71984127088194068_1602105737.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김일두 - 꿈속꿈 (140G FOREST CLEAR COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7739307162</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 30 Nov 2022 09:22:17 GMT</pubDate>
             <content:encoded><![CDATA[28,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221130_243/1669797512294FacLs_JPEG/70933410997276424_635913675.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따로 또 같이 - 2집 따로 또 같이 II (180G CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670020159</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670020159</guid>
-            <pubDate>Wed, 30 Nov 2022 09:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_227/1669796777871H6HPd_JPEG/70932676574133627_982986873.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
