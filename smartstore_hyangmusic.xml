@@ -4,15 +4,31 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 10:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 11:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bob Dylan - Highway 61 Revisited (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7746397466</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7746397466</guid>
+            <pubDate>Tue, 13 Dec 2022 11:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[33,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221213_69/1670928298363eS7b9_JPEG/72064187062656595_1138657160.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - With The Beatles (180G REMASTERED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7746353538</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7746353538</guid>
+            <pubDate>Tue, 13 Dec 2022 11:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[26,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221213_292/1670927650728riA3S_JPEG/72063539431965954_368646075.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beatles - Beatles For Sale (180G REMASTERED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7746271590</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7746271590</guid>
             <pubDate>Tue, 13 Dec 2022 10:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[27,500]]></content:encoded>
+            <content:encoded><![CDATA[26,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221213_236/1670926660539rY9XK_JPEG/72062444243249777_863840013.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 30 Nov 2022 10:25:02 GMT</pubDate>
             <content:encoded><![CDATA[41,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220824_79/1661328975637OUJX2_JPEG/62464759353591064_1248455279.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk - Thelonious Himself (180G REMASTERED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670377772</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670377772</guid>
-            <pubDate>Wed, 30 Nov 2022 10:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_134/1669800718082SjAuS_JPEG/70936606796320737_43317688.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현 - 미인 (Blu-Ray)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670335714</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670335714</guid>
-            <pubDate>Wed, 30 Nov 2022 10:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_64/1669800227714i2ydM_JPEG/70936126423435506_1566575182.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
