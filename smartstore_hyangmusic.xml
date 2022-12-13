@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 07:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 08:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ginconda De Vito - 베토벤 바이올린 소나타 크로이처 (180G REMASTERED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7745510711</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7745510711</guid>
+            <pubDate>Tue, 13 Dec 2022 08:26:51 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221213_55/1670918296342duV0H_JPEG/72054192080017884_1338900301.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ginconda De Vito - 바흐 & 모차르트: 바이올린 협주곡 (180G REMASTERED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7745472476</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7745472476</guid>
+            <pubDate>Tue, 13 Dec 2022 08:26:51 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221213_271/1670917955691TvoLh_JPEG/72053851428813177_622082700.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오웰무드 Owell Mood - LOVE is DRUG (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7745407759</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7745407759</guid>
+            <pubDate>Tue, 13 Dec 2022 08:26:51 GMT</pubDate>
+            <content:encoded><![CDATA[12,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221213_196/1670917255161WutoL_JPEG/72053153865334676_136245391.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장필순 - 베스트 (180G LIGHT GREEN COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7740420004</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 30 Nov 2022 09:22:17 GMT</pubDate>
             <content:encoded><![CDATA[15,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221130_284/1669798880663VMV65_JPEG/70934708484881768_493441273.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김오키 Kimoki - 거대한 뿌리 (카세트 테이프)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670125045</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670125045</guid>
-            <pubDate>Wed, 30 Nov 2022 09:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_153/1669798109852IaNRa_JPEG/70934008549410454_1517563883.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지하 - 1집 Communion (카세트 테이프)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670105462</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670105462</guid>
-            <pubDate>Wed, 30 Nov 2022 09:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_72/16697977978913rswj_JPEG/70933696584828709_1334454897.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문 앤 바운서스 Moon & Bouncers - Meets Valencia (10 INCH LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670074513</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670074513</guid>
-            <pubDate>Wed, 30 Nov 2022 09:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[28,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_243/1669797512294FacLs_JPEG/70933410997276424_635913675.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
