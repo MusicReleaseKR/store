@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 08:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 09:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -624,6 +624,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221130_284/1669798880663VMV65_JPEG/70934708484881768_493441273.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[변신 / 옴살바 그래픽노블 / 옴살바북스 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7745739375</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7745739375</guid>
+            <pubDate>Tue, 13 Dec 2022 09:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221213_52/1670920628578xEUOF_JPEG/72056462379266428_1250079316.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[추울 때 하나씩 꺼내 읽어요 / 본본 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7745544736</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7745544736</guid>
@@ -934,14 +942,6 @@
             <pubDate>Wed, 16 Nov 2022 16:37:43 GMT</pubDate>
             <content:encoded><![CDATA[10,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220714_278/16577802789682e0bh_JPEG/58916113785457153_274844435.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부디, 나를 사랑해주세요 / 서로 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6914895367</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6914895367</guid>
-            <pubDate>Wed, 16 Nov 2022 16:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[12,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220714_221/1657778890630KIY05_JPEG/58914718449249531_1711606638.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소스 리스트 (네이버 스마트스토어 ─ 재미공작소)]]></title>
