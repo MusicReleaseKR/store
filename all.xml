@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 07:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 08:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현식 - 골든 베스트 (180G GRAY COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7751576024</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7751576024</guid>
+            <pubDate>Wed, 14 Dec 2022 08:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221214_28/16710040280044TrL4_JPEG/72139861811242568_1804067625.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현식 - 골든 베스트 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7751568819</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7751568819</guid>
+            <pubDate>Wed, 14 Dec 2022 08:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221214_174/1671003738024UEIIq_JPEG/72139571834636208_2142699942.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bob Dylan - Highway 61 Revisited (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Wed, 30 Nov 2022 10:25:02 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221130_164/1669802177140zBzLp_JPEG/70938010963043784_1285609722.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Guns N Roses - Use Your Illusion I (DELUXE EDITION) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670448639</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670448639</guid>
-            <pubDate>Wed, 30 Nov 2022 10:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_253/1669801854658LhqJY_JPEG/70937743371468885_292221729.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nick Drake - Pink Moon (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670420641</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670420641</guid>
-            <pubDate>Wed, 30 Nov 2022 10:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220824_79/1661328975637OUJX2_JPEG/62464759353591064_1248455279.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엄마, 나는 이제 내가 키울게 / 이정우 외 6명 에세이 / 떡잎 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
