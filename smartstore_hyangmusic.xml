@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 08:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 09:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마그마 Magma - 1집 알수 없어, 해야 (150G LP & 카세트 테이프)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7751906322</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7751906322</guid>
+            <pubDate>Wed, 14 Dec 2022 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221214_192/1671009480687aKl5T_JPEG/72145315508991773_19442910.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마그마 Magma - 1집 알수 없어, 해야 (150G COLOURED LP & 카세트 테이프)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7751901451</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7751901451</guid>
+            <pubDate>Wed, 14 Dec 2022 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221214_70/1671009162969CeWG3_JPEG/72144997788743933_353125423.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박강성 - 그 여인, 접동새 (180G BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7751865682</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7751865682</guid>
+            <pubDate>Wed, 14 Dec 2022 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221214_205/1671008730689VKJur_JPEG/72144565473481992_1673046808.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김현식 - 골든 베스트 (180G GRAY COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7751576024</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 30 Nov 2022 11:18:56 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221130_293/1669803960031EJUo8_JPEG/70939802741802613_2012870920.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Parker - Jam Session (180G YELLOW COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670611506</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670611506</guid>
-            <pubDate>Wed, 30 Nov 2022 10:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_236/1669803002269fgohi_JPEG/70938847988426367_752875999.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rammstein - Zick Zack (Single CD + Magazine)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670505065</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670505065</guid>
-            <pubDate>Wed, 30 Nov 2022 10:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_210/1669802491459rMusM_JPEG/70938325271275021_1714754096.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Guns N Roses - Use Your Illusion II (DELUXE EDITION) [2CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670471574</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670471574</guid>
-            <pubDate>Wed, 30 Nov 2022 10:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_164/1669802177140zBzLp_JPEG/70938010963043784_1285609722.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
