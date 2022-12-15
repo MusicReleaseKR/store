@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 09:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 10:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[릴러말즈 Leellamarz - VIOLINIST2 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7758358249</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7758358249</guid>
+            <pubDate>Thu, 15 Dec 2022 10:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221215_13/1671098373026y28dL_JPEG/72234261729829466_1898587985.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead - Ok Computer (OKNOTOK 1997-2017) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7758255471</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7758255471</guid>
+            <pubDate>Thu, 15 Dec 2022 10:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210512_149/1620747718188EqUx2_JPEG/21883552008105861_1639741956.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cigarettes After Sex - Cry (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7758090404</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 05 Dec 2022 02:45:52 GMT</pubDate>
             <content:encoded><![CDATA[45,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221205_261/1670207296852xUAGK_JPEG/71343080559235390_1678569526.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 Jaurim - 11집 영원한 사랑 (180G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7695819378</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7695819378</guid>
-            <pubDate>Mon, 05 Dec 2022 02:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[56,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221205_218/1670206652796bYO1v_JPEG/71342432519335665_2011605607.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업타운 Uptown - 1집 Represent (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7680019478</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7680019478</guid>
-            <pubDate>Fri, 02 Dec 2022 04:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221202_136/1669954184460gIS43_JPEG/71090080196719781_1505107780.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
