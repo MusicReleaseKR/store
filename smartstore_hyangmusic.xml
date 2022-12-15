@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 08:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 09:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cigarettes After Sex - Cry (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7758090404</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7758090404</guid>
+            <pubDate>Thu, 15 Dec 2022 09:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210220_194/1613810118688iRn5M_JPEG/14945952509397350_2068982267.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 투트랙 프로젝트 Two Tracks Project (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7757949144</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7757949144</guid>
+            <pubDate>Thu, 15 Dec 2022 09:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221215_140/1671093702781bPt2R_JPEG/72229591494512037_1042365664.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 BTS - BTS World Tour Love Yourself Speak Yourself (The Final) [3Blu-ray]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7757860187</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7757860187</guid>
+            <pubDate>Thu, 15 Dec 2022 09:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[58,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221215_61/1671092627978OwTt4_JPEG/72228455793104704_513005291.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차이콥스키 - 호두까기 인형 - 앙드레프레빈, 런던 심포니 오케스트라 (2CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7752039364</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 02 Dec 2022 04:25:27 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221202_136/1669954184460gIS43_JPEG/71090080196719781_1505107780.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있지 Itzy - CHESHIRE (CD) [일반반] (3종 중 1종 랜덤발송)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7675773357</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7675773357</guid>
-            <pubDate>Thu, 01 Dec 2022 12:46:04 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221201_231/1669887881479TRNy1_JPEG/71023709309933534_340391367.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마냉 - zzonzzo ultimate (2CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7674993241</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7674993241</guid>
-            <pubDate>Thu, 01 Dec 2022 09:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221201_7/1669885431672xISe8_JPEG/71021320385815587_1824500804.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종코 - 숨 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670759526</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670759526</guid>
-            <pubDate>Wed, 30 Nov 2022 11:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_180/16698053824382PMxp_JPEG/70941271134511303_1290004809.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

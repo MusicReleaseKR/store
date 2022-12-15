@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 08:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 09:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실리콘 밸리의 목소리 / 벤 타노프, 모이라 와이글 에세이 / 반원 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7757952515</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7757952515</guid>
+            <pubDate>Thu, 15 Dec 2022 09:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221215_126/1671093877964jW5GT_JPEG/72229712798703960_1102754982.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엄마, 나는 이제 내가 키울게 / 이정우 외 6명 에세이 / 떡잎 출판]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7746403367</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 16:37:43 GMT</pubDate>
             <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220803_244/1659513955962CTJFD_JPEG/60649789757982400_1073010404.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비공개글 / AIN 단상집]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/6995020827</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/6995020827</guid>
-            <pubDate>Wed, 16 Nov 2022 16:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[6,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220803_116/1659506059320xTfDJ_JPEG/60641839029828594_775268945.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
