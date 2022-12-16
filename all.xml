@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 08:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 09:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우순실 - 6집 First Love (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7763804197</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7763804197</guid>
+            <pubDate>Fri, 16 Dec 2022 09:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221216_134/1671180928417yH3HI_JPEG/72316774137938820_1439617961.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양방언 - 25주년 기념 바이닐 (180G 3LP & 7INCH LP) [넘버링 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7763772158</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7763772158</guid>
+            <pubDate>Fri, 16 Dec 2022 09:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[118,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221216_187/1671180295658a30jR_JPEG/72316141357822742_446149261.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[릴러말즈 Leellamarz - VIOLINIST2 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Wed, 07 Dec 2022 07:18:42 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221207_229/1670395599318OhYOU_JPEG/71531498019714584_727139216.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박강수 - Album 9 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7698358870</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7698358870</guid>
-            <pubDate>Mon, 05 Dec 2022 11:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221205_214/16702361412269FbhQ_JPEG/71371924928418662_907082010.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스텔라장 Stella Jang - WinterStella (45RPM LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7695855454</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7695855454</guid>
-            <pubDate>Mon, 05 Dec 2022 02:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[45,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221205_261/1670207296852xUAGK_JPEG/71343080559235390_1678569526.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연말정산 2022 / 2022년을 기록하는 100가지 질문집 + 스티커 팩 (네이버 스마트스토어 ─ 공상온도)]]></title>
