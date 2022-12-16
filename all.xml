@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 10:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 11:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Soundtrack - Forrest Gump 포레스트 검프 [180G 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7764309655</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7764309655</guid>
+            <pubDate>Fri, 16 Dec 2022 11:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221216_282/1671187985409yd4fX_JPEG/72323813235828649_2048251147.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Roy Brooks - Beat (Verve By Request Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7764203872</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7764203872</guid>
@@ -352,7 +360,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221215_13/1671098373026y28dL_JPEG/72234261729829466_1898587985.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Radiohead - Ok Computer (OKNOTOK 1997-2017) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[Radiohead - Ok Computer (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7758255471</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7758255471</guid>
             <pubDate>Thu, 15 Dec 2022 10:23:10 GMT</pubDate>
@@ -614,14 +622,6 @@
             <pubDate>Thu, 08 Dec 2022 07:18:52 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221208_204/167048281565695TIk_JPEG/71618661363327656_1473439744.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허회경 - Memoirs (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7714700283</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7714700283</guid>
-            <pubDate>Thu, 08 Dec 2022 07:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221208_195/1670482070400sKPdp_JPEG/71617916111236888_1694284626.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연말정산 2022 / 2022년을 기록하는 100가지 질문집 + 스티커 팩 (네이버 스마트스토어 ─ 공상온도)]]></title>
