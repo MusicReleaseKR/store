@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 09:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 10:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Roy Brooks - Beat (Verve By Request Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7764203872</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7764203872</guid>
+            <pubDate>Fri, 16 Dec 2022 10:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221216_149/1671185618823EBcad_JPEG/72321398549401091_1069002153.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jay Jay Johnson -The Eminent Jay Jay Johnson, Vol 1 (Blue Note Classic Vinyl Series) [180g LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7764093596</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7764093596</guid>
+            <pubDate>Fri, 16 Dec 2022 10:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221216_57/16711838743843qTBX_JPEG/72319709217411098_979889167.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘던 Eldon - Do monsters love too (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7763939207</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7763939207</guid>
+            <pubDate>Fri, 16 Dec 2022 10:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221216_103/1671182410166WrsKw_JPEG/72318237991352535_1057689117.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우순실 - 6집 First Love (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7763804197</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 08 Dec 2022 07:18:52 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221208_195/1670482070400sKPdp_JPEG/71617916111236888_1694284626.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도그 라스트 페이지 Dog Last Page - Drunken Dream (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7714643331</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7714643331</guid>
-            <pubDate>Thu, 08 Dec 2022 07:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221208_117/1670481708519bn2tc_JPEG/71617554234503532_811932679.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마인드 바디 앤 소울 - Road To Blues (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7709902753</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7709902753</guid>
-            <pubDate>Wed, 07 Dec 2022 07:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221207_253/1670396790454qG91h_JPEG/71532625275631900_1025592946.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryuichi Sakamoto - 12 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7709792167</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7709792167</guid>
-            <pubDate>Wed, 07 Dec 2022 07:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221207_229/1670395599318OhYOU_JPEG/71531498019714584_727139216.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
