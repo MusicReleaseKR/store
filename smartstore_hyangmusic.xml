@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 23:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 01:35:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,7 +76,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/7758255471</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7758255471</guid>
             <pubDate>Thu, 15 Dec 2022 10:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210512_149/1620747718188EqUx2_JPEG/21883552008105861_1639741956.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -174,14 +174,6 @@
             <pubDate>Tue, 13 Dec 2022 11:17:42 GMT</pubDate>
             <content:encoded><![CDATA[26,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221213_292/1670927650728riA3S_JPEG/72063539431965954_368646075.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Help (180G REMASTERED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7746285955</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7746285955</guid>
-            <pubDate>Wed, 14 Dec 2022 10:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[26,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_106/1666176633668Iff08_JPEG/67312417385558321_1640525290.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beatles - Beatles For Sale (180G REMASTERED LP)]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Thu, 08 Dec 2022 10:23:58 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221208_61/1670491860382Hju9Y_JPEG/71627749090102676_2028192169.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나상현씨밴드 - 2021 (CLEAR COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7714771847</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7714771847</guid>
+            <pubDate>Mon, 19 Dec 2022 01:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221208_204/167048281565695TIk_JPEG/71618661363327656_1473439744.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
