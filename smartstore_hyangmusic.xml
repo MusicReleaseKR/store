@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 08:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 09:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arts Symphony Orchestra - 하루키 소설 속 클래식 (180G GREEN CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7779216978</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7779216978</guid>
+            <pubDate>Mon, 19 Dec 2022 09:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221116_80/16685927919224PTDz_JPEG/69728625737356172_319533909.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에코 브릿지 Eco Bridge - COMPILATION (180G CLEAR ORANGE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7764396291</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 08 Dec 2022 10:23:58 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221208_61/1670491860382Hju9Y_JPEG/71627749090102676_2028192169.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나상현씨밴드 - 2021 (CLEAR COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7714771847</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7714771847</guid>
-            <pubDate>Mon, 19 Dec 2022 01:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221208_204/167048281565695TIk_JPEG/71618661363327656_1473439744.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
