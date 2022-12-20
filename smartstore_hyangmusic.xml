@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 11:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 12:37:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pink Floyd - The Final Cut (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7786505805</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7786505805</guid>
+            <pubDate>Tue, 20 Dec 2022 12:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[33,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_38/1671539241425aIbEE_JPEG/72675025128871948_2090802723.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sting - Ten Summoner's Tales (180g LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7786476419</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7786476419</guid>
+            <pubDate>Tue, 20 Dec 2022 12:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_177/16715387842423XYJb_JPEG/72674567946962331_806831414.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weezer - Weezer (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7786436938</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7786436938</guid>
+            <pubDate>Tue, 20 Dec 2022 12:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220824_10/1661336935623lJprt_JPEG/62472831356597926_318171701.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한요한 - 4집 Time Machine (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7786400396</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7786400396</guid>
+            <pubDate>Tue, 20 Dec 2022 12:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_250/1671537816183QNToh_JPEG/72673599900213727_1689591178.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ariana Grande - Yours Truly (Gate-fold LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7785962902</link>
@@ -294,38 +326,6 @@
             <pubDate>Tue, 13 Dec 2022 08:26:51 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221213_271/1670917955691TvoLh_JPEG/72053851428813177_622082700.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오웰무드 Owell Mood - LOVE is DRUG (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7745407759</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7745407759</guid>
-            <pubDate>Tue, 13 Dec 2022 08:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[12,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221213_196/1670917255161WutoL_JPEG/72053153865334676_136245391.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장필순 - 베스트 (180G LIGHT GREEN COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7740420004</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7740420004</guid>
-            <pubDate>Mon, 12 Dec 2022 12:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221212_264/1670848299257pHTBx_JPEG/71984127088194068_1602105737.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김일두 - 꿈속꿈 (140G FOREST CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7739307162</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7739307162</guid>
-            <pubDate>Mon, 12 Dec 2022 09:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221212_270/1670836393407gBEYY_JPEG/71972177124816178_634443920.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 제임스레코드 컴필레이션 (140G BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7739276235</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7739276235</guid>
-            <pubDate>Mon, 12 Dec 2022 09:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221212_191/1670835931405O21yN_JPEG/71971715122377456_623481824.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
