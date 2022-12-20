@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 07:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 08:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[VA - 대구 인디음악 연대기 2022 Let’s Roll (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7785067641</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7785067641</guid>
+            <pubDate>Tue, 20 Dec 2022 08:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_215/16715224142345DEPX_JPEG/72658197950111543_1355049867.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 디모 - 벚꽃의 소리 DEEMO Memorial Keys (극장판) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7784998351</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7784998351</guid>
+            <pubDate>Tue, 20 Dec 2022 08:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_44/167152182232082rEz_JPEG/72657650135201045_1986049483.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인순이 - 골든앨범 (180G CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7784953369</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7784953369</guid>
+            <pubDate>Tue, 20 Dec 2022 08:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_109/1671521175174CQgRv_JPEG/72657017885467915_1157983734.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Arts Symphony Orchestra - 하루키 소설 속 클래식 (180G GREEN CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7779216978</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7779216978</guid>
@@ -598,30 +622,6 @@
             <pubDate>Thu, 08 Dec 2022 10:23:58 GMT</pubDate>
             <content:encoded><![CDATA[41,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221208_259/1670494313493obVmn_JPEG/71630141305660190_1770967270.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - 4집 Who Stepped on It (150G LP) [2022 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7715783936</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7715783936</guid>
-            <pubDate>Thu, 08 Dec 2022 10:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221005_215/1664961091589pr5PU_JPEG/66096990293689894_244130013.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크툽 - SPACE OPERA (Red Moon Complete Edition) [180G ORANGE COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7715746858</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7715746858</guid>
-            <pubDate>Thu, 08 Dec 2022 10:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[88,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221208_258/1670493190026s4pbH_JPEG/71628973742278326_463016422.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영턱스클럽 - 2집 타인 (180G CLEAR ICE BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7715625827</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7715625827</guid>
-            <pubDate>Thu, 08 Dec 2022 10:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221208_61/1670491860382Hju9Y_JPEG/71627749090102676_2028192169.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연말정산 2022 / 2022년을 기록하는 100가지 질문집 + 스티커 팩 (네이버 스마트스토어 ─ 공상온도)]]></title>
