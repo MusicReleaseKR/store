@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 09:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 10:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Stan Getz & Charlie Byrd - Jazz Samba (180G LP) [Bouns Track] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7785778931</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7785778931</guid>
+            <pubDate>Tue, 20 Dec 2022 10:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[32,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_290/1671530264610dyqrQ_JPEG/72666099441241207_1321301025.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stan Getz And Joao Gilberto - Getz / Gilberto (180G LP) [REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7785752461</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7785752461</guid>
+            <pubDate>Tue, 20 Dec 2022 10:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_268/1671529946447bl3q3_JPEG/72665781279350547_537116651.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker - My Funny Valentine (CLEAR COLOURED LP) [REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7785701288</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7785701288</guid>
+            <pubDate>Tue, 20 Dec 2022 10:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_153/1671529481933C8i9K_JPEG/72665316769910903_1571028313.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Soundtrack - The Last of the Mohicans 모히칸 영화음악 (SMOKE & FIRE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7785267815</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7785267815</guid>
@@ -598,30 +622,6 @@
             <pubDate>Mon, 12 Dec 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221212_283/1670828649854toEzK_JPEG/71964548564991837_337611520.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sarah Kang - 1집 how i remember (WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7738365711</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7738365711</guid>
-            <pubDate>Mon, 12 Dec 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221212_17/1670826757994bfG0F_JPEG/71962646700907604_1486571232.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유라 youra & 만동 Mandong - 이런 분위기는 기회다 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7722186508</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7722186508</guid>
-            <pubDate>Fri, 09 Dec 2022 08:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221209_215/1670573794056Ic1XN_JPEG/71709621869768596_520006183.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계피자매 - 고리 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7716259613</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7716259613</guid>
-            <pubDate>Thu, 08 Dec 2022 12:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221208_13/1670495373460NHCcx_JPEG/71631262176180358_1572751241.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연말정산 2022 / 2022년을 기록하는 100가지 질문집 + 스티커 팩 (네이버 스마트스토어 ─ 공상온도)]]></title>
