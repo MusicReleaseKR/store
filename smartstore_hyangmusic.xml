@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 10:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 11:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ariana Grande - Yours Truly (Gate-fold LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7785962902</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7785962902</guid>
+            <pubDate>Tue, 20 Dec 2022 11:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[41,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_34/1671532512308a5W7d_JPEG/72668401022882161_431537931.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Queensryche - Digital Noise Alliance (DELUXE BOX SET) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7785943669</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7785943669</guid>
+            <pubDate>Tue, 20 Dec 2022 11:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_196/1671532134041iNLAJ_JPEG/72668022754742088_522516366.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Foo Fighters - The Essential Foo Fighters (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7785926315</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7785926315</guid>
+            <pubDate>Tue, 20 Dec 2022 11:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_21/1671531858727VtYh8_JPEG/72667747435949625_1034328238.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stan Getz & Charlie Byrd - Jazz Samba (180G LP) [Bouns Track]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7785778931</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 12 Dec 2022 09:21:18 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221212_191/1670835931405O21yN_JPEG/71971715122377456_623481824.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 NewJeans - OMG (Weverse Albums ver) [CD] - 3종 중 1종 랜덤발송]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7738649766</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7738649766</guid>
-            <pubDate>Mon, 12 Dec 2022 08:27:34 GMT</pubDate>
-            <content:encoded><![CDATA[11,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221212_284/1670829525180kPcpv_JPEG/71965423890758012_1355154721.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 NewJeans - OMG (Message Card ver) [CD] - 6종 중 1종 랜덤발송]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7738618571</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7738618571</guid>
-            <pubDate>Mon, 12 Dec 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221212_33/1670829088817TzTsx_JPEG/71964987527254459_1981063448.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장필순 - 고마워 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7738551278</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7738551278</guid>
-            <pubDate>Mon, 12 Dec 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221212_283/1670828649854toEzK_JPEG/71964548564991837_337611520.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
