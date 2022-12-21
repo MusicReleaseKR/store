@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 11:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 12:37:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Amy Winehouse - Frank (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7791433953</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7791433953</guid>
+            <pubDate>Wed, 21 Dec 2022 12:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221221_125/1671624391414uihcN_JPEG/72760290123766872_786050085.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Billie Eilish - Don't Smile At Me (COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7791421287</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7791421287</guid>
+            <pubDate>Wed, 21 Dec 2022 12:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221221_115/1671623991712bTxVL_JPEG/72759771432981713_597788466.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Billie Eilish - When We All Fall Asleep, Where Do We Go (International Deluxe Edition) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7791415162</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7791415162</guid>
+            <pubDate>Wed, 21 Dec 2022 12:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210316_13/1615823973375UJSMa_JPEG/16959872078975839_1161749803.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cure / Wish - (3CD REMASTERED) [30th Anniversary]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7791088865</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 14 Dec 2022 08:27:02 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221214_28/16710040280044TrL4_JPEG/72139861811242568_1804067625.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 - 골든 베스트 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7751568819</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7751568819</guid>
-            <pubDate>Wed, 14 Dec 2022 08:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221214_174/1671003738024UEIIq_JPEG/72139571834636208_2142699942.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bob Dylan - Highway 61 Revisited (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7746397466</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7746397466</guid>
-            <pubDate>Tue, 13 Dec 2022 11:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[33,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221213_69/1670928298363eS7b9_JPEG/72064187062656595_1138657160.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - With The Beatles (180G REMASTERED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7746353538</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7746353538</guid>
-            <pubDate>Tue, 13 Dec 2022 11:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[26,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221213_292/1670927650728riA3S_JPEG/72063539431965954_368646075.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
