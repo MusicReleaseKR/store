@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 06:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 07:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네스티요나 - Another Secret (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7790741150</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7790741150</guid>
+            <pubDate>Wed, 21 Dec 2022 07:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221221_268/1671606698386Mxvu0_JPEG/72742544087620093_1453062336.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pink Floyd - The Final Cut (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Tue, 13 Dec 2022 08:26:51 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221213_55/1670918296342duV0H_JPEG/72054192080017884_1338900301.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ginconda De Vito - 바흐 & 모차르트: 바이올린 협주곡 (180G REMASTERED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7745472476</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7745472476</guid>
-            <pubDate>Tue, 13 Dec 2022 08:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221213_271/1670917955691TvoLh_JPEG/72053851428813177_622082700.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연말정산 2022 / 2022년을 기록하는 100가지 질문집 + 스티커 팩 (네이버 스마트스토어 ─ 공상온도)]]></title>
