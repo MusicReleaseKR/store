@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 07:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 08:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨스턴 카잇 SUNDAY MONDAY 엽서]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7790748670</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7790748670</guid>
+            <pubDate>Wed, 21 Dec 2022 08:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[3,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221221_233/1671609718175gjIDM_GIF/72745545566315896_35860859.gif?type=f295_381" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연말정산 2022 / 2022년을 기록하는 100가지 질문집 + 스티커 팩]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7769073712</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 16:37:43 GMT</pubDate>
             <content:encoded><![CDATA[11,800]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220825_202/1661415275312lVe2u_JPEG/62551103124456222_249583414.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정해져 있지 않은 거주지: 오드라데크 / 히스테리안 출판]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7086673424</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7086673424</guid>
-            <pubDate>Wed, 16 Nov 2022 16:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220825_2/1661413378538GUyBc_JPEG/62549206349575320_969615066.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

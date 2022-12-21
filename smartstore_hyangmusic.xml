@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 07:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 08:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈디시티 - Psychedelicious City (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7790777129</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7790777129</guid>
+            <pubDate>Wed, 21 Dec 2022 08:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221221_111/1671607440709I52RU_JPEG/72743286406681603_1844408083.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불독맨션 Bulldog Mansion - Debut EP (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7790759331</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7790759331</guid>
+            <pubDate>Wed, 21 Dec 2022 08:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221221_109/1671607115210LRITu_JPEG/72742960922270694_209081917.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네스티요나 - Another Secret (180G COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7790741150</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 13 Dec 2022 10:23:33 GMT</pubDate>
             <content:encoded><![CDATA[26,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221213_236/1670926660539rY9XK_JPEG/72062444243249777_863840013.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ginconda De Vito - 브람스 바이올린 협주곡 (180G REMASTERED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7746041532</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7746041532</guid>
-            <pubDate>Tue, 13 Dec 2022 10:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221213_46/1670918849690ge6bX_JPEG/72054629406893602_1960630686.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ginconda De Vito - 베토벤 바이올린 소나타 크로이처 (180G REMASTERED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7745510711</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7745510711</guid>
-            <pubDate>Tue, 13 Dec 2022 08:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221213_55/1670918296342duV0H_JPEG/72054192080017884_1338900301.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
