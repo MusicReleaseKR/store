@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 11:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 12:40:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산울림 - 6집 조금만 기다려요 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7795073642</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7795073642</guid>
+            <pubDate>Thu, 22 Dec 2022 12:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221222_35/1671710794014KgcBy_JPEG/72846621835544947_2090080700.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 - 5집 한낮의 모래시계 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7795036158</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7795036158</guid>
+            <pubDate>Thu, 22 Dec 2022 12:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221222_268/1671710472490OkWXL_JPEG/72846315206235568_100584658.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 - 4집 특급열차 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7794989621</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7794989621</guid>
+            <pubDate>Thu, 22 Dec 2022 12:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221222_234/1671709872891rAV4t_JPEG/72845700721709893_152652669.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브로큰 발렌타인 - 3 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7794931344</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7794931344</guid>
+            <pubDate>Thu, 22 Dec 2022 12:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221222_287/1671709169092J1DCl_JPEG/72845002915116404_1267047598.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Amy Winehouse - Frank (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7791433953</link>
@@ -294,38 +326,6 @@
             <pubDate>Wed, 14 Dec 2022 10:22:42 GMT</pubDate>
             <content:encoded><![CDATA[37,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221214_25/1671010050938TRRRq_JPEG/72145884759392427_1917247906.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마그마 Magma - 1집 알수 없어, 해야 (150G LP & 카세트 테이프)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7751906322</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7751906322</guid>
-            <pubDate>Wed, 14 Dec 2022 09:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221214_192/1671009480687aKl5T_JPEG/72145315508991773_19442910.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마그마 Magma - 1집 알수 없어, 해야 (150G COLOURED LP & 카세트 테이프)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7751901451</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7751901451</guid>
-            <pubDate>Wed, 14 Dec 2022 09:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221214_70/1671009162969CeWG3_JPEG/72144997788743933_353125423.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박강성 - 그 여인, 접동새 (180G BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7751865682</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7751865682</guid>
-            <pubDate>Wed, 14 Dec 2022 09:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221214_205/1671008730689VKJur_JPEG/72144565473481992_1673046808.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 - 골든 베스트 (180G GRAY COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7751576024</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7751576024</guid>
-            <pubDate>Wed, 14 Dec 2022 08:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221214_28/16710040280044TrL4_JPEG/72139861811242568_1804067625.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
