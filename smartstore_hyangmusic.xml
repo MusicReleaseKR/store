@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 08:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 09:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이루리 - Fade Away Like A Dream (180G WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7800592056</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7800592056</guid>
+            <pubDate>Fri, 23 Dec 2022 09:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221223_9/1671785162761D2nD3_JPEG/72920946471066152_1276063090.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치즈 Cheeze - Blank (WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7800522856</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7800522856</guid>
+            <pubDate>Fri, 23 Dec 2022 09:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[35,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221223_295/1671784247645goEHW_JPEG/72920146355335642_1339455310.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조월 Jowall - 아무것도 기념하지 않는 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7800465871</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7800465871</guid>
+            <pubDate>Fri, 23 Dec 2022 09:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221223_237/1671783521842jIQ1l_JPEG/72919367561076276_711235866.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산울림 - 6집 조금만 기다려요 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7795073642</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 15 Dec 2022 09:21:28 GMT</pubDate>
             <content:encoded><![CDATA[43,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221215_140/1671093702781bPt2R_JPEG/72229591494512037_1042365664.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 BTS - BTS World Tour Love Yourself Speak Yourself (The Final) [3Blu-ray]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7757860187</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7757860187</guid>
-            <pubDate>Thu, 15 Dec 2022 09:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221215_61/1671092627978OwTt4_JPEG/72228455793104704_513005291.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차이콥스키 - 호두까기 인형 - 앙드레프레빈, 런던 심포니 오케스트라 (2CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7752039364</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7752039364</guid>
-            <pubDate>Wed, 14 Dec 2022 10:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221214_155/1671011280238RjaBu_JPEG/72147168949107899_745936283.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Puth - Charlie (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7751952927</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7751952927</guid>
-            <pubDate>Wed, 14 Dec 2022 10:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[37,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221214_25/1671010050938TRRRq_JPEG/72145884759392427_1917247906.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
