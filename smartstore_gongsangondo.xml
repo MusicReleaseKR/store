@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 10:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 11:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[yob Basic Line Cup / 욥 베이직 라인 컵]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7801259302</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7801259302</guid>
+            <pubDate>Fri, 23 Dec 2022 11:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221223_24/16717778667702R6YS_JPEG/72913694424898533_464469187.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[있어 보이고 싶을 때 읽는 책 / 이영준 외 6명 에세이집 / 식은땀 출판사 출판]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7791355710</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 10 Nov 2022 11:21:44 GMT</pubDate>
             <content:encoded><![CDATA[14,800]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220921_17/1663746292112FxMim_JPEG/64882187816387273_1072480588.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 빼놓고선 적을 문장이 없다. (개정판) / 김유라 산문]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7092649239</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7092649239</guid>
-            <pubDate>Thu, 10 Nov 2022 11:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220826_50/166150908188110pCt_JPEG/62644909698016379_930282093.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

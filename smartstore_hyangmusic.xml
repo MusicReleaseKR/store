@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 10:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 11:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Duke Jordan Trio 듀크 조단 트리오 - Flight To Denmark (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7801209500</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7801209500</guid>
+            <pubDate>Fri, 23 Dec 2022 11:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210316_75/1615886871621X4rlj_JPEG/17022706449938653_1419924572.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이루리 - Fade Away Like A Dream (180G WHITE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7800592056</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 15 Dec 2022 09:21:28 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210220_194/1613810118688iRn5M_JPEG/14945952509397350_2068982267.jpeg?type=f140" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 투트랙 프로젝트 Two Tracks Project (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7757949144</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7757949144</guid>
-            <pubDate>Thu, 15 Dec 2022 09:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221215_140/1671093702781bPt2R_JPEG/72229591494512037_1042365664.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
