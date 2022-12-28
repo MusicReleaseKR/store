@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 08:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 09:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,12 +376,76 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221228_198/1672157558195DYTsl_JPEG/73293341913097340_932932236.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Blind Faith - Blind Faith (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7801401088</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7801401088</guid>
+            <pubDate>Wed, 28 Dec 2022 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[38,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220819_30/1660897398316S3hQw_JPEG/62033182022225877_312151115.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Muse - Showbiz (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7801375197</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7801375197</guid>
+            <pubDate>Wed, 28 Dec 2022 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[37,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221223_30/1671793699915qIwqs_JPEG/72929533738546327_1399670533.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Muse - Origin Of Symmetry (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7801355895</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7801355895</guid>
+            <pubDate>Wed, 28 Dec 2022 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[37,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221223_22/1671793349967YAcfn_JPEG/72929183789484057_1234746250.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Muse - Absolution (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7801327899</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7801327899</guid>
+            <pubDate>Wed, 28 Dec 2022 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[37,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221223_98/1671792953261o5mM1_JPEG/72928787081410056_664516910.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead - The Bends (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7801271573</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7801271573</guid>
+            <pubDate>Wed, 28 Dec 2022 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[47,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221223_173/1671792358442bhXPa_JPEG/72928192256466911_989498369.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead - Pablo Honey (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7801222292</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7801222292</guid>
+            <pubDate>Wed, 28 Dec 2022 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[47,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221223_228/1671790929639qVGIq_JPEG/72926828336335945_1302474030.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Duke Jordan Trio 듀크 조단 트리오 - Flight To Denmark (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7801209500</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7801209500</guid>
             <pubDate>Fri, 23 Dec 2022 11:16:52 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210316_75/1615886871621X4rlj_JPEG/17022706449938653_1419924572.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Belle And Sebastian - Girls In Peacetime Want To Dance (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7801196586</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7801196586</guid>
+            <pubDate>Wed, 28 Dec 2022 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221223_148/1671791228256j8Tsy_JPEG/72927126968027857_1293156324.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead - Pablo Honey (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7801170854</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7801170854</guid>
+            <pubDate>Wed, 28 Dec 2022 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221223_228/1671790929639qVGIq_JPEG/72926828336335945_1302474030.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이루리 - Fade Away Like A Dream (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -558,70 +622,6 @@
             <pubDate>Tue, 20 Dec 2022 10:22:42 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221220_290/1671530264610dyqrQ_JPEG/72666099441241207_1321301025.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stan Getz And Joao Gilberto - Getz / Gilberto (180G LP) [REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7785752461</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7785752461</guid>
-            <pubDate>Tue, 20 Dec 2022 10:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221220_268/1671529946447bl3q3_JPEG/72665781279350547_537116651.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker - My Funny Valentine (CLEAR COLOURED LP) [REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7785701288</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7785701288</guid>
-            <pubDate>Tue, 20 Dec 2022 10:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221220_153/1671529481933C8i9K_JPEG/72665316769910903_1571028313.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - The Last of the Mohicans 모히칸 영화음악 (SMOKE & FIRE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7785267815</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7785267815</guid>
-            <pubDate>Tue, 20 Dec 2022 09:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221220_280/1671523753761cBo0F_JPEG/72659642460639625_801389283.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 대구 인디음악 연대기 2022 Let’s Roll (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7785067641</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7785067641</guid>
-            <pubDate>Tue, 20 Dec 2022 08:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221220_215/16715224142345DEPX_JPEG/72658197950111543_1355049867.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 디모 - 벚꽃의 소리 DEEMO Memorial Keys (극장판) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7784998351</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7784998351</guid>
-            <pubDate>Tue, 20 Dec 2022 08:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221220_44/167152182232082rEz_JPEG/72657650135201045_1986049483.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인순이 - 골든앨범 (180G CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7784953369</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7784953369</guid>
-            <pubDate>Tue, 20 Dec 2022 08:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221220_109/1671521175174CQgRv_JPEG/72657017885467915_1157983734.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arts Symphony Orchestra - 하루키 소설 속 클래식 (180G GREEN CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7779216978</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7779216978</guid>
-            <pubDate>Mon, 19 Dec 2022 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221116_80/16685927919224PTDz_JPEG/69728625737356172_319533909.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에코 브릿지 Eco Bridge - COMPILATION (180G CLEAR ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7764396291</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7764396291</guid>
-            <pubDate>Fri, 16 Dec 2022 12:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221216_168/16711895244457H7Mk_JPEG/72325308146095169_1810297931.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[yob Collabo Line Year Calendar / 욥 콜라보라인 연력 (네이버 스마트스토어 ─ 공상온도)]]></title>
