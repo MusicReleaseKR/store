@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 09:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 10:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rage Against The Machine - Rage Against The Machine (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7858240638</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7858240638</guid>
+            <pubDate>Tue, 03 Jan 2023 10:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[26,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230103_205/1672741087651uDgpf_JPEG/43771530111157_405839630.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pearl Jam - Ten (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7858230711</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7858230711</guid>
+            <pubDate>Tue, 03 Jan 2023 10:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230103_211/1672740264363ymY5s_JPEG/73876163073059962_418135299.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leonard Cohen - Songs Of Leonard Cohen (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7858197340</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7858197340</guid>
+            <pubDate>Tue, 03 Jan 2023 10:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[26,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230103_54/1672739967362TEQzs_JPEG/73875866072732258_1465748692.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Deep Purple - The Book Of Taliesyn (180g White Mono LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7857482881</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 21 Dec 2022 09:19:37 GMT</pubDate>
             <content:encoded><![CDATA[31,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221221_78/1671612826245f86XE_JPEG/72748605967036702_1006569036.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윈디시티 - Psychedelicious City (180G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7790777129</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7790777129</guid>
-            <pubDate>Wed, 21 Dec 2022 08:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221221_111/1671607440709I52RU_JPEG/72743286406681603_1844408083.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불독맨션 Bulldog Mansion - Debut EP (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7790759331</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7790759331</guid>
-            <pubDate>Wed, 21 Dec 2022 08:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221221_109/1671607115210LRITu_JPEG/72742960922270694_209081917.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네스티요나 - Another Secret (180G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7790741150</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7790741150</guid>
-            <pubDate>Wed, 21 Dec 2022 07:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221221_268/1671606698386Mxvu0_JPEG/72742544087620093_1453062336.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
