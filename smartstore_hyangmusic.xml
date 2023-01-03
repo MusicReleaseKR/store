@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 05:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 06:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nina Simone - Jazz Monuments (4LP) [BOX SET]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7857312632</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7857312632</guid>
+            <pubDate>Tue, 03 Jan 2023 06:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[97,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230103_37/1672726440179fQAv5_JPEG/73862335914627240_260526560.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장하은 - Once again (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7832247367</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 20 Dec 2022 12:37:26 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221220_250/1671537816183QNToh_JPEG/72673599900213727_1689591178.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ariana Grande - Yours Truly (Gate-fold LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7785962902</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7785962902</guid>
-            <pubDate>Tue, 20 Dec 2022 11:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[41,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221220_34/1671532512308a5W7d_JPEG/72668401022882161_431537931.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
