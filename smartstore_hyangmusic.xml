@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 17:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 18:26:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 이리와 안아줘 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7865367710</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7865367710</guid>
+            <pubDate>Wed, 04 Jan 2023 18:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230105_192/1672852817520r9lmJ_JPEG/73988713256942997_1450493447.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack -  반딧불이의 묘 이미지 앨범 [LP] - 일본 레코드 데이 2022 한정반]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7863503577</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 23 Dec 2022 09:19:15 GMT</pubDate>
             <content:encoded><![CDATA[35,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221223_295/1671784247645goEHW_JPEG/72920146355335642_1339455310.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조월 Jowall - 아무것도 기념하지 않는 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7800465871</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7800465871</guid>
-            <pubDate>Fri, 23 Dec 2022 09:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221223_237/1671783521842jIQ1l_JPEG/72919367561076276_711235866.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
