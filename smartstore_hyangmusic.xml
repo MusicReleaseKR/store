@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 07:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 08:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Steve Marcus + Jiro Inagaki & Soul Media – Something (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7868830738</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7868830738</guid>
+            <pubDate>Thu, 05 Jan 2023 08:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230105_261/1672905110474TzHhy_JPEG/74040938287855692_908235377.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕바다 - 701 (180G CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7868725073</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7868725073</guid>
+            <pubDate>Thu, 05 Jan 2023 08:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230105_220/1672903448702QGqn0_JPEG/74039337415443954_1480065890.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양다일 - 2집 our joys and sadnesses (180G CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7868666933</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7868666933</guid>
+            <pubDate>Thu, 05 Jan 2023 08:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230105_10/1672902981357VBAoO_JPEG/74038824070147554_1133352774.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양다일 - 1집 inside (180G WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7868651851</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7868651851</guid>
+            <pubDate>Thu, 05 Jan 2023 08:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230105_144/1672902010836PnETD_JPEG/204694721310002_883306193.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 이리와 안아줘 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7865367710</link>
@@ -294,38 +326,6 @@
             <pubDate>Fri, 23 Dec 2022 11:16:52 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210316_75/1615886871621X4rlj_JPEG/17022706449938653_1419924572.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Belle And Sebastian - Girls In Peacetime Want To Dance (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7801196586</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7801196586</guid>
-            <pubDate>Wed, 28 Dec 2022 09:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221223_148/1671791228256j8Tsy_JPEG/72927126968027857_1293156324.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead - Pablo Honey (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7801170854</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7801170854</guid>
-            <pubDate>Wed, 28 Dec 2022 09:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221223_228/1671790929639qVGIq_JPEG/72926828336335945_1302474030.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이루리 - Fade Away Like A Dream (180G WHITE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7800592056</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7800592056</guid>
-            <pubDate>Fri, 23 Dec 2022 09:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221223_9/1671785162761D2nD3_JPEG/72920946471066152_1276063090.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치즈 Cheeze - Blank (WHITE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7800522856</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7800522856</guid>
-            <pubDate>Fri, 23 Dec 2022 09:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[35,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221223_295/1671784247645goEHW_JPEG/72920146355335642_1339455310.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
