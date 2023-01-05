@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 05:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 06:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -624,6 +624,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221223_295/1671784247645goEHW_JPEG/72920146355335642_1339455310.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[붉은 눈 / 문소문 정규 1집 / CD음반 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7868354525</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7868354525</guid>
+            <pubDate>Thu, 05 Jan 2023 06:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230105_7/1672897494240FuQi9_JPEG/74033322027497212_2055541998.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도마 / 도마 정규 2집 / CD음반 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7868297100</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7868297100</guid>
+            <pubDate>Thu, 05 Jan 2023 06:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230105_14/1672896202865LIpP7_JPEG/74032037690144120_1091176416.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[yob Collabo Line Year Calendar / 욥 콜라보라인 연력 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7805180015</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7805180015</guid>
@@ -926,22 +942,6 @@
             <pubDate>Thu, 10 Nov 2022 11:21:44 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220927_42/1664273527398hKzIx_JPEG/65409362206678392_2128913545.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박정환의 현장: 다시, 주사위를 던지며 / 박정환 에세이 / 출판공동체 편않 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7272313196</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7272313196</guid>
-            <pubDate>Thu, 10 Nov 2022 11:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220927_40/1664272078496aBCih_JPEG/65407924187026270_783498153.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Guinneissik 기나이직 정규 2집 / 'Postwar' USB (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7230720320</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7230720320</guid>
-            <pubDate>Thu, 10 Nov 2022 11:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221006_82/16650508154979txlR_JPEG/66186711188483730_95727940.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소스 리스트 (네이버 스마트스토어 ─ 재미공작소)]]></title>
