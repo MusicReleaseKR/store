@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 11:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 12:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto - A Tribute to Ryuichi Sakamoto - To the Moon and Back [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7875618790</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7875618790</guid>
+            <pubDate>Fri, 06 Jan 2023 12:37:27 GMT</pubDate>
+            <content:encoded><![CDATA[105,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_97/1673007035698BMG2F_JPEG/74142924413015592_1468197964.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto - 익셉션 Exception (Soundtrack from the Netflix Anime Series) [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7875574903</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7875574903</guid>
+            <pubDate>Fri, 06 Jan 2023 12:37:27 GMT</pubDate>
+            <content:encoded><![CDATA[93,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221013_20/1665656211787lBEb7_JPEG/66792100488998637_822353012.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 푸른 안개 (KBS 주말연속극) [140G LP+CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7875524749</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7875524749</guid>
+            <pubDate>Fri, 06 Jan 2023 12:37:27 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_29/1673006386409QVUgR_JPEG/74142275108246155_596243884.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Janis Joplin - Kosmic Summertime - The 1969 Live Legends (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7875194198</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 03 Jan 2023 10:21:47 GMT</pubDate>
             <content:encoded><![CDATA[32,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230103_211/1672740264363ymY5s_JPEG/73876163073059962_418135299.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leonard Cohen - Songs Of Leonard Cohen (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7858197340</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7858197340</guid>
-            <pubDate>Tue, 03 Jan 2023 10:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[26,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230103_54/1672739967362TEQzs_JPEG/73875866072732258_1465748692.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deep Purple - The Book Of Taliesyn (180g White Mono LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7857482881</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7857482881</guid>
-            <pubDate>Tue, 03 Jan 2023 07:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230103_229/1672728484124kApuq_JPEG/73864267824735025_663424435.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deep Purple - Machine Head (180G Gatefold LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7857460877</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7857460877</guid>
-            <pubDate>Tue, 03 Jan 2023 07:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[24,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220407_287/16493230101712fGhn_JPEG/50458908877354630_274685322.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
