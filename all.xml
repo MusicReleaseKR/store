@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 09:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 10:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,54 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Keith Jarrett - My Song (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7874933959</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7874933959</guid>
+            <pubDate>Fri, 06 Jan 2023 10:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_17/1673000199878QbMNV_JPEG/74136042584410533_1855366998.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 바람 계곡의 나우시카 SYMPHONY VERSION [LP] (레코드스토어데이 한정반) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7874846928</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7874846928</guid>
+            <pubDate>Fri, 06 Jan 2023 10:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[67,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_75/1672999661232qPSpj_JPEG/74135503947967678_693203810.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Princess Mononoke 원령공주 - SYMPHONIC SUITE (LP) [레코드스토어데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7874818075</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7874818075</guid>
+            <pubDate>Fri, 06 Jan 2023 10:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_184/1672999375135pEV2O_JPEG/74135217850779713_1769051734.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 벼랑 위의 포뇨 IMAGE ALBUM (LP) [레코드스토어데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7874794462</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7874794462</guid>
+            <pubDate>Fri, 06 Jan 2023 10:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_43/1672998970761GU5Ry_JPEG/74134813465904867_504503170.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Howl's Moving Castle 하울의 움직이는 성 (2LP) [레코드스토어데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7874752261</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7874752261</guid>
+            <pubDate>Fri, 06 Jan 2023 10:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[77,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_164/1672998543598ksn7z_JPEG/74134386305057370_2073291004.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 사랑과 슬픔의 볼레로 (REMASTERED) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7874650238</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7874650238</guid>
+            <pubDate>Fri, 06 Jan 2023 10:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[59,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_249/16729898817973HSzK_JPEG/74125716634201018_1087185995.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Weezer - Pinkerton (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7873677580</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7873677580</guid>
@@ -574,54 +622,6 @@
             <pubDate>Tue, 03 Jan 2023 06:24:55 GMT</pubDate>
             <content:encoded><![CDATA[97,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230103_37/1672726440179fQAv5_JPEG/73862335914627240_260526560.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장하은 - Once again (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7832247367</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7832247367</guid>
-            <pubDate>Thu, 29 Dec 2022 08:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221229_139/1672300478254Md1Tv_JPEG/73436257970899020_2104026650.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나상현씨밴드 - FILM (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7832214599</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7832214599</guid>
-            <pubDate>Thu, 29 Dec 2022 08:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221229_32/1672300154218MvRAt_JPEG/73435933945526345_250346991.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박경숙 - Russian Romance (45RPM 180G AUDIOPHILE 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7832172428</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7832172428</guid>
-            <pubDate>Thu, 29 Dec 2022 08:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221229_61/1672299286083G3wEH_JPEG/73435119884786338_1079196387.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pharoah Sanders - Karma (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7826691033</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7826691033</guid>
-            <pubDate>Wed, 28 Dec 2022 08:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[56,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221228_193/1672212375348yyz3J_JPEG/73348221068325150_318833518.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gary Saracho - En Medio (RSD Black Friday) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7826657780</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7826657780</guid>
-            <pubDate>Wed, 28 Dec 2022 08:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[42,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221228_250/1672212075351vDw8L_JPEG/73347921070423870_685723935.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Esperanza Spalding - Radio Music Society (10th Anniversary Edition) [180G 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7826628476</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7826628476</guid>
-            <pubDate>Wed, 28 Dec 2022 08:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221228_120/1672211489640p1OaB_JPEG/73347378344032919_590547671.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오드(The Odd) vol.1 소원 / 호러 매거진 (네이버 스마트스토어 ─ 공상온도)]]></title>
