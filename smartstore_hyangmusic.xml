@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 12:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 13:28:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rolling Stones - Beggars Banquet (50th Anniversary Edition) [180G 2LP & 7INCH LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7891684307</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7891684307</guid>
+            <pubDate>Mon, 09 Jan 2023 13:27:53 GMT</pubDate>
+            <content:encoded><![CDATA[61,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230109_60/1673269220802qdczq_JPEG/571904682397386_1354704105.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Noel Gallagher's High Flying Birds - Back The Way We Came Vol 1 (2011-2021) [2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7891563366</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 05 Jan 2023 08:26:23 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230105_220/1672903448702QGqn0_JPEG/74039337415443954_1480065890.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양다일 - 2집 our joys and sadnesses (180G CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7868666933</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7868666933</guid>
-            <pubDate>Thu, 05 Jan 2023 08:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230105_10/1672902981357VBAoO_JPEG/74038824070147554_1133352774.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
