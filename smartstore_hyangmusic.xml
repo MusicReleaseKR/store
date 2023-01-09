@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 06:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 07:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,12 +120,68 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230106_35/1672988329061bMdDi_JPEG/74124108436737220_177819757.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Velvet Underground - The Velvet Underground & Nico (45TH ANNIVERSARY) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7873586995</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7873586995</guid>
+            <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220817_256/1660745084809EQudB_JPEG/61880868517702488_551610988.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Velvet Underground - The Velvet Underground (45TH ANIVERSARY EDITION) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7873547631</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7873547631</guid>
+            <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_233/1672987425298D5INi_JPEG/74123205024236868_283528060.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Thelonious Monk - Monk's Dream (180G BLUE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7873517422</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7873517422</guid>
             <pubDate>Fri, 06 Jan 2023 07:17:54 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230106_224/1672987048422LRtzO_JPEG/74122828143142663_1551808571.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sonic Youth - Goo (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7873487471</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7873487471</guid>
+            <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220219_112/1645199093617Rkwc5_JPEG/46334873322445284_315987854.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West - Graduation (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7873463662</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7873463662</guid>
+            <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_193/1672986421644QvPnW_JPEG/74122256469058105_718571339.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West - The College Dropout (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7873424702</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7873424702</guid>
+            <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_250/1672985990256q3siJ_JPEG/74121885990080432_1586326160.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amy Winehouse - Frank (DELUXE EDITION) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7873376541</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7873376541</guid>
+            <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[22,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_218/1672985541004tqfu9_JPEG/74121324722046816_1372686372.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2pac - Me Against The World (RE-ISSUE) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7873347115</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7873347115</guid>
+            <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_260/1672985168137LqJOn_JPEG/74120951846539524_963799615.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nujabes - Free Soul Nujabes First Collection (CD)]]></title>
@@ -270,62 +326,6 @@
             <pubDate>Thu, 05 Jan 2023 09:20:31 GMT</pubDate>
             <content:encoded><![CDATA[17,800]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230104_236/16728288804057ubmt_JPEG/73964715234666389_2034880873.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jimi Hendrix Experience - Axis: Bold As Love (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7863239531</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7863239531</guid>
-            <pubDate>Wed, 04 Jan 2023 11:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[27,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230104_81/1672828604709SNQSH_JPEG/73964439544671742_373209530.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Buckley - Grace (BONUS TRACKS) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7863163874</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7863163874</guid>
-            <pubDate>Thu, 05 Jan 2023 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230104_160/1672828013125YtUPv_JPEG/73963846946872474_1643214934.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ennio Morricone - Morricone Groove - The Kaleidoscope Sound Of Ennio Morricone (180G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7862633898</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7862633898</guid>
-            <pubDate>Wed, 04 Jan 2023 08:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[56,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230104_47/1672818859090RmfIe_JPEG/73954701771450808_1699946699.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Oasis Pop Festival Vol 7 (180G GREEN COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7862585151</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7862585151</guid>
-            <pubDate>Wed, 04 Jan 2023 08:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230104_133/1672818152914qgfEF_JPEG/73953995626637194_2132823504.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴킴 Paul Kim - pkalbum (Eco Edition 랜덤 칼라 LP) [한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7858264138</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7858264138</guid>
-            <pubDate>Thu, 05 Jan 2023 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[59,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230103_211/1672741583695GoorH_JPEG/44267580282864_921254362.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rage Against The Machine - Rage Against The Machine (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7858240638</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7858240638</guid>
-            <pubDate>Tue, 03 Jan 2023 10:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[26,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230103_205/1672741087651uDgpf_JPEG/43771530111157_405839630.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pearl Jam - Ten (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7858230711</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7858230711</guid>
-            <pubDate>Tue, 03 Jan 2023 10:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230103_211/1672740264363ymY5s_JPEG/73876163073059962_418135299.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
