@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 08:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 09:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강산에 - 4집 연어 (180G LP) [재발매]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7891050318</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7891050318</guid>
+            <pubDate>Mon, 09 Jan 2023 09:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230109_155/1673255212060bhQha_JPEG/74391110771164768_1017199761.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ryuichi Sakamoto - A Tribute to Ryuichi Sakamoto - To the Moon and Back [2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7875618790</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 04 Jan 2023 11:17:15 GMT</pubDate>
             <content:encoded><![CDATA[21,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230104_273/1672829265520QIpK3_JPEG/73965100348791117_1160548460.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd - The Final Cut (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7863266680</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7863266680</guid>
-            <pubDate>Thu, 05 Jan 2023 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[17,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230104_236/16728288804057ubmt_JPEG/73964715234666389_2034880873.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
