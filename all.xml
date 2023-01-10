@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 09:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 11:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뚜아에무아 - 너와 나, 없어도 되는 날 / 박인희 - 들 길, 봄이 오는 길 (180G COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7896309724</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7896309724</guid>
+            <pubDate>Tue, 10 Jan 2023 11:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[69,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230110_257/1673342940804viXwm_JPEG/74478775638393802_485278773.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하다 HADA - 우리를 비추던 빛들마저 잃어갈 때쯤 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
             <content:encoded><![CDATA[17,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230106_193/1672986421644QvPnW_JPEG/74122256469058105_718571339.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West - The College Dropout (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7873424702</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7873424702</guid>
-            <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_250/1672985990256q3siJ_JPEG/74121885990080432_1586326160.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오드(The Odd) vol.1 소원 / 호러 매거진 (네이버 스마트스토어 ─ 공상온도)]]></title>
