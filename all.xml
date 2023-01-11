@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 09:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 10:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -624,6 +624,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230106_35/1672988329061bMdDi_JPEG/74124108436737220_177819757.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영원 식물미니노트 3종 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7901279186</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7901279186</guid>
+            <pubDate>Wed, 11 Jan 2023 10:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[1,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230111_145/1673432361995Ualng_JPEG/74568250704134933_1702831271.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 영원 도서관 달력 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/7901057488</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/7901057488</guid>
+            <pubDate>Wed, 11 Jan 2023 10:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[6,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230111_216/1673430037652hP8LX_JPEG/74565926343360862_1454672187.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오드(The Odd) vol.1 소원 / 호러 매거진 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/7874306654</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7874306654</guid>
@@ -926,22 +942,6 @@
             <pubDate>Thu, 10 Nov 2022 11:21:44 GMT</pubDate>
             <content:encoded><![CDATA[9,800]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221008_157/1665217930948O63Vs_JPEG/66353819626348607_615295459.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과몰입 / 산해 앨범책 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7333365413</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7333365413</guid>
-            <pubDate>Thu, 10 Nov 2022 11:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221006_127/16650554369621Dsba_JPEG/66191220644139575_48038045.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새빛깔 / 김새녘 1st EP / CD 음반 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7333022526</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7333022526</guid>
-            <pubDate>Thu, 10 Nov 2022 11:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[17,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221006_145/1665051603582ah2Kh_JPEG/66187502267943869_1833068945.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소스 리스트 (네이버 스마트스토어 ─ 재미공작소)]]></title>
