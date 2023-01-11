@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 07:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 08:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조흐 Johh - Come as you are (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7900792536</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7900792536</guid>
+            <pubDate>Wed, 11 Jan 2023 08:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230111_281/1673425243729l2W2T_JPEG/74561132427014715_886329749.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Smith - Gloria (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7900751599</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7900751599</guid>
+            <pubDate>Wed, 11 Jan 2023 08:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230111_146/1673424100393fr9lM_JPEG/74559943094752694_175086448.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뚜아에무아 - 너와 나, 없어도 되는 날 / 박인희 - 들 길, 봄이 오는 길 (180G COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Fri, 06 Jan 2023 07:17:54 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230106_224/1672987048422LRtzO_JPEG/74122828143142663_1551808571.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sonic Youth - Goo (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7873487471</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7873487471</guid>
-            <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220219_112/1645199093617Rkwc5_JPEG/46334873322445284_315987854.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West - Graduation (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7873463662</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7873463662</guid>
-            <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_193/1672986421644QvPnW_JPEG/74122256469058105_718571339.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오드(The Odd) vol.1 소원 / 호러 매거진 (네이버 스마트스토어 ─ 공상온도)]]></title>
