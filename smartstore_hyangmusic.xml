@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 08:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 09:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Michael Jackson - History Past, Present And Future Book I (HD REMASTERED) [PICTURE DISC 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7900863656</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7900863656</guid>
+            <pubDate>Wed, 11 Jan 2023 09:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[104,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230111_176/1673426866920ygbTl_JPEG/729550794179804_978472301.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Jackson - Off The Wall (HD REMASTERED) [PICTURE DISC LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7900846704</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7900846704</guid>
+            <pubDate>Wed, 11 Jan 2023 09:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230111_178/1673426265291v6Obo_JPEG/74562153994612809_1190033974.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잭킹콩 Jackingcong - JKC Exhibition - Four Seasons (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7900810187</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7900810187</guid>
+            <pubDate>Wed, 11 Jan 2023 09:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230111_291/1673425681969Ax03z_JPEG/74561570649154589_758013899.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조흐 Johh - Come as you are (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7900792536</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 06 Jan 2023 07:17:54 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230106_35/1672988329061bMdDi_JPEG/74124108436737220_177819757.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Velvet Underground - The Velvet Underground & Nico (45TH ANNIVERSARY) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7873586995</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7873586995</guid>
-            <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220817_256/1660745084809EQudB_JPEG/61880868517702488_551610988.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Velvet Underground - The Velvet Underground (45TH ANIVERSARY EDITION) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7873547631</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7873547631</guid>
-            <pubDate>Mon, 09 Jan 2023 07:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_233/1672987425298D5INi_JPEG/74123205024236868_283528060.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk - Monk's Dream (180G BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7873517422</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7873517422</guid>
-            <pubDate>Fri, 06 Jan 2023 07:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_224/1672987048422LRtzO_JPEG/74122828143142663_1551808571.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
