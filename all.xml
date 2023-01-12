@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 10:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 11:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,46 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[포레스텔라 Forestella - The Forestella (180G BABY PINK COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7907973363</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7907973363</guid>
+            <pubDate>Thu, 12 Jan 2023 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230112_3/16735214559681JktH_JPEG/824139833488791_220583507.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백건우 - 슈만 피아노 작품집 (180G 3LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7907961737</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7907961737</guid>
+            <pubDate>Thu, 12 Jan 2023 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[88,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230112_24/1673521128468jpMjn_JPEG/823812350432468_588442883.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강헌구 - Waterproof (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7907945435</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7907945435</guid>
+            <pubDate>Thu, 12 Jan 2023 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230112_289/1673520596326D4Eji_JPEG/74656485023665144_888871015.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코요 kohyo - 0 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7907932674</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7907932674</guid>
+            <pubDate>Thu, 12 Jan 2023 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230112_61/1673520192580KJkdJ_JPEG/74656081292079368_983870017.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정경화 Kyung Wha Chung - 바흐 무반주 바이올린 소나타와 파르티타 (전곡) [180G 3LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7907907611</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7907907611</guid>
+            <pubDate>Thu, 12 Jan 2023 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[48,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230112_274/1673519517235l3gDy_JPEG/74655352070335545_422962252.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조성진 Seong-Jin Cho - 헨델 프로젝트 (CD) [사진 엽서 세트 증정] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7907877458</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7907877458</guid>
@@ -582,46 +622,6 @@
             <pubDate>Fri, 06 Jan 2023 11:17:54 GMT</pubDate>
             <content:encoded><![CDATA[32,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230106_236/1673000944776yDsHd_JPEG/74136843487910104_277977524.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keith Jarrett - My Song (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7874933959</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7874933959</guid>
-            <pubDate>Fri, 06 Jan 2023 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_17/1673000199878QbMNV_JPEG/74136042584410533_1855366998.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 바람 계곡의 나우시카 SYMPHONY VERSION [LP] (레코드스토어데이 한정반) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7874846928</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7874846928</guid>
-            <pubDate>Fri, 06 Jan 2023 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[67,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_75/1672999661232qPSpj_JPEG/74135503947967678_693203810.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Princess Mononoke 원령공주 - SYMPHONIC SUITE (LP) [레코드스토어데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7874818075</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7874818075</guid>
-            <pubDate>Fri, 06 Jan 2023 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_184/1672999375135pEV2O_JPEG/74135217850779713_1769051734.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 벼랑 위의 포뇨 IMAGE ALBUM (LP) [레코드스토어데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7874794462</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7874794462</guid>
-            <pubDate>Fri, 06 Jan 2023 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_43/1672998970761GU5Ry_JPEG/74134813465904867_504503170.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Howl's Moving Castle 하울의 움직이는 성 (2LP) [레코드스토어데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7874752261</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7874752261</guid>
-            <pubDate>Fri, 06 Jan 2023 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[77,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_164/1672998543598ksn7z_JPEG/74134386305057370_2073291004.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[dive into the MOMENT / 양빛나라 정규 음반 (네이버 스마트스토어 ─ 공상온도)]]></title>
