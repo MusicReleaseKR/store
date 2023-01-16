@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 10:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 11:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cure - Wish (PICTURE DISC LP) [30th ANNIVERSARY]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7928572776</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7928572776</guid>
+            <pubDate>Mon, 16 Jan 2023 11:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[88,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230116_108/1673866372825VYui6_JPEG/75002215516457297_1033113584.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나윤선 - Memory Lane (45RPM 180G GREEN COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7925548772</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 09 Jan 2023 12:39:00 GMT</pubDate>
             <content:encoded><![CDATA[51,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230109_106/1673264601827Hbv2P_JPEG/74400436657312969_1559231538.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ueno No Mori Brass - Brass Fantasia Ⅱ (LP) [2022 일본 RSD 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7891511972</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7891511972</guid>
-            <pubDate>Mon, 09 Jan 2023 12:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230109_34/1673264327778G23wb_JPEG/74400162600577291_732725539.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 10:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 11:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cure - Wish (PICTURE DISC LP) [30th ANNIVERSARY] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7928572776</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7928572776</guid>
+            <pubDate>Mon, 16 Jan 2023 11:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[88,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230116_108/1673866372825VYui6_JPEG/75002215516457297_1033113584.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나윤선 - Memory Lane (45RPM 180G GREEN COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Mon, 09 Jan 2023 12:39:00 GMT</pubDate>
             <content:encoded><![CDATA[51,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230109_106/1673264601827Hbv2P_JPEG/74400436657312969_1559231538.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ueno No Mori Brass - Brass Fantasia Ⅱ (LP) [2022 일본 RSD 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7891511972</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7891511972</guid>
-            <pubDate>Mon, 09 Jan 2023 12:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230109_34/1673264327778G23wb_JPEG/74400162600577291_732725539.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[dive into the MOMENT / 양빛나라 정규 음반 (네이버 스마트스토어 ─ 공상온도)]]></title>
