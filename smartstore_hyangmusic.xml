@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 09:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 10:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈디시티 - Countryman’s Vibration (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7945095369</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7945095369</guid>
+            <pubDate>Thu, 19 Jan 2023 10:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230119_153/16741211501610Oskf_JPEG/75257045878893440_583375741.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 제 1, 2회 (77, 78) 대학가요제 (2022 REMASTERED) [LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7938802004</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 10 Jan 2023 09:20:50 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230110_139/1673335619730fbtbr_JPEG/74471508439713494_1987093022.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레인보우 노트 Rainbow Note - 明け星のような君のジレンマ (샛별 같은 너의 딜레마) [140G COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7895667003</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7895667003</guid>
-            <pubDate>Tue, 10 Jan 2023 09:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230110_126/1673334363038TFQa2_JPEG/74470197870018212_792340998.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
