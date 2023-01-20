@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 04:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 05:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,14 +320,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230118_245/1674024125504hfzAo_JPEG/75159959313994448_438829347.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[너드커넥션 Nerd Connection - 2021 신세기명화극장라이브실황 [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7938753568</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7938753568</guid>
-            <pubDate>Wed, 18 Jan 2023 07:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[80,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230118_105/1674023287504GkX2J_JPEG/75159122315261823_413365380.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Soundtrack - 아무것도 하고 싶지 않아 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7933323119</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7933323119</guid>
@@ -622,6 +614,14 @@
             <pubDate>Tue, 10 Jan 2023 09:20:50 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230110_139/1673335619730fbtbr_JPEG/74471508439713494_1987093022.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레인보우 노트 Rainbow Note - 明け星のような君のジレンマ (샛별 같은 너의 딜레마) [140G COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7895667003</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7895667003</guid>
+            <pubDate>Fri, 20 Jan 2023 05:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230110_126/1673334363038TFQa2_JPEG/74470197870018212_792340998.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말문이 막혔습니다 / 자기표현 글쓰기 키트 (네이버 스마트스토어 ─ 공상온도)]]></title>
