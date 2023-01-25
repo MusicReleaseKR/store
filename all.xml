@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 23:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 01:38:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,22 +408,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230113_60/1673612218523Jk3yL_JPEG/914902407412630_2079240306.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack - Babylon 바빌론 (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7913172481</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7913172481</guid>
-            <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230113_86/1673608612751OQeTS_JPEG/911296616569004_403665420.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Babylon 바빌론 (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7913155394</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7913155394</guid>
-            <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230113_45/1673608201668TM3qq_JPEG/910885545508994_896111494.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Pizzicato Five - The Band of 20th Century - Nippon Columbia Years 1991-2001 (7인치 16LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7913134329</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7913134329</guid>
@@ -622,6 +606,22 @@
             <pubDate>Fri, 20 Jan 2023 05:19:21 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230110_126/1673334363038TFQa2_JPEG/74470197870018212_792340998.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강산에 - 4집 연어 (180G LP) [초판] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7895604700</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7895604700</guid>
+            <pubDate>Wed, 25 Jan 2023 01:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230110_193/1673333894710g0AQv_JPEG/74469783421990763_1753356912.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임동혁 - 쇼팽 전주곡 (Chopin 24 Preludes, Barcarolle, Berceuse) [180G 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7895579729</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7895579729</guid>
+            <pubDate>Wed, 25 Jan 2023 01:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[47,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230110_131/16733334184091VfNL_JPEG/74469307109396008_540389945.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말문이 막혔습니다 / 자기표현 글쓰기 키트 (네이버 스마트스토어 ─ 공상온도)]]></title>
