@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 07:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 08:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에픽하이 Epik High - Strawberry (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7978233678</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7978233678</guid>
+            <pubDate>Thu, 26 Jan 2023 08:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230126_259/1674719768494U3tYc_JPEG/75855657199512895_1513414180.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Black Eyed Peas - Elevation (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7972402248</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 10 Jan 2023 09:20:50 GMT</pubDate>
             <content:encoded><![CDATA[15,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230110_71/16733370344832h9JQ_JPEG/74472930199689344_1263530381.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deathna River - Dancing On The Ruins (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7895788320</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7895788320</guid>
-            <pubDate>Tue, 10 Jan 2023 09:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230110_139/1673335619730fbtbr_JPEG/74471508439713494_1987093022.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
