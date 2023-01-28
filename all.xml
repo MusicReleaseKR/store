@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 23:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 01:43:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -552,14 +552,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230112_61/1673520192580KJkdJ_JPEG/74656081292079368_983870017.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정경화 Kyung Wha Chung - 바흐 무반주 바이올린 소나타와 파르티타 (전곡) [180G 3LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7907907611</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7907907611</guid>
-            <pubDate>Thu, 12 Jan 2023 11:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[48,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230112_274/1673519517235l3gDy_JPEG/74655352070335545_422962252.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[조성진 Seong-Jin Cho - 헨델 프로젝트 (CD) [사진 엽서 세트 증정] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7907877458</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7907877458</guid>
@@ -622,6 +614,14 @@
             <pubDate>Wed, 11 Jan 2023 08:27:27 GMT</pubDate>
             <content:encoded><![CDATA[19,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230111_146/1673424100393fr9lM_JPEG/74559943094752694_175086448.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뚜아에무아 - 너와 나, 없어도 되는 날 / 박인희 - 들 길, 봄이 오는 길 (180G COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7896309724</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7896309724</guid>
+            <pubDate>Sat, 28 Jan 2023 01:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[69,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230110_257/1673342940804viXwm_JPEG/74478775638393802_485278773.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말문이 막혔습니다 / 자기표현 글쓰기 키트 (네이버 스마트스토어 ─ 공상온도)]]></title>
