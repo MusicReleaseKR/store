@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 09:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 10:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 사랑의 이해 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8012507568</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8012507568</guid>
+            <pubDate>Wed, 01 Feb 2023 10:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230201_207/1675245164942QrrLT_JPEG/2547848818587266_1155536078.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이찬혁 - 1집 Error (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8012476427</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8012476427</guid>
+            <pubDate>Wed, 01 Feb 2023 10:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230201_190/1675244222265HPdGq_JPEG/2546906136217861_1011846527.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lovebites - Judgement Day (DELUXE EDITION) [2CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8012190181</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
             <content:encoded><![CDATA[53,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230113_261/1673606025739fHnrt_JPEG/74741860577664963_1487182894.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryuichi Sakamoto - Playing the Piano 12122020 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7913043779</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7913043779</guid>
-            <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230113_258/167360553298951f4A_JPEG/74741367822845222_239482603.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryuichi Sakamoto - Three (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7912954106</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7912954106</guid>
-            <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230113_75/1673603876873f5PLf_JPEG/906560758557707_1253999432.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
