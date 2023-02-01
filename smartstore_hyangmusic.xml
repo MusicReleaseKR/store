@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 05:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 06:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[템페스트 Tempest - Shining Up (140G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8011428945</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8011428945</guid>
+            <pubDate>Wed, 01 Feb 2023 06:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230201_192/1675232309552Sch0w_JPEG/76368143365161266_818896346.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔칠댄스 87dance - Color Paper Hotel (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8005937812</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 12 Jan 2023 10:25:37 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230112_153/1673518621000zHtth_JPEG/74654400591204208_1690464594.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 소소한 이야기 (Nemo Album Full Ver) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7907860128</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7907860128</guid>
-            <pubDate>Thu, 12 Jan 2023 10:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230112_35/1673518160960qrf4M_JPEG/74653940665264352_909142287.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
