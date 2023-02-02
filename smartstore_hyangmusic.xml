@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 01:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 02:49:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Chainsaw Man - chainsaw edge fragments (2CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8014695628</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8014695628</guid>
+            <pubDate>Thu, 02 Feb 2023 02:48:48 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230202_147/16753048772791Dkym_JPEG/76440660973215139_1599256309.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 사랑의 이해 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8012507568</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
             <content:encoded><![CDATA[31,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230113_248/1673606426651qjQ2m_JPEG/74742261489730869_1721572759.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[T-Square - Truth (180g LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7913067216</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7913067216</guid>
-            <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[53,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230113_261/1673606025739fHnrt_JPEG/74741860577664963_1487182894.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
