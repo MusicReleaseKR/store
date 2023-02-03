@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 01:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 02:53:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 슬램덩크 (넘버링 한정반 LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8021539024</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8021539024</guid>
+            <pubDate>Fri, 03 Feb 2023 02:52:49 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230203_242/1675388192027NUPR6_JPEG/76524026859876247_2084816785.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack - Chainsaw Man - chainsaw edge fragments (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230113_218/1673606935115iT2SA_JPEG/74742769949736054_1965418606.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker - Sings (180G BLUE COLOURED LP) [BONUS TRACK] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7913100466</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7913100466</guid>
-            <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[31,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230113_248/1673606426651qjQ2m_JPEG/74742261489730869_1721572759.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말문이 막혔습니다 / 자기표현 글쓰기 키트 (네이버 스마트스토어 ─ 공상온도)]]></title>
