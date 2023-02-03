@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 08:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 09:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Howl's Moving Castle 하울의 움직이는 성 (CLEAR ORANGE COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8024046777</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8024046777</guid>
+            <pubDate>Fri, 03 Feb 2023 09:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[78,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_164/1672998543598ksn7z_JPEG/74134386305057370_2073291004.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - The Spiriting Away Of Sen And Chihiro (센과 치히로의 행방불명) [CLEAR PURPLE COLOURED 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8024032673</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8024032673</guid>
+            <pubDate>Fri, 03 Feb 2023 09:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[78,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220512_279/1652351083023F2yxd_JPEG/53486866739662118_1458085707.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 바람 계곡의 나우시카 [CLEAR LIME YELLOW COLOURED LP ]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8023978566</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8023978566</guid>
+            <pubDate>Fri, 03 Feb 2023 09:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[68,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230203_157/1675412429454LWOxE_JPEG/76548257283524529_340677120.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sundtrack - 이상한 변호사 우영우 (180G COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8023817075</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 16 Jan 2023 12:40:39 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230116_105/16738681060797jL6N_JPEG/75003889797962426_144338997.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ella Fitzgerald - Live At Montreux 1969 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7928613883</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7928613883</guid>
-            <pubDate>Mon, 16 Jan 2023 12:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[28,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230116_281/1673867696422jl1o2_JPEG/75003480139679749_122376709.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cure - Wish (PICTURE DISC LP) [30th ANNIVERSARY]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7928572776</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7928572776</guid>
-            <pubDate>Mon, 16 Jan 2023 11:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[88,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230116_108/1673866372825VYui6_JPEG/75002215516457297_1033113584.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나윤선 - Memory Lane (45RPM 180G GREEN COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7925548772</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7925548772</guid>
-            <pubDate>Mon, 16 Jan 2023 02:46:27 GMT</pubDate>
-            <content:encoded><![CDATA[74,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230116_139/1673833972990W73Gj_JPEG/74969868727251418_800091383.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
