@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 07:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 08:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sundtrack - 이상한 변호사 우영우 (180G COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8023817075</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8023817075</guid>
+            <pubDate>Fri, 03 Feb 2023 08:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230203_251/1675410712343NJuV3_JPEG/76546546151574699_2048327040.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스 Twice - Ready To Be (3종 중 1종 랜덤 발송) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8023342936</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 16 Jan 2023 02:46:27 GMT</pubDate>
             <content:encoded><![CDATA[74,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230116_139/1673833972990W73Gj_JPEG/74969868727251418_800091383.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이승윤 - 2집 꿈의 거처 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7913287410</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7913287410</guid>
-            <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230113_60/1673612218523Jk3yL_JPEG/914902407412630_2079240306.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
