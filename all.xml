@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 06:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 07:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 Twice - Ready To Be (3종 중 1종 랜덤 발송) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8023342936</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8023342936</guid>
+            <pubDate>Fri, 03 Feb 2023 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230203_173/1675406482784EYX4s_JPEG/76542266499368264_843617484.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이킴 Jay Kim - Sound of Life (180G CLEAR PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8023221631</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8023221631</guid>
+            <pubDate>Fri, 03 Feb 2023 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230203_120/1675405655393pIs93_JPEG/76541498097248307_1434340128.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack - 슬램덩크 (넘버링 한정반 LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230113_60/1673612218523Jk3yL_JPEG/914902407412630_2079240306.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pizzicato Five - The Band of 20th Century - Nippon Columbia Years 1991-2001 (7인치 16LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7913134329</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7913134329</guid>
-            <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[375,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230113_117/1673607514204myUAD_JPEG/74743356919674744_1487446169.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charles Mingus - Mingus Ah Um (180G BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7913115033</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7913115033</guid>
-            <pubDate>Fri, 13 Jan 2023 12:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230113_218/1673606935115iT2SA_JPEG/74742769949736054_1965418606.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말문이 막혔습니다 / 자기표현 글쓰기 키트 (네이버 스마트스토어 ─ 공상온도)]]></title>
