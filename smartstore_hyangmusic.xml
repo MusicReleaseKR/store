@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 22:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 23:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,14 +208,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230131_22/1675144617755gEUj7_JPEG/76280401463811365_579288055.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하비누아주 Ravie Nuage - 청춘 (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7982486063</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7982486063</guid>
-            <pubDate>Fri, 27 Jan 2023 07:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230127_152/1674802614640WY0AG_JPEG/75938442470353969_1024306268.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[임창정 - 멍청이 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7978627138</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7978627138</guid>
@@ -326,6 +318,14 @@
             <pubDate>Mon, 16 Jan 2023 12:40:39 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230116_105/16738681060797jL6N_JPEG/75003889797962426_144338997.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ella Fitzgerald - Live At Montreux 1969 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7928613883</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7928613883</guid>
+            <pubDate>Sat, 04 Feb 2023 23:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[28,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230116_281/1673867696422jl1o2_JPEG/75003480139679749_122376709.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
