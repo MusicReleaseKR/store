@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 07:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 08:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 어느 날 우리 집 현관으로 멸망이 들어왔다 (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8046444056</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8046444056</guid>
+            <pubDate>Tue, 07 Feb 2023 08:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[67,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230207_208/1675754546018rahdu_JPEG/76890441738206150_1371998320.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Zard - Hold Me (데뷔 30주년 기념 리마스터 에디션) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8041283142</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 17 Jan 2023 08:25:58 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230117_228/16739411006198pPmO_JPEG/75076943325747482_620832677.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤명운 - 명운이의 Blues, 그를 아오 (180G GOLD COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7932954565</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7932954565</guid>
-            <pubDate>Tue, 07 Feb 2023 01:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230117_284/1673940678611HdDua_JPEG/75076521324005092_1209738201.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
