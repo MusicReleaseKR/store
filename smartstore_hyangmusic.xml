@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 07:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 08:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한영애 - 2집 바라본다 (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8052393377</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8052393377</guid>
+            <pubDate>Wed, 08 Feb 2023 08:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230208_162/1675842891505Ow80k_JPEG/76978787243263697_2076759734.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안예은 - 쉽게 쓴 이야기 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8052194974</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8052194974</guid>
+            <pubDate>Wed, 08 Feb 2023 08:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[24,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230208_110/1675840596794kVJXt_JPEG/76976495506949716_754283188.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몽글 - 조약돌 (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8050412320</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 18 Jan 2023 07:18:55 GMT</pubDate>
             <content:encoded><![CDATA[41,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230118_245/1674024125504hfzAo_JPEG/75159959313994448_438829347.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 Nerd Connection - 2021 신세기명화극장라이브실황 [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7938753568</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7938753568</guid>
-            <pubDate>Thu, 26 Jan 2023 06:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[80,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230118_105/1674023287504GkX2J_JPEG/75159122315261823_413365380.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 아무것도 하고 싶지 않아 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7933323119</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7933323119</guid>
-            <pubDate>Tue, 17 Jan 2023 09:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[23,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230117_55/1673944702942e9ETz_JPEG/75080545622905961_213065226.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
