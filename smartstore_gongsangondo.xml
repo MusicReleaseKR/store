@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 05:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 06:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑이 창백할 수도 있지 / 이아로 에세이]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8051524211</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8051524211</guid>
+            <pubDate>Wed, 08 Feb 2023 06:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[13,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230208_178/167583357304974bC9_JPEG/76969356741919005_36665762.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[섭씨 233 제0호 / 영화 잡지]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/8047945264</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 11 Nov 2022 06:34:36 GMT</pubDate>
             <content:encoded><![CDATA[11,200]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221111_203/1668145523189Qj4OK_JPEG/69281356973825419_1436260318.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑에 온도가 있다면 / 김다흠 단상집]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7547248886</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7547248886</guid>
-            <pubDate>Thu, 10 Nov 2022 13:55:27 GMT</pubDate>
-            <content:encoded><![CDATA[11,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221110_113/16680863244586P8gQ_JPEG/69222223152454683_437749044.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
