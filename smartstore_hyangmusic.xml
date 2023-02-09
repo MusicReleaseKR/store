@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 10:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 11:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛과 소금 - 2집 내 곁에서 떠나가지 말아요 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8059064974</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8059064974</guid>
+            <pubDate>Thu, 09 Feb 2023 11:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230209_269/1675940883505GRQV6_JPEG/77076718343230351_837796194.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공중그늘 Gong Joong Geu Neul - 잔영 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8057789893</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 25 Jan 2023 10:21:21 GMT</pubDate>
             <content:encoded><![CDATA[20,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230125_228/1674638487781bKmj9_JPEG/75774322618152674_85954279.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ariana Grande - Thank U, Next (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7972366260</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7972366260</guid>
-            <pubDate>Wed, 25 Jan 2023 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230125_178/16746378906190iHiX_JPEG/75773725455166119_231794059.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
