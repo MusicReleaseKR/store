@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 06:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 07:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -652,7 +652,7 @@
             <link>https://smartstore.naver.com/gongsangondo/products/8047988954</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/8047988954</guid>
             <pubDate>Fri, 10 Feb 2023 04:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <content:encoded><![CDATA[14,200]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230208_152/1675782911862kEB5U_JPEG/76918800559655840_1091655641.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
