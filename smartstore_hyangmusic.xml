@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 08:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 09:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Whitney Houston - Whitney Houston (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8085616199</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8085616199</guid>
+            <pubDate>Tue, 14 Feb 2023 09:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230214_125/1676364189355QgAoq_JPEG/77500032070518185_2137859943.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Whitney Houston - Whitney Houston (PEACH COLOR LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8085609754</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8085609754</guid>
+            <pubDate>Tue, 14 Feb 2023 09:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230214_82/1676363987163NzC9l_JPEG/77499829876727299_1153008286.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Whitney Houston - Whitney (SKY BLUE COLOR LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8085598110</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8085598110</guid>
+            <pubDate>Tue, 14 Feb 2023 09:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[35,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230214_163/1676363751664qDOSy_JPEG/77499594379250873_1474938503.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Whitney Houston - Whitney (SKY BLUE COLOR LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8085591004</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8085591004</guid>
+            <pubDate>Tue, 14 Feb 2023 09:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230214_116/16763633282316HiR9_JPEG/77499226937545410_1738991357.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구이임 - 마주하다 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8085570040</link>
@@ -294,38 +326,6 @@
             <pubDate>Wed, 01 Feb 2023 07:19:12 GMT</pubDate>
             <content:encoded><![CDATA[1,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230201_231/1675234380643Esy67_JPEG/76370208457903609_31703890.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADO 아도 - Kyougen (Limited Production) [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8011542709</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8011542709</guid>
-            <pubDate>Wed, 01 Feb 2023 07:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[61,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230201_163/1675233730711YDXv3_JPEG/76369564527555232_1784657375.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[템페스트 Tempest - Shining Up (140G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8011428945</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8011428945</guid>
-            <pubDate>Wed, 01 Feb 2023 06:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230201_192/1675232309552Sch0w_JPEG/76368143365161266_818896346.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔칠댄스 87dance - Color Paper Hotel (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8005937812</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8005937812</guid>
-            <pubDate>Tue, 31 Jan 2023 08:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230131_11/1675151523799DmmVa_JPEG/76287419519760706_809269656.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mel Brown - Chicken Fat (Verve By Request Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8005570815</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8005570815</guid>
-            <pubDate>Tue, 31 Jan 2023 07:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230131_39/1675147614491CVSkq_JPEG/76283510107425774_889459101.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
