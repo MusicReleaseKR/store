@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 11:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 12:42:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -528,14 +528,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230203_157/1675412429454LWOxE_JPEG/76548257283524529_340677120.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sundtrack - 이상한 변호사 우영우 (180G COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8023817075</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8023817075</guid>
-            <pubDate>Fri, 03 Feb 2023 08:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230203_251/1675410712343NJuV3_JPEG/76546546151574699_2048327040.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[트와이스 Twice - Ready To Be (3종 중 1종 랜덤 발송) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8023342936</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8023342936</guid>
@@ -622,6 +614,14 @@
             <pubDate>Wed, 01 Feb 2023 07:19:12 GMT</pubDate>
             <content:encoded><![CDATA[1,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230201_231/1675234380643Esy67_JPEG/76370208457903609_31703890.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ADO 아도 - Kyougen (Limited Production) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8011542709</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8011542709</guid>
+            <pubDate>Tue, 14 Feb 2023 12:42:29 GMT</pubDate>
+            <content:encoded><![CDATA[61,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230201_163/1675233730711YDXv3_JPEG/76369564527555232_1784657375.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 속한 나라에서 / 오세라,이지 사진 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
