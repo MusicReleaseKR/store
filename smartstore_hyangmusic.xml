@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 06:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 07:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박규희 - The Live (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8097152068</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8097152068</guid>
+            <pubDate>Thu, 16 Feb 2023 07:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230216_127/1676531120110j0rHD_JPEG/77667015846864284_698936950.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛과 소금 - 4집 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8097113769</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8097113769</guid>
+            <pubDate>Thu, 16 Feb 2023 07:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230216_285/1676530461051MWSyr_JPEG/77666359749590368_185612817.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[효도 앤 베이스 Hyodo and BASS - 1집 Hyodo and BASS (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8097084935</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8097084935</guid>
+            <pubDate>Thu, 16 Feb 2023 07:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230216_238/1676529765062VNlED_JPEG/77665598873598421_923908003.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케니더킹 kennytheking - tales (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8097065616</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8097065616</guid>
+            <pubDate>Thu, 16 Feb 2023 07:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230216_265/1676529473364P7rOv_JPEG/77665307184086015_132652546.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 오늘밤 세계에서 이 사랑이 사라진다해도 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8091952711</link>
@@ -294,38 +326,6 @@
             <pubDate>Wed, 01 Feb 2023 08:26:11 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230201_8/1675238881242x5LSF_JPEG/76374776978881427_1141951941.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[림지훈 - Organ, Orgasm (180G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8012084937</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8012084937</guid>
-            <pubDate>Wed, 01 Feb 2023 08:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[47,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230201_199/1675238585639khBxE_JPEG/76374481368453157_2137990455.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[림지훈 - Organ, Orgasm (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8012070803</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8012070803</guid>
-            <pubDate>Wed, 01 Feb 2023 08:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230201_129/1675238132093mCFN8_JPEG/76373966911021020_21268659.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강승원 - 일집 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8011991960</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8011991960</guid>
-            <pubDate>Wed, 01 Feb 2023 08:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[46,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230201_131/1675234790648O2W1j_JPEG/76370618475180498_546584866.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21세기 밴드 - 21세기 밴드 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8011621219</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8011621219</guid>
-            <pubDate>Wed, 01 Feb 2023 07:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[1,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230201_231/1675234380643Esy67_JPEG/76370208457903609_31703890.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
