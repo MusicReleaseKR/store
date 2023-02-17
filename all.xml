@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 08:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 09:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카리스마 Charisma - 런어웨이 (180G LP) [2022 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8102944520</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8102944520</guid>
+            <pubDate>Fri, 17 Feb 2023 09:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230217_77/1676625247722exSs7_JPEG/77761146163158576_438394282.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박규희 - The Live (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Wed, 01 Feb 2023 08:26:11 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230201_24/16752393150931oY5y_JPEG/76375210828127707_1144195044.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In Flames - Foregone (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8012148003</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8012148003</guid>
-            <pubDate>Wed, 01 Feb 2023 08:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230201_8/1675238881242x5LSF_JPEG/76374776978881427_1141951941.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[별들은 울고 눈은 푹푹 나리고 / 최재은 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
