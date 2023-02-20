@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 11:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 12:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Samara Joy - Linger Awhile (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8120397325</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8120397325</guid>
+            <pubDate>Mon, 20 Feb 2023 12:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230220_16/1676896412480jKkQy_JPEG/78032247301786098_22582084.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김건모 - 9집 Kimgunmo 9 (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Fri, 03 Feb 2023 09:20:15 GMT</pubDate>
             <content:encoded><![CDATA[78,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220512_279/1652351083023F2yxd_JPEG/53486866739662118_1458085707.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 바람 계곡의 나우시카 [CLEAR LIME YELLOW COLOURED LP ] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8023978566</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8023978566</guid>
-            <pubDate>Fri, 03 Feb 2023 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[68,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230203_157/1675412429454LWOxE_JPEG/76548257283524529_340677120.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[별들은 울고 눈은 푹푹 나리고 / 최재은 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
