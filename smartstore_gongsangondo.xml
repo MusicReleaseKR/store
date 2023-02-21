@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 10:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 11:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MIRROR Vol.24 (질주) / 매거진 미러]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8125834334</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8125834334</guid>
+            <pubDate>Tue, 21 Feb 2023 11:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[8,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230221_190/1676977995211hmKg3_JPEG/78113830019179227_643256289.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불온한 심장병 / 오뉴월의 뉸슬 에세이]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8125792391</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8125792391</guid>
+            <pubDate>Tue, 21 Feb 2023 11:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230221_207/1676976767013znmEN_JPEG/78112609689600582_873706392.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헬로!플랜츠 / 식물도감 카드 세트]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8125751898</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8125751898</guid>
+            <pubDate>Tue, 21 Feb 2023 11:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[24,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230221_147/1676975732028ElbgA_JPEG/78111511697291377_2122636571.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노인은 사자 꿈을 꾸고 있었다 / 무진형제 아티스트 북]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/8125676206</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 01 Dec 2022 07:20:45 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221201_95/1669878065694HBG4z_JPEG/71013964402886830_818059297.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출입 : Mandala / 스쿼시바인즈 2집]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7674407066</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7674407066</guid>
-            <pubDate>Thu, 01 Dec 2022 07:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221201_184/16698734887518E1Vx_JPEG/71009384476730687_1168574922.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[목마른 야채 / 김은주 소설]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7671210526</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7671210526</guid>
-            <pubDate>Wed, 30 Nov 2022 12:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_35/1669811290204I2poF_JPEG/70947073919518331_2021579260.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sauce, Kite, Lake / 모호 프로젝트 정규 2집]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7671135231</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7671135231</guid>
-            <pubDate>Wed, 30 Nov 2022 12:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_98/1669810388005YX1Rb_JPEG/70946286701570582_1163620318.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
