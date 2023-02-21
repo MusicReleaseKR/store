@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 08:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 09:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소울바이서울 SOULBYSEL - SOULBYSEL Compilation 03 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8125460563</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8125460563</guid>
+            <pubDate>Tue, 21 Feb 2023 09:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230221_174/1676969646987S3axt_JPEG/78105481824151228_1092117595.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트리오 고 (Trio Go) - Sounds Much Better (140G LP) [MP3 DOWN CODE] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8125408550</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8125408550</guid>
+            <pubDate>Tue, 21 Feb 2023 09:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[34,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230221_225/1676969294373M8zbv_JPEG/78105129206771783_941813404.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Samara Joy - Linger Awhile (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Mon, 06 Feb 2023 12:48:28 GMT</pubDate>
             <content:encoded><![CDATA[26,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230206_151/1675668655937nYArN_JPEG/76804551657642388_1082212858.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Howl's Moving Castle 하울의 움직이는 성 (CLEAR ORANGE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8024046777</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8024046777</guid>
-            <pubDate>Fri, 03 Feb 2023 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[78,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_164/1672998543598ksn7z_JPEG/74134386305057370_2073291004.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - The Spiriting Away Of Sen And Chihiro (센과 치히로의 행방불명) [CLEAR PURPLE COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8024032673</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8024032673</guid>
-            <pubDate>Fri, 03 Feb 2023 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[78,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220512_279/1652351083023F2yxd_JPEG/53486866739662118_1458085707.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[별들은 울고 눈은 푹푹 나리고 / 최재은 시집 (네이버 스마트스토어 ─ 공상온도)]]></title>
