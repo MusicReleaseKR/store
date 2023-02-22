@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 06:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 07:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[권진아 - The Flag (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8130695513</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8130695513</guid>
+            <pubDate>Wed, 22 Feb 2023 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230222_22/1677049939912wb7z3_JPEG/78185774748568885_1273815081.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지민 (방탄소년단) - FACE (CD) [2종 중 1종 랜덤 발송] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8130543388</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8130543388</guid>
+            <pubDate>Wed, 22 Feb 2023 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230222_108/1677047851069opPCK_JPEG/78183693785940349_1370928848.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 - DONG A Records Years 1989~1994 (180G COLOURED 5LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8130496796</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8130496796</guid>
+            <pubDate>Wed, 22 Feb 2023 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[199,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230222_72/1677046684343EJpJl_JPEG/78182518163110697_634371107.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박혜원 Hynn - Let Me in (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8130446733</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8130446733</guid>
@@ -598,30 +622,6 @@
             <pubDate>Mon, 06 Feb 2023 12:48:28 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230206_252/1675679446951x9YMT_JPEG/76815345659757668_511403705.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camila Cabello - Camila (RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8041261365</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8041261365</guid>
-            <pubDate>Mon, 06 Feb 2023 12:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[27,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230206_44/1675678973102LnpHb_JPEG/76814800920841745_2096210706.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Verve - Urban Hymns (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8041248751</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8041248751</guid>
-            <pubDate>Mon, 06 Feb 2023 12:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[35,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230206_80/1675678573761KCMvS_JPEG/76814401590310365_1054447702.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sam Smith - Gloria (180g LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8041060362</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8041060362</guid>
-            <pubDate>Mon, 06 Feb 2023 12:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230206_284/1675674851081kuO3b_JPEG/76810746810915280_209747266.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MIRROR Vol.24 (질주) / 매거진 미러 (네이버 스마트스토어 ─ 공상온도)]]></title>
