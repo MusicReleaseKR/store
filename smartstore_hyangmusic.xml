@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 08:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 09:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포레스텔라 Forestella - 3집 Forestella (180G LAVENDER PURPLE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8131003265</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8131003265</guid>
+            <pubDate>Wed, 22 Feb 2023 09:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230112_283/1673521462495Ty8P0_JPEG/824146358202903_653588163.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권진아 - The Flag (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8130695513</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 08 Feb 2023 01:44:58 GMT</pubDate>
             <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230208_206/1675817263959w129B_JPEG/76953106672291165_241585.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zard - Hold Me (데뷔 30주년 기념 리마스터 에디션) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8041283142</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8041283142</guid>
-            <pubDate>Mon, 06 Feb 2023 12:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230206_252/1675679446951x9YMT_JPEG/76815345659757668_511403705.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
