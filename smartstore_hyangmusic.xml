@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 08:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 09:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼 - Soul Pop City (45RPM 180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8136894405</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8136894405</guid>
+            <pubDate>Thu, 23 Feb 2023 09:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[53,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230223_151/1677140943453A87jg_JPEG/78276786155984163_2141730377.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Coldplay - 4CD Catalogue Set]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8136753762</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 08 Feb 2023 08:26:39 GMT</pubDate>
             <content:encoded><![CDATA[24,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230208_110/1675840596794kVJXt_JPEG/76976495506949716_754283188.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽글 - 조약돌 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8050412320</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8050412320</guid>
-            <pubDate>Thu, 23 Feb 2023 06:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230208_206/1675817263959w129B_JPEG/76953106672291165_241585.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
