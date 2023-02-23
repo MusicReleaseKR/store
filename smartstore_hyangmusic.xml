@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 10:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 11:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Coldplay - X&Y (180G Gate-Fold 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8137250575</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8137250575</guid>
+            <pubDate>Thu, 23 Feb 2023 11:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230223_6/1677148844617nkkPx_JPEG/78284624343382664_445760428.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coldplay - A Rush Of Blood To The Head (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8137228115</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8137228115</guid>
+            <pubDate>Thu, 23 Feb 2023 11:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[32,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230223_93/1677148266509uzGc9_JPEG/4450950385593644_1225334283.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼 - Soul Pop City (45RPM 180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8136894405</link>
@@ -30,6 +46,14 @@
             <pubDate>Thu, 23 Feb 2023 08:27:49 GMT</pubDate>
             <content:encoded><![CDATA[51,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230223_16/1677138626055KxGyS_JPEG/4441309927893475_961072965.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이바다 - Special Edition LP]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8136541755</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8136541755</guid>
+            <pubDate>Thu, 23 Feb 2023 11:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[68,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230223_101/1677136648440e8Ypx_JPEG/78272544176907659_62667792.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박지윤 - 7집 꽃, 다시 첫번째 (180G CLEAR COLOURED LP)]]></title>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 09 Feb 2023 11:18:59 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230209_269/1675940883505GRQV6_JPEG/77076718343230351_837796194.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공중그늘 Gong Joong Geu Neul - 잔영 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8057789893</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8057789893</guid>
-            <pubDate>Thu, 09 Feb 2023 07:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230209_298/1675926769013IUKVw_JPEG/77062611714281612_1698062573.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한영애 - 2집 바라본다 (180G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8052393377</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8052393377</guid>
-            <pubDate>Wed, 08 Feb 2023 08:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230208_162/1675842891505Ow80k_JPEG/76978787243263697_2076759734.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안예은 - 쉽게 쓴 이야기 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8052194974</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8052194974</guid>
-            <pubDate>Wed, 08 Feb 2023 08:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[24,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230208_110/1675840596794kVJXt_JPEG/76976495506949716_754283188.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
