@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 05:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 06:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박지윤 - 7집 꽃, 다시 첫번째 (180G CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8135767710</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8135767710</guid>
+            <pubDate>Thu, 23 Feb 2023 06:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230223_113/16771296473984tNes_JPEG/78265536112220122_1510502073.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Soundtrack - Three O'Clock High (3시의 결투) [LP] - Music By Tangerine Dream (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8131161153</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8131161153</guid>
@@ -341,7 +349,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/8130496796</guid>
             <pubDate>Wed, 22 Feb 2023 07:19:42 GMT</pubDate>
             <content:encoded><![CDATA[199,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230222_72/1677046684343EJpJl_JPEG/78182518163110697_634371107.jpg?type=f140" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20230223_91/16771303547787kLSY_JPEG/78266243490954319_1222520602.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박혜원 Hynn - Let Me in (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -398,38 +406,6 @@
             <pubDate>Mon, 20 Feb 2023 12:40:19 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230220_16/1676896412480jKkQy_JPEG/78032247301786098_22582084.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건모 - 9집 Kimgunmo 9 (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8103438002</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8103438002</guid>
-            <pubDate>Fri, 17 Feb 2023 11:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230217_281/1676629435906maE0n_JPEG/77765331643107319_839876707.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건모 - 8집 Hestory (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8103408515</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8103408515</guid>
-            <pubDate>Fri, 17 Feb 2023 10:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230217_73/1676629148761ABRYa_JPEG/77765044497808668_1150750123.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건모 - 7집 007 AnotherDays (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8103351799</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8103351799</guid>
-            <pubDate>Fri, 17 Feb 2023 10:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230217_149/1676628282528WtYb7_JPEG/77764171229429797_509367948.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건모 - 6집 Growing (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8103286243</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8103286243</guid>
-            <pubDate>Fri, 17 Feb 2023 10:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[69,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230217_210/1676627736859cqCP9_JPEG/77763625561390283_1578901341.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신중현과 세 나그네 - 이제 그만 가보자 / 한강 / 떠나는 사나이 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -512,7 +488,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230214_82/1676363987163NzC9l_JPEG/77499829876727299_1153008286.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Whitney Houston - Whitney (SKY BLUE COLOR LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[Whitney Houston - Whitney (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8085598110</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8085598110</guid>
             <pubDate>Tue, 14 Feb 2023 09:21:35 GMT</pubDate>
@@ -622,6 +598,30 @@
             <pubDate>Wed, 08 Feb 2023 08:26:39 GMT</pubDate>
             <content:encoded><![CDATA[24,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230208_110/1675840596794kVJXt_JPEG/76976495506949716_754283188.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽글 - 조약돌 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8050412320</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8050412320</guid>
+            <pubDate>Thu, 23 Feb 2023 06:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230208_206/1675817263959w129B_JPEG/76953106672291165_241585.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zard - Hold Me (데뷔 30주년 기념 리마스터 에디션) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8041283142</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8041283142</guid>
+            <pubDate>Thu, 23 Feb 2023 06:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230206_252/1675679446951x9YMT_JPEG/76815345659757668_511403705.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Camila Cabello - Camila (RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8041261365</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8041261365</guid>
+            <pubDate>Thu, 23 Feb 2023 06:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[27,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230206_44/1675678973102LnpHb_JPEG/76814800920841745_2096210706.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MIRROR Vol.24 (질주) / 매거진 미러 (네이버 스마트스토어 ─ 공상온도)]]></title>
