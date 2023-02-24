@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 05:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 06:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸디토리움 Pudditorium - Episode : Hope (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8140951164</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8140951164</guid>
+            <pubDate>Fri, 24 Feb 2023 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230224_253/16772177366382aFop_JPEG/78353579343950466_1803942031.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쥰과숙 - Greatest Hit (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8140878598</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8140878598</guid>
+            <pubDate>Fri, 24 Feb 2023 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230224_190/1677216821119ESqcf_JPEG/78352600844736278_260110278.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Coldplay - X&Y (180G Gate-Fold 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8137250575</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 10 Feb 2023 10:23:49 GMT</pubDate>
             <content:encoded><![CDATA[38,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230210_291/1676021773532TYUHQ_JPEG/77157557250244586_1214678561.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문진오 - 2집 결 1923 관동대지진 100주년 기념 조선인의 발 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8064491439</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8064491439</guid>
-            <pubDate>Fri, 10 Feb 2023 10:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230210_69/1676021182157P2hWy_JPEG/77156965870833034_745385045.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛과 소금 - 2집 내 곁에서 떠나가지 말아요 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8059064974</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8059064974</guid>
-            <pubDate>Thu, 09 Feb 2023 11:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230209_269/1675940883505GRQV6_JPEG/77076718343230351_837796194.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
