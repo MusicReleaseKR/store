@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 12:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 13:32:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Homeshake - Fresh Air (BLUE CLEAR SPLATTER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8158515986</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8158515986</guid>
+            <pubDate>Mon, 27 Feb 2023 13:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_274/1677502148305swhTc_JPEG/78637991021028304_1096875619.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Current Joys - Voyager (OPAQUE MAROON COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8158499655</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8158499655</guid>
+            <pubDate>Mon, 27 Feb 2023 13:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_11/1677500205236ymj5J_JPEG/78636033065758870_1235630998.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kendrick Lamar - Good Kid, M.A.A.D City (10th Anniversary) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Tue, 14 Feb 2023 09:21:35 GMT</pubDate>
             <content:encoded><![CDATA[38,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230214_125/1676364189355QgAoq_JPEG/77500032070518185_2137859943.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney Houston - Whitney Houston (PEACH COLOR LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8085609754</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8085609754</guid>
-            <pubDate>Tue, 14 Feb 2023 09:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230214_82/1676363987163NzC9l_JPEG/77499829876727299_1153008286.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney Houston - Whitney (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8085598110</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8085598110</guid>
-            <pubDate>Tue, 14 Feb 2023 09:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[35,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230214_163/1676363751664qDOSy_JPEG/77499594379250873_1474938503.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MIRROR Vol.24 (질주) / 매거진 미러 (네이버 스마트스토어 ─ 공상온도)]]></title>
