@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 06:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 07:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Billie Eilish - Don't Smile At Me (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8157438638</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8157438638</guid>
+            <pubDate>Mon, 27 Feb 2023 07:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_244/16774820706466XGSC_JPEG/78617905483112142_331002975.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허성현 Huh - 926 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8157380698</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8157380698</guid>
+            <pubDate>Mon, 27 Feb 2023 07:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_108/1677481417414UtD4R_JPEG/78617252242182053_534668266.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장한나 Han-Na Chang - 백조 The Swan [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8156968746</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 10 Feb 2023 10:23:49 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230210_54/1676023303360SKkk6_JPEG/77159138193060264_405909912.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyonce - B'Day (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8064736766</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8064736766</guid>
-            <pubDate>Fri, 10 Feb 2023 10:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[31,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230210_203/1676022709198rGPGL_JPEG/77158544027508504_692985418.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana - Nirvana (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8064668882</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8064668882</guid>
-            <pubDate>Fri, 10 Feb 2023 10:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230210_143/1676022173620j6WDk_JPEG/77158008452635872_1584622270.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
