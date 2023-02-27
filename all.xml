@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 10:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 11:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,6 +344,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230227_108/1677481417414UtD4R_JPEG/78617252242182053_534668266.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이영훈 - The Origin Part 2 이문세 베스트컬렉션 Part 2 (150G CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8157117264</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8157117264</guid>
+            <pubDate>Mon, 27 Feb 2023 11:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_210/16774787116913mq6u_JPEG/78614545504551177_2145217998.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이영훈 - The Origin Part 1 - 이문세 베스트컬렉션 Part 1 (150G CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8157065935</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8157065935</guid>
+            <pubDate>Mon, 27 Feb 2023 11:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_189/1677478440009sHL3l_JPEG/78614273818759202_818493879.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장한나 Han-Na Chang - 백조 The Swan [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8156968746</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8156968746</guid>
@@ -606,22 +622,6 @@
             <pubDate>Tue, 14 Feb 2023 09:21:35 GMT</pubDate>
             <content:encoded><![CDATA[35,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230214_163/1676363751664qDOSy_JPEG/77499594379250873_1474938503.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney Houston - Whitney (SKY BLUE COLOR LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8085591004</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8085591004</guid>
-            <pubDate>Tue, 14 Feb 2023 09:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230214_116/16763633282316HiR9_JPEG/77499226937545410_1738991357.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구이임 - 마주하다 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8085570040</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8085570040</guid>
-            <pubDate>Tue, 14 Feb 2023 08:27:44 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230214_8/1676362895202SP1Tf_JPEG/77498793912458370_210705403.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MIRROR Vol.24 (질주) / 매거진 미러 (네이버 스마트스토어 ─ 공상온도)]]></title>
