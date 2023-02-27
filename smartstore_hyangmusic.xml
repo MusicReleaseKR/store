@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 07:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 08:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kendrick Lamar - Good Kid, M.A.A.D City (10th Anniversary) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8157584805</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8157584805</guid>
+            <pubDate>Mon, 27 Feb 2023 08:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_17/1677483448838sMJpR_JPEG/78619276658474740_1191110265.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Lamar - Good Kid, M.A.A.D City (10th Anniversary) [카세트 테이프]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8157557920</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8157557920</guid>
+            <pubDate>Mon, 27 Feb 2023 08:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[31,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_25/1677483073924li9Br_JPEG/78618901747098852_1676122947.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Budgie - MCA Albums 1973-1975 (3CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8157508911</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8157508911</guid>
+            <pubDate>Mon, 27 Feb 2023 08:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_204/1677482400704PP8ME_JPEG/78618235540531091_1330551676.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Billie Eilish - Don't Smile At Me (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8157438638</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 14 Feb 2023 08:27:44 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230214_8/1676362895202SP1Tf_JPEG/77498793912458370_210705403.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밍기뉴 Mingginyu & 죠 Jaw - 요즘 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8085555454</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8085555454</guid>
-            <pubDate>Tue, 14 Feb 2023 08:27:44 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230214_151/1676362551586AfiY8_JPEG/77498450294826494_875987594.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 스트릿 맨 파이터 - 스맨파 (SMF) [CLEAR COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8085385332</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8085385332</guid>
-            <pubDate>Tue, 14 Feb 2023 08:27:44 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230214_271/1676359739630ENLsH_JPEG/77495567446321526_924974106.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay - A Head Full Of Dreams (180G 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8064818347</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8064818347</guid>
-            <pubDate>Fri, 10 Feb 2023 10:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230210_54/1676023303360SKkk6_JPEG/77159138193060264_405909912.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
