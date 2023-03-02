@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 10:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 11:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오프로드 야생 온천 - 미 대륙의 자연 온천을 찾아서 / 황상호 우세린 에코 탐방기 / 지성사 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8174880152</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8174880152</guid>
+            <pubDate>Thu, 02 Mar 2023 11:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[30,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230302_163/1677752882660nc2ce_JPEG/78888666371271641_2142774529.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대체 어쩌다가 이렇게 됐습니다 / 자베르 에세이]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/8174549640</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 13 Dec 2022 07:19:05 GMT</pubDate>
             <content:encoded><![CDATA[18,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221213_221/1670914206283Sy5ia_JPEG/72050052001143903_1747609788.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자연도감 / 신혜영 사진집]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7744989882</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7744989882</guid>
-            <pubDate>Tue, 13 Dec 2022 07:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221213_127/1670912761616UIYu8_JPEG/72048541310895326_1514822731.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
