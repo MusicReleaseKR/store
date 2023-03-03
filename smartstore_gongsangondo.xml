@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 04:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 05:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신의 카세트테이프 / 황예나 에세이]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8179075416</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8179075416</guid>
+            <pubDate>Fri, 03 Mar 2023 05:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230303_54/1677819680663JlsTN_JPEG/78955508475054139_466761573.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오프로드 야생 온천 - 미 대륙의 자연 온천을 찾아서 / 황상호 우세린 에코 탐방기 / 지성사 출판]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/8174880152</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 13 Dec 2022 08:27:02 GMT</pubDate>
             <content:encoded><![CDATA[9,800]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221213_280/1670918965075Q5nph_JPEG/72054748783808209_101364254.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로망과 현실 사이 : 뉴질랜드에서의 709일 / 박지현 에세이]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7745128908</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7745128908</guid>
-            <pubDate>Tue, 13 Dec 2022 07:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221213_221/1670914206283Sy5ia_JPEG/72050052001143903_1747609788.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
