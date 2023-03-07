@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 09:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 10:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can - Tago Mago (2LP) [MP3 DOWN CODE] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8201835365</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8201835365</guid>
+            <pubDate>Tue, 07 Mar 2023 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230307_19/1678183059287hKlkn_JPEG/5485743154773199_1336452532.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pink Floyd - The Wall (2016 VERSION) [180G 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8201667210</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8201667210</guid>
+            <pubDate>Tue, 07 Mar 2023 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[55,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230307_210/1678181533924g8m5I_JPEG/79317368747845961_388760567.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ed Sheeran - - (Subtract) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Wed, 22 Feb 2023 07:19:42 GMT</pubDate>
             <content:encoded><![CDATA[18,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230222_108/1677047851069opPCK_JPEG/78183693785940349_1370928848.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - DONG A Records Years 1989~1994 (180G COLOURED 5LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8130496796</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8130496796</guid>
-            <pubDate>Wed, 22 Feb 2023 07:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[199,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230223_91/16771303547787kLSY_JPEG/78266243490954319_1222520602.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박혜원 Hynn - Let Me in (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8130446733</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8130446733</guid>
-            <pubDate>Wed, 22 Feb 2023 06:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230222_235/1677046043801CheFR_JPEG/78181877610568084_1412160594.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭘 해도 안 되는 날이 있다 / 윤신 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
