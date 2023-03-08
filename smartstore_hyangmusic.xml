@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 09:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 10:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강허달림 - LOVE (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8207354087</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8207354087</guid>
+            <pubDate>Wed, 08 Mar 2023 10:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230308_64/1678268341441E6A1B_JPEG/79404121163263029_1945943665.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kamelot - The Awakening (2CD Deluxe Edition)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8207332186</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8207332186</guid>
+            <pubDate>Wed, 08 Mar 2023 10:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230308_75/1678267839717NnB3A_JPEG/79403619442831539_1767552301.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤명운 - 아침 기다리며 / 김치 Rag (150G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8202292469</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 22 Feb 2023 10:23:53 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230222_226/1677059023515RWyCB_JPEG/78194857328240030_2032985286.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포레스텔라 Forestella - 3집 Forestella (180G LAVENDER PURPLE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8131003265</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8131003265</guid>
-            <pubDate>Wed, 22 Feb 2023 09:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230112_283/1673521462495Ty8P0_JPEG/824146358202903_653588163.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권진아 - The Flag (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8130695513</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8130695513</guid>
-            <pubDate>Wed, 22 Feb 2023 07:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230222_22/1677049939912wb7z3_JPEG/78185774748568885_1273815081.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
