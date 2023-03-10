@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 07:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 08:29:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,6 +376,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230308_75/1678267839717NnB3A_JPEG/79403619442831539_1767552301.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Soundtrack - 스즈메의 문단속 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8207257970</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8207257970</guid>
+            <pubDate>Fri, 10 Mar 2023 08:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221228_201/1672208505558pUa2X_JPEG/73344333385274739_1296105577.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤명운 - 아침 기다리며 / 김치 Rag (150G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8202292469</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8202292469</guid>
@@ -614,14 +622,6 @@
             <pubDate>Fri, 24 Feb 2023 06:27:38 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230224_190/1677216821119ESqcf_JPEG/78352600844736278_260110278.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay - X&Y (180G Gate-Fold 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8137250575</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8137250575</guid>
-            <pubDate>Thu, 23 Feb 2023 11:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230223_6/1677148844617nkkPx_JPEG/78284624343382664_445760428.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭘 해도 안 되는 날이 있다 / 윤신 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
