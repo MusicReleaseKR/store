@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 07:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 08:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예성 Yesung - 1집 Floral Sense (WHITE & BLUE COLOURED LP) [스페셜 버젼]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8232350909</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8232350909</guid>
+            <pubDate>Mon, 13 Mar 2023 08:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[75,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230313_112/1678695814509bhnRS_JPEG/5998498383931182_356025950.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이근형 - Alone.. Not Alone (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8232241593</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8232241593</guid>
+            <pubDate>Mon, 13 Mar 2023 08:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230313_168/1678694364634kc518_JPEG/79830253338004265_2048675374.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고니밴드 (Gonyband) - Wave (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8231961723</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8231961723</guid>
+            <pubDate>Mon, 13 Mar 2023 08:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230313_138/1678690473494BKGsJ_JPEG/79826362206888403_184775862.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mischa Maisky - 바흐 무반주 첼로 모음곡 (Bach CelloSuites) [180G 3LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8212300487</link>
@@ -141,7 +165,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/8195236997</guid>
             <pubDate>Mon, 06 Mar 2023 08:28:20 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230306_96/1678087561469FOcyT_JPEG/79223457203744342_468152910.jpg?type=f140" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20230313_54/1678694213045lo5df_JPEG/79830101735788555_1320623617.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지수 JISOO - JISOO FIRST SINGLE ALBUM - Black Ver (CD)]]></title>
@@ -149,7 +173,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/8195229553</guid>
             <pubDate>Mon, 06 Mar 2023 08:28:20 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230306_277/1678087134861F3Iwf_JPEG/79223030596482159_82930711.jpg?type=f140" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20230313_54/1678694190565UfWSg_JPEG/79830079263628727_757854677.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장윤정 - 5집 장윤정 (180G LP) [2023 REMASTERED]]]></title>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 27 Feb 2023 11:18:56 GMT</pubDate>
             <content:encoded><![CDATA[56,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230227_189/1677478440009sHL3l_JPEG/78614273818759202_818493879.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장한나 Han-Na Chang - 백조 The Swan [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8156968746</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8156968746</guid>
-            <pubDate>Mon, 27 Feb 2023 06:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[25,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230227_287/1677477335917mb8q0_JPEG/78613169739153475_568237259.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸디토리움 Pudditorium - Episode : Hope (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8140951164</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8140951164</guid>
-            <pubDate>Fri, 24 Feb 2023 06:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230224_253/16772177366382aFop_JPEG/78353579343950466_1803942031.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쥰과숙 - Greatest Hit (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8140878598</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8140878598</guid>
-            <pubDate>Fri, 24 Feb 2023 06:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230224_190/1677216821119ESqcf_JPEG/78352600844736278_260110278.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
