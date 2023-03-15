@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 07:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 08:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jayci yucca / dnss - Love And The City (CD) [사인반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8241857678</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8241857678</guid>
+            <pubDate>Wed, 15 Mar 2023 08:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230315_56/1678864528020BXXLD_JPEG/80000426716839319_849290209.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마마무+ - ACT 1, SCENE 1 (LIMITED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -616,12 +624,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230313_54/1678694213045lo5df_JPEG/79830101735788555_1320623617.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지수 JISOO - JISOO FIRST SINGLE ALBUM - Black Ver (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8195229553</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8195229553</guid>
-            <pubDate>Mon, 06 Mar 2023 08:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230313_54/1678694190565UfWSg_JPEG/79830079263628727_757854677.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[EZMONSTER’s NEMO-NEMO LOGIC / 네모네모 로직 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8242049876</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8242049876</guid>
+            <pubDate>Wed, 15 Mar 2023 08:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[3,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230315_108/1678867986908jnFMX_JPEG/80003885590500937_171172097.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일곱 개의 원호 3호 “힐링” / 퀴어 문예지 / 18도의 얼그레이 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
@@ -934,14 +942,6 @@
             <pubDate>Fri, 16 Dec 2022 08:24:33 GMT</pubDate>
             <content:encoded><![CDATA[7,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221215_209/1671105285158bP2Oi_JPEG/72241130858482848_1976248342.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실리콘 밸리의 목소리 / 벤 타노프, 모이라 와이글 에세이 / 반원 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7757952515</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7757952515</guid>
-            <pubDate>Thu, 15 Dec 2022 09:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221215_126/1671093877964jW5GT_JPEG/72229712798703960_1102754982.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소스 리스트 (네이버 스마트스토어 ─ 재미공작소)]]></title>

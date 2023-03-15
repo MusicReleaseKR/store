@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 07:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 08:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EZMONSTER’s NEMO-NEMO LOGIC / 네모네모 로직]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8242049876</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8242049876</guid>
+            <pubDate>Wed, 15 Mar 2023 08:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[3,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230315_108/1678867986908jnFMX_JPEG/80003885590500937_171172097.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일곱 개의 원호 3호 “힐링” / 퀴어 문예지 / 18도의 얼그레이 출판]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/8241821892</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 16 Dec 2022 08:24:33 GMT</pubDate>
             <content:encoded><![CDATA[7,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221215_209/1671105285158bP2Oi_JPEG/72241130858482848_1976248342.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실리콘 밸리의 목소리 / 벤 타노프, 모이라 와이글 에세이 / 반원 출판]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7757952515</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7757952515</guid>
-            <pubDate>Thu, 15 Dec 2022 09:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221215_126/1671093877964jW5GT_JPEG/72229712798703960_1102754982.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
