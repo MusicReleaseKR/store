@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 06:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 07:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일곱 개의 원호 3호 “힐링” / 퀴어 문예지 / 18도의 얼그레이 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8241821892</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8241821892</guid>
+            <pubDate>Wed, 15 Mar 2023 07:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230315_142/1678863863854ACPNR_JPEG/79999752538508600_252258031.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑의 우주 / 아이레 시집]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8241701311</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8241701311</guid>
+            <pubDate>Wed, 15 Mar 2023 07:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[13,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230315_115/16788621203661mGnv_JPEG/79997963048296069_1004534407.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 해도 안 되는 날이 있다 / 윤신 에세이]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/8179548668</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 15 Dec 2022 09:21:38 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221215_126/1671093877964jW5GT_JPEG/72229712798703960_1102754982.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마, 나는 이제 내가 키울게 / 이정우 외 6명 에세이 / 떡잎 출판]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7746403367</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7746403367</guid>
-            <pubDate>Tue, 13 Dec 2022 11:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221213_158/1670928326085kMF3V_JPEG/72064159880619526_875199472.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕이 너무 늦어버렸습니다 / 김수림 외 4명 시집 / 꿈공장플러스 출판]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7746063360</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7746063360</guid>
-            <pubDate>Tue, 13 Dec 2022 10:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221213_198/1670924502305nMnLc_JPEG/72060400998429644_1494772065.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
