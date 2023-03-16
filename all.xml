@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 12:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 13:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jackie McLean - Bluesnik (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8249233631</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8249233631</guid>
+            <pubDate>Thu, 16 Mar 2023 13:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[32,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230316_53/1678970586228XUxID_JPEG/80106428935977022_1625009161.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Herbie Hancock - Empyrean Isles (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Thu, 09 Mar 2023 09:21:57 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230309_108/16783507844861KoX1_JPEG/79486683183816289_1807288813.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jens Lekman - The Linden Trees Are Still In Blossom (CRYSTAL CLEAR COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8207726671</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8207726671</guid>
-            <pubDate>Wed, 08 Mar 2023 12:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230308_184/1678277368150YahwY_JPEG/5580052036150019_1483601651.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EZMONSTER’s NEMO-NEMO LOGIC / 네모네모 로직 (네이버 스마트스토어 ─ 공상온도)]]></title>
