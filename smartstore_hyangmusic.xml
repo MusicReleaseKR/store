@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 08:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 09:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Horace Parlan Quintet - Speakin' My Piece (Blue Note Classic Vinyl Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8254680913</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8254680913</guid>
+            <pubDate>Fri, 17 Mar 2023 09:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[32,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230317_72/1679041655997EMe5i_JPEG/80177554709317631_339900380.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Carmell Jones - The Remarkable Carmell Jones (Blue Note Tone Poet Series) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8254634034</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 13 Mar 2023 12:40:32 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230313_139/1678706529485hwwAw_JPEG/79842364313433421_1615261339.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예성 Yesung - 1집 Floral Sense (WHITE & BLUE COLOURED LP) [스페셜 버젼]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8232350909</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8232350909</guid>
-            <pubDate>Mon, 13 Mar 2023 08:27:25 GMT</pubDate>
-            <content:encoded><![CDATA[75,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230313_112/1678695814509bhnRS_JPEG/5998498383931182_356025950.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
