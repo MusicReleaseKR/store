@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 09:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 10:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Miles Davis - Bitches Brew (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8255222246</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8255222246</guid>
+            <pubDate>Fri, 17 Mar 2023 10:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[31,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230317_260/1679047208093QauGd_JPEG/80183041909041586_576993845.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Unknown Mortal Ochestra - V (GOLD COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8255194968</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8255194968</guid>
+            <pubDate>Fri, 17 Mar 2023 10:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[49,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230317_250/1679046598290Puvos_JPEG/80182433126877269_1360705959.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Unknown Mortal Ochestra - V (카세트 테이프) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8255177475</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8255177475</guid>
+            <pubDate>Fri, 17 Mar 2023 10:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[14,300]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230317_93/1679046299641h9tLJ_JPEG/80182134473179393_1555615952.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Horace Parlan Quintet - Speakin' My Piece (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8254680913</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8254680913</guid>
@@ -598,30 +622,6 @@
             <pubDate>Mon, 13 Mar 2023 12:40:32 GMT</pubDate>
             <content:encoded><![CDATA[8,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230313_129/1678707355530UFx9j_JPEG/79843190357482232_1573997873.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shame - Food for Worms (TRANSPARENT PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8232938881</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8232938881</guid>
-            <pubDate>Mon, 13 Mar 2023 12:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[36,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230313_64/16787070794351sb7j_JPEG/79842914263281747_1574967007.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shame - Food for Worms (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8232926112</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8232926112</guid>
-            <pubDate>Mon, 13 Mar 2023 12:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[34,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230313_139/1678706529485hwwAw_JPEG/79842364313433421_1615261339.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shame - Food for Worms (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8232920539</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8232920539</guid>
-            <pubDate>Mon, 13 Mar 2023 12:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230313_139/1678706529485hwwAw_JPEG/79842364313433421_1615261339.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EZMONSTER’s NEMO-NEMO LOGIC / 네모네모 로직 (네이버 스마트스토어 ─ 공상온도)]]></title>
