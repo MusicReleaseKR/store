@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 09:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 10:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Inhaler - Cuts & Bruises (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8268902395</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8268902395</guid>
+            <pubDate>Mon, 20 Mar 2023 10:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230320_139/1679306402308DpMdt_JPEG/80442298028359712_1782959373.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inhaler - Cuts & Bruises (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8268894833</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8268894833</guid>
+            <pubDate>Mon, 20 Mar 2023 10:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[23,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230320_139/1679306402308DpMdt_JPEG/80442298028359712_1782959373.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drake - Honestly, Nevermind (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8268865698</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8268865698</guid>
+            <pubDate>Mon, 20 Mar 2023 10:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[26,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230320_215/1679301257744ijRXG_JPEG/80437146308702902_989623390.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미역수염 Seaweed Mustache - 1집 Bombora (140G SPRING PURPLE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8268586397</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 14 Mar 2023 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[25,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230314_195/1678785684625cxlLF_JPEG/79921468333417763_397977566.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aimyon あいみょん - Momentary Sixth Sense (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8237721551</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8237721551</guid>
-            <pubDate>Tue, 14 Mar 2023 09:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[25,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230314_109/1678785130599f2Jmi_JPEG/79920914304985625_1042334301.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aimyon あいみょん - Excitement of Youth (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8237683260</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8237683260</guid>
-            <pubDate>Tue, 14 Mar 2023 09:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[25,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230314_7/16787845907555qecs_JPEG/79920374455668725_1181861121.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방준석 - TEMPEST (CD) [한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8237634333</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8237634333</guid>
-            <pubDate>Tue, 14 Mar 2023 09:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230314_198/16787839448651tNcw_JPEG/79919728581469113_379604016.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
