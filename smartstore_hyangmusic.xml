@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 07:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 08:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미역수염 Seaweed Mustache - 1집 Bombora (140G SPRING PURPLE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8268586397</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8268586397</guid>
+            <pubDate>Mon, 20 Mar 2023 08:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230320_62/1679300293035BxqcD_JPEG/80436126849653836_1079012540.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플라스틱키즈 (Plastickiz) - Shining Blues (140G VERT CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8268571913</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8268571913</guid>
+            <pubDate>Mon, 20 Mar 2023 08:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230320_178/16792999601917L2WU_JPEG/80435794014322889_282255406.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baewonlee – Sonder (140G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8268557289</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8268557289</guid>
+            <pubDate>Mon, 20 Mar 2023 08:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230320_277/1679299585222183fi_JPEG/80435419040708172_1930418362.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스믹 보이 Cosmic Boy - Can I Not (CD) [사인반]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8268243772</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 14 Mar 2023 09:23:31 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230314_198/16787839448651tNcw_JPEG/79919728581469113_379604016.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eva Cassidy with the London Symphony Orchestra - I Can Only Be Me (45RPM 180G 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8232996791</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8232996791</guid>
-            <pubDate>Mon, 13 Mar 2023 12:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230313_154/1678708657316uieXI_JPEG/6011341201454941_1743881830.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eva Cassidy with the London Symphony Orchestra - I Can Only Be Me (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8232988563</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8232988563</guid>
-            <pubDate>Mon, 13 Mar 2023 12:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230313_2/1678708430912QgS8F_JPEG/6011114793395117_2102029922.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eva Cassidy with the London Symphony Orchestra - I Can Only Be Me (DELUXE) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8232979039</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8232979039</guid>
-            <pubDate>Mon, 13 Mar 2023 12:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[31,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230313_11/1678707874918oVGd0_JPEG/79843763631939102_1035228275.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
