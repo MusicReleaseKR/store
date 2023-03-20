@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 11:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 12:40:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Velvet Underground - The Velvet Underground (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8269148965</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8269148965</guid>
+            <pubDate>Mon, 20 Mar 2023 12:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_233/1672987425298D5INi_JPEG/74123205024236868_283528060.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Velvet Underground - The Velvet Underground & Nico (45th Anniversary) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8269140106</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8269140106</guid>
+            <pubDate>Mon, 20 Mar 2023 12:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230320_153/1679312658038AEbGb_JPEG/80448500746558599_591780203.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Black Sabbath - Technical Ecstasy (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8269118005</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8269118005</guid>
+            <pubDate>Mon, 20 Mar 2023 12:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230320_13/1679312231140Pdj5R_JPEG/80448073855995467_482489995.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Unknown Mortal Ochestra - V (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8269046839</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 15 Mar 2023 08:26:47 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230315_56/1678864528020BXXLD_JPEG/80000426716839319_849290209.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마마무+ - ACT 1, SCENE 1 (LIMITED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8241793486</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8241793486</guid>
-            <pubDate>Wed, 15 Mar 2023 07:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230315_16/1678863401510CF5Hp_JPEG/79999297240368896_960066311.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - BLEACH 블리치 (TRANSLUCENT BLUE COLOURED 2LP )]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8237896602</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8237896602</guid>
-            <pubDate>Tue, 14 Mar 2023 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230314_164/1678789071093UrL0H_JPEG/79924959806274003_1927105396.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aimyon あいみょん - Falling into your eyes Record (CD & Blu-ray) [초회 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8237865696</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8237865696</guid>
-            <pubDate>Tue, 14 Mar 2023 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[82,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230314_103/1678785106177OUtcg_JPEG/79920889876823400_41246596.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
