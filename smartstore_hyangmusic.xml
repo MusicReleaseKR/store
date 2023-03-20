@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 04:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 05:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선미 Sunmi - B-Side (COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8267792179</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8267792179</guid>
+            <pubDate>Mon, 20 Mar 2023 05:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[65,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230320_222/1679288931277cDneV_JPEG/80424829979121544_1419073127.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miles Davis - Bitches Brew (180G 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8255222246</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 13 Mar 2023 12:40:32 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230313_52/1678707747590nNT6U_JPEG/79843636297350895_771251436.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브로콜리 너마저 - 1/10 (EP) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8232947277</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8232947277</guid>
-            <pubDate>Mon, 13 Mar 2023 12:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[8,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230313_129/1678707355530UFx9j_JPEG/79843190357482232_1573997873.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
