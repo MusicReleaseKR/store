@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 03:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 04:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,7 +264,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230316_97/1678950676171t4JtS_JPEG/80086503999254359_339380038.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[써드스톤 Thirdstone - Psycjiatric Hospital (CD)]]></title>
+            <title><![CDATA[써드스톤 Thirdstone - Psychiatric Hospital (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8248083590</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8248083590</guid>
             <pubDate>Thu, 16 Mar 2023 06:26:00 GMT</pubDate>
