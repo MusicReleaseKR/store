@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 06:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 07:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선과영 - 밤과낮 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8279355319</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8279355319</guid>
+            <pubDate>Wed, 22 Mar 2023 07:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230322_273/1679468577972zCgaP_JPEG/80604412805413997_1179016859.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Velvet Underground - The Velvet Underground (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8269148965</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 16 Mar 2023 12:40:08 GMT</pubDate>
             <content:encoded><![CDATA[25,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230315_220/1678869652808W02JN_JPEG/80005495523659105_1019064274.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jayci yucca / dnss - Love And The City (CD) [사인반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8241857678</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8241857678</guid>
-            <pubDate>Wed, 15 Mar 2023 08:26:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230315_56/1678864528020BXXLD_JPEG/80000426716839319_849290209.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
