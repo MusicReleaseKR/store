@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 04:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 05:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벽돌 사이에 피어난 민들레처럼 / 장예지 에세이 / 부크크 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8284166006</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8284166006</guid>
+            <pubDate>Thu, 23 Mar 2023 05:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[10,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230323_122/1679547342613PjM6i_JPEG/80683185305537628_982061510.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행복회로 부수는중 / 나노말 정규 1집]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8284104408</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8284104408</guid>
+            <pubDate>Thu, 23 Mar 2023 05:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230323_60/16795464419745fW2h_JPEG/80682221685790755_1729194751.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추자일상 / 김성연 에세이 / 기획자의거실 출판]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/8283869110</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 21 Dec 2022 09:19:46 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221221_36/1671610916051m3j9f_JPEG/72746743689853818_1416642552.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스턴 카잇 SUNDAY MONDAY 엽서]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7790748670</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7790748670</guid>
-            <pubDate>Wed, 21 Dec 2022 08:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[3,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221221_233/1671609718175gjIDM_GIF/72745545566315896_35860859.gif?type=f295_381" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연말정산 2022 / 2022년을 기록하는 100가지 질문집 + 스티커 팩]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7769073712</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7769073712</guid>
-            <pubDate>Sat, 17 Dec 2022 11:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[7,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221215_209/1671105285158bP2Oi_JPEG/72241130858482848_1976248342.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
