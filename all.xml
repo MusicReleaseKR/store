@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 05:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 06:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -624,6 +624,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230316_97/1678950676171t4JtS_JPEG/80086503999254359_339380038.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사람들은 모두 다른 향기 / 지나오킹 카세트 테이프 음반 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8284707037</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8284707037</guid>
+            <pubDate>Thu, 23 Mar 2023 06:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230323_17/1679552376050tdSuU_JPEG/80688210870233096_1079725464.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[움직이는 글자와 파란 실 / 지나오킹 시집 / 작은섬출판사 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8284532588</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8284532588</guid>
+            <pubDate>Thu, 23 Mar 2023 06:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[23,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230323_239/1679549438478EiTxu_JPEG/80685327184484629_913328302.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아웃오브블루 / 단상집 / 이영 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8284298661</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8284298661</guid>
+            <pubDate>Thu, 23 Mar 2023 06:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[13,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230323_263/1679548694874XhnKl_JPEG/80684529706869175_717575003.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[벽돌 사이에 피어난 민들레처럼 / 장예지 에세이 / 부크크 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/8284166006</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/8284166006</guid>
@@ -918,30 +942,6 @@
             <pubDate>Fri, 23 Dec 2022 11:17:01 GMT</pubDate>
             <content:encoded><![CDATA[18,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221223_24/16717778667702R6YS_JPEG/72913694424898533_464469187.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있어 보이고 싶을 때 읽는 책 / 이영준 외 6명 에세이집 / 식은땀 출판사 출판 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7791355710</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7791355710</guid>
-            <pubDate>Wed, 21 Dec 2022 11:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[9,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221221_50/1671620628587BVDdT_JPEG/72756471296361140_1325517468.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삿된 마음: 요코하마가 내게 남긴 것들 / 최지현 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7791165464</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7791165464</guid>
-            <pubDate>Wed, 21 Dec 2022 10:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221221_265/1671614732874vQKv0_JPEG/72750628598849022_59193730.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싶싶한 하루 보내세요 / 권민정 외 4명 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7791122707</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7791122707</guid>
-            <pubDate>Wed, 21 Dec 2022 09:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221221_36/1671610916051m3j9f_JPEG/72746743689853818_1416642552.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아마츄어증폭기를위한아마츄어증폭기 2018 재미공작소 라이브 앨범 (네이버 스마트스토어 ─ 재미공작소)]]></title>
