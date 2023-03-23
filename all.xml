@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 06:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 07:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이지카이트 Izykite - I ZIP (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8285044434</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8285044434</guid>
+            <pubDate>Thu, 23 Mar 2023 07:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230323_146/1679555373546i5cx9_JPEG/80691272258724559_1854532270.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stevie Wonder - Original Musiquarium I (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -616,12 +624,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230316_297/1678950986104UaNAE_JPEG/80086813923095896_1347407874.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mos Def & Talib Kweli (Black Star) - Black Star (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8248273823</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8248273823</guid>
-            <pubDate>Thu, 16 Mar 2023 12:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230316_97/1678950676171t4JtS_JPEG/80086503999254359_339380038.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[몸에 담긴 기억 / 리을 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8284792853</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8284792853</guid>
+            <pubDate>Thu, 23 Mar 2023 07:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[8,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230323_234/1679553037206e9X3w_JPEG/80688879913692683_1175740991.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사람들은 모두 다른 향기 / 지나오킹 카세트 테이프 음반 (네이버 스마트스토어 ─ 공상온도)]]></title>
@@ -934,14 +942,6 @@
             <pubDate>Sat, 24 Dec 2022 08:23:55 GMT</pubDate>
             <content:encoded><![CDATA[10,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221224_55/16718682868765wJWH_JPEG/73004185566337940_1710855895.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[yob Basic Line Cup / 욥 베이직 라인 컵 (네이버 스마트스토어 ─ 공상온도)]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7801259302</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7801259302</guid>
-            <pubDate>Fri, 23 Dec 2022 11:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221223_24/16717778667702R6YS_JPEG/72913694424898533_464469187.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아마츄어증폭기를위한아마츄어증폭기 2018 재미공작소 라이브 앨범 (네이버 스마트스토어 ─ 재미공작소)]]></title>

@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 06:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 07:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몸에 담긴 기억 / 리을 에세이]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8284792853</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8284792853</guid>
+            <pubDate>Thu, 23 Mar 2023 07:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[8,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230323_234/1679553037206e9X3w_JPEG/80688879913692683_1175740991.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사람들은 모두 다른 향기 / 지나오킹 카세트 테이프 음반]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/8284707037</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 24 Dec 2022 08:23:55 GMT</pubDate>
             <content:encoded><![CDATA[10,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221224_55/16718682868765wJWH_JPEG/73004185566337940_1710855895.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[yob Basic Line Cup / 욥 베이직 라인 컵]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7801259302</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7801259302</guid>
-            <pubDate>Fri, 23 Dec 2022 11:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221223_24/16717778667702R6YS_JPEG/72913694424898533_464469187.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
