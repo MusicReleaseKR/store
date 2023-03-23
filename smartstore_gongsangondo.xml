@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 공상온도</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 03:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 04:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추자일상 / 김성연 에세이 / 기획자의거실 출판]]></title>
+            <link>https://smartstore.naver.com/gongsangondo/products/8283869110</link>
+            <guid>https://smartstore.naver.com/gongsangondo/products/8283869110</guid>
+            <pubDate>Thu, 23 Mar 2023 04:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230323_86/1679544520275CMg1d_JPEG/80680355108266667_774753478.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EZMONSTER’s NEMO-NEMO LOGIC / 네모네모 로직]]></title>
             <link>https://smartstore.naver.com/gongsangondo/products/8242049876</link>
@@ -316,14 +324,6 @@
             <link>https://smartstore.naver.com/gongsangondo/products/7769073712</link>
             <guid>https://smartstore.naver.com/gongsangondo/products/7769073712</guid>
             <pubDate>Sat, 17 Dec 2022 11:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[7,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221215_209/1671105285158bP2Oi_JPEG/72241130858482848_1976248342.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말정산 2022 / 2022년을 기록하는 100가지 질문집 + 스티커 팩]]></title>
-            <link>https://smartstore.naver.com/gongsangondo/products/7759031623</link>
-            <guid>https://smartstore.naver.com/gongsangondo/products/7759031623</guid>
-            <pubDate>Fri, 16 Dec 2022 08:24:33 GMT</pubDate>
             <content:encoded><![CDATA[7,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221215_209/1671105285158bP2Oi_JPEG/72241130858482848_1976248342.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
