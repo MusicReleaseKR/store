@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 10:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 11:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weezer - Pinkerton (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8305609138</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8305609138</guid>
+            <pubDate>Mon, 27 Mar 2023 11:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230327_137/1679915523919YWzNc_JPEG/81051422623261737_747329544.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arts Symphony Orchestra - Ennio Morricone BEST - Symphony Live (180G BLUE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8304210611</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 17 Mar 2023 08:26:09 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230317_277/1679037841084OmOSH_JPEG/80173674905950009_1072320722.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jackie McLean - Bluesnik (Blue Note Classic Vinyl Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8249233631</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8249233631</guid>
-            <pubDate>Thu, 16 Mar 2023 13:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[32,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230316_53/1678970586228XUxID_JPEG/80106428935977022_1625009161.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
