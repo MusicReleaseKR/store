@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 05:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 06:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arts Symphony Orchestra - Ennio Morricone BEST - Symphony Live (180G BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8304210611</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8304210611</guid>
+            <pubDate>Mon, 27 Mar 2023 06:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230327_181/1679896927245Rjrue_JPEG/81032755075173673_1740615522.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최백호 - 불혹 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8304051488</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8304051488</guid>
+            <pubDate>Mon, 27 Mar 2023 06:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230327_27/1679894596002XvTnz_JPEG/81030430838830907_1072354414.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[U2 - Songs Of Surrender (SUPER DELUXE COLLECTORS EDITION) [4CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8285637655</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 16 Mar 2023 13:32:59 GMT</pubDate>
             <content:encoded><![CDATA[32,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230316_53/1678970586228XUxID_JPEG/80106428935977022_1625009161.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Herbie Hancock - Empyrean Isles (Blue Note Classic Vinyl Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8249190809</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8249190809</guid>
-            <pubDate>Thu, 16 Mar 2023 12:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[32,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230316_104/167896952114514Mf5_JPEG/80105304859171302_1385188363.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mark Knopfler - The Studio Albums 2008-2018 (6CD BOX SET)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8249172372</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8249172372</guid>
-            <pubDate>Thu, 16 Mar 2023 12:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[75,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230316_245/1678969120170KH3XI_JPEG/80104903888759404_1434095998.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
