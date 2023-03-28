@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 13:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 14:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gorillaz - Cracker Island (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8311702887</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8311702887</guid>
+            <pubDate>Tue, 28 Mar 2023 14:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[75,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230328_245/1680009613592vpiWa_JPEG/81145502297068849_509978555.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gorillaz - Cracker Island (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Mon, 20 Mar 2023 06:27:01 GMT</pubDate>
             <content:encoded><![CDATA[65,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230320_299/1679289346758WYn5i_JPEG/80425245467014929_1665378929.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선미 Sunmi - B-Side (COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8267792179</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8267792179</guid>
-            <pubDate>Mon, 20 Mar 2023 05:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[65,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230320_222/1679288931277cDneV_JPEG/80424829979121544_1419073127.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몸에 담긴 기억 / 리을 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
