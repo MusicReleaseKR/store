@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 06:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 07:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코드 쿤스트 Code Kunst - Remember Archive (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8315539668</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8315539668</guid>
+            <pubDate>Wed, 29 Mar 2023 07:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230329_147/1680072201345W5qlO_JPEG/81208035153905186_631429679.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데디오레디오 Daddy O Radio - Green Tattoo (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Mon, 20 Mar 2023 08:26:23 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230320_277/1679299585222183fi_JPEG/80435419040708172_1930418362.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스믹 보이 Cosmic Boy - Can I Not (CD) [사인반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8268243772</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8268243772</guid>
-            <pubDate>Mon, 20 Mar 2023 07:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230320_254/1679293882911tLq42_JPEG/80429662618735910_973542050.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몸에 담긴 기억 / 리을 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
