@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 02:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 03:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디제이티즈 (DJ Tiz) & 비모카 (VIMOKA) & 스클비 (skrrvvy) - RE:FRESH (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8319745331</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8319745331</guid>
+            <pubDate>Thu, 30 Mar 2023 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230330_96/1680145984910MRRRH_JPEG/81281873620538684_1135223753.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Depeche Mode - Violator (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Mon, 20 Mar 2023 11:18:15 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230320_118/16793103264496VIR0_JPEG/80446215155375395_235306205.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Top Gun Maverick 탑 건 매버릭 (PICTURE DISC LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8268983436</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8268983436</guid>
-            <pubDate>Mon, 20 Mar 2023 11:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[59,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230320_166/16793088615622sqP6_JPEG/80444696394565449_1416024819.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몸에 담긴 기억 / 리을 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
