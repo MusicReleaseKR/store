@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 08:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 09:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코드 쿤스트 Code Kunst - Remember Archive (NO FLOWER SEEDS Ver) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8321382164</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8321382164</guid>
+            <pubDate>Thu, 30 Mar 2023 09:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230329_147/1680072201345W5qlO_JPEG/81208035153905186_631429679.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검정치마 The Black Skirts - 3집 PART 2 - THIRSTY (MARBLE SMOKE TRANSPARENT COLOURED LP) [1인 1매 구매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -614,14 +622,6 @@
             <pubDate>Mon, 20 Mar 2023 12:40:06 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230320_153/1679312658038AEbGb_JPEG/80448500746558599_591780203.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Sabbath - Technical Ecstasy (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8269118005</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8269118005</guid>
-            <pubDate>Mon, 20 Mar 2023 12:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230320_13/1679312231140Pdj5R_JPEG/80448073855995467_482489995.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몸에 담긴 기억 / 리을 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
