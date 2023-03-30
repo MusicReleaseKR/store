@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 04:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 05:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검정치마 The Black Skirts - 3집 PART 2 - THIRSTY (MARBLE SMOKE TRANSPARENT COLOURED LP) [1인 1매 구매]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8319968515</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8319968515</guid>
+            <pubDate>Thu, 30 Mar 2023 05:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[55,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230330_32/1680147275186YY6E2_JPEG/81283173887939361_102832368.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이엠 I.M - Duality (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8319794902</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 20 Mar 2023 12:40:06 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230320_13/1679312231140Pdj5R_JPEG/80448073855995467_482489995.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Unknown Mortal Ochestra - V (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8269046839</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8269046839</guid>
-            <pubDate>Mon, 20 Mar 2023 11:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230320_180/16793104872267TyCr_JPEG/80446375919498520_732531841.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
