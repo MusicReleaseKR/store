@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 07:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 08:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김윤아 - 라이브 앨범 - 행복한 사랑은 없네 (CD) [2종 중 1종 랜덤 발송] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8325602494</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8325602494</guid>
+            <pubDate>Fri, 31 Mar 2023 08:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230331_260/1680249308039Y8Djv_JPEG/81385135858552425_424209130.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도리 dori - Cinema Pt 1 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8321886651</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8321886651</guid>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 30 Mar 2023 09:21:39 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230329_147/1680072201345W5qlO_JPEG/81208035153905186_631429679.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검정치마 The Black Skirts - 3집 PART 2 - THIRSTY (MARBLE SMOKE TRANSPARENT COLOURED LP) [1인 1매 구매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8319968515</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8319968515</guid>
-            <pubDate>Thu, 30 Mar 2023 05:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230330_32/1680147275186YY6E2_JPEG/81283173887939361_102832368.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이엠 I.M - Duality (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
