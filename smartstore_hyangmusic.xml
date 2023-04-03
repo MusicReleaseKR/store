@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 11:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 12:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김목인 - 3집 콜라보 씨의 일일 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8341528425</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8341528425</guid>
+            <pubDate>Mon, 03 Apr 2023 12:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230403_113/1680523689083bWEiH_JPEG/81659472794145222_465286801.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lana Del Rey - Did You Know That There's A Tunnel Under Ocean Blvd (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8340922438</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 23 Mar 2023 08:24:50 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230323_206/1679555989241TXbYo_JPEG/80691887950613529_704909098.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지카이트 Izykite - I ZIP (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8285044434</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8285044434</guid>
-            <pubDate>Thu, 23 Mar 2023 07:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230323_146/1679555373546i5cx9_JPEG/80691272258724559_1854532270.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
