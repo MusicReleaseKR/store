@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 09:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 10:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lana Del Rey - Did You Know That There's A Tunnel Under Ocean Blvd (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8340922438</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8340922438</guid>
+            <pubDate>Mon, 03 Apr 2023 10:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230403_69/1680516508555vjU1u_JPEG/81652397252135564_1268094720.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lana Del Rey - Did You Know That There's A Tunnel Under Ocean Blvd (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8340893774</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8340893774</guid>
+            <pubDate>Mon, 03 Apr 2023 10:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[24,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230403_262/1680516107906wskNu_JPEG/81651996613747683_1514699212.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스크린스 The Screens - 시대상 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8340844752</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8340844752</guid>
+            <pubDate>Mon, 03 Apr 2023 10:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[13,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230403_117/1680515491477NxKAY_JPEG/81651326299980991_1452645660.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[예지 Yaeji - With A Hammer (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8340266215</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8340266215</guid>
@@ -598,30 +622,6 @@
             <pubDate>Thu, 23 Mar 2023 07:18:02 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230323_146/1679555373546i5cx9_JPEG/80691272258724559_1854532270.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stevie Wonder - Original Musiquarium I (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8280333298</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8280333298</guid>
-            <pubDate>Wed, 22 Mar 2023 12:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[58,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230322_148/167948432782399iIs_JPEG/80620107543556727_508294890.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay - Parachutes (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8280290312</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8280290312</guid>
-            <pubDate>Wed, 22 Mar 2023 11:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[28,600]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230322_208/1679483498122umLV6_JPEG/6786182004896376_1285639356.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay - Everyday Life (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8280269850</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8280269850</guid>
-            <pubDate>Wed, 22 Mar 2023 11:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[53,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230322_65/1679483008448WciuD_JPEG/6785692333227722_2116354467.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몸에 담긴 기억 / 리을 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
