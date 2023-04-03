@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 07:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 08:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예지 Yaeji - With A Hammer (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8340266215</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8340266215</guid>
+            <pubDate>Mon, 03 Apr 2023 08:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[59,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230403_87/1680506338032DV9tP_JPEG/81642171852929541_1567051138.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예지 Yaeji - With A Hammer (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8340251781</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 22 Mar 2023 11:16:19 GMT</pubDate>
             <content:encoded><![CDATA[53,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230322_65/1679483008448WciuD_JPEG/6785692333227722_2116354467.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cigarettes After Sex - Cigarettes After Sex (WHITE COLOURED LP) [RE-ISSUE]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8280233656</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8280233656</guid>
-            <pubDate>Wed, 22 Mar 2023 11:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[40,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230322_250/16794826737319DEVF_JPEG/6785357614266436_523779320.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
