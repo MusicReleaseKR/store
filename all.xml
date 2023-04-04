@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 20:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 21:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -608,19 +608,19 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230327_181/1679896927245Rjrue_JPEG/81032755075173673_1740615522.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최백호 - 불혹 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8304051488</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8304051488</guid>
-            <pubDate>Mon, 27 Mar 2023 06:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230327_27/1679894596002XvTnz_JPEG/81030430838830907_1072354414.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[U2 - Songs Of Surrender (SUPER DELUXE COLLECTORS EDITION) [4CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8285637655</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8285637655</guid>
             <pubDate>Thu, 23 Mar 2023 10:21:59 GMT</pubDate>
             <content:encoded><![CDATA[55,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230323_2/1679563757362e3kWq_JPEG/80699592172068687_875057525.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[U2 - Songs Of Surrender (180G 4LP) [SUPER DELUXE COLLECTORS BOX SET] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8285621633</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8285621633</guid>
+            <pubDate>Tue, 04 Apr 2023 21:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[165,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230323_2/1679563757362e3kWq_JPEG/80699592172068687_875057525.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
