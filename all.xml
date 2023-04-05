@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 09:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 10:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Mon, 14 Nov 2022 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190916_227/1568617047548VPJsT_JPEG/5979381102940236_1500790716.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manic Street Preachers - Gold Against The Soul (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8352160749</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8352160749</guid>
+            <pubDate>Wed, 05 Apr 2023 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[28,600]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230405_162/1680690023026MxD4A_JPEG/81825918763275623_1838777426.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Al Stewart - Year Of The Cat (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8352093821</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8352093821</guid>
+            <pubDate>Wed, 05 Apr 2023 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[28,600]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230405_262/1680689336651zsSeB_JPEG/81825225348498515_897047015.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정원영 - 2집 Mr Moonlight (WHITE COVER EDITION) [180G CLEAR BLUE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -606,22 +622,6 @@
             <pubDate>Tue, 28 Mar 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230328_60/16799892712792CUF2_JPEG/81125159991326090_1304029426.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유라시아 Eurasia - Ø (파이) [180G WHITE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8310437250</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8310437250</guid>
-            <pubDate>Tue, 28 Mar 2023 08:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230328_184/1679988656322y2Q5z_JPEG/81124545033095047_686797691.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 데시벨 (카세트 테이프) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8310383409</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8310383409</guid>
-            <pubDate>Tue, 28 Mar 2023 08:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230328_146/1679988044920Lc2lm_JPEG/81123933624611464_532819454.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몸에 담긴 기억 / 리을 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
