@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 23:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 01:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,14 +504,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230329_147/1680072201345W5qlO_JPEG/81208035153905186_631429679.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이엠 I.M - Duality (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8319794902</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8319794902</guid>
-            <pubDate>Thu, 30 Mar 2023 04:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[52,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230330_292/1680146479667ynGgn_JPEG/81282368380902478_1325052990.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[디제이티즈 (DJ Tiz) & 비모카 (VIMOKA) & 스클비 (skrrvvy) - RE:FRESH (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8319745331</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8319745331</guid>
@@ -622,6 +614,14 @@
             <pubDate>Tue, 28 Mar 2023 10:23:11 GMT</pubDate>
             <content:encoded><![CDATA[63,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230328_21/1679995759141W81hE_JPEG/81131592943580184_437222154.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[U2 - Songs Of Surrender (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8310654704</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8310654704</guid>
+            <pubDate>Sun, 09 Apr 2023 01:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[52,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230323_2/1679563757362e3kWq_JPEG/80699592172068687_875057525.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몸에 담긴 기억 / 리을 에세이 (네이버 스마트스토어 ─ 공상온도)]]></title>
