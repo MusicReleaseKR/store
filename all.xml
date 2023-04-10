@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 07:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 08:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,14 +312,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230410_273/1681106980141VUMUv_JPEG/82242868837521911_1637297232.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정세운 - 1집 24 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8377393253</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8377393253</guid>
-            <pubDate>Mon, 10 Apr 2023 06:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230410_182/1681105589490eJv5B_JPEG/82241478195773850_1962000392.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[장기하 - 해 / 할건지말건지 (SINGLE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8364277651</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8364277651</guid>
@@ -621,6 +613,14 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/8311041653</guid>
             <pubDate>Tue, 28 Mar 2023 10:23:11 GMT</pubDate>
             <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230328_21/1679995759141W81hE_JPEG/81131592943580184_437222154.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 괴물 怪物 - Music By Ryuichi Sakamoto (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8311002047</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8311002047</guid>
+            <pubDate>Mon, 10 Apr 2023 08:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[63,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230328_21/1679995759141W81hE_JPEG/81131592943580184_437222154.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
