@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 07:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 08:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노이즈 - 3집 Revolution (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8383788056</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8383788056</guid>
+            <pubDate>Tue, 11 Apr 2023 08:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230411_245/1681198354763G2JcC_JPEG/82334197476508734_1312223320.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웅산 - 10집 Who Stole the Skies (180G LP & 7INCH LP) [2,022장 넘버링 한정반]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8378649308</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 28 Mar 2023 13:26:48 GMT</pubDate>
             <content:encoded><![CDATA[31,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230328_245/1680009613592vpiWa_JPEG/81145502297068849_509978555.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 괴물 怪物 - Music By Ryuichi Sakamoto (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8311041653</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8311041653</guid>
-            <pubDate>Tue, 28 Mar 2023 10:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230328_21/1679995759141W81hE_JPEG/81131592943580184_437222154.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
