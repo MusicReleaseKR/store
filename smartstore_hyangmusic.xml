@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 07:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 08:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230329_208/1680080283047Rud6p_JPEG/81216116861778106_2052088159.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코드 쿤스트 Code Kunst - Remember Archive (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8315539668</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8315539668</guid>
+            <pubDate>Wed, 12 Apr 2023 08:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230329_147/1680072201345W5qlO_JPEG/81208035153905186_631429679.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[데디오레디오 Daddy O Radio - Green Tattoo (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8315474798</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8315474798</guid>
@@ -317,14 +325,6 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/8311702887</guid>
             <pubDate>Tue, 28 Mar 2023 14:19:37 GMT</pubDate>
             <content:encoded><![CDATA[75,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230328_245/1680009613592vpiWa_JPEG/81145502297068849_509978555.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gorillaz - Cracker Island (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8311693325</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8311693325</guid>
-            <pubDate>Wed, 12 Apr 2023 02:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[31,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230328_245/1680009613592vpiWa_JPEG/81145502297068849_509978555.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
