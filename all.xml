@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 01:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 02:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,19 +312,19 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230329_147/1680072201345W5qlO_JPEG/81208035153905186_631429679.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데디오레디오 Daddy O Radio - Green Tattoo (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8315474798</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8315474798</guid>
-            <pubDate>Wed, 29 Mar 2023 06:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230329_166/1680071036397xk0Uj_JPEG/7373720283097371_2007496524.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Gorillaz - Cracker Island (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8311702887</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8311702887</guid>
             <pubDate>Tue, 28 Mar 2023 14:19:37 GMT</pubDate>
             <content:encoded><![CDATA[75,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230328_245/1680009613592vpiWa_JPEG/81145502297068849_509978555.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gorillaz - Cracker Island (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8311693325</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8311693325</guid>
+            <pubDate>Thu, 13 Apr 2023 02:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[31,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230328_245/1680009613592vpiWa_JPEG/81145502297068849_509978555.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
