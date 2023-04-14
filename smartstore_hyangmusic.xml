@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 06:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 07:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위 아더 나잇 We Are The Night - Blue And Some Black (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8401249946</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8401249946</guid>
+            <pubDate>Fri, 14 Apr 2023 07:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230414_244/1681454635325qNP6v_JPEG/8373205742648752_1396247100.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠기 Coogie - Diff (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8401130585</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8401130585</guid>
+            <pubDate>Fri, 14 Apr 2023 07:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230414_195/1681453629328L3Qwj_JPEG/33419201133286833_398173934.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[적재 - The Lights (SILVER COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8395739795</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 29 Mar 2023 10:22:16 GMT</pubDate>
             <content:encoded><![CDATA[26,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230329_256/1680081858789A9vMh_JPEG/81217754527254675_212761867.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보아 BOA - Forgive Me [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8316096117</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8316096117</guid>
-            <pubDate>Wed, 29 Mar 2023 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[53,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230329_179/1680081431545CsNlk_JPEG/81217327280920839_415545582.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lynyrd Skynyrd - Pronounced Leh-Nerd Skin-Nerd (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8316046539</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8316046539</guid>
-            <pubDate>Wed, 29 Mar 2023 09:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230329_136/1680081018358mm5pA_JPEG/81216914095066170_223485699.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
