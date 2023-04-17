@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 11:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 12:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 판듀 베스트컬렉션 (Part 1 - Part 4) [4LP BOX SET]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8416589225</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8416589225</guid>
+            <pubDate>Mon, 17 Apr 2023 12:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[155,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230417_173/168173273101042W5l_JPEG/3376032871975298_1124846300.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 판듀 베스트컬렉션 Part 4 (CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8416541181</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8416541181</guid>
+            <pubDate>Mon, 17 Apr 2023 12:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230417_277/1681732258994d8DIQ_JPEG/16464917970129158_132478894.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 판듀 베스트컬렉션 Part 3 (CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8416518660</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8416518660</guid>
+            <pubDate>Mon, 17 Apr 2023 12:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230417_15/1681731848664llhyc_JPEG/8584439476111594_1352538068.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 판듀 베스트컬렉션 Part 2 (CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8416485364</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8416485364</guid>
+            <pubDate>Mon, 17 Apr 2023 12:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230417_51/1681731059243WX3nV_JPEG/29667785068311425_1276204606.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fenne Lily - Big Picture (ULTRAMARINE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8415808929</link>
@@ -294,38 +326,6 @@
             <pubDate>Mon, 03 Apr 2023 06:24:56 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230403_89/1680501568099Hz4oE_JPEG/81637463836774346_920809126.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤종신 - 행보 2021, 2022 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8339885795</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8339885795</guid>
-            <pubDate>Mon, 03 Apr 2023 06:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230403_146/1680500736855MbNot_JPEG/81636570677119480_760385156.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김윤아 - 라이브 앨범 - 행복한 사랑은 없네 (CD) [2종 중 1종 랜덤 발송]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8325602494</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8325602494</guid>
-            <pubDate>Fri, 31 Mar 2023 08:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230331_260/1680249308039Y8Djv_JPEG/81385135858552425_424209130.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도리 dori - Cinema Pt 1 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8321886651</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8321886651</guid>
-            <pubDate>Thu, 30 Mar 2023 12:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230330_277/1680173736231AJPjz_JPEG/81309570023681771_2133876572.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코드 쿤스트 Code Kunst - Remember Archive (NO FLOWER SEEDS Ver) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8321382164</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8321382164</guid>
-            <pubDate>Thu, 30 Mar 2023 09:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230329_147/1680072201345W5qlO_JPEG/81208035153905186_631429679.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
