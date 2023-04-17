@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 08:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 09:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fenne Lily - Big Picture (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8415650299</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8415650299</guid>
+            <pubDate>Mon, 17 Apr 2023 09:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230417_113/1681722386327OCk8o_JPEG/31205993507245780_1393517436.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Rivers - Fuchsia Swing Song (Blue Note Classic Vinyl Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8415594782</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8415594782</guid>
+            <pubDate>Mon, 17 Apr 2023 09:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230417_249/16817213572562bBDx_JPEG/29658083076344383_1505361534.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이브 IVE - 1집 I've IVE (Special Ver) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8415220781</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 30 Mar 2023 03:20:35 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230330_96/1680145984910MRRRH_JPEG/81281873620538684_1135223753.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Depeche Mode - Violator (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8316215019</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8316215019</guid>
-            <pubDate>Wed, 29 Mar 2023 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[35,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230329_112/1680083278314JKDma_JPEG/7385962193985068_1767203817.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Once 원스 A New Musical (Original Cast Recording) [MARIGOLD COLOURED 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8316180468</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8316180468</guid>
-            <pubDate>Wed, 29 Mar 2023 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[55,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230329_21/16800826612077iR1p_JPEG/7385345081473453_1690236352.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
