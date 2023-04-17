@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 09:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 10:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fenne Lily - Big Picture (ULTRAMARINE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8415808929</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8415808929</guid>
+            <pubDate>Mon, 17 Apr 2023 10:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230417_184/1681723908916qNAVT_JPEG/3367210791054289_1182329326.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fenne Lily - Big Picture (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8415782006</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8415782006</guid>
+            <pubDate>Mon, 17 Apr 2023 10:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230417_278/1681722799622390CO_JPEG/9870817933653921_849719728.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fenne Lily - Big Picture (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8415650299</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 30 Mar 2023 09:21:39 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230329_147/1680072201345W5qlO_JPEG/81208035153905186_631429679.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검정치마 The Black Skirts - 3집 PART 2 - THIRSTY (MARBLE SMOKE TRANSPARENT COLOURED LP) [1인 1매 구매]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8319968515</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8319968515</guid>
-            <pubDate>Thu, 13 Apr 2023 08:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230330_32/1680147275186YY6E2_JPEG/81283173887939361_102832368.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디제이티즈 (DJ Tiz) & 비모카 (VIMOKA) & 스클비 (skrrvvy) - RE:FRESH (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8319745331</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8319745331</guid>
-            <pubDate>Thu, 30 Mar 2023 03:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230330_96/1680145984910MRRRH_JPEG/81281873620538684_1135223753.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
