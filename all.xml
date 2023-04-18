@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 08:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 09:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최항석과 부기몬스터 - 1집 Good man but Blues man (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8421394583</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8421394583</guid>
+            <pubDate>Tue, 18 Apr 2023 09:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230418_10/1681807740091cjeQT_JPEG/765386099809812_734521111.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Blue Giant 블루 자이언트 (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8421226289</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 03 Apr 2023 10:20:24 GMT</pubDate>
             <content:encoded><![CDATA[62,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230403_69/1680516508555vjU1u_JPEG/81652397252135564_1268094720.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lana Del Rey - Did You Know That There's A Tunnel Under Ocean Blvd (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8340893774</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8340893774</guid>
-            <pubDate>Mon, 03 Apr 2023 10:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[24,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230403_262/1680516107906wskNu_JPEG/81651996613747683_1514699212.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
