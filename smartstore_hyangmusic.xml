@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 06:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 07:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전람회 - 1집 (180G WHITE COLOURED LP) [재발매]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8420740866</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8420740866</guid>
+            <pubDate>Tue, 18 Apr 2023 07:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230418_33/1681798732944G8Fl2_JPEG/31282340120697571_1824635159.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포포 popo - Study in Black (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8420554665</link>
@@ -317,14 +325,6 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/8340235149</guid>
             <pubDate>Mon, 03 Apr 2023 07:18:04 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230403_287/1680502412396vCE7l_JPEG/81638308126165667_1807792050.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예지 Yaeji - With A Hammer (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8340220529</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8340220529</guid>
-            <pubDate>Mon, 03 Apr 2023 07:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230403_287/1680502412396vCE7l_JPEG/81638308126165667_1807792050.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
