@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 05:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 08:29:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여유와 설빈 - 2집 노래는 저 멀리 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8425443382</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8425443382</guid>
+            <pubDate>Wed, 19 Apr 2023 08:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210910_130/1631271127099ffHGG_JPEG/32407025800180304_629002788.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페이퍼 리버 Paper River - Where, There Was (140G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8425411561</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8425411561</guid>
+            <pubDate>Wed, 19 Apr 2023 08:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230419_92/1681885720926oMLtb_JPEG/3203057930152162_1530758054.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최항석과 부기몬스터 - 1집 Good man but Blues man (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8421394583</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 05 Apr 2023 08:26:10 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230403_5/16805234142621nbo6_JPEG/81659197981083177_1917091242.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay - Viva La Vida (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8341474467</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8341474467</guid>
-            <pubDate>Wed, 05 Apr 2023 08:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230403_14/1680523145151R6TRM_JPEG/81658928855891783_1282519122.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lana Del Rey - Did You Know That There's A Tunnel Under Ocean Blvd (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8340922438</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8340922438</guid>
-            <pubDate>Mon, 03 Apr 2023 10:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230403_69/1680516508555vjU1u_JPEG/81652397252135564_1268094720.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
