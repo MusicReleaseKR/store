@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 06:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 07:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김두수 - 7집 류목 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8431610619</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8431610619</guid>
+            <pubDate>Thu, 20 Apr 2023 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230420_283/1681972514900cS0fA_JPEG/98592768123639_1586931235.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd - Starboy (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8431533948</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8431533948</guid>
+            <pubDate>Thu, 20 Apr 2023 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230420_42/1681972272612jBwvA_JPEG/1907453416499031_1582642181.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페이퍼 리버 Paper River - Where, There Was (140G WHITE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8425411561</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 03 Apr 2023 12:35:53 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230403_113/1680523689083bWEiH_JPEG/81659472794145222_465286801.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장필순 - Soony Re work-1 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8341497580</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8341497580</guid>
-            <pubDate>Wed, 05 Apr 2023 08:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230403_5/16805234142621nbo6_JPEG/81659197981083177_1917091242.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay - Viva La Vida (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8341474467</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8341474467</guid>
-            <pubDate>Wed, 19 Apr 2023 13:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230403_14/1680523145151R6TRM_JPEG/81658928855891783_1282519122.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
