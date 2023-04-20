@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 08:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 09:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임윤찬 / 광주시향 / 홍석원 - 베토벤, 윤이상, 바버 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8432093756</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8432093756</guid>
+            <pubDate>Thu, 20 Apr 2023 09:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230420_57/1681978859082eYQ63_JPEG/32330260048079752_1648454631.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비츠냅 Beatsnap - En Route (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8432053509</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 04 Apr 2023 07:17:14 GMT</pubDate>
             <content:encoded><![CDATA[66,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230404_247/1680590841729MTyeY_JPEG/81726669551025970_198645205.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이비식스 AB6IX - 1ST EP - B COMPLETE VINYL (180G CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8346415260</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8346415260</guid>
-            <pubDate>Tue, 04 Apr 2023 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230404_4/1680590154236Dp7X0_JPEG/81725982058449618_1230087568.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
