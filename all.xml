@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 07:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 08:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비츠냅 Beatsnap - En Route (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8432053509</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8432053509</guid>
+            <pubDate>Thu, 20 Apr 2023 08:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230420_135/16819750594704V3Db_JPEG/27731437274744949_586124454.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김두수 - 7집 류목 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8431610619</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 04 Apr 2023 07:17:14 GMT</pubDate>
             <content:encoded><![CDATA[47,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230404_4/1680590154236Dp7X0_JPEG/81725982058449618_1230087568.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김목인 - 3집 콜라보 씨의 일일 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8341528425</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8341528425</guid>
-            <pubDate>Mon, 03 Apr 2023 12:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230403_113/1680523689083bWEiH_JPEG/81659472794145222_465286801.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
