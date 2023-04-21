@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 05:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 06:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카리나네뷸라 Carina Nebula - Good Match (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8436687199</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8436687199</guid>
+            <pubDate>Fri, 21 Apr 2023 06:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230421_145/1682057341705EDPxr_JPEG/8747810689667042_169739742.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이무지치 / 펠릭스 아요 - VIVALDI FOUR SEASONS (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8436587489</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8436587489</guid>
+            <pubDate>Fri, 21 Apr 2023 06:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230421_59/16820560137071gs83_JPEG/7144021582528574_1618791616.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박정현 - The Bridge (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8436546808</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8436546808</guid>
+            <pubDate>Fri, 21 Apr 2023 06:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230421_121/1682055116732ti7ku_JPEG/28081217708899450_1010595779.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2차분] 적재 - The Lights (SILVER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8436499568</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8436499568</guid>
+            <pubDate>Fri, 21 Apr 2023 06:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230413_80/1681371724168r7brR_JPEG/82507507877387096_179089552.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임윤찬 / 광주시향 / 홍석원 - 베토벤, 윤이상, 바버 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8432093756</link>
@@ -294,38 +326,6 @@
             <pubDate>Wed, 05 Apr 2023 10:22:58 GMT</pubDate>
             <content:encoded><![CDATA[28,600]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230405_162/1680690023026MxD4A_JPEG/81825918763275623_1838777426.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Al Stewart - Year Of The Cat (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8352093821</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8352093821</guid>
-            <pubDate>Wed, 05 Apr 2023 10:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[28,600]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230405_262/1680689336651zsSeB_JPEG/81825225348498515_897047015.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정원영 - 2집 Mr Moonlight (WHITE COVER EDITION) [180G CLEAR BLUE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8351683893</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8351683893</guid>
-            <pubDate>Wed, 05 Apr 2023 08:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230405_260/16806821750944qe90_JPEG/81818063808219628_971071880.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정원영 - 2집 Mr Moonlight (BLACK COVER EDITION) [180G CLEAR BLUE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8351672856</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8351672856</guid>
-            <pubDate>Wed, 05 Apr 2023 08:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230405_165/1680681766414u4iS0_JPEG/81817655126229091_398425135.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이현도 - D.O Funk (BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8346452455</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8346452455</guid>
-            <pubDate>Tue, 04 Apr 2023 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[66,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230404_247/1680590841729MTyeY_JPEG/81726669551025970_198645205.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
