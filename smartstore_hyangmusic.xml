@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 06:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 07:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chet Baker - Chet (180G MONO LP) [RSD 한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8456794315</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8456794315</guid>
+            <pubDate>Tue, 25 Apr 2023 07:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230425_234/1682405767807TXP58_JPEG/35177738807808844_181903460.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker - Chet Baker Sings & Plays (Blue Note Tone Poet Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8456696137</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8456696137</guid>
+            <pubDate>Tue, 25 Apr 2023 07:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230424_85/1682341133075uJDR6_JPEG/28112549620196875_2127100557.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Andre Levy 앙드레 레비 - Bach Suites for Unaccompanied Cello Vol Three (2023 Remastered) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8456459044</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 13 Apr 2023 08:23:44 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230413_80/1681371724168r7brR_JPEG/82507507877387096_179089552.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박재정 - 1집 Alone (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8395685227</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8395685227</guid>
-            <pubDate>Thu, 13 Apr 2023 08:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230413_17/1681371069027yoH49_JPEG/82506852727396193_1813369301.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하현상 - 1집 Time and Trace (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8395644605</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8395644605</guid>
-            <pubDate>Thu, 13 Apr 2023 08:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230413_293/1681370552440tnzQF_JPEG/82506336158113438_880942215.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
