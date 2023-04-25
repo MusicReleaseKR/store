@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 07:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 08:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Lee Hooker - Burnin' (60th Anniversary Edition) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8457009064</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8457009064</guid>
+            <pubDate>Tue, 25 Apr 2023 08:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230425_260/1682408775737SFz00_JPEG/712082696166684_1611172319.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chet Baker - Chet (180G MONO LP) [RSD 한정반]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8456794315</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 14 Apr 2023 07:17:14 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230414_195/1681453629328L3Qwj_JPEG/33419201133286833_398173934.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[적재 - The Lights (SILVER COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8395739795</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8395739795</guid>
-            <pubDate>Thu, 13 Apr 2023 08:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230413_80/1681371724168r7brR_JPEG/82507507877387096_179089552.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
