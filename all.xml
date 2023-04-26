@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 09:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 10:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stanley Turrentine - Mr. Natural (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8463870094</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8463870094</guid>
+            <pubDate>Wed, 26 Apr 2023 10:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230426_201/16825033519449Q20z_JPEG/29834258941928220_105682912.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Johnny Coles - Little Johnny C (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8463806993</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8463806993</guid>
+            <pubDate>Wed, 26 Apr 2023 10:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230426_242/1682502814841jy4fo_JPEG/15892940709934450_1467156026.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[염력 - 염력 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8463676615</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8463676615</guid>
+            <pubDate>Wed, 26 Apr 2023 10:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230426_270/1682501428227sb70z_JPEG/29832335214765536_474335615.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Lee Hooker - Burnin' (60th Anniversary Edition) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8457009064</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 17 Apr 2023 08:24:47 GMT</pubDate>
             <content:encoded><![CDATA[26,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230417_160/1681716773047X1Ebk_JPEG/9864791325313757_836803307.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아도레 adore - 눈을 감고 살면 낮도 꿈 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8415084206</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8415084206</guid>
-            <pubDate>Mon, 17 Apr 2023 08:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230417_218/1681715665791NNzE6_JPEG/31199272866853079_1987182176.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위 아더 나잇 We Are The Night - Blue And Some Black (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8401249946</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8401249946</guid>
-            <pubDate>Fri, 14 Apr 2023 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230414_244/1681454635325qNP6v_JPEG/8373205742648752_1396247100.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠기 Coogie - Diff (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8401130585</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8401130585</guid>
-            <pubDate>Fri, 14 Apr 2023 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230414_195/1681453629328L3Qwj_JPEG/33419201133286833_398173934.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
