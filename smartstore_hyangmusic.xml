@@ -4,9 +4,24 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 10:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 11:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[George Michael - Listen Without Prejudice Vol 1 (Remastered) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8464061619</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8464061619</guid>
+            <pubDate>Wed, 26 Apr 2023 11:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[26,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230426_200/1682505966798klbj7_JPEG/18048386248903728_452613347.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성인인증 후 확인 가능합니다]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8463957413</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8463957413</guid>
+            <pubDate>Wed, 26 Apr 2023 11:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="gFNkPpljgY"><div class="_2JNWBGd-04 _3uKZ70Wwcp _2ACRqm18Hp EnqpMc_sIs"></div></div><a href="/hyangmusic/products/8463957413" class="_1vVKEk_wsi N=a:lst.product linkAnchor"><div class="_3awm7HiPkO"><div class="_1HA92CdeY4"><strong class="_1Zvjahn0GA">성인인증 후 확인 가능합니다</strong></div></div></a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Stanley Turrentine - Mr. Natural (Blue Note Tone Poet Series) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8463870094</link>
@@ -310,22 +325,6 @@
             <pubDate>Mon, 17 Apr 2023 09:19:56 GMT</pubDate>
             <content:encoded><![CDATA[36,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230417_113/1681722386327OCk8o_JPEG/31205993507245780_1393517436.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sam Rivers - Fuchsia Swing Song (Blue Note Classic Vinyl Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8415594782</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8415594782</guid>
-            <pubDate>Mon, 17 Apr 2023 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230417_249/16817213572562bBDx_JPEG/29658083076344383_1505361534.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이브 IVE - 1집 I've IVE (Special Ver) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8415220781</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8415220781</guid>
-            <pubDate>Mon, 17 Apr 2023 08:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[26,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230417_160/1681716773047X1Ebk_JPEG/9864791325313757_836803307.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
