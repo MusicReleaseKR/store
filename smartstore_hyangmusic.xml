@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 06:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 07:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메사니 Mesani - Jungle EP + Singles (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8468639641</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8468639641</guid>
+            <pubDate>Thu, 27 Apr 2023 07:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230427_249/16825791604823yl8e_JPEG/18121579931262610_1954351599.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - First Class Tape 2 (140G YELLOW COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8468597756</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8468597756</guid>
+            <pubDate>Thu, 27 Apr 2023 07:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230427_136/1682578619494WaX9m_JPEG/686730885285070_302029921.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후쿠오 Hookuo - Mild Dawn City Vol 2 (180G BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8468574616</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8468574616</guid>
+            <pubDate>Thu, 27 Apr 2023 07:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[46,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230427_117/1682575965480PhU55_JPEG/259186321835209_192125723.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[George Michael - Listen Without Prejudice Vol 1 (Remastered) [LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8464061619</link>
@@ -301,30 +325,6 @@
             <pubDate>Mon, 17 Apr 2023 12:36:50 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230417_51/1681731059243WX3nV_JPEG/29667785068311425_1276204606.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fenne Lily - Big Picture (ULTRAMARINE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8415808929</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8415808929</guid>
-            <pubDate>Mon, 17 Apr 2023 10:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230424_175/1682323305032Fxvrk_JPEG/626611982936934_500462689.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fenne Lily - Big Picture (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8415782006</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8415782006</guid>
-            <pubDate>Mon, 17 Apr 2023 10:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230417_278/1681722799622390CO_JPEG/9870817933653921_849719728.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fenne Lily - Big Picture (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8415650299</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8415650299</guid>
-            <pubDate>Mon, 17 Apr 2023 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230417_113/1681722386327OCk8o_JPEG/31205993507245780_1393517436.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
