@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 06:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 07:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,14 +167,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230421_4/16820599412691UV6i_JPEG/27816319079891872_402656432.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[So!yoon! 황소윤 - Episode1 : Love (카세트테이프)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8436767823</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8436767823</guid>
-            <pubDate>Fri, 21 Apr 2023 07:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230421_56/1682059325848v1JXB_JPEG/185403724463668_844283234.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[So!yoon! 황소윤 - Episode1 : Love (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8436717264</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8436717264</guid>
@@ -325,6 +317,14 @@
             <pubDate>Mon, 17 Apr 2023 12:36:50 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230417_277/1681732258994d8DIQ_JPEG/16464917970129158_132478894.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 판듀 베스트컬렉션 Part 3 (CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8416518660</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8416518660</guid>
+            <pubDate>Fri, 28 Apr 2023 07:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230417_15/1681731848664llhyc_JPEG/8584439476111594_1352538068.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
