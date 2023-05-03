@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 07:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 08:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사라사테 - 지고이네르바이젠 / 파가니니 - 바이올린 협주곡 1번 (이온 보이쿠) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8490005088</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8490005088</guid>
+            <pubDate>Wed, 03 May 2023 08:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230503_59/1683098500984gV45n_JPEG/31629756790791074_133627223.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산울림 - 9집 웃는 모습으로 간직하고 싶어 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8489953712</link>
@@ -317,14 +325,6 @@
             <pubDate>Tue, 18 Apr 2023 08:24:18 GMT</pubDate>
             <content:encoded><![CDATA[86,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230418_87/16818043855969S1Fg_JPEG/29741111421388757_461165321.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사공 - 노래모음집 (180G OLIVE GREEN COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8421174800</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8421174800</guid>
-            <pubDate>Tue, 18 Apr 2023 08:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230418_12/1681803840492FqQVn_JPEG/29740566318041236_771623571.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
