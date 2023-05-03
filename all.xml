@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 05:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 06:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤하 Younha - MINDSET (Studio Live Album) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8489678278</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8489678278</guid>
+            <pubDate>Wed, 03 May 2023 06:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230503_79/168309413023009bDa_JPEG/11633849051255761_2083962485.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안치환 - 3집 Confession (30주년 기념반) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8483454283</link>
@@ -317,14 +325,6 @@
             <pubDate>Mon, 17 Apr 2023 12:36:50 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230417_277/1681732258994d8DIQ_JPEG/16464917970129158_132478894.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 판듀 베스트컬렉션 Part 3 (CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8416518660</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8416518660</guid>
-            <pubDate>Fri, 28 Apr 2023 07:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230417_15/1681731848664llhyc_JPEG/8584439476111594_1352538068.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
