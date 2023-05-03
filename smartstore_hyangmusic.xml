@@ -4,9 +4,57 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 06:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 07:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산울림 - 9집 웃는 모습으로 간직하고 싶어 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8489953712</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8489953712</guid>
+            <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[46,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230503_56/16830978299485i02x_JPEG/1220288861834385_830509083.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 - 8집 새야 날아 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8489925199</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8489925199</guid>
+            <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[46,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230503_2/1683097411946gJGKc_JPEG/14444065227676512_645081187.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 - 7집 가지마오 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8489891201</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8489891201</guid>
+            <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[46,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230503_72/16830969064857hdWV_JPEG/9736997993104050_1440391307.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모차르트 - 바이올린 소나타 작품 전집 4집 (칼 수스케) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8489831582</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8489831582</guid>
+            <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230503_18/1683096257034sf4jQ_JPEG/31627512840096053_277501862.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모차르트 - 바이올린 소나타 작품 전집 3집 (칼 수스케) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8489802346</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8489802346</guid>
+            <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230503_294/1683095887958bOAfB_JPEG/1218346878255360_1216794268.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요정 Yojung - 우리는 (We Are) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8489759307</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8489759307</guid>
+            <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230503_280/1683095405077XiBTL_JPEG/4252620662438792_1386547315.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤하 Younha - MINDSET (Studio Live Album) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8489678278</link>
@@ -277,54 +325,6 @@
             <pubDate>Tue, 18 Apr 2023 08:24:18 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230418_12/1681803840492FqQVn_JPEG/29740566318041236_771623571.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[던말릭 Don Malik - MADE IN SEOUL (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8421128919</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8421128919</guid>
-            <pubDate>Tue, 18 Apr 2023 08:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230418_83/1681803416464CUnAg_JPEG/29740142282528681_186930453.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나우히즈 Nawhij - After Midnight (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8421064449</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8421064449</guid>
-            <pubDate>Tue, 18 Apr 2023 08:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230418_56/1681802145175X4OQ8_JPEG/16534804153304920_133717763.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전람회 - 1집 (180G WHITE COLOURED LP) [재발매]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8420740866</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8420740866</guid>
-            <pubDate>Tue, 18 Apr 2023 07:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230418_33/1681798732944G8Fl2_JPEG/31282340120697571_1824635159.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포포 popo - Study in Black (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8420554665</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8420554665</guid>
-            <pubDate>Tue, 18 Apr 2023 06:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230418_113/1681797109273APuD9_JPEG/8649700086953950_939144697.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 판듀 베스트컬렉션 (Part 1 - Part 4) [4LP BOX SET]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8416589225</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8416589225</guid>
-            <pubDate>Mon, 17 Apr 2023 12:36:50 GMT</pubDate>
-            <content:encoded><![CDATA[155,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230417_173/168173273101042W5l_JPEG/3376032871975298_1124846300.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 판듀 베스트컬렉션 Part 4 (CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8416541181</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8416541181</guid>
-            <pubDate>Mon, 17 Apr 2023 12:36:50 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230417_277/1681732258994d8DIQ_JPEG/16464917970129158_132478894.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
