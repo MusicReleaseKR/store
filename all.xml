@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 11:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 12:35:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 04 May 2023 07:17:54 GMT</pubDate>
             <content:encoded><![CDATA[56,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230504_23/1683183739811wAy3n_JPEG/10304478519237907_2119542018.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 슬램덩크 (THE FIRST SLAM DUNK 스탠다드 에디션) [초도 인쇄반] (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8490749612</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8490749612</guid>
-            <pubDate>Wed, 03 May 2023 10:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[35,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230503_1/1683105513050Av2pX_JPEG/9745604579148063_524776528.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사라사테 - 지고이네르바이젠 / 파가니니 - 바이올린 협주곡 1번 (이온 보이쿠) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -325,6 +317,14 @@
             <pubDate>Thu, 20 Apr 2023 07:17:57 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230420_283/1681972514900cS0fA_JPEG/98592768123639_1586931235.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd - Starboy (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8431533948</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8431533948</guid>
+            <pubDate>Thu, 04 May 2023 12:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230420_42/1681972272612jBwvA_JPEG/1907453416499031_1582642181.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
