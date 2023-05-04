@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 07:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 08:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피프티 피프티 FIFTY FIFTY - The 1st EP THE FIFTY (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8495900568</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8495900568</guid>
+            <pubDate>Thu, 04 May 2023 08:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230504_158/1683185339493wyBQP_JPEG/2218623028590932_1557786521.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조용필 - Road to 20-Prelude 2 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8495854777</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8495854777</guid>
+            <pubDate>Thu, 04 May 2023 08:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230504_76/1683184698772r4BxO_JPEG/10540886616079554_1172381419.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kestrel - Kestrel Complete Recordings (Expanded Edition) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8495804253</link>
@@ -309,22 +325,6 @@
             <pubDate>Thu, 20 Apr 2023 07:17:57 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230420_283/1681972514900cS0fA_JPEG/98592768123639_1586931235.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weeknd - Starboy (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8431533948</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8431533948</guid>
-            <pubDate>Thu, 20 Apr 2023 07:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230420_42/1681972272612jBwvA_JPEG/1907453416499031_1582642181.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페이퍼 리버 Paper River - Where, There Was (140G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8425411561</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8425411561</guid>
-            <pubDate>Wed, 19 Apr 2023 08:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230419_92/1681885720926oMLtb_JPEG/3203057930152162_1530758054.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
