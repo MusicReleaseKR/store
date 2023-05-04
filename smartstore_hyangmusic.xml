@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 06:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 07:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kestrel - Kestrel Complete Recordings (Expanded Edition) [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8495804253</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8495804253</guid>
+            <pubDate>Thu, 04 May 2023 07:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230504_23/1683183739811wAy3n_JPEG/10304478519237907_2119542018.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 슬램덩크 (THE FIRST SLAM DUNK 스탠다드 에디션) [초도 인쇄반] (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8490749612</link>
@@ -317,14 +325,6 @@
             <pubDate>Wed, 19 Apr 2023 08:28:46 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230419_92/1681885720926oMLtb_JPEG/3203057930152162_1530758054.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최항석과 부기몬스터 - 1집 Good man but Blues man (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8421394583</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8421394583</guid>
-            <pubDate>Tue, 18 Apr 2023 09:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[46,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230418_10/1681807740091cjeQT_JPEG/765386099809812_734521111.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
