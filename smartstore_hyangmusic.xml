@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 08:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 09:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜드 Colde - Love Part 2 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8516277022</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8516277022</guid>
+            <pubDate>Mon, 08 May 2023 09:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230508_75/1683536369780DJG2l_JPEG/1212490618819962_758074851.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오왼 Owen - Love is (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8516120585</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8516120585</guid>
+            <pubDate>Mon, 08 May 2023 09:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230508_41/1683534903499Y60VN_JPEG/17562225414270294_325693226.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오왼 Owen - P.O.E.M. IV - Tyler Durden (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8516076318</link>
@@ -309,22 +325,6 @@
             <pubDate>Fri, 21 Apr 2023 07:17:23 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230421_4/16820599412691UV6i_JPEG/27816319079891872_402656432.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[So!yoon! 황소윤 - Episode1 : Love (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8436717264</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8436717264</guid>
-            <pubDate>Fri, 21 Apr 2023 07:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230421_156/1682058206295wkcCk_JPEG/1993387106904076_640916470.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카리나네뷸라 Carina Nebula - Good Match (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8436687199</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8436687199</guid>
-            <pubDate>Fri, 21 Apr 2023 06:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230421_145/1682057341705EDPxr_JPEG/8747810689667042_169739742.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
