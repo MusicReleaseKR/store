@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 10:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 11:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Metallica - Ride The Lightning (2016 REMASTERED) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8521891218</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8521891218</guid>
+            <pubDate>Tue, 09 May 2023 11:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230509_33/1683629687053RlO6p_JPEG/1794810383443205_1553514380.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보보 (강성연) - 1집 늦은후회 (180G LP) [2023 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8520574470</link>
@@ -317,14 +325,6 @@
             <pubDate>Tue, 25 Apr 2023 06:24:15 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220315_77/1647326010305p3jAX_JPEG/48461790017686624_785996140.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DKZ - Harmony (1st Repackage Album) [COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8451487330</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8451487330</guid>
-            <pubDate>Mon, 24 Apr 2023 08:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[54,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230424_29/1682322596734r9AR5_JPEG/29470041552162934_1246577158.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
