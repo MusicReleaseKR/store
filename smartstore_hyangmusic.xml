@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 06:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 07:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파블로즈 The Pabloz - Pablography (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8525072662</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8525072662</guid>
+            <pubDate>Wed, 10 May 2023 07:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230510_236/1683699544535SOJOz_JPEG/1864667872122882_809083406.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stevie Wonder - Innervisions (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8522012712</link>
@@ -317,14 +325,6 @@
             <pubDate>Tue, 25 Apr 2023 07:17:44 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230424_85/1682341133075uJDR6_JPEG/28112549620196875_2127100557.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andre Levy 앙드레 레비 - Bach Suites for Unaccompanied Cello Vol Three (2023 Remastered) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8456459044</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8456459044</guid>
-            <pubDate>Tue, 25 Apr 2023 06:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220315_184/1647326572210pNcte_JPEG/48462351935351743_18877264.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
