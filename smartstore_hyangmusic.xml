@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 10:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 11:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,12 +80,44 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230511_34/1683785013133y1BnO_JPEG/12102674951425090_2131114819.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Black Sabbath - Live Evil (2CD Deluxe Edition)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8526621688</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8526621688</guid>
+            <pubDate>Thu, 11 May 2023 11:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230510_202/1683720350492KkeB9_JPEG/12038012317489332_1487175053.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Stevie Wonder - Talking Book (GATE-FOLD LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8526463119</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8526463119</guid>
             <pubDate>Wed, 10 May 2023 11:15:57 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230510_128/1683715783910AfR7S_JPEG/38113322949122637_1009517249.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simon & Garfunkel - Greatest Hits (WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8526455806</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8526455806</guid>
+            <pubDate>Thu, 11 May 2023 11:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[31,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230510_165/1683715420362VIlrz_JPEG/31652127180764996_1444040795.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metallica - Master Of Puppets (2016 REMASTERED) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8526443995</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8526443995</guid>
+            <pubDate>Thu, 11 May 2023 11:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230510_141/1683715150364poy5N_JPEG/12032812181127747_547717450.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metallica - ...And Justice For All (REMASTERED) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8526434498</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8526434498</guid>
+            <pubDate>Thu, 11 May 2023 11:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230510_217/1683714798815HGtsk_JPEG/12032460637437367_169323112.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파블로즈 The Pabloz - Pablography (CD)]]></title>
@@ -118,6 +150,30 @@
             <pubDate>Tue, 09 May 2023 11:15:43 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230509_33/1683629687053RlO6p_JPEG/1794810383443205_1553514380.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lauryn Hill - The Miseducation Of Lauryn Hill (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8521862446</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8521862446</guid>
+            <pubDate>Thu, 11 May 2023 11:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230509_114/1683628959174gpxfy_JPEG/31565665983248061_924186384.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chemical Brothers - Dig Your Own Hole (20TH ANNIVERSARY EDITION) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8521848708</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8521848708</guid>
+            <pubDate>Thu, 11 May 2023 11:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[23,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230509_140/1683628470057TMkOo_JPEG/17655791979870993_1064271433.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jim Hall - Concierto (REMASTERED) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8521819975</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8521819975</guid>
+            <pubDate>Thu, 11 May 2023 11:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230509_182/1683626499222yd0kH_JPEG/668979670755179_1120828840.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보보 (강성연) - 1집 늦은후회 (180G LP) [2023 REMASTERED]]]></title>
@@ -270,62 +326,6 @@
             <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230503_18/1683096257034sf4jQ_JPEG/31627512840096053_277501862.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모차르트 - 바이올린 소나타 작품 전집 3집 (칼 수스케) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8489802346</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8489802346</guid>
-            <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230503_294/1683095887958bOAfB_JPEG/1218346878255360_1216794268.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요정 Yojung - 우리는 (We Are) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8489759307</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8489759307</guid>
-            <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230503_280/1683095405077XiBTL_JPEG/4252620662438792_1386547315.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤하 Younha - MINDSET (Studio Live Album) [CD & DVD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8489678278</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8489678278</guid>
-            <pubDate>Wed, 03 May 2023 06:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230503_79/168309413023009bDa_JPEG/11633849051255761_2083962485.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안치환 - 3집 Confession (30주년 기념반) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8483454283</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8483454283</guid>
-            <pubDate>Tue, 02 May 2023 08:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230502_140/1683014210308VRgUl_JPEG/31545466111956494_1255795458.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ahmad Jamal - The Awakening (Verve By Request Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8469710136</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8469710136</guid>
-            <pubDate>Thu, 27 Apr 2023 11:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230427_5/1682592646179S1axc_JPEG/412754031705372_28510980.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김일두 - 제주 2013 4 6 (라이브 부틀렉) [10주년 기념 재발매] (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8468676098</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8468676098</guid>
-            <pubDate>Thu, 27 Apr 2023 08:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230427_219/1682579606732OUGx0_JPEG/2066496776171207_758157405.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메사니 Mesani - Jungle EP + Singles (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8468639641</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8468639641</guid>
-            <pubDate>Thu, 27 Apr 2023 07:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230427_249/16825791604823yl8e_JPEG/18121579931262610_1954351599.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
