@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 05:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 06:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허정혁 - 봉오리 시절 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8529829715</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8529829715</guid>
+            <pubDate>Thu, 11 May 2023 06:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230511_214/1683785916255tEdWk_JPEG/12103578077952216_313145537.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가현 - 청춘 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8529782251</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8529782251</guid>
+            <pubDate>Thu, 11 May 2023 06:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230511_68/1683785535883AxE5R_JPEG/12103197698386715_329890577.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10-FEET - Collins (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8529732069</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8529732069</guid>
+            <pubDate>Thu, 11 May 2023 06:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230511_34/1683785013133y1BnO_JPEG/12102674951425090_2131114819.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stevie Wonder - Talking Book (GATE-FOLD LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8526463119</link>
@@ -301,30 +325,6 @@
             <pubDate>Wed, 26 Apr 2023 10:20:23 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230426_242/1682502814841jy4fo_JPEG/15892940709934450_1467156026.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[염력 - 염력 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8463676615</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8463676615</guid>
-            <pubDate>Wed, 26 Apr 2023 10:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230426_270/1682501428227sb70z_JPEG/29832335214765536_474335615.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Lee Hooker - Burnin' (60th Anniversary Edition) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8457009064</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8457009064</guid>
-            <pubDate>Tue, 25 Apr 2023 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230425_260/1682408775737SFz00_JPEG/712082696166684_1611172319.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker - Chet (180G MONO LP) [RSD 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8456794315</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8456794315</guid>
-            <pubDate>Tue, 25 Apr 2023 07:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230425_234/1682405767807TXP58_JPEG/35177738807808844_181903460.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
