@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 06:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 07:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오은철 - Moments (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8536696365</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8536696365</guid>
+            <pubDate>Fri, 12 May 2023 07:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230512_107/1683874748692KROqr_JPEG/12192410515006252_1060235317.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포이즈 - 실명소음 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8536676867</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8536676867</guid>
+            <pubDate>Fri, 12 May 2023 07:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230512_149/1683874245080mUFal_JPEG/1550365928355408_1244309607.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이바다 - Heaven 금기 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8536656213</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8536656213</guid>
+            <pubDate>Fri, 12 May 2023 07:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230512_90/16838737823066pEj6_JPEG/31810489126199536_52716758.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Black Sabbath - Vol 4 (2009 REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8531167056</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
             <content:encoded><![CDATA[46,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230503_56/16830978299485i02x_JPEG/1220288861834385_830509083.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 8집 새야 날아 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8489925199</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8489925199</guid>
-            <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[46,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230503_2/1683097411946gJGKc_JPEG/14444065227676512_645081187.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 7집 가지마오 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8489891201</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8489891201</guid>
-            <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[46,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230503_72/16830969064857hdWV_JPEG/9736997993104050_1440391307.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모차르트 - 바이올린 소나타 작품 전집 4집 (칼 수스케) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8489831582</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8489831582</guid>
-            <pubDate>Wed, 03 May 2023 07:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230503_18/1683096257034sf4jQ_JPEG/31627512840096053_277501862.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
