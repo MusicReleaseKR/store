@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 10:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 11:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이선희 - 1집 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8551125922</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8551125922</guid>
+            <pubDate>Mon, 15 May 2023 11:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230515_227/1684146259328WM191_JPEG/38543798366139864_235365655.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 남은 인생 10년 (余命 10年) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8551092766</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 May 2023 07:17:21 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230508_262/1683528649884jtPqt_JPEG/10884837875991183_458841078.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콜드 Colde - Love Part 1 (CD) [재발매]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8515526173</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8515526173</guid>
-            <pubDate>Mon, 08 May 2023 07:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220106_110/1641452535167fM12T_JPEG/42588318742590104_1543991429.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
