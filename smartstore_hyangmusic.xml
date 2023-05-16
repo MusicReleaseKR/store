@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 08:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 09:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Lion King (라이온 킹) [ORANGE COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8555564345</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8555564345</guid>
+            <pubDate>Tue, 16 May 2023 09:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[50,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230516_282/1684227927178611pY_JPEG/1899411605980484_1068777235.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윈디시티 - 1집 Love Record (180G GREEN & YELLOW COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8551325544</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 May 2023 08:24:12 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230508_123/1683532548239RmntQ_JPEG/31469255053697298_1003944785.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듀스 Deux - 1집 - Deux (CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8515891313</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8515891313</guid>
-            <pubDate>Mon, 08 May 2023 08:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230508_81/1683531487338v0Vv6_JPEG/11849149154993848_1827031173.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
