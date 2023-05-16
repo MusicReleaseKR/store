@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 11:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 12:39:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 16 May 2023 10:20:11 GMT</pubDate>
             <content:encoded><![CDATA[19,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230516_22/1684229670116VJaTP_JPEG/1272150563423724_229407311.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Black Sabbath - Mob Rules [2CD Deluxe Edition] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8555686600</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8555686600</guid>
+            <pubDate>Tue, 16 May 2023 12:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230516_231/16842289442177XtK0_JPEG/10722250041365950_1338736109.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack - Lion King (라이온 킹) [ORANGE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 May 2023 08:24:12 GMT</pubDate>
             <content:encoded><![CDATA[24,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230508_175/1683533966949h9cj9_JPEG/576447381114918_93074307.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 IU - 2022 IU Concert (The Golden Hour 오렌지 태양 아래) [3Blu-ray] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8515984754</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8515984754</guid>
-            <pubDate>Mon, 08 May 2023 08:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[85,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230508_166/1683532986643rQYp8_JPEG/8639614956220270_1488768053.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
