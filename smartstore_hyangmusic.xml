@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 09:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 10:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Black Sabbath - Paranoid (2009 REMASTERED) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8555752763</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8555752763</guid>
+            <pubDate>Tue, 16 May 2023 10:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230516_22/1684229670116VJaTP_JPEG/1272150563423724_229407311.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Lion King (라이온 킹) [ORANGE COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8555564345</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 May 2023 08:24:12 GMT</pubDate>
             <content:encoded><![CDATA[85,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230508_166/1683532986643rQYp8_JPEG/8639614956220270_1488768053.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 IU - 2022 IU Concert (The Golden Hour 오렌지 태양 아래) [3DVD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8515951180</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8515951180</guid>
-            <pubDate>Mon, 08 May 2023 08:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230508_123/1683532548239RmntQ_JPEG/31469255053697298_1003944785.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
