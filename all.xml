@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 09:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 10:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundgarden - Superunknown [20th Anniversary Remastered] (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8561606281</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8561606281</guid>
+            <pubDate>Wed, 17 May 2023 10:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230517_277/1684318063666Up9Ii_JPEG/1360544111834004_35499642.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[랍온어비트 lobonabeat - Trapstar Lifestyle (DELUXE) [사인CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8561215214</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 09 May 2023 06:23:50 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230509_42/1683610017835m4A46_JPEG/38007556863021155_240176883.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콜드 Colde - Love Part 2 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8516277022</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8516277022</guid>
-            <pubDate>Mon, 08 May 2023 09:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230508_75/1683536369780DJG2l_JPEG/1212490618819962_758074851.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
