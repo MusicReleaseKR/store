@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 10:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 11:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kanye West - Late Registration (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8561685829</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8561685829</guid>
+            <pubDate>Wed, 17 May 2023 11:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230517_221/1684319060764HAB6d_JPEG/2622492586284907_497271140.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West - Jesus Is King (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8561663338</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8561663338</guid>
+            <pubDate>Wed, 17 May 2023 11:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230517_77/1684318790506LLltp_JPEG/37686335498425745_662782027.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundgarden - Superunknown [20th Anniversary Remastered] (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8561606281</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 11 May 2023 11:15:37 GMT</pubDate>
             <content:encoded><![CDATA[15,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230509_182/1683626499222yd0kH_JPEG/668979670755179_1120828840.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보보 (강성연) - 1집 늦은후회 (180G LP) [2023 REMASTERED]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8520574470</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8520574470</guid>
-            <pubDate>Tue, 09 May 2023 06:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230509_10/1683610794453CPb5w_JPEG/31547501267565412_1602679487.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미란이 Mirani - The Drift (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8520531334</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8520531334</guid>
-            <pubDate>Tue, 09 May 2023 06:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230509_42/1683610017835m4A46_JPEG/38007556863021155_240176883.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
