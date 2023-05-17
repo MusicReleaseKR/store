@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 06:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 07:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조형우 - 이름으로 (CLEAR COLOURED LP) [사인 인서트 랜덤 증정] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8560721358</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8560721358</guid>
+            <pubDate>Wed, 17 May 2023 07:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230517_51/1684306669250zKcvk_JPEG/589558525083052_297358660.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Black Sabbath - Paranoid (2009 REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8555752763</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 May 2023 09:19:04 GMT</pubDate>
             <content:encoded><![CDATA[16,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230508_41/1683534903499Y60VN_JPEG/17562225414270294_325693226.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오왼 Owen - P.O.E.M. IV - Tyler Durden (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8516076318</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8516076318</guid>
-            <pubDate>Mon, 08 May 2023 08:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[24,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230508_175/1683533966949h9cj9_JPEG/576447381114918_93074307.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
