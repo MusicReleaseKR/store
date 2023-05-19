@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 09:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 10:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 트리뷰트 들국화 (PICTURE DISC 2LP BOX SET)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8573012355</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8573012355</guid>
+            <pubDate>Fri, 19 May 2023 10:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[100,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230519_204/16844895499879aasd_JPEG/7310058979098130_141162978.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 71 폭송 힛트 모음 제1집 (2023 REMASTERED) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8571702603</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 11 May 2023 08:23:14 GMT</pubDate>
             <content:encoded><![CDATA[28,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230511_56/1683791196914KDloG_JPEG/12108858727887151_1607305403.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허정혁 - 봉오리 시절 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8529829715</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8529829715</guid>
-            <pubDate>Thu, 11 May 2023 06:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230511_214/1683785916255tEdWk_JPEG/12103578077952216_313145537.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
