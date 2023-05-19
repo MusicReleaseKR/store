@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 05:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 06:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[듀스 Deux - 2집 Deuxism (150G BLUE CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8571535278</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8571535278</guid>
+            <pubDate>Fri, 19 May 2023 06:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230519_212/16844761759384IwTI_JPEG/37843720786784880_1750093550.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Hisaishi - A Symphonic Celebration (스튜디오 지브리 애니메이션 음악) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8571472203</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8571472203</guid>
+            <pubDate>Fri, 19 May 2023 06:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230519_120/1684475542510j3Wzm_JPEG/10614704330471415_757226888.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Freddie Hubbard - Blue Spirits (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8567646362</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 11 May 2023 11:15:37 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230510_202/1683720350492KkeB9_JPEG/12038012317489332_1487175053.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stevie Wonder - Talking Book (GATE-FOLD LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8526463119</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8526463119</guid>
-            <pubDate>Wed, 10 May 2023 11:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230510_128/1683715783910AfR7S_JPEG/38113322949122637_1009517249.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Simon & Garfunkel - Greatest Hits (WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8526455806</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8526455806</guid>
-            <pubDate>Thu, 11 May 2023 11:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[31,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230510_165/1683715420362VIlrz_JPEG/31652127180764996_1444040795.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
