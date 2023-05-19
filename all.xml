@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 10:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 11:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Miles Davis - Volume 1 (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8573468928</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8573468928</guid>
+            <pubDate>Fri, 19 May 2023 11:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230519_182/1684494318858w5zKz_JPEG/37861863851805253_517914714.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oscar Peterson Trio - Night Train (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8573442139</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8573442139</guid>
+            <pubDate>Fri, 19 May 2023 11:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230519_226/1684493575379I6FDI_JPEG/10632737208405520_1055378811.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Williams - Hollywood Story (RED COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8573373142</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8573373142</guid>
+            <pubDate>Fri, 19 May 2023 11:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230519_300/1684493126414lblhl_JPEG/4005215458818110_135041546.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 트리뷰트 들국화 (PICTURE DISC 2LP BOX SET) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8573012355</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 11 May 2023 10:20:05 GMT</pubDate>
             <content:encoded><![CDATA[16,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230511_259/16837989303222DVpP_JPEG/38196469351979740_748950528.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cream - Wheels Of Fire (REMASTERED) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8531035739</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8531035739</guid>
-            <pubDate>Thu, 11 May 2023 10:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[27,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230511_151/16837981938465PvGQ_JPEG/8904822169041597_1774441619.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica - 72 Seasons (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8530347122</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8530347122</guid>
-            <pubDate>Thu, 11 May 2023 08:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[65,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230511_25/1683791708546xFvOX_JPEG/12109370358388653_1832956340.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica - 72 Seasons (DIGI-PACK) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8530322794</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8530322794</guid>
-            <pubDate>Thu, 11 May 2023 08:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[28,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230511_56/1683791196914KDloG_JPEG/12108858727887151_1607305403.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
