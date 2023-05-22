@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 06:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 07:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김준 - The Best - LIVING LEGEND OF JAZZ (130G LP & CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8585922434</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8585922434</guid>
+            <pubDate>Mon, 22 May 2023 07:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230522_205/16847391132163e5bP_JPEG/7559622209638790_1502499795.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원 플러스 원 - 언덕에 서서, 당신의 모든 것을 (150G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8585866524</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8585866524</guid>
+            <pubDate>Mon, 22 May 2023 07:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230522_143/1684738563909fDDtp_JPEG/7559072885269022_1304110485.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김인순 - 언덕에 앉아, 달려라 풍선 (150G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8585844736</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8585844736</guid>
+            <pubDate>Mon, 22 May 2023 07:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230522_253/1684738175217LRBB8_JPEG/10877337048465208_236674459.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miles Davis - Volume 1 (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8573468928</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 12 May 2023 07:17:00 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230512_90/16838737823066pEj6_JPEG/31810489126199536_52716758.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Sabbath - Vol 4 (2009 REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8531167056</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8531167056</guid>
-            <pubDate>Thu, 11 May 2023 10:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230511_14/16837998911306xofm_JPEG/1476011974860284_612303084.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Sabbath - Technical Ecstasy (2009 REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8531125348</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8531125348</guid>
-            <pubDate>Thu, 11 May 2023 10:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230511_103/1683799481931UuHnD_JPEG/1475602767936018_1163332755.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marvin Gaye - What's Going On (REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8531077822</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8531077822</guid>
-            <pubDate>Thu, 11 May 2023 10:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230511_259/16837989303222DVpP_JPEG/38196469351979740_748950528.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
