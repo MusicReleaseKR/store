@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 09:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 10:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤지영 - Blue bird (CLEAR LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8586749535</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8586749535</guid>
+            <pubDate>Mon, 22 May 2023 10:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230522_212/16847484371664AWE2_JPEG/38115982161856867_915237267.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김준 - The Best - LIVING LEGEND OF JAZZ (130G LP & CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8585922434</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 12 May 2023 07:17:00 GMT</pubDate>
             <content:encoded><![CDATA[12,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230512_149/1683874245080mUFal_JPEG/1550365928355408_1244309607.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이바다 - Heaven 금기 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8536656213</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8536656213</guid>
-            <pubDate>Fri, 12 May 2023 07:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230512_90/16838737823066pEj6_JPEG/31810489126199536_52716758.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
