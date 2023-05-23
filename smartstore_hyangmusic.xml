@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 09:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 10:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이브 IVE - I've IVE (180G WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8592468154</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8592468154</guid>
+            <pubDate>Tue, 23 May 2023 10:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230523_116/1684835918244ICLUu_JPEG/10028791057843596_113606522.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daft Punk - Random Access Memories (10th Anniversary Edition) [3LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8592333877</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8592333877</guid>
+            <pubDate>Tue, 23 May 2023 10:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[70,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230523_209/16848340653835E11h_JPEG/10026938203050905_1634829069.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daft Punk - Random Access Memories (10th Anniversary Edition) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8592288795</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8592288795</guid>
+            <pubDate>Tue, 23 May 2023 10:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[22,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230523_209/16848340653835E11h_JPEG/10026938203050905_1634829069.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛과 소금 - 1집 (2019 REMASTERED) [180G WHITE COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8591556079</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 12 May 2023 08:21:59 GMT</pubDate>
             <content:encoded><![CDATA[137,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230512_204/1683876441208ET9D9_JPEG/17903763117634661_1939354100.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양희은 - 불나무 (2023 REMASTERED) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8536754534</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8536754534</guid>
-            <pubDate>Fri, 12 May 2023 08:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230512_123/1683875939844QFwPQ_JPEG/918420280340535_1162399307.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김추자 - 어디로 가야하나 (2003 REMASTERD) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8536737200</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8536737200</guid>
-            <pubDate>Fri, 12 May 2023 08:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230515_24/1684145494853OM0Yi_JPEG/12463156674897696_1454083663.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오은철 - Moments (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8536696365</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8536696365</guid>
-            <pubDate>Fri, 12 May 2023 07:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230512_107/1683874748692KROqr_JPEG/12192410515006252_1060235317.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
