@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 07:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 08:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛과 소금 - 1집 (2019 REMASTERED) [180G WHITE COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8591556079</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8591556079</guid>
+            <pubDate>Tue, 23 May 2023 08:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230523_172/1684826217004tMlCt_JPEG/2872741827337602_1059791463.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤지영 - Blue bird (CLEAR LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8586749535</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 12 May 2023 07:17:00 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230512_107/1683874748692KROqr_JPEG/12192410515006252_1060235317.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포이즈 - 실명소음 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8536676867</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8536676867</guid>
-            <pubDate>Fri, 12 May 2023 07:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230512_149/1683874245080mUFal_JPEG/1550365928355408_1244309607.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
