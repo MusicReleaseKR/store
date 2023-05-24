@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 07:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 08:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이엠 I.M - Overdrive (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8597457706</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8597457706</guid>
+            <pubDate>Wed, 24 May 2023 08:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230524_12/1684915008362EuNww_JPEG/7735517346132562_667136169.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플린트 Flint - To all my questions (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8597406476</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8597406476</guid>
+            <pubDate>Wed, 24 May 2023 08:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230524_89/1684914318227JSaCf_JPEG/2960843051554664_798285191.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Thelonious Monk with John Coltrane - Thelonious Monk with John Coltrane (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8592995091</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 15 May 2023 12:37:36 GMT</pubDate>
             <content:encoded><![CDATA[60,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230515_230/1684152126028u3wcl_JPEG/10645431853915641_721549265.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이선희 - 1집 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8551125922</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8551125922</guid>
-            <pubDate>Mon, 15 May 2023 11:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230515_227/1684146259328WM191_JPEG/38543798366139864_235365655.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 남은 인생 10년 (余命 10年) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8551092766</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8551092766</guid>
-            <pubDate>Mon, 15 May 2023 10:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230515_236/1684145728142sh2yi_JPEG/1821848982884559_1918745574.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
