@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 09:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 10:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[죠지 - FRR (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8628328488</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8628328488</guid>
+            <pubDate>Tue, 30 May 2023 10:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230530_185/1685440322272KUUrr_JPEG/4705350163309864_255391281.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김아름 - Aqua City (Japanese Ver) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8628246504</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8628246504</guid>
+            <pubDate>Tue, 30 May 2023 10:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230530_269/1685438309953KmxNr_JPEG/8248020621232689_51749607.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이엠 I.M - Overdrive (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8597457706</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 16 May 2023 12:38:39 GMT</pubDate>
             <content:encoded><![CDATA[36,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230516_231/16842289442177XtK0_JPEG/10722250041365950_1338736109.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Lion King (라이온 킹) [ORANGE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8555564345</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8555564345</guid>
-            <pubDate>Tue, 16 May 2023 09:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[50,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230516_282/1684227927178611pY_JPEG/1899411605980484_1068777235.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윈디시티 - 1집 Love Record (180G GREEN & YELLOW COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8551325544</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8551325544</guid>
-            <pubDate>Mon, 15 May 2023 12:37:36 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230515_230/1684152126028u3wcl_JPEG/10645431853915641_721549265.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
