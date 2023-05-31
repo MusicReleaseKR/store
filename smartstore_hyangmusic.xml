@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 07:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 08:36:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문지영 - 연애작전 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8633018396</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8633018396</guid>
+            <pubDate>Wed, 31 May 2023 08:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230531_153/1685520007913XHEwT_JPEG/4785035785707748_81916003.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문지영 - 연애작전 (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8633006518</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8633006518</guid>
+            <pubDate>Wed, 31 May 2023 08:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230531_186/1685519555018Encgs_JPEG/36217102989141995_1597698085.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나비효과 - 2집 (180G RED COLOURED LP & 7 INCH LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8632812958</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 17 May 2023 09:19:25 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230517_134/16843138810415TTgT_JPEG/37681426027510541_1077108865.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조형우 - 이름으로 (CLEAR COLOURED LP) [사인 인서트 랜덤 증정]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8560721358</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8560721358</guid>
-            <pubDate>Wed, 17 May 2023 07:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230517_51/1684306669250zKcvk_JPEG/589558525083052_297358660.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Sabbath - Paranoid (2009 REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8555752763</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8555752763</guid>
-            <pubDate>Tue, 16 May 2023 10:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230516_22/1684229670116VJaTP_JPEG/1272150563423724_229407311.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
