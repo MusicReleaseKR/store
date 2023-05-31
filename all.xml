@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 06:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 07:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나비효과 - 2집 (180G RED COLOURED LP & 7 INCH LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8632812958</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8632812958</guid>
+            <pubDate>Wed, 31 May 2023 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230531_219/16855169063675PBVt_JPEG/442594481187995_2066821583.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[죠지 - FRR (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8628328488</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 16 May 2023 10:20:11 GMT</pubDate>
             <content:encoded><![CDATA[19,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230516_22/1684229670116VJaTP_JPEG/1272150563423724_229407311.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Sabbath - Mob Rules [2CD Deluxe Edition] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8555686600</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8555686600</guid>
-            <pubDate>Tue, 16 May 2023 12:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230516_231/16842289442177XtK0_JPEG/10722250041365950_1338736109.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
