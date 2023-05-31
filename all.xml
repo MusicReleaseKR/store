@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 08:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 10:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Common - A Beautiful Revolution (Pt 1 + Pt 2 Deluxe Edition) [COKE BOTTLE CLEAR 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8633756112</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8633756112</guid>
+            <pubDate>Wed, 31 May 2023 10:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230531_277/1685527974151cdS8u_JPEG/8337684820242564_825639607.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brandee Younger - Brand New Life (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8633726435</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8633726435</guid>
+            <pubDate>Wed, 31 May 2023 10:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230531_222/1685527548790evRGV_JPEG/34405390596871525_460422324.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문지영 - 연애작전 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8633018396</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 17 May 2023 11:15:31 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230517_77/1684318790506LLltp_JPEG/37686335498425745_662782027.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundgarden - Superunknown [20th Anniversary Remastered] (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8561606281</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8561606281</guid>
-            <pubDate>Wed, 17 May 2023 10:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230517_277/1684318063666Up9Ii_JPEG/1360544111834004_35499642.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[랍온어비트 lobonabeat - Trapstar Lifestyle (DELUXE) [사인CD 랜덤발송] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8561215214</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8561215214</guid>
-            <pubDate>Wed, 17 May 2023 09:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230517_134/16843138810415TTgT_JPEG/37681426027510541_1077108865.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
