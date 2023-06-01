@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 06:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 07:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수스 Xooos - Made In Heart (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8638354018</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8638354018</guid>
+            <pubDate>Thu, 01 Jun 2023 07:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230601_58/1685601017286GzBFB_JPEG/2063904645825210_1821951375.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Common - A Beautiful Revolution (Pt 1 + Pt 2 Deluxe Edition) [COKE BOTTLE CLEAR 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8633756112</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 17 May 2023 11:15:31 GMT</pubDate>
             <content:encoded><![CDATA[16,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230517_221/1684319060764HAB6d_JPEG/2622492586284907_497271140.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West - Jesus Is King (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8561663338</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8561663338</guid>
-            <pubDate>Wed, 17 May 2023 11:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230517_77/1684318790506LLltp_JPEG/37686335498425745_662782027.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
