@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 07:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 08:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[델리스파이스 Delispice - 7집 Open Your Eyes (한정반) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8638799793</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8638799793</guid>
+            <pubDate>Thu, 01 Jun 2023 08:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230601_268/1685607088085tKuYD_JPEG/4872115976750336_867773305.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수스 Xooos - Made In Heart (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8638354018</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 18 May 2023 07:16:42 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230518_285/1684391664302jJ0H9_JPEG/3903753347952140_1342403681.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West - Late Registration (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8561685829</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8561685829</guid>
-            <pubDate>Wed, 17 May 2023 11:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230517_221/1684319060764HAB6d_JPEG/2622492586284907_497271140.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
