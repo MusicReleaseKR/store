@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 11:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 12:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alice Coltrane - Journey In Satchidananda (Acoustic Sounds Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8646271006</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8646271006</guid>
+            <pubDate>Fri, 02 Jun 2023 12:38:14 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230602_285/16857068552322fD9G_JPEG/4971883116081988_2022035999.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웨이브투어스 wave to earth - 0.1 flaws and all (2CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8645854043</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 18 May 2023 12:35:59 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230518_103/1684410191160lRvln_JPEG/37777736161004065_1051572650.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mos Def - Black On Both Sides (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8567504374</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8567504374</guid>
-            <pubDate>Thu, 18 May 2023 12:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230518_28/1684408762921NcusV_JPEG/11746155721024999_202704400.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
