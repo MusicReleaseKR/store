@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 09:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 10:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lisa Ono - Bossa Hula Nova (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8645566493</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8645566493</guid>
+            <pubDate>Fri, 02 Jun 2023 10:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230602_267/1685699808015x7y95_JPEG/31443475833118694_355460040.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lisa Ono - Bossa Carioca (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8645540364</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8645540364</guid>
+            <pubDate>Fri, 02 Jun 2023 10:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230602_265/16856995399507Y7Hj_JPEG/5218760668564777_202415287.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박지윤 - 8집 나무가 되는 꿈 (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8644102166</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 18 May 2023 12:35:59 GMT</pubDate>
             <content:encoded><![CDATA[19,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230518_273/1684407097198H21q0_JPEG/16343574977215961_1603363405.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sting - Nothing Like The Sun (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8567269135</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8567269135</guid>
-            <pubDate>Thu, 18 May 2023 12:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230518_88/1684406480683vK0sm_JPEG/37774025683762087_1682982971.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yuhki Kuramoto - Dear Heart (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8567211932</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8567211932</guid>
-            <pubDate>Thu, 18 May 2023 11:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230518_105/1684404976872aGAem_JPEG/11742369666369918_506847705.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
