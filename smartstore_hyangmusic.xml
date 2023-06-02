@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 12:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 13:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nina Simone - Great Women Of Song - Nina Simone (BLUE MARBLE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8646477200</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8646477200</guid>
+            <pubDate>Fri, 02 Jun 2023 13:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230602_16/1685709784077praqa_JPEG/4974811969499891_2074045104.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dorothy Ashby - The Rubaiyat Of Dorothy Ashby (Verve By Request Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8646442331</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8646442331</guid>
+            <pubDate>Fri, 02 Jun 2023 13:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230602_251/16857072394236NKjS_JPEG/5226460144697058_1118120664.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alice Coltrane - Journey In Satchidananda (Acoustic Sounds Series) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8646271006</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 18 May 2023 12:35:59 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230518_159/1684411258995WrhuP_JPEG/3923348041982249_1664798099.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donald Byrd - At The Half Note Cafe Vol 1 (Blue Note Tone Poet Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8567575891</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8567575891</guid>
-            <pubDate>Thu, 18 May 2023 12:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230518_84/1684410878192Mow68_JPEG/7231387174851802_7694789.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blue Mitchell - Bring It Home To Me (Blue Note Tone Poet Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8567552700</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8567552700</guid>
-            <pubDate>Thu, 18 May 2023 12:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230518_103/1684410191160lRvln_JPEG/37777736161004065_1051572650.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
