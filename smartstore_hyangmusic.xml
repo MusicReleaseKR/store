@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 05:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 06:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안희수 - 그림에 갇히다]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8670042541</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8670042541</guid>
+            <pubDate>Wed, 07 Jun 2023 06:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230607_105/1686116017626ra01A_JPEG/2578904988536019_1887624383.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선우정아 - 2집 It’s Okay, Dear (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8660035231</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 19 May 2023 06:23:31 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230519_120/1684475542510j3Wzm_JPEG/10614704330471415_757226888.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Freddie Hubbard - Blue Spirits (Blue Note Tone Poet Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8567646362</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8567646362</guid>
-            <pubDate>Thu, 18 May 2023 12:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230518_280/1684411864977izxBk_JPEG/16348342752197652_1324575892.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
