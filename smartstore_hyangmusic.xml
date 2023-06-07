@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 08:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 09:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케이윌 - 2집 그립고 그립고 그립다 (180G WHITE COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8671065920</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8671065920</guid>
+            <pubDate>Wed, 07 Jun 2023 09:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[67,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230607_111/1686128601711t41ES_JPEG/32762387541035771_898425669.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[암호(AMHO) - IDEAL (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8671013583</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8671013583</guid>
+            <pubDate>Wed, 07 Jun 2023 09:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230607_298/1686121715066697Qq_JPEG/5386742958134881_2138070350.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강아솔 - 2집 정직한 마음 (180G CLEAR TRANSPARENT COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8670418503</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 19 May 2023 07:17:10 GMT</pubDate>
             <content:encoded><![CDATA[47,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230519_272/1684477929932aGdNx_JPEG/37845474916349546_2060564053.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9와 숫자들 - 1집 9와 숫자들 (CLEAR YELLOW COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8571588931</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8571588931</guid>
-            <pubDate>Fri, 19 May 2023 07:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230519_30/1684477150521BopDe_JPEG/11814543314068035_36418759.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듀스 Deux - 2집 Deuxism (150G BLUE CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8571535278</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8571535278</guid>
-            <pubDate>Fri, 19 May 2023 06:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230519_212/16844761759384IwTI_JPEG/37843720786784880_1750093550.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
