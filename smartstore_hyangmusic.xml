@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 06:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 07:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강아솔 - 2집 정직한 마음 (180G CLEAR TRANSPARENT COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8670418503</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8670418503</guid>
+            <pubDate>Wed, 07 Jun 2023 07:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230607_251/1686120973077L1g5M_JPEG/34652228890928691_1899580434.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안희수 - 그림에 갇히다]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8670042541</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 19 May 2023 06:23:31 GMT</pubDate>
             <content:encoded><![CDATA[62,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230519_212/16844761759384IwTI_JPEG/37843720786784880_1750093550.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joe Hisaishi - A Symphonic Celebration (스튜디오 지브리 애니메이션 음악) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8571472203</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8571472203</guid>
-            <pubDate>Fri, 19 May 2023 06:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230519_120/1684475542510j3Wzm_JPEG/10614704330471415_757226888.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
