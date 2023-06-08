@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 11:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 12:35:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Scofield, Joe Lovano, Dave Holland, Al Foster (ScoLoHoFo) - Oh! (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8678008971</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8678008971</guid>
+            <pubDate>Thu, 08 Jun 2023 12:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[70,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230608_265/1686224819757Vp6pN_JPEG/1719314613680349_1945692105.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이윌 - 2집 그립고 그립고 그립다 (180G WHITE COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8671065920</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 19 May 2023 07:17:10 GMT</pubDate>
             <content:encoded><![CDATA[47,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230519_272/1684477929932aGdNx_JPEG/37845474916349546_2060564053.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9와 숫자들 - 1집 9와 숫자들 (CLEAR YELLOW COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8571588931</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8571588931</guid>
-            <pubDate>Thu, 08 Jun 2023 09:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230519_30/1684477150521BopDe_JPEG/11814543314068035_36418759.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
