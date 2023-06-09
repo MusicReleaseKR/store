@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 09:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 10:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Archie Shepp - Kwanza (Verve By Request Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8683061128</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8683061128</guid>
+            <pubDate>Fri, 09 Jun 2023 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230609_22/1686304369997QGVuu_JPEG/186078904505294_1776749180.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로이킴 - 그리고 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8682311285</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 22 May 2023 10:20:49 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230522_212/16847484371664AWE2_JPEG/38115982161856867_915237267.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김준 - The Best - LIVING LEGEND OF JAZZ (130G LP & CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8585922434</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8585922434</guid>
-            <pubDate>Mon, 22 May 2023 07:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230522_205/16847391132163e5bP_JPEG/7559622209638790_1502499795.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
