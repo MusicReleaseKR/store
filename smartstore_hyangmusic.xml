@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 08:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 09:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전기뱀장어 - 3집 동심원 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8697761517</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8697761517</guid>
+            <pubDate>Mon, 12 Jun 2023 09:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230612_88/1686559474545Rf0la_JPEG/12675888296134689_800769426.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정미조 - 37년 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8697718701</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8697718701</guid>
+            <pubDate>Mon, 12 Jun 2023 09:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230612_185/1686558882497rOG1i_JPEG/15888221311984110_1162785934.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2Z - Like a Movie]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8697083757</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 23 May 2023 12:37:38 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230523_293/1684842345013Eeyy6_JPEG/10981506839439762_198612143.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wes Montgomery & Wynton Kelly Trio - Smokin' At The Half Note (Acoustic Sounds Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8592970868</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8592970868</guid>
-            <pubDate>Tue, 23 May 2023 12:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230523_133/1684842075494fRtjv_JPEG/10981237326841828_1062441668.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Albert King - Born Under A Bad Sign (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8592950260</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8592950260</guid>
-            <pubDate>Tue, 23 May 2023 12:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230523_136/1684841728933EWCpk_JPEG/12179121731741613_1865956862.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
