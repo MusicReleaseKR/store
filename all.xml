@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 06:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 07:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤지영 - 나의 정원에서 (CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8703172457</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8703172457</guid>
+            <pubDate>Tue, 13 Jun 2023 07:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230613_280/1686638607171l2ACx_JPEG/1035065815233980_2057550561.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음율 - 행복론 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8703118325</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8703118325</guid>
+            <pubDate>Tue, 13 Jun 2023 07:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230613_21/168663812214319Iqo_JPEG/4299748093640204_318570837.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전기뱀장어 - 3집 동심원 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8697761517</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 24 May 2023 08:23:26 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230524_12/1684915008362EuNww_JPEG/7735517346132562_667136169.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플린트 Flint - To all my questions (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8597406476</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8597406476</guid>
-            <pubDate>Wed, 24 May 2023 08:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230524_89/1684914318227JSaCf_JPEG/2960843051554664_798285191.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk with John Coltrane - Thelonious Monk with John Coltrane (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8592995091</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8592995091</guid>
-            <pubDate>Tue, 23 May 2023 12:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230523_293/1684842345013Eeyy6_JPEG/10981506839439762_198612143.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
