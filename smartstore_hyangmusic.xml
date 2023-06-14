@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 07:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 08:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Duster - Together (CLEAR SMOKE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8709642475</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8709642475</guid>
+            <pubDate>Wed, 14 Jun 2023 08:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230614_192/1686729746585zkzkA_JPEG/442197430081515_1400411590.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Jukebox Originals - Complete Rock'n'roll (EARLY ROCK N'ROLL 10 MUSICIAN) [BOX SET]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8709476116</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8709476116</guid>
+            <pubDate>Wed, 14 Jun 2023 08:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[22,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230614_268/1686727705145G3T2I_JPEG/16057043961515409_1833068543.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미소 Miso - Raw Gems Vol 1 (140G SILVER GREY OPAQUE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8709184431</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 31 May 2023 07:17:52 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230531_219/16855169063675PBVt_JPEG/442594481187995_2066821583.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죠지 - FRR (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8628328488</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8628328488</guid>
-            <pubDate>Tue, 30 May 2023 10:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230530_185/1685440322272KUUrr_JPEG/4705350163309864_255391281.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김아름 - Aqua City (Japanese Ver) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8628246504</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8628246504</guid>
-            <pubDate>Tue, 30 May 2023 10:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230530_269/1685438309953KmxNr_JPEG/8248020621232689_51749607.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
