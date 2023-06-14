@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 11:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 12:36:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill Evans Trio - Portrait In Jazz (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8710547386</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8710547386</guid>
+            <pubDate>Wed, 14 Jun 2023 12:36:33 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230614_64/1686745784773211zN_JPEG/20157514630834584_2105146048.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 트리뷰트 들국화 Part 2 (PICTURE DISC 1LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8710173805</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 31 May 2023 10:21:21 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230531_222/1685527548790evRGV_JPEG/34405390596871525_460422324.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문지영 - 연애작전 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8633018396</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8633018396</guid>
-            <pubDate>Wed, 31 May 2023 08:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230531_153/1685520007913XHEwT_JPEG/4785035785707748_81916003.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
