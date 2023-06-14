@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 06:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 07:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미소 Miso - Raw Gems Vol 1 (140G SILVER GREY OPAQUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8709184431</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8709184431</guid>
+            <pubDate>Wed, 14 Jun 2023 07:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[66,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230614_296/1686723709075ni69K_JPEG/12840122827353032_1767587218.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤지영 - 나의 정원에서 (CLEAR COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8703172457</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 30 May 2023 10:19:25 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230530_269/1685438309953KmxNr_JPEG/8248020621232689_51749607.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이엠 I.M - Overdrive (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8597457706</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8597457706</guid>
-            <pubDate>Wed, 24 May 2023 08:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230524_12/1684915008362EuNww_JPEG/7735517346132562_667136169.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
