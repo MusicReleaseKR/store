@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 09:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 10:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 트리뷰트 들국화 Part 2 (PICTURE DISC 1LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8710173805</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8710173805</guid>
+            <pubDate>Wed, 14 Jun 2023 10:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230614_290/1686736997518Gfl0e_JPEG/34067904520828414_2078675439.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 트리뷰트 들국화 Part 1 (PICTURE DISC 1LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8710139397</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8710139397</guid>
+            <pubDate>Wed, 14 Jun 2023 10:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230614_192/1686736669845Fqkz6_JPEG/834363718821092_2009170675.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Duster - Together (CLEAR SMOKE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8709642475</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 31 May 2023 08:35:37 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230531_153/1685520007913XHEwT_JPEG/4785035785707748_81916003.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문지영 - 연애작전 (180G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8633006518</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8633006518</guid>
-            <pubDate>Wed, 31 May 2023 08:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230531_186/1685519555018Encgs_JPEG/36217102989141995_1597698085.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나비효과 - 2집 (180G RED COLOURED LP & 7 INCH LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8632812958</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8632812958</guid>
-            <pubDate>Wed, 31 May 2023 07:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230531_219/16855169063675PBVt_JPEG/442594481187995_2066821583.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
