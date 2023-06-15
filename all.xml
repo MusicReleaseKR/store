@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 12:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 13:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신승훈 - 5집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8715769471</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8715769471</guid>
+            <pubDate>Thu, 15 Jun 2023 13:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230615_226/16868318162543UUPd_JPEG/407308087377415_1515063164.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sonny Clark - Cool Struttin' (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8710578065</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 02 Jun 2023 07:17:08 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230602_141/1685687637263IlYUY_JPEG/36385187204992053_1777500514.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[델리스파이스 Delispice - 7집 Open Your Eyes (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8638799793</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8638799793</guid>
-            <pubDate>Thu, 01 Jun 2023 08:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230601_268/1685607088085tKuYD_JPEG/4872115976750336_867773305.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
