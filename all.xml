@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 23:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 01:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Wed, 14 Jun 2023 12:36:33 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230614_64/1686745784773211zN_JPEG/20157514630834584_2105146048.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유재하 - 사랑하기 때문에 (180G PASTEL COLOURED LP) [1인1매주문] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8710511611</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8710511611</guid>
+            <pubDate>Thu, 15 Jun 2023 01:43:05 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230614_165/1686744145315iJh4m_JPEG/11022664124241886_820851635.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유재하 - 사랑하기 때문에 (180G LP) [1인 1매 주문] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8710507735</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8710507735</guid>
+            <pubDate>Thu, 15 Jun 2023 01:43:05 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230614_165/1686744145315iJh4m_JPEG/11022664124241886_820851635.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VA - 트리뷰트 들국화 Part 2 (PICTURE DISC 1LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 01 Jun 2023 08:22:58 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230601_268/1685607088085tKuYD_JPEG/4872115976750336_867773305.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수스 Xooos - Made In Heart (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8638354018</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8638354018</guid>
-            <pubDate>Thu, 01 Jun 2023 07:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230601_58/1685601017286GzBFB_JPEG/2063904645825210_1821951375.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Common - A Beautiful Revolution (Pt 1 + Pt 2 Deluxe Edition) [COKE BOTTLE CLEAR 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8633756112</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8633756112</guid>
-            <pubDate>Wed, 31 May 2023 10:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230531_277/1685527974151cdS8u_JPEG/8337684820242564_825639607.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
