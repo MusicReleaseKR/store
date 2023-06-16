@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 06:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페노메코 Penomeco - Rorschach Part 2 [친필사인CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8719937460</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8719937460</guid>
+            <pubDate>Fri, 16 Jun 2023 06:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230616_187/1686895651682zxiqJ_JPEG/1792550499959065_1617509230.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서지원 - 3집 Made In Heaven (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8719690548</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8719690548</guid>
+            <pubDate>Fri, 16 Jun 2023 06:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230616_242/1686892605917QoOy6_JPEG/12107024643921663_467739066.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[말로 Malo - 송창식 송북 (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8719634419</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 02 Jun 2023 13:24:20 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230602_16/1685709784077praqa_JPEG/4974811969499891_2074045104.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dorothy Ashby - The Rubaiyat Of Dorothy Ashby (Verve By Request Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8646442331</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8646442331</guid>
-            <pubDate>Fri, 02 Jun 2023 13:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230602_251/16857072394236NKjS_JPEG/5226460144697058_1118120664.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alice Coltrane - Journey In Satchidananda (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8646271006</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8646271006</guid>
-            <pubDate>Fri, 02 Jun 2023 12:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230602_285/16857068552322fD9G_JPEG/4971883116081988_2022035999.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
