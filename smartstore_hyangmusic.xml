@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 04:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 05:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[말로 Malo - 송창식 송북 (2CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8719634419</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8719634419</guid>
+            <pubDate>Fri, 16 Jun 2023 05:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[23,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230616_281/1686891792819ykmqU_JPEG/170047645221742_1111975039.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruno Mars - Unorthodox Jukebox (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8719597845</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8719597845</guid>
+            <pubDate>Fri, 16 Jun 2023 05:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230616_130/16868915153306vACm_JPEG/32311525427487733_596388488.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruno Mars - Doo-Wops & Hooligans (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8719581116</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8719581116</guid>
+            <pubDate>Fri, 16 Jun 2023 05:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230616_300/1686891136882bFeLO_JPEG/38107969368047827_460666215.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신승훈 - 5집 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8715769471</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 02 Jun 2023 12:38:14 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230602_285/16857068552322fD9G_JPEG/4971883116081988_2022035999.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lisa Ono - Bossa Hula Nova (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8645566493</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8645566493</guid>
-            <pubDate>Fri, 02 Jun 2023 10:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230602_267/1685699808015x7y95_JPEG/31443475833118694_355460040.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lisa Ono - Bossa Carioca (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8645540364</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8645540364</guid>
-            <pubDate>Fri, 02 Jun 2023 10:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230602_265/16856995399507Y7Hj_JPEG/5218760668564777_202415287.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지윤 - 8집 나무가 되는 꿈 (180G WHITE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8644102166</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8644102166</guid>
-            <pubDate>Fri, 02 Jun 2023 07:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230602_141/1685687637263IlYUY_JPEG/36385187204992053_1777500514.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
