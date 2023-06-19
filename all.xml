@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 10:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 11:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kenny Burrell - Midnight Blue (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8736701368</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8736701368</guid>
+            <pubDate>Mon, 19 Jun 2023 11:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230619_101/1687173007653svTo2_JPEG/1068901615285433_1667751072.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정차식 - 1집 황망한 사내 (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8735715290</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230609_89/1686296455518El1du_JPEG/228518336166609_77080893.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라드 뮤지엄 Rad Museum - RAD (130G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8682188839</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8682188839</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[66,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230609_300/1686295922640IVjpE_JPEG/177631540256551_1593073031.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
