@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 07:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 08:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,30 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230616_300/1686891136882bFeLO_JPEG/38107969368047827_460666215.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포레스텔라 Forestella - The Forestella (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8719546979</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8719546979</guid>
+            <pubDate>Mon, 19 Jun 2023 08:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230616_261/1686890892801diuxT_JPEG/38856464603466854_1324405278.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Smith - In The Lonely Hour (Drowning Shadows Edition) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8719530655</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8719530655</guid>
+            <pubDate>Mon, 19 Jun 2023 08:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230616_185/1686890656572lUTsX_JPEG/168911397792498_826533297.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정미조 - 젊은 날의 영혼 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8719514576</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8719514576</guid>
+            <pubDate>Mon, 19 Jun 2023 08:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230616_183/1686890391804GKSan_JPEG/38855963591496778_174598707.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신승훈 - 5집 (180G LP)]]></title>
@@ -302,30 +326,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[66,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230609_300/1686295922640IVjpE_JPEG/177631540256551_1593073031.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키드밀리 Kid Milli - BEIGE (Green Ver.) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8682156670</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8682156670</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[26,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230609_35/16862961712806TxHN_JPEG/228234109024934_14697310.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키드밀리 Kid Milli - BEIGE (Pink Ver.) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8682154314</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8682154314</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[26,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230609_207/1686295611382hbvQg_JPEG/11467760202675927_686009386.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키드밀리 Kid Milli - BEIGE (Black Ver.) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8682149296</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8682149296</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[26,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230609_65/1686292928531zQQOI_JPEG/37508063490359269_1635522650.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
