@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 05:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 06:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박소은 - 타임라인 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8735515040</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8735515040</guid>
+            <pubDate>Mon, 19 Jun 2023 06:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230619_169/1687155388898yOoAH_JPEG/32926839702454668_891266726.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파테코 Pateko & 키드 와인 Kid Wine - Patek on Wine (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8735469884</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8735469884</guid>
+            <pubDate>Mon, 19 Jun 2023 06:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230619_19/1687154807111jRDet_JPEG/32574817174433643_569660835.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페노메코 Penomeco - Rorschach Part 2 [친필사인CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8719937460</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230607_105/1686116017626ra01A_JPEG/2578904988536019_1887624383.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선우정아 - 2집 It’s Okay, Dear (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8660035231</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8660035231</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[54,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230605_194/1685955850215ss17Y_JPEG/5475070942648569_829311848.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nina Simone - Great Women Of Song - Nina Simone (BLUE MARBLE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8646477200</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8646477200</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230602_16/1685709784077praqa_JPEG/4974811969499891_2074045104.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
