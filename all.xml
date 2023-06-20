@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 06:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 07:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[템페스트 Tempest - ON and ON (WHITE CLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8741123876</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8741123876</guid>
+            <pubDate>Tue, 20 Jun 2023 07:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230620_246/1687244655125pJW1N_JPEG/2260469995240184_1881966354.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아마츄어 증폭기 Amature Amplifier - 극좌표 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8740883012</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230609_22/1686304369997QGVuu_JPEG/186078904505294_1776749180.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로이킴 - 그리고 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8682311285</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8682311285</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230609_228/1686297947837jNC2a_JPEG/3959573802685938_1579110747.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
