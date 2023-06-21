@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 05:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 06:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크눌프 KNULP - Festival (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8746369529</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8746369529</guid>
+            <pubDate>Wed, 21 Jun 2023 06:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230621_43/1687325605289GjcHn_JPEG/9581724133563798_2004024693.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해서웨이 Hathaw9y - Essential (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8746306046</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8746306046</guid>
+            <pubDate>Wed, 21 Jun 2023 06:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230621_105/16873248410361zU2Y_JPEG/1165223391910312_533250019.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[템페스트 Tempest - ON and ON (WHITE CLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8741123876</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230612_12/16865490848046U88a_JPEG/945543474484282_863283534.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선우정아 - Masstige (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8696943485</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8696943485</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[51,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230612_51/1686548203052JIuRv_JPEG/2329175968510968_1476436053.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Archie Shepp - Kwanza (Verve By Request Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8683061128</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8683061128</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230609_22/1686304369997QGVuu_JPEG/186078904505294_1776749180.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
