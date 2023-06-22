@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 02:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 03:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230614_64/1686745784773211zN_JPEG/20157514630834584_2105146048.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유재하 - 사랑하기 때문에 (180G PASTEL COLOURED LP) [1인1매주문]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8710511611</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8710511611</guid>
+            <pubDate>Thu, 22 Jun 2023 03:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230614_165/1686744145315iJh4m_JPEG/11022664124241886_820851635.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유재하 - 사랑하기 때문에 (180G LP) [1인 1매 주문]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8710507735</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8710507735</guid>
+            <pubDate>Thu, 22 Jun 2023 03:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230614_165/1686744145315iJh4m_JPEG/11022664124241886_820851635.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[VA - 트리뷰트 들국화 Part 2 (PICTURE DISC 1LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8710173805</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8710173805</guid>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230612_12/16865490848046U88a_JPEG/945543474484282_863283534.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선우정아 - Masstige (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8696943485</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8696943485</guid>
-            <pubDate>Thu, 22 Jun 2023 02:49:53 GMT</pubDate>
-            <content:encoded><![CDATA[51,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230612_51/1686548203052JIuRv_JPEG/2329175968510968_1476436053.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Archie Shepp - Kwanza (Verve By Request Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8683061128</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8683061128</guid>
-            <pubDate>Thu, 22 Jun 2023 02:49:53 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230609_22/1686304369997QGVuu_JPEG/186078904505294_1776749180.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
