@@ -4,14 +4,30 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 06:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 07:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김민종 - 4집 / 착한사랑 (2023 REMASTERED) [150G LP & 7INCH LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8752243529</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8752243529</guid>
+            <pubDate>Thu, 22 Jun 2023 07:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230622_107/1687415515292m5jaA_JPEG/32325520112876356_1811799477.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김민종 - 3집 / 귀천도애 (2023 REMASTERED) [150G LP & 7INCH LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8752205836</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8752205836</guid>
+            <pubDate>Thu, 22 Jun 2023 07:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230622_270/1687414972016jHbAW_JPEG/9671090854416885_1390096602.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[THE BLUE (손지창 & 김민종) - 2집 / 친구를 위해 (2023 REMASTERED) [1LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8752180258</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8752180258</guid>
-            <pubDate>Thu, 22 Jun 2023 06:24:22 GMT</pubDate>
+            <pubDate>Thu, 22 Jun 2023 07:17:34 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230622_252/1687414546001GxTN2_JPEG/38100990029917439_549644888.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230612_3/1686550531139tNb5Q_JPEG/482593970737662_250537091.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정경화 & 사이먼 래틀   – 베토벤 교향곡 5번 & 브람스 바이올린 협주곡 (180G 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8697057430</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8697057430</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[66,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230612_53/1686549862245yCDHo_JPEG/15879201070807379_1698138675.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나미 - The Greatest (CLEAR ORANGE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8697006517</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8697006517</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230612_97/1686549447180lVzYw_JPEG/4211073131524517_2095592896.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
