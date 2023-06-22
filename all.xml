@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 08:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 09:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Slowdive - everything is alive (CRYSTAL CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8752934927</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8752934927</guid>
+            <pubDate>Thu, 22 Jun 2023 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230622_102/1687423465833zpYRn_JPEG/2439280708602344_2069792435.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Slowdive - everything is alive (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8752901598</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8752901598</guid>
+            <pubDate>Thu, 22 Jun 2023 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230622_202/16874232875044RBtN_JPEG/1263669854345041_336874588.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Puth - Nine Track Mind (CRYSTAL COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8752794593</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8752794593</guid>
+            <pubDate>Thu, 22 Jun 2023 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230622_36/1687421876833ymGU7_JPEG/587151800936806_180196466.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시나위 - 5집 매맞는 아이 (2023 REMASTERED) [1LP+1CD 합본 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8752602977</link>
@@ -302,30 +326,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[51,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230613_280/1686638607171l2ACx_JPEG/1035065815233980_2057550561.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음율 - 행복론 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8703118325</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8703118325</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230613_21/168663812214319Iqo_JPEG/4299748093640204_318570837.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기뱀장어 - 3집 동심원 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8697761517</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8697761517</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230612_88/1686559474545Rf0la_JPEG/12675888296134689_800769426.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정미조 - 37년 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8697718701</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8697718701</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230612_185/1686558882497rOG1i_JPEG/15888221311984110_1162785934.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
