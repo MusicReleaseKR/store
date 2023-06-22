@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 09:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 10:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Slowdive - everything is alive (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8753437850</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8753437850</guid>
+            <pubDate>Thu, 22 Jun 2023 10:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230622_207/168742892169088EEE_JPEG/1269304036197356_456759103.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Slowdive - everything is alive (카세트 테이프) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8753424319</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8753424319</guid>
+            <pubDate>Thu, 22 Jun 2023 10:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[14,300]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230622_104/1687428764927KVs9X_JPEG/33788403748397164_27398340.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Slowdive - everything is alive (CRYSTAL CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8752934927</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[22,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230614_268/1686727705145G3T2I_JPEG/16057043961515409_1833068543.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미소 Miso - Raw Gems Vol 1 (140G SILVER GREY OPAQUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8709184431</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8709184431</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[66,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230614_296/1686723709075ni69K_JPEG/12840122827353032_1767587218.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤지영 - 나의 정원에서 (CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8703172457</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8703172457</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230613_280/1686638607171l2ACx_JPEG/1035065815233980_2057550561.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
