@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 07:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 08:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뎁트 Dept - Persona (CD) [사인CD 랜덤발송] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8772302689</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8772302689</guid>
+            <pubDate>Mon, 26 Jun 2023 08:31:09 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230626_54/1687765337468zIXyT_JPEG/1605719823613757_991169571.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Joshua Bell - Butterfly Lovers (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8772180584</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 19 Jun 2023 08:27:12 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230616_183/1686890391804GKSan_JPEG/38855963591496778_174598707.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신승훈 - 5집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8715769471</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8715769471</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230615_226/16868318162543UUPd_JPEG/407308087377415_1515063164.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
