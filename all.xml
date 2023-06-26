@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 06:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 07:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Joshua Bell - Butterfly Lovers (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8772180584</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8772180584</guid>
+            <pubDate>Mon, 26 Jun 2023 07:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230626_230/1687763756107QBNpw_JPEG/34123394928489543_2060044340.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신모래 x 글램 굴드 - Dear J (180G PINK COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8772150863</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8772150863</guid>
+            <pubDate>Mon, 26 Jun 2023 07:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230626_105/1687763214550OdcEG_JPEG/1603596908101893_697180172.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이찬혁 비디오 - 우산 (CD & MD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8758467341</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230615_226/16868318162543UUPd_JPEG/407308087377415_1515063164.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sonny Clark - Cool Struttin' (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8710578065</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8710578065</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230614_228/16867466031713umTG_JPEG/11025121980531322_1665921845.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio - Portrait In Jazz (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8710547386</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8710547386</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230614_64/1686745784773211zN_JPEG/20157514630834584_2105146048.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
