@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 10:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 11:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wes Montgomery - Full House (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8778918136</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8778918136</guid>
+            <pubDate>Tue, 27 Jun 2023 11:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230627_172/1687861490793KKMSU_JPEG/32771495606653754_1216772664.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뎁트 Dept - Goodbye 2022 (140G PINK COLOURED LP) [B TYPE]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8778431511</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[23,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230616_281/1686891792819ykmqU_JPEG/170047645221742_1111975039.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Mars - Unorthodox Jukebox (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8719597845</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8719597845</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230616_130/16868915153306vACm_JPEG/32311525427487733_596388488.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
