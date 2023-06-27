@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 08:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 09:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뎁트 Dept - Goodbye 2022 (140G PINK COLOURED LP) [B TYPE]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8778431511</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8778431511</guid>
+            <pubDate>Tue, 27 Jun 2023 09:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230627_186/1687857055987ESxpn_JPEG/38543500026394048_1559193358.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뎁트 Dept - Goodbye 2022 (140G PINK COLOURED LP) [A TYPE]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8778419802</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8778419802</guid>
+            <pubDate>Tue, 27 Jun 2023 09:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230627_115/1687856687430OvO7w_JPEG/2872502309644132_1328649240.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넬 Nell - 7집 C [180G PINK & PURPLE COLOURED 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8778316006</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8778316006</guid>
+            <pubDate>Tue, 27 Jun 2023 09:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[68,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230627_223/168785559725588dqh_JPEG/1695979602341574_518894771.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해리빅버튼 Harry Big Button - Big Fish (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8777984310</link>
@@ -302,30 +326,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230616_130/16868915153306vACm_JPEG/32311525427487733_596388488.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Mars - Doo-Wops & Hooligans (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8719581116</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8719581116</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230616_300/1686891136882bFeLO_JPEG/38107969368047827_460666215.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포레스텔라 Forestella - The Forestella (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8719546979</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8719546979</guid>
-            <pubDate>Mon, 19 Jun 2023 08:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230616_261/1686890892801diuxT_JPEG/38856464603466854_1324405278.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sam Smith - In The Lonely Hour (Drowning Shadows Edition) [2CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8719530655</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8719530655</guid>
-            <pubDate>Mon, 19 Jun 2023 08:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230616_185/1686890656572lUTsX_JPEG/168911397792498_826533297.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
