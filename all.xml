@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 11:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 12:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Tue, 27 Jun 2023 11:17:58 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230627_172/1687861490793KKMSU_JPEG/32771495606653754_1216772664.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발룬티어스 The Volunteers - The Volunteers (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8778723061</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8778723061</guid>
+            <pubDate>Wed, 28 Jun 2023 12:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230627_269/1687859878289JXin7_JPEG/10115997132776645_1342614982.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뎁트 Dept - Goodbye 2022 (140G PINK COLOURED LP) [B TYPE] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 20 Jun 2023 06:24:24 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230620_120/1687240583537BAdf8_JPEG/37487009823055724_1182314738.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robert Johnson - King Of The Delta Blues Singers Vol I & II (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8736945047</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8736945047</guid>
-            <pubDate>Mon, 19 Jun 2023 12:37:41 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230619_75/1687176637408jkbyM_JPEG/11556615975902396_138885882.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
