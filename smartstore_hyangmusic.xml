@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 09:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 10:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박인수 / 당신은 별을 보고 울어보셨나요 (TRANSPARENT SKY BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8784803995</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8784803995</guid>
+            <pubDate>Wed, 28 Jun 2023 10:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230628_121/1687945971102GUIJ4_JPEG/4214465936337201_2046257846.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박인수 / 당신은 별을 보고 울어보셨나요 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8784791673</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8784791673</guid>
+            <pubDate>Wed, 28 Jun 2023 10:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230628_164/1687945665807lxlV1_JPEG/34305304622353825_1211067649.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배인숙 - 누구라도 그러하듯이, 빗방울 (CLEAR PURE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8784387493</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 19 Jun 2023 07:18:08 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230619_159/1687157231409tcvSL_JPEG/32577241505227048_1686681500.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 NewJeans - Get Up (Bunny Beach Bag ver) [CD] (6종 중 1종 랜덤발송)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8735647887</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8735647887</guid>
-            <pubDate>Mon, 19 Jun 2023 07:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230619_159/1687157231409tcvSL_JPEG/32577241505227048_1686681500.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 사운드 THE SOUND - Who’s Listening (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8735606075</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8735606075</guid>
-            <pubDate>Mon, 19 Jun 2023 07:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230619_222/1687156752455LwfUl_JPEG/1052646407676075_1178019629.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
