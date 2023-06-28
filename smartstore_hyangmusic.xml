@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 08:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 09:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배인숙 - 누구라도 그러하듯이, 빗방울 (CLEAR PURE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8784387493</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8784387493</guid>
+            <pubDate>Wed, 28 Jun 2023 09:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230628_72/1687940137836mv0tk_JPEG/1105412801817508_761954757.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배인숙 - 누구라도 그러하듯이, 빗방울 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8784378417</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8784378417</guid>
+            <pubDate>Wed, 28 Jun 2023 09:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230628_72/1687940137836mv0tk_JPEG/1105412801817508_761954757.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Charlie Haden & Kenny Barron - Night & The City [2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8779440473</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 19 Jun 2023 07:18:08 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230619_222/1687156752455LwfUl_JPEG/1052646407676075_1178019629.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈지노 Beenzino - Nowitzki (CD) [한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8735546682</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8735546682</guid>
-            <pubDate>Mon, 19 Jun 2023 07:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230619_13/1687155913278xhJvi_JPEG/32927364093493337_1864984112.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박소은 - 타임라인 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8735515040</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8735515040</guid>
-            <pubDate>Mon, 19 Jun 2023 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230619_169/1687155388898yOoAH_JPEG/32926839702454668_891266726.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
