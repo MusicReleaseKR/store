@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 12:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 13:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Norah Jones - ...Little Broken Hearts (2CD DELUXE EDITION)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8796935363</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8796935363</guid>
+            <pubDate>Fri, 30 Jun 2023 13:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230630_158/1688129123047MG1Gj_JPEG/689531054521100_94889719.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프롬 Fromm - 2집 Moonbow (CD) [재발매]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8785123531</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 20 Jun 2023 06:24:24 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230620_292/1687241078966bC7Cp_JPEG/33600717782151009_884547723.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오진우, 이소 Duo e / 파네마 - Duo e 그리고 파네마 (45RPM 7INCH SPLIT SINGLE LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8740799237</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8740799237</guid>
-            <pubDate>Tue, 20 Jun 2023 06:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230620_120/1687240583537BAdf8_JPEG/37487009823055724_1182314738.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
