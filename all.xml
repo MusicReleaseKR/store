@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 12:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 13:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Karen O & Danger Mouse - Lux Prima (ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8801801710</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8801801710</guid>
+            <pubDate>Sat, 01 Jul 2023 13:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230701_300/1688215399932sXgQR_JPEG/15571587936335870_1421392896.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Justin Timberlake - Man Of The Woods (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8801781439</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8801781439</guid>
+            <pubDate>Sat, 01 Jul 2023 13:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230701_95/1688215142984h6TnH_JPEG/1681137268581975_123080936.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yann Tiersen - Portrait (3LP & 7INCH LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8801751388</link>
@@ -134,14 +150,6 @@
             <pubDate>Tue, 27 Jun 2023 11:17:58 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230627_172/1687861490793KKMSU_JPEG/32771495606653754_1216772664.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발룬티어스 The Volunteers - The Volunteers (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8778723061</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8778723061</guid>
-            <pubDate>Wed, 28 Jun 2023 12:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[54,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230627_269/1687859878289JXin7_JPEG/10115997132776645_1342614982.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뎁트 Dept - Goodbye 2022 (140G PINK COLOURED LP) [B TYPE] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 22 Jun 2023 07:17:34 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230622_252/1687414546001GxTN2_JPEG/38100990029917439_549644888.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크눌프 KNULP - Festival (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8746369529</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8746369529</guid>
-            <pubDate>Wed, 21 Jun 2023 06:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230621_43/1687325605289GjcHn_JPEG/9581724133563798_2004024693.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
