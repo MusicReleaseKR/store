@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 11:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 12:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yann Tiersen - Portrait (3LP & 7INCH LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8801751388</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8801751388</guid>
+            <pubDate>Sat, 01 Jul 2023 12:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230701_154/1688214739662CQ0uD_JPEG/1680733944676799_1225779584.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Angel Olsen - Wholenew Mess (PINK GLASS TRANSLUCENT COLORED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8801711454</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8801711454</guid>
+            <pubDate>Sat, 01 Jul 2023 12:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[33,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230701_180/1688214014513D0GcS_JPEG/2088502180611640_1610939644.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Angel Olsen - Wholenew Mess (CLEAR SMOKE TRANSLUCENT COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8801704831</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8801704831</guid>
+            <pubDate>Sat, 01 Jul 2023 12:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[33,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230701_50/1688213808400Hc2qi_JPEG/774216413553563_1315117676.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Norah Jones - ...Little Broken Hearts (2CD DELUXE EDITION)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8796935363</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 21 Jun 2023 06:23:49 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230621_43/1687325605289GjcHn_JPEG/9581724133563798_2004024693.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해서웨이 Hathaw9y - Essential (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8746306046</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8746306046</guid>
-            <pubDate>Wed, 21 Jun 2023 06:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230621_105/16873248410361zU2Y_JPEG/1165223391910312_533250019.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[템페스트 Tempest - ON and ON (WHITE CLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8741123876</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8741123876</guid>
-            <pubDate>Tue, 20 Jun 2023 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230620_246/1687244655125pJW1N_JPEG/2260469995240184_1881966354.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마츄어 증폭기 Amature Amplifier - 극좌표 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8740883012</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8740883012</guid>
-            <pubDate>Tue, 20 Jun 2023 06:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230620_292/1687241078966bC7Cp_JPEG/33600717782151009_884547723.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
