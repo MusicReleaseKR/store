@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 10:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 11:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Leroy Vinnegar Sextet - Leroy Walks (Contemporary Records Acoustic Sounds Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8817610645</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8817610645</guid>
+            <pubDate>Tue, 04 Jul 2023 11:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230704_258/1688466139376JsmxP_JPEG/14582553122628477_1355128541.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Norah Jones - Little Broken Hearts (Newly Remixed) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8817582383</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 23 Jun 2023 08:26:23 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230623_260/1687504276810lyeYI_JPEG/2520091685536720_1086543095.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis - Sketches Of Spain (180G BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8753740929</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8753740929</guid>
-            <pubDate>Thu, 22 Jun 2023 12:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230622_49/1687432643216OO39T_JPEG/38119087251517000_168419333.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
