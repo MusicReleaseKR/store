@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 09:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 10:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Norah Jones - Little Broken Hearts (Newly Remixed) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8817582383</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8817582383</guid>
+            <pubDate>Tue, 04 Jul 2023 10:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230704_136/1688465873951kULCu_JPEG/14582287695140807_1811165398.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eartha Kitt - Bad But Beautiful (Verve By Request Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8817565865</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8817565865</guid>
+            <pubDate>Tue, 04 Jul 2023 10:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230704_215/16884656649899nkW1_JPEG/100491796634283_862511300.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blossom Dearie - Blossom Dearie (Verve By Request Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8817543717</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8817543717</guid>
+            <pubDate>Tue, 04 Jul 2023 10:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230704_157/16884652741978TOeU_JPEG/14581687945327897_1617671155.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[374 - 1984 SUNSET (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8817314399</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8817314399</guid>
+            <pubDate>Tue, 04 Jul 2023 10:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230704_180/1688462923056T5c8M_JPEG/13090766867767932_564781028.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스위머스 Swiimers - Swiimers (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8816669598</link>
@@ -294,38 +326,6 @@
             <pubDate>Thu, 22 Jun 2023 12:37:15 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230622_49/1687432643216OO39T_JPEG/38119087251517000_168419333.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk - The Unique (CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8753700335</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8753700335</guid>
-            <pubDate>Thu, 22 Jun 2023 11:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230622_120/1687431993016L6GLj_JPEG/9688111850297753_916786648.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wes Montgomery / The Incredible Jazz Guitar Of Wes Montgomery (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8753664779</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8753664779</guid>
-            <pubDate>Thu, 22 Jun 2023 11:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230622_118/1687431609751lE0EV_JPEG/1271992108153841_633039968.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slowdive - everything is alive (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8753437850</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8753437850</guid>
-            <pubDate>Thu, 22 Jun 2023 10:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230622_207/168742892169088EEE_JPEG/1269304036197356_456759103.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slowdive - everything is alive (카세트 테이프)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8753424319</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8753424319</guid>
-            <pubDate>Thu, 22 Jun 2023 10:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[14,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230622_104/1687428764927KVs9X_JPEG/33788403748397164_27398340.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
