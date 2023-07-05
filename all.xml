@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 05:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 06:31:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김규식과 무누스앙상블 - 피아졸라 - 부에노스 아이레스의 사계 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8822216815</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8822216815</guid>
+            <pubDate>Wed, 05 Jul 2023 06:30:43 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230705_65/1688535254941Qnzob_JPEG/14651668691088201_602804610.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Leroy Vinnegar Sextet - Leroy Walks (Contemporary Records Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8817610645</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 23 Jun 2023 08:26:23 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230623_85/1687506221305e1ECD_JPEG/38192665345121357_1713188725.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수안 Swan - Twenty - Prod. 정키 (SINGLE) [카세트 테이프] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8758395149</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8758395149</guid>
-            <pubDate>Fri, 23 Jun 2023 08:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230623_260/1687504276810lyeYI_JPEG/2520091685536720_1086543095.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
