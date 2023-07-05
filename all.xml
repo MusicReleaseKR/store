@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 11:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 12:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Coltrane - Ballads (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8824364166</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8824364166</guid>
+            <pubDate>Wed, 05 Jul 2023 12:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230705_67/1688559517052Ys1Ao_JPEG/13187360875781980_913971948.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Horace Silver - Horace Silver And The Jazz Messengers (REMASTERED) [CLEAR CLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8824342945</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8824342945</guid>
+            <pubDate>Wed, 05 Jul 2023 12:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230705_55/1688559153463KgDLR_JPEG/14675567203637448_256637484.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김규식과 무누스앙상블 - 피아졸라 - 부에노스 아이레스의 사계 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8822216815</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 26 Jun 2023 07:20:42 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230626_105/1687763214550OdcEG_JPEG/1603596908101893_697180172.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이찬혁 비디오 - 우산 (CD & MD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8758467341</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8758467341</guid>
-            <pubDate>Fri, 23 Jun 2023 08:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230623_200/16875068888391BPdF_JPEG/1347271192632904_1203973891.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이찬혁 비디오 - 우산 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8758418926</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8758418926</guid>
-            <pubDate>Fri, 23 Jun 2023 08:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230623_85/1687506221305e1ECD_JPEG/38192665345121357_1713188725.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
