@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 10:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 11:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Killers - Wonderful Wonderful (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8830568945</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8830568945</guid>
+            <pubDate>Thu, 06 Jul 2023 11:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230706_240/1688640579659Q1yRv_JPEG/275406475222770_1092871226.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[B.B. King - Mr. B.B. King (4CD LIMITED EDITION BOX SET)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8830422165</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8830422165</guid>
+            <pubDate>Thu, 06 Jul 2023 11:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[65,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230706_105/1688639414828NBXkN_JPEG/1970216174000418_1802700551.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Freddie Mercury - Never Boring (DELUXE BOX SET)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8830389756</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8830389756</guid>
+            <pubDate>Thu, 06 Jul 2023 11:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[135,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230706_214/1688639064734iDol7_JPEG/4420037651482689_2095431970.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 로보트 태권브이 앤솔로지 (4CD BOX SET) [300세트 한정반]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8830322588</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 27 Jun 2023 12:42:03 GMT</pubDate>
             <content:encoded><![CDATA[42,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230627_220/16878676841282kUnU_JPEG/4136178963136614_1423679698.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Guns N Roses - Deer Creek 1991 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8779300184</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8779300184</guid>
-            <pubDate>Tue, 27 Jun 2023 12:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230627_5/1687862417859xBP4H_JPEG/10118536695522023_546062432.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wes Montgomery - Full House (180G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8778918136</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8778918136</guid>
-            <pubDate>Tue, 27 Jun 2023 11:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230627_172/1687861490793KKMSU_JPEG/32771495606653754_1216772664.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뎁트 Dept - Goodbye 2022 (140G PINK COLOURED LP) [B TYPE]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8778431511</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8778431511</guid>
-            <pubDate>Tue, 27 Jun 2023 09:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230627_186/1687857055987ESxpn_JPEG/38543500026394048_1559193358.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
