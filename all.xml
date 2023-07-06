@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 07:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 08:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤훼이 Yunhway - 1집 Yunhway (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8829409721</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8829409721</guid>
+            <pubDate>Thu, 06 Jul 2023 08:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230706_282/1688629363559fzrH2_JPEG/6373812829105303_1148151553.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Coltrane - Blue Train (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8824546716</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 26 Jun 2023 08:31:09 GMT</pubDate>
             <content:encoded><![CDATA[18,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230626_54/1687765337468zIXyT_JPEG/1605719823613757_991169571.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joshua Bell - Butterfly Lovers (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8772180584</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8772180584</guid>
-            <pubDate>Mon, 26 Jun 2023 07:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230626_230/1687763756107QBNpw_JPEG/34123394928489543_2060044340.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
