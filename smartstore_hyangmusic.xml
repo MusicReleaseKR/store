@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 08:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 09:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Swift - Speak Now (Taylor’s Version) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8829638261</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8829638261</guid>
+            <pubDate>Thu, 06 Jul 2023 09:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230706_292/1688629892564yXwpU_JPEG/14746306313845462_1191523202.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤훼이 Yunhway - 1집 Yunhway (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8829409721</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 27 Jun 2023 08:26:29 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230627_86/1687851987056CQ1X1_JPEG/32761991867303603_743370677.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뎁트 Dept - Persona (CD) [사인CD 랜덤발송]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8772302689</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8772302689</guid>
-            <pubDate>Mon, 26 Jun 2023 08:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230626_54/1687765337468zIXyT_JPEG/1605719823613757_991169571.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
