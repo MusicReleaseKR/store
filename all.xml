@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 09:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 10:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 소울바이서울 SOULBYSEL - SOULBYSEL Compilation 04 (180G BEIGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8836934137</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8836934137</guid>
+            <pubDate>Fri, 07 Jul 2023 10:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230707_152/1688723482439DiKCq_JPEG/14839896190785812_1511340999.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Killers - Wonderful Wonderful (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8830568945</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 27 Jun 2023 12:42:03 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230627_168/1687868011921mEJAN_JPEG/1708394273290955_1827030231.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mellow Candle - Swaddling Songs (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8779349987</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8779349987</guid>
-            <pubDate>Tue, 27 Jun 2023 12:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[42,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230627_220/16878676841282kUnU_JPEG/4136178963136614_1423679698.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
