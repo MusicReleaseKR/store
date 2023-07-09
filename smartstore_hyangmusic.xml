@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 10:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 11:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beatles - Live In Paris, Palais De Sports, June 20th, 1965 Europe 1 Broadcast (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8844903910</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8844903910</guid>
+            <pubDate>Sun, 09 Jul 2023 11:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[26,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230709_54/16889009924888Vdvk_JPEG/3103078465984364_930685526.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - Philadelphia P.A.1964 (150G MONO STEREO LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8844880374</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8844880374</guid>
+            <pubDate>Sun, 09 Jul 2023 11:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230709_21/16889005211487h1q3_JPEG/2231322503877002_806884908.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - A Hard Day's Night - Another Tracks (150G MONO STEREO LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8844858906</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8844858906</guid>
+            <pubDate>Sun, 09 Jul 2023 11:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230709_23/1688900183768reHpr_JPEG/35944267346418273_1776405698.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Radiohead - Morning Mr Magpie / Bloom (Harmonic 313 RMX) / Bloom (Mark Pritchard RMX) [SINGLE LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8844447161</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 28 Jun 2023 11:17:16 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230628_262/1687948661638TdPFs_JPEG/1823149283139192_2011561665.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박인수 / 당신은 별을 보고 울어보셨나요 (TRANSPARENT SKY BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8784803995</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8784803995</guid>
-            <pubDate>Wed, 28 Jun 2023 10:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230628_121/1687945971102GUIJ4_JPEG/4214465936337201_2046257846.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박인수 / 당신은 별을 보고 울어보셨나요 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8784791673</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8784791673</guid>
-            <pubDate>Wed, 28 Jun 2023 10:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230628_164/1687945665807lxlV1_JPEG/34305304622353825_1211067649.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배인숙 - 누구라도 그러하듯이, 빗방울 (CLEAR PURE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8784387493</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8784387493</guid>
-            <pubDate>Wed, 28 Jun 2023 09:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230628_72/1687940137836mv0tk_JPEG/1105412801817508_761954757.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
