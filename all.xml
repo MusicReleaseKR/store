@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 08:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 09:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Radiohead - Morning Mr Magpie / Bloom (Harmonic 313 RMX) / Bloom (Mark Pritchard RMX) [SINGLE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8844447161</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8844447161</guid>
+            <pubDate>Sun, 09 Jul 2023 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230709_289/16888935414715seX5_JPEG/4674514388116126_2130231441.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead – Bloom / Separator / Lotus Flower (Remix) [45RPM SINGLE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8844394839</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8844394839</guid>
+            <pubDate>Sun, 09 Jul 2023 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230709_262/1688891843690Aig2Q_JPEG/17963801264768605_2111562171.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead - Give Up The Ghost / Codex / Little By Little (Remix) [45RPM SINGLE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8844323145</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8844323145</guid>
+            <pubDate>Sun, 09 Jul 2023 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230709_207/16888848257235DlU8_JPEG/2215627043491732_695537497.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 소울바이서울 SOULBYSEL - SOULBYSEL Compilation 04 (180G BEIGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8836934137</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 28 Jun 2023 09:21:03 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230628_72/1687940137836mv0tk_JPEG/1105412801817508_761954757.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배인숙 - 누구라도 그러하듯이, 빗방울 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8784378417</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8784378417</guid>
-            <pubDate>Wed, 28 Jun 2023 09:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230628_72/1687940137836mv0tk_JPEG/1105412801817508_761954757.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Haden & Kenny Barron - Night & The City [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8779440473</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8779440473</guid>
-            <pubDate>Tue, 27 Jun 2023 12:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[49,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230627_1/1687868946299imTdI_JPEG/38555390338186036_2090859405.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madlib - Shades Of Blue (Blue Note Classic Vinyl Series) [180G 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8779386911</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8779386911</guid>
-            <pubDate>Tue, 27 Jun 2023 12:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[49,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230627_168/1687868011921mEJAN_JPEG/1708394273290955_1827030231.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
