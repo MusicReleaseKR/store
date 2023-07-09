@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 11:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 12:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beatles - Live In Melbourne, Festival Hall June 17th 1964 TV Broadcast (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8844927600</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8844927600</guid>
+            <pubDate>Sun, 09 Jul 2023 12:37:32 GMT</pubDate>
+            <content:encoded><![CDATA[26,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230709_98/1688901320986nUf49_JPEG/4682293900602282_865999024.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beatles - Live In Paris, Palais De Sports, June 20th, 1965 Europe 1 Broadcast (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8844903910</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 28 Jun 2023 11:17:16 GMT</pubDate>
             <content:encoded><![CDATA[12,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230628_291/16879495547803onyA_JPEG/15305742774575477_227114507.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Babymetal - Metal Galaxy (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8785090500</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8785090500</guid>
-            <pubDate>Wed, 28 Jun 2023 11:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230628_262/1687948661638TdPFs_JPEG/1823149283139192_2011561665.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
