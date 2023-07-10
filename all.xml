@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 06:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 07:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공중전화 - Rock'n Roll Zombie 2023 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8849011558</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8849011558</guid>
+            <pubDate>Mon, 10 Jul 2023 07:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[23,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230710_90/1688970390154jr3G0_JPEG/3172476124857198_1076194003.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beatles - Live In Melbourne, Festival Hall June 17th 1964 TV Broadcast (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8844927600</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 28 Jun 2023 11:17:16 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230628_176/16879497439539QmAI_JPEG/1129461797775097_135116574.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프롬 Fromm - 1집 Arrival (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8785107987</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8785107987</guid>
-            <pubDate>Wed, 28 Jun 2023 11:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[12,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230628_291/16879495547803onyA_JPEG/15305742774575477_227114507.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
