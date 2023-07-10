@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 10:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 11:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Emerson, Lake & Palmer - The Ultimate Collection (3CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8850400924</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8850400924</guid>
+            <pubDate>Mon, 10 Jul 2023 11:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230710_240/1688985543899Qzqey_JPEG/18057501472296841_1185880265.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공중전화 - Rock'n Roll Zombie 2023 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8849011558</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 30 Jun 2023 13:26:25 GMT</pubDate>
             <content:encoded><![CDATA[21,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230630_158/1688129123047MG1Gj_JPEG/689531054521100_94889719.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프롬 Fromm - 2집 Moonbow (CD) [재발매]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8785123531</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8785123531</guid>
-            <pubDate>Wed, 28 Jun 2023 11:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230628_176/16879497439539QmAI_JPEG/1129461797775097_135116574.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
