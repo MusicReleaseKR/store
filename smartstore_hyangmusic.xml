@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 12:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 13:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Miles Davis - In A Silent Way (WHITE COLORED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8857116019</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8857116019</guid>
+            <pubDate>Tue, 11 Jul 2023 13:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[30,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230711_260/1689079517486GNqsg_JPEG/18151475071670851_1287603847.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이센스 (E SENS) - 저금통 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8855481253</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 01 Jul 2023 12:37:07 GMT</pubDate>
             <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230701_154/1688214739662CQ0uD_JPEG/1680733944676799_1225779584.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Angel Olsen - Wholenew Mess (PINK GLASS TRANSLUCENT COLORED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8801711454</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8801711454</guid>
-            <pubDate>Sat, 01 Jul 2023 12:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[33,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230701_180/1688214014513D0GcS_JPEG/2088502180611640_1610939644.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
