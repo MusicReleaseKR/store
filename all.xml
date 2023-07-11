@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 07:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 08:27:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이센스 (E SENS) - 저금통 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8855481253</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8855481253</guid>
+            <pubDate>Tue, 11 Jul 2023 08:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230711_131/1689062118126MwQtS_JPEG/696944937188055_110974029.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김광진 – 3집 It’s Me (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8855453186</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8855453186</guid>
+            <pubDate>Tue, 11 Jul 2023 08:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230711_46/1689061799528p31NL_JPEG/4578287877292301_712968722.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Emerson, Lake & Palmer - The Ultimate Collection (3CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8850400924</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 01 Jul 2023 12:37:07 GMT</pubDate>
             <content:encoded><![CDATA[33,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230701_180/1688214014513D0GcS_JPEG/2088502180611640_1610939644.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Angel Olsen - Wholenew Mess (CLEAR SMOKE TRANSLUCENT COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8801704831</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8801704831</guid>
-            <pubDate>Sat, 01 Jul 2023 12:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[33,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230701_50/1688213808400Hc2qi_JPEG/774216413553563_1315117676.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norah Jones - ...Little Broken Hearts (2CD DELUXE EDITION) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8796935363</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8796935363</guid>
-            <pubDate>Fri, 30 Jun 2023 13:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230630_158/1688129123047MG1Gj_JPEG/689531054521100_94889719.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
