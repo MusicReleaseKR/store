@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 10:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 11:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sonny Clark - Sonny Clark Trio (Blue Note Tone Poet Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8862314505</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8862314505</guid>
+            <pubDate>Wed, 12 Jul 2023 11:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230712_231/1689156976559FbpUU_JPEG/4937949469955584_418910626.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hank Mobley - A Caddy For Daddy (Blue Note Tone Poet Series) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8862276097</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 04 Jul 2023 08:27:09 GMT</pubDate>
             <content:encoded><![CDATA[13,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230704_138/1688456613225aGVyy_JPEG/6201062482209473_2066005619.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈지노 Beenzino - Nowitzki (CD) [일반반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8811324839</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8811324839</guid>
-            <pubDate>Mon, 03 Jul 2023 07:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230703_174/16883682064021eelF_JPEG/1834200687467424_2078676776.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
