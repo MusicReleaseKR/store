@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 09:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 10:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hank Mobley - A Caddy For Daddy (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8862276097</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8862276097</guid>
+            <pubDate>Wed, 12 Jul 2023 10:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230712_63/1689156739646PUCuX_JPEG/791566454335445_254912971.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Billie Holiday - Songs For Distingué Lovers (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8862258325</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8862258325</guid>
+            <pubDate>Wed, 12 Jul 2023 10:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230712_297/1689156056268aS8E0_JPEG/18228013843756472_12457.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Evans Trio - Waltz For Debby (Craft Recordings Original Jazz Classic Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8862203415</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8862203415</guid>
+            <pubDate>Wed, 12 Jul 2023 10:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230712_294/1689155359555WgpTr_JPEG/36199443138532067_406695286.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Khc / Moribet - 전파납치 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8861317726</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 03 Jul 2023 07:19:48 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230703_174/16883682064021eelF_JPEG/1834200687467424_2078676776.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오버드라이브 필로소피 OVerdrive Philosophy - 64 see me (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8811270421</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8811270421</guid>
-            <pubDate>Mon, 03 Jul 2023 07:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230703_291/1688367509334JSDcy_JPEG/1833503620103784_828877596.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정경화 - 브람스 - 바이올린 소나타 전곡집 (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8811217722</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8811217722</guid>
-            <pubDate>Mon, 03 Jul 2023 07:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[66,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230703_20/1688366822969eyNQo_JPEG/15723010962837175_88017588.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[kuzi - Joyrider's Avenue (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8811153517</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8811153517</guid>
-            <pubDate>Mon, 03 Jul 2023 07:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230703_89/1688366314657yBbtp_JPEG/1546032499767104_1697402082.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
