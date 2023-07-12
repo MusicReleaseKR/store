@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 05:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 07:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Khc / Moribet - 전파납치 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8861317726</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8861317726</guid>
+            <pubDate>Wed, 12 Jul 2023 07:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230712_261/1689144813704i4fb3_JPEG/3346899688160426_33260228.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이리 칸나 Airi Kanna - ADDICT!ON (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8861105038</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8861105038</guid>
+            <pubDate>Wed, 12 Jul 2023 07:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230712_264/1689141828162GBKh6_JPEG/3343914144950831_54005485.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강형호 PITTA - BE FREE (45RPM 180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8861070737</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8861070737</guid>
+            <pubDate>Wed, 12 Jul 2023 07:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230712_235/1689141255411WnbUu_JPEG/2472056767168506_1574403123.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miles Davis - In A Silent Way (WHITE COLORED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8857116019</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 03 Jul 2023 07:19:48 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230703_89/1688366314657yBbtp_JPEG/1546032499767104_1697402082.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Karen O & Danger Mouse - Lux Prima (ORANGE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8801801710</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8801801710</guid>
-            <pubDate>Sat, 01 Jul 2023 13:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230701_300/1688215399932sXgQR_JPEG/15571587936335870_1421392896.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Justin Timberlake - Man Of The Woods (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8801781439</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8801781439</guid>
-            <pubDate>Sat, 01 Jul 2023 13:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230701_95/1688215142984h6TnH_JPEG/1681137268581975_123080936.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yann Tiersen - Portrait (3LP & 7INCH LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8801751388</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8801751388</guid>
-            <pubDate>Sat, 01 Jul 2023 12:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230701_154/1688214739662CQ0uD_JPEG/1680733944676799_1225779584.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
