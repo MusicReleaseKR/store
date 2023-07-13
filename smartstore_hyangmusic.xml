@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 11:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 12:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백예린 - Yerin Baek X Soohyang 미니 향초 세트]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8868877873</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8868877873</guid>
+            <pubDate>Thu, 13 Jul 2023 12:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230713_9/16892518963084xI5O_JPEG/1779991164227936_1731923803.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린 - 턴온댓 블루바이닐 핀뱃지 4종 세트]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8868859729</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8868859729</guid>
+            <pubDate>Thu, 13 Jul 2023 12:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230713_62/168925165607324ShY_JPEG/14966649681543176_78575523.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김진환 - Blue Moon (BLUE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8867259335</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 04 Jul 2023 10:23:58 GMT</pubDate>
             <content:encoded><![CDATA[17,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230704_136/1688465873951kULCu_JPEG/14582287695140807_1811165398.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eartha Kitt - Bad But Beautiful (Verve By Request Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8817565865</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8817565865</guid>
-            <pubDate>Tue, 04 Jul 2023 10:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230704_215/16884656649899nkW1_JPEG/100491796634283_862511300.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blossom Dearie - Blossom Dearie (Verve By Request Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8817543717</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8817543717</guid>
-            <pubDate>Tue, 04 Jul 2023 10:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230704_157/16884652741978TOeU_JPEG/14581687945327897_1617671155.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
