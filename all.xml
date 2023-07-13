@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 06:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 07:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김광석 - 2집 2nd (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8867216018</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8867216018</guid>
+            <pubDate>Thu, 13 Jul 2023 07:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230713_175/1689232507248zwB3A_JPEG/6910550077626576_1697720481.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김광석 - 1집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8867193835</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8867193835</guid>
+            <pubDate>Thu, 13 Jul 2023 07:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230713_207/1689232189229RrqVl_JPEG/14947182845178241_603212394.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스파키 Sparky - 탈의실 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8866941786</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 04 Jul 2023 10:23:58 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230704_180/1688462923056T5c8M_JPEG/13090766867767932_564781028.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스위머스 Swiimers - Swiimers (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8816669598</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8816669598</guid>
-            <pubDate>Tue, 04 Jul 2023 08:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230704_195/1688457212493BwEO7_JPEG/1788013838299491_1312247673.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기흐른 - 1집 우리는 밤에 산다 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8816650498</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8816650498</guid>
-            <pubDate>Tue, 04 Jul 2023 08:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230704_104/16884569979575oEVK_JPEG/13084841769994240_1741470659.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
