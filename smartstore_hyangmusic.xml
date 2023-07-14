@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 07:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 08:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한요한 - Shining Star (사인CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8873210428</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8873210428</guid>
+            <pubDate>Fri, 14 Jul 2023 08:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230714_68/1689319880799TR8iu_JPEG/5602770071949483_787690424.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김민석 - Aria D'amore [180G CLEAR COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8872772138</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 05 Jul 2023 13:32:38 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230705_215/1688559797447IWzaJ_JPEG/4340770357075824_59270629.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Coltrane - Ballads (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8824364166</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8824364166</guid>
-            <pubDate>Wed, 05 Jul 2023 12:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230705_67/1688559517052Ys1Ao_JPEG/13187360875781980_913971948.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
