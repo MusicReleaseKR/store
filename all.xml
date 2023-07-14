@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 04:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 05:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Thu, 13 Jul 2023 12:42:28 GMT</pubDate>
             <content:encoded><![CDATA[25,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230713_62/168925165607324ShY_JPEG/14966649681543176_78575523.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[wave to earth - summer flows 0.02 (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8868040363</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8868040363</guid>
+            <pubDate>Fri, 14 Jul 2023 05:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230713_177/16892416791141L92t_JPEG/14956672726812048_1076363830.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[wave to earth - wave 0.01 (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8868008124</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8868008124</guid>
+            <pubDate>Fri, 14 Jul 2023 05:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230713_265/1689241154547tEUcn_JPEG/6919197380883924_1129509107.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김진환 - Blue Moon (BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 05 Jul 2023 07:20:44 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230705_65/1688535254941Qnzob_JPEG/14651668691088201_602804610.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leroy Vinnegar Sextet - Leroy Walks (Contemporary Records Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8817610645</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8817610645</guid>
-            <pubDate>Tue, 04 Jul 2023 11:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[42,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230704_258/1688466139376JsmxP_JPEG/14582553122628477_1355128541.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norah Jones - Little Broken Hearts (Newly Remixed) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8817582383</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8817582383</guid>
-            <pubDate>Tue, 04 Jul 2023 10:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230704_136/1688465873951kULCu_JPEG/14582287695140807_1811165398.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
