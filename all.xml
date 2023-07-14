@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 05:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 06:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김민석 - Aria D'amore [180G CLEAR COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8872772138</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8872772138</guid>
+            <pubDate>Fri, 14 Jul 2023 06:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230714_109/1689314757369kU2tf_JPEG/1842852225596571_1223546804.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헨 HEN - 소리들 (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8872577635</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8872577635</guid>
+            <pubDate>Fri, 14 Jul 2023 06:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[52,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230714_228/1689312063836zXtKK_JPEG/17590159734475616_553188841.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백예린 - Yerin Baek X Soohyang 미니 향초 세트 (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8868877873</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 05 Jul 2023 12:45:22 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230705_67/1688559517052Ys1Ao_JPEG/13187360875781980_913971948.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Horace Silver - Horace Silver And The Jazz Messengers (REMASTERED) [CLEAR CLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8824342945</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8824342945</guid>
-            <pubDate>Wed, 05 Jul 2023 12:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230705_55/1688559153463KgDLR_JPEG/14675567203637448_256637484.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김규식과 무누스앙상블 - 피아졸라 - 부에노스 아이레스의 사계 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8822216815</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8822216815</guid>
-            <pubDate>Wed, 05 Jul 2023 07:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230705_65/1688535254941Qnzob_JPEG/14651668691088201_602804610.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
