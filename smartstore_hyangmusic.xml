@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 06:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 07:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제이홉 J-Hope - Jack In The Box (HOPE Edition) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8888579727</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8888579727</guid>
+            <pubDate>Mon, 17 Jul 2023 07:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230717_172/1689575513847qVD9X_JPEG/2103608710429743_1083524771.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김화종 - Mystery Story (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8874154635</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 06 Jul 2023 09:21:35 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230706_292/1688629892564yXwpU_JPEG/14746306313845462_1191523202.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤훼이 Yunhway - 1집 Yunhway (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8829409721</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8829409721</guid>
-            <pubDate>Thu, 06 Jul 2023 08:27:32 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230706_282/1688629363559fzrH2_JPEG/6373812829105303_1148151553.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
