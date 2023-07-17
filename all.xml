@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 09:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 10:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔니오 모리꼬네 서부영화 모음집 - Ennio Morricone Hollywood Story (CLEAR ORANGE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8889740931</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8889740931</guid>
+            <pubDate>Mon, 17 Jul 2023 10:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230717_18/1689588763107Hx4AN_JPEG/5105251452347453_66000478.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - The Little Mermaid - The Songs 인어공주 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8889698376</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8889698376</guid>
+            <pubDate>Mon, 17 Jul 2023 10:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230717_42/168958827500067yyW_JPEG/5104763352939109_559567991.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제이홉 J-Hope - Jack In The Box (HOPE Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8888579727</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 06 Jul 2023 10:24:02 GMT</pubDate>
             <content:encoded><![CDATA[17,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230706_222/1688638270330MmEEi_JPEG/1917672164419787_1612094740.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김슬옹 - Something Just Like Me (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8830268715</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8830268715</guid>
-            <pubDate>Thu, 06 Jul 2023 10:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230706_272/1688637985429oQ701_JPEG/14754399179099943_1494952382.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift - Speak Now (Taylor’s Version) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8829638261</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8829638261</guid>
-            <pubDate>Thu, 06 Jul 2023 09:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230706_292/1688629892564yXwpU_JPEG/14746306313845462_1191523202.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
