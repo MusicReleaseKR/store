@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 13:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 14:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공중그늘 Gong Joong Geu Neul - 광원 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8896965844</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8896965844</guid>
+            <pubDate>Tue, 18 Jul 2023 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_217/1689689158747zzrNv_JPEG/38049791551659395_494351618.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift - folklore (In The Trees Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8895864549</link>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 09 Jul 2023 09:18:47 GMT</pubDate>
             <content:encoded><![CDATA[14,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230709_289/16888935414715seX5_JPEG/4674514388116126_2130231441.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead – Bloom / Separator / Lotus Flower (Remix) [45RPM SINGLE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8844394839</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8844394839</guid>
-            <pubDate>Sun, 09 Jul 2023 09:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230709_262/1688891843690Aig2Q_JPEG/17963801264768605_2111562171.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
