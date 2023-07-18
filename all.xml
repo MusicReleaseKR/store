@@ -4,9 +4,57 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 05:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 06:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김현수 Hyun Soo Kim - 하늘 아래서 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8894505050</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8894505050</guid>
+            <pubDate>Tue, 18 Jul 2023 06:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_75/1689659942426aPBaY_JPEG/5942831703059464_127393016.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eric Clapton - Unplugged (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8894463067</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8894463067</guid>
+            <pubDate>Tue, 18 Jul 2023 06:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_256/1689659402451hQx65_JPEG/6122289815787931_1762549619.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd - Starboy (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8894434057</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8894434057</guid>
+            <pubDate>Tue, 18 Jul 2023 06:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230420_42/1681972272612jBwvA_JPEG/1907453416499031_1582642181.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West - My Beautiful Dark Twisted Fantasy (Deluxe Edition) [CD & DVD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8894413741</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8894413741</guid>
+            <pubDate>Tue, 18 Jul 2023 06:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_254/1689658871045VSuku_JPEG/7336913878541752_510945843.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eminem / The Eminem Show (20th Anniversary) [2CD Deluxe Edition] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8894368174</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8894368174</guid>
+            <pubDate>Tue, 18 Jul 2023 06:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_152/1689658229270MWHHb_JPEG/6121116629010652_902137493.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Low Hanging Fruits - Today From Past Days (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8894289116</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8894289116</guid>
+            <pubDate>Tue, 18 Jul 2023 06:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_123/1689657531988nhx5d_JPEG/7335574820445288_1421017782.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔니오 모리꼬네 서부영화 모음집 - Ennio Morricone Hollywood Story (CLEAR ORANGE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8889740931</link>
@@ -278,54 +326,6 @@
             <pubDate>Sun, 09 Jul 2023 09:18:47 GMT</pubDate>
             <content:encoded><![CDATA[14,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230709_207/16888848257235DlU8_JPEG/2215627043491732_695537497.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 소울바이서울 SOULBYSEL - SOULBYSEL Compilation 04 (180G BEIGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8836934137</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8836934137</guid>
-            <pubDate>Fri, 07 Jul 2023 10:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230707_152/1688723482439DiKCq_JPEG/14839896190785812_1511340999.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Killers - Wonderful Wonderful (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8830568945</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8830568945</guid>
-            <pubDate>Thu, 06 Jul 2023 11:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230706_240/1688640579659Q1yRv_JPEG/275406475222770_1092871226.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[B.B. King - Mr. B.B. King (4CD LIMITED EDITION BOX SET) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8830422165</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8830422165</guid>
-            <pubDate>Thu, 06 Jul 2023 11:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[65,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230706_105/1688639414828NBXkN_JPEG/1970216174000418_1802700551.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Freddie Mercury - Never Boring (DELUXE BOX SET) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8830389756</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8830389756</guid>
-            <pubDate>Thu, 06 Jul 2023 11:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[135,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230706_214/1688639064734iDol7_JPEG/4420037651482689_2095431970.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 로보트 태권브이 앤솔로지 (4CD BOX SET) [300세트 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8830322588</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8830322588</guid>
-            <pubDate>Thu, 06 Jul 2023 10:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230706_3/1688638456086aFrpw_JPEG/35682539673577516_1984791841.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오대리 - 국풍 13 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8830291545</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8830291545</guid>
-            <pubDate>Thu, 06 Jul 2023 10:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230706_222/1688638270330MmEEi_JPEG/1917672164419787_1612094740.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
