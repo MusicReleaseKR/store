@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 10:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 11:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Swift - folklore (In The Trees Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8895864549</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8895864549</guid>
+            <pubDate>Tue, 18 Jul 2023 11:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_56/1689671596864DXWRR_JPEG/525638126783738_1769965905.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김현수 Hyun Soo Kim - 하늘 아래서 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8894505050</link>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 09 Jul 2023 09:18:47 GMT</pubDate>
             <content:encoded><![CDATA[14,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230709_262/1688891843690Aig2Q_JPEG/17963801264768605_2111562171.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead - Give Up The Ghost / Codex / Little By Little (Remix) [45RPM SINGLE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8844323145</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8844323145</guid>
-            <pubDate>Sun, 09 Jul 2023 09:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230709_207/16888848257235DlU8_JPEG/2215627043491732_695537497.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
