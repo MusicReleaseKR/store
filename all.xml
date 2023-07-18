@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 14:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 15:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Coltrane - Evenings At The Village Gate - John Coltrane With Eric Dolphy (MONO LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8897128076</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8897128076</guid>
+            <pubDate>Tue, 18 Jul 2023 15:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_219/1689690709001GM61h_JPEG/19102722629192255_818119932.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ike Quebec - Heavy Soul (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8897079209</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8897079209</guid>
+            <pubDate>Tue, 18 Jul 2023 15:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_122/1689690253793YueMW_JPEG/97942672165711_2102381915.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공중그늘 Gong Joong Geu Neul - 광원 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8896965844</link>
@@ -310,22 +326,6 @@
             <pubDate>Sun, 09 Jul 2023 11:16:23 GMT</pubDate>
             <content:encoded><![CDATA[60,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230709_21/16889005211487h1q3_JPEG/2231322503877002_806884908.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - A Hard Day's Night - Another Tracks (150G MONO STEREO LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8844858906</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8844858906</guid>
-            <pubDate>Sun, 09 Jul 2023 11:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230709_23/1688900183768reHpr_JPEG/35944267346418273_1776405698.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead - Morning Mr Magpie / Bloom (Harmonic 313 RMX) / Bloom (Mark Pritchard RMX) [SINGLE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8844447161</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8844447161</guid>
-            <pubDate>Sun, 09 Jul 2023 09:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230709_289/16888935414715seX5_JPEG/4674514388116126_2130231441.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
