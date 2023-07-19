@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 06:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 07:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 더폴락 10주년 기념 컴필레이션 - 작은 책방을 위한 노래 (140G YELLOW COLOURED  LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8901227357</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8901227357</guid>
+            <pubDate>Wed, 19 Jul 2023 07:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230719_253/1689748860413hjwNs_JPEG/37413778447236724_1976860.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Coltrane - Evenings At The Village Gate - John Coltrane With Eric Dolphy (MONO LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8897128076</link>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 09 Jul 2023 11:16:23 GMT</pubDate>
             <content:encoded><![CDATA[26,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230709_54/16889009924888Vdvk_JPEG/3103078465984364_930685526.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Philadelphia P.A.1964 (150G MONO STEREO LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8844880374</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8844880374</guid>
-            <pubDate>Sun, 09 Jul 2023 11:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230709_21/16889005211487h1q3_JPEG/2231322503877002_806884908.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
