@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 11:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 12:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nina Simone - You've Got To Learn (COLOURED LP) [LIMITED EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8908897474</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8908897474</guid>
+            <pubDate>Thu, 20 Jul 2023 12:37:37 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230720_261/16898522632860uurT_JPEG/37517181320234115_533944901.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meshell Ndegeocello - The Omnichord Real Book (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8908871418</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8908871418</guid>
+            <pubDate>Thu, 20 Jul 2023 12:37:37 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230720_273/1689851839253ld9xY_JPEG/37516757299698648_680153657.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실리카겔 Silicagel - 1집 실리카겔 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8907172558</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 12 Jul 2023 07:19:21 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230712_261/1689144813704i4fb3_JPEG/3346899688160426_33260228.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이리 칸나 Airi Kanna - ADDICT!ON (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8861105038</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8861105038</guid>
-            <pubDate>Wed, 12 Jul 2023 07:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230712_264/1689141828162GBKh6_JPEG/3343914144950831_54005485.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강형호 PITTA - BE FREE (45RPM 180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8861070737</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8861070737</guid>
-            <pubDate>Wed, 12 Jul 2023 07:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230712_235/1689141255411WnbUu_JPEG/2472056767168506_1574403123.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
