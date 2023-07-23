@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 09:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 10:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - Hotel Costes Anniversaire Box (10CD BOX SET)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8924052879</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8924052879</guid>
+            <pubDate>Sun, 23 Jul 2023 10:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[250,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230723_223/16901071425032VsiO_JPEG/959730621786182_1274709961.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift - Lover (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8923603139</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 12 Jul 2023 11:17:11 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230712_231/1689156976559FbpUU_JPEG/4937949469955584_418910626.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hank Mobley - A Caddy For Daddy (Blue Note Tone Poet Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8862276097</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8862276097</guid>
-            <pubDate>Wed, 12 Jul 2023 10:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230712_63/1689156739646PUCuX_JPEG/791566454335445_254912971.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
