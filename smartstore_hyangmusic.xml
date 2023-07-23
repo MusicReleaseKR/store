@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 08:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 09:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Swift - Lover (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8923603139</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8923603139</guid>
+            <pubDate>Sun, 23 Jul 2023 09:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230723_190/1690100391452bUYYG_JPEG/17291359803953440_1524373426.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Easy Life - Live From Abbey Road Studios (PICTURE DISC LP) [레코드 스토어 데이 한정반]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8915949167</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 12 Jul 2023 10:22:26 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230712_63/1689156739646PUCuX_JPEG/791566454335445_254912971.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billie Holiday - Songs For Distingué Lovers (Acoustic Sounds Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8862258325</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8862258325</guid>
-            <pubDate>Wed, 12 Jul 2023 10:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230712_297/1689156056268aS8E0_JPEG/18228013843756472_12457.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
