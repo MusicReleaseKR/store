@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 07:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 08:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Everything Everywhere All at Once (BLACK & WHITE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8934545048</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8934545048</guid>
+            <pubDate>Tue, 25 Jul 2023 08:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230725_35/16902696148308Udn2_JPEG/40516032339144193_1913921666.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난파란 Nanparan - 파란 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8934497723</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 20 Jul 2023 06:23:55 GMT</pubDate>
             <content:encoded><![CDATA[17,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230718_190/1689670692823BbHVh_JPEG/1316613640882297_1807364512.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nine Inch Nails - The Downward Spiral (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8895323128</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8895323128</guid>
-            <pubDate>Thu, 20 Jul 2023 06:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230718_257/16896703309080hvk1_JPEG/1359618992490289_796826674.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
