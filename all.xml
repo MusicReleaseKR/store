@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 06:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 07:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[난파란 Nanparan - 파란 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8934497723</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8934497723</guid>
+            <pubDate>Tue, 25 Jul 2023 07:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230725_127/1690268718200CrHoE_JPEG/40515135715936099_80479612.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전진희 - 3집 아무도 모르게 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8934407187</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8934407187</guid>
+            <pubDate>Tue, 25 Jul 2023 07:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230725_296/1690267420225Ach82_JPEG/38628053043610671_1915281751.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yung Bae 영배 - Bae 4 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8924302740</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 20 Jul 2023 06:23:55 GMT</pubDate>
             <content:encoded><![CDATA[17,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230718_257/16896703309080hvk1_JPEG/1359618992490289_796826674.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West - Ye (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8895280988</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8895280988</guid>
-            <pubDate>Thu, 20 Jul 2023 06:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230718_217/1689669873225rRcbY_JPEG/2187299043703767_1285187430.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현수 Hyun Soo Kim - 하늘 아래서 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8894505050</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8894505050</guid>
-            <pubDate>Tue, 18 Jul 2023 06:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230718_75/1689659942426aPBaY_JPEG/5942831703059464_127393016.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
