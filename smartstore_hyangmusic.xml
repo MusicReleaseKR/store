@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 11:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 12:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pharoah Sanders - Black Unity (Verve By Request Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8936154739</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8936154739</guid>
+            <pubDate>Tue, 25 Jul 2023 12:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230725_73/1690288182745D9kF3_JPEG/40534600257471949_1251971819.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ornette Coleman - Something Else (Contemporary Records Acoustic Sounds Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8936118362</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8936118362</guid>
+            <pubDate>Tue, 25 Jul 2023 12:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230725_180/1690287665261q4Y1m_JPEG/38648298080683265_1080411522.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mal Waldron Sextet - Mal/2 (Craft Recordings' Original Jazz Classic Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8936089267</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8936089267</guid>
+            <pubDate>Tue, 25 Jul 2023 12:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230725_84/1690287356516B6ExD_JPEG/17478324867709025_2051171991.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Everything Everywhere All at Once (BLACK & WHITE COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8934545048</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 18 Jul 2023 15:20:36 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230718_122/1689690253793YueMW_JPEG/97942672165711_2102381915.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공중그늘 Gong Joong Geu Neul - 광원 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8896965844</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8896965844</guid>
-            <pubDate>Tue, 18 Jul 2023 14:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230718_217/1689689158747zzrNv_JPEG/38049791551659395_494351618.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift - folklore (In The Trees Edition) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8895864549</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8895864549</guid>
-            <pubDate>Tue, 18 Jul 2023 11:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230718_56/1689671596864DXWRR_JPEG/525638126783738_1769965905.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sting - Ten Summoner's Tales (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8895408111</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8895408111</guid>
-            <pubDate>Thu, 20 Jul 2023 06:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230718_190/1689670692823BbHVh_JPEG/1316613640882297_1807364512.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
