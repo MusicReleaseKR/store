@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 05:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 06:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 바로우리 (We are that somebody) [180G WHITE COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8940208492</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8940208492</guid>
+            <pubDate>Wed, 26 Jul 2023 06:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230726_173/1690350102064jetB8_JPEG/2870918842969064_159865254.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pharoah Sanders - Black Unity (Verve By Request Series) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8936154739</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 18 Jul 2023 15:20:36 GMT</pubDate>
             <content:encoded><![CDATA[51,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230718_219/1689690709001GM61h_JPEG/19102722629192255_818119932.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ike Quebec - Heavy Soul (Blue Note Classic Vinyl Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8897079209</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8897079209</guid>
-            <pubDate>Tue, 18 Jul 2023 15:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230718_122/1689690253793YueMW_JPEG/97942672165711_2102381915.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
