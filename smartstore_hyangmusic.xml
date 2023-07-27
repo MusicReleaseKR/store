@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 12:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 13:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Bohemian Rhapsody  보헤미안 랩소디 (PICTURE LP) [2019 레코드스토어데이 한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8948398550</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8948398550</guid>
+            <pubDate>Thu, 27 Jul 2023 13:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230727_107/1690459727647dEiOI_JPEG/16966552765524149_108795601.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼 - 1집 Principle Of My Soul (10th Anniversary) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8947892257</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 20 Jul 2023 12:37:37 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230720_261/16898522632860uurT_JPEG/37517181320234115_533944901.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meshell Ndegeocello - The Omnichord Real Book (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8908871418</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8908871418</guid>
-            <pubDate>Thu, 20 Jul 2023 12:37:37 GMT</pubDate>
-            <content:encoded><![CDATA[42,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230720_273/1689851839253ld9xY_JPEG/37516757299698648_680153657.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
