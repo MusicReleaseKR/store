@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 10:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 11:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼 - 1집 Principle Of My Soul (10th Anniversary) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8947892257</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8947892257</guid>
+            <pubDate>Thu, 27 Jul 2023 11:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230727_273/1690455645718UoRlF_JPEG/26552833694338791_2034196455.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[채무자들 - 1집 채무자들 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8947755294</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8947755294</guid>
+            <pubDate>Thu, 27 Jul 2023 11:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230727_151/1690453607187SEy4o_JPEG/36470191013913427_507644154.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안다영 Dayoung Ahn - Antihero (140G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8947603592</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 20 Jul 2023 12:37:37 GMT</pubDate>
             <content:encoded><![CDATA[42,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230720_273/1689851839253ld9xY_JPEG/37516757299698648_680153657.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지박 Ji Park - 1집 9000km+ (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8908838359</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8908838359</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230720_107/168985150003333y2k_JPEG/704088154106487_50876770.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[준 킴 Jun Kim - 준킴 감성주의 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8908813128</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8908813128</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230720_57/1689851255567ylvB9_JPEG/40097673082640573_431359370.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
