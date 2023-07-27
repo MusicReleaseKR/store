@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 09:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 10:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안다영 Dayoung Ahn - Antihero (140G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8947603592</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8947603592</guid>
+            <pubDate>Thu, 27 Jul 2023 10:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[41,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230727_46/1690451774881a2pWj_JPEG/16958599999747769_356838131.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TRPP - TRPP (140G DEEP PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8947518825</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8947518825</guid>
+            <pubDate>Thu, 27 Jul 2023 10:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230727_53/16904513286016JlUs_JPEG/1388202618246054_78642237.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전진희 - Breathing (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8947480189</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8947480189</guid>
+            <pubDate>Thu, 27 Jul 2023 10:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230727_140/1690450967745YrsOt_JPEG/26548155714049641_1470689231.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파란노을 - To See the Next Part of the Dream (140G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8947429245</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8947429245</guid>
+            <pubDate>Thu, 27 Jul 2023 10:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230727_163/1690450389279W6GBY_JPEG/36466973115436849_1893363228.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이강승 - Korean Dream (45RPM 10INCH 110G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8947369115</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8947369115</guid>
+            <pubDate>Thu, 27 Jul 2023 10:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230727_86/1690449623555PuAdV_JPEG/3915617830167866_1504012833.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연석원 - The Mermaid (연석원 작품집) [180G WHITE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8941662940</link>
@@ -286,46 +326,6 @@
             <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230720_57/1689851255567ylvB9_JPEG/40097673082640573_431359370.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지박 Ji Park - 2집 DMZ (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8908794103</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8908794103</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230720_14/1689851067748albXp_JPEG/17042036085283866_384637829.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김오키 Kimoki - 9집 스피릿선발대 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8908763716</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8908763716</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230720_248/1689850712003zPK5z_JPEG/38211344806595948_1372548907.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지박 Ji Park - As Autumn Departs (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8908742713</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8908742713</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230720_270/16898504656240kCCi_JPEG/703053747278972_1698754996.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아방트리오 Avant Trio - Blue Suns (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8908716081</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8908716081</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230720_115/1689850172191Hqz5i_JPEG/17041140530543892_2062346182.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실리카겔 Silicagel - 1집 실리카겔 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8907172558</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8907172558</guid>
-            <pubDate>Thu, 20 Jul 2023 06:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230720_48/1689829970073BflJz_JPEG/37494888114088974_840161608.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
