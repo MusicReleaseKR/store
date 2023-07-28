@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 06:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 07:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Idris Muhammad - Black Rhythm Revolution (Jazz Dispensary Top Shelf Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8952271848</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8952271848</guid>
+            <pubDate>Fri, 28 Jul 2023 07:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230728_153/1690527737471WV0Kz_JPEG/36544321304159020_770287860.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yusef Lateef - Psychicemotus (Verve By Request Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8952244737</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8952244737</guid>
+            <pubDate>Fri, 28 Jul 2023 07:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230728_101/1690527420139tEw8F_JPEG/36544003965155159_1177045360.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나상현씨밴드 - 축제 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8952200804</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8952200804</guid>
+            <pubDate>Fri, 28 Jul 2023 07:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230728_296/1690526688551bbyaH_JPEG/37491943344353648_1133374455.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서희 - Rainbow Season (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8952006946</link>
@@ -302,30 +326,6 @@
             <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230723_46/16900909864326ob1u_JPEG/37755904475824162_1328824092.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Easy Life - Live From Abbey Road Studios (PICTURE DISC LP) [레코드 스토어 데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8915949167</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8915949167</guid>
-            <pubDate>Fri, 21 Jul 2023 14:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230721_273/1689945059326FQ1HK_JPEG/37609977364404778_912294105.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생각의 여름 - 손 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8915833002</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8915833002</guid>
-            <pubDate>Fri, 21 Jul 2023 14:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230721_293/1689943642726nsRzP_JPEG/37608560771291138_501312539.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 스트릿 우먼 파이터 (SWF) [SPECIAL CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8909008909</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8909008909</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230720_239/1689853574640PeJqo_JPEG/37518492686103504_1663939798.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
