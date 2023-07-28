@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 05:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 06:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서희 - Rainbow Season (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8952006946</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8952006946</guid>
+            <pubDate>Fri, 28 Jul 2023 06:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230728_260/1690524407037HzShw_JPEG/26621595000876712_1326827895.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Bohemian Rhapsody  보헤미안 랩소디 (PICTURE LP) [2019 레코드스토어데이 한정반]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8948398550</link>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[25,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230720_239/1689853574640PeJqo_JPEG/37518492686103504_1663939798.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nina Simone - You've Got To Learn (COLOURED LP) [LIMITED EDITION]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8908897474</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8908897474</guid>
-            <pubDate>Thu, 20 Jul 2023 12:37:37 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230720_261/16898522632860uurT_JPEG/37517181320234115_533944901.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
