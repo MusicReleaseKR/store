@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 09:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 10:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NSW yoon - Grateful (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8968735858</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8968735858</guid>
+            <pubDate>Mon, 31 Jul 2023 10:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230731_213/1690796492681EX50O_JPEG/4262486961052373_1992423509.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샵 S#arp - 4.5집 플랫 [b] (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8968337174</link>
@@ -20,7 +28,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/8967974359</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8967974359</guid>
             <pubDate>Mon, 31 Jul 2023 08:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230731_185/16907867187241mWtI_JPEG/1723592744750903_308330429.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[42,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230723_255/1690093500130nqmAE_JPEG/19505513768403874_1356745517.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yung Bae 영배 - Groove Continental - Side A (GOLD COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8923219783</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8923219783</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_148/1690094087051eqcma_JPEG/17285055403226548_585627252.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
