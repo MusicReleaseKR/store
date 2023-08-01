@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 09:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 10:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Squid - O Monolith (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8974989299</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8974989299</guid>
+            <pubDate>Tue, 01 Aug 2023 10:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230801_182/1690884418450Ah8Og_JPEG/17391243564756790_1228263386.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유겸 YUGYEOM - Point Of View U (CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8974712570</link>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230723_75/1690107733638yOcJA_JPEG/37772651680104540_143795497.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jonesy - No Alternative (REMASTERED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8924075260</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8924075260</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_79/1690107543854LDnvx_JPEG/2628360639949080_1601944779.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
