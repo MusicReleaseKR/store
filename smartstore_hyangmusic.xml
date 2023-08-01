@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 10:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 11:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bendik Giske - Bendik Giske (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8975070454</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8975070454</guid>
+            <pubDate>Tue, 01 Aug 2023 11:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230801_41/1690886215655s51sa_JPEG/4352209920607644_2027802064.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Squid - O Monolith (TRANSPARENT BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8975044315</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8975044315</guid>
+            <pubDate>Tue, 01 Aug 2023 11:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230801_236/1690885705673zWBKe_JPEG/36902289511363155_1053096684.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Squid - O Monolith (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8975031139</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8975031139</guid>
+            <pubDate>Tue, 01 Aug 2023 11:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230801_83/1690885414720TJDF6_JPEG/36901998550684712_153475711.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Squid - O Monolith (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8974989299</link>
@@ -302,30 +326,6 @@
             <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[14,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230723_67/1690108811777zLWoN_JPEG/2629628543232252_1303492025.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[David Bowie - Stage (180G 3LP) [2017 REMASTERED]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8924122232</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8924122232</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_191/16901082355817bauR_JPEG/19520249205041097_653741160.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Richard Ashcroft - These People (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8924095842</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8924095842</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_69/1690107908638XQqNm_JPEG/38468541448815231_591912451.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jonesy - Growing (REMASTERED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8924083094</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8924083094</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_75/1690107733638yOcJA_JPEG/37772651680104540_143795497.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
