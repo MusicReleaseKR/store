@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 05:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 06:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실리카겔 Silicagel - 1집 실리카겔 (LP) [재발매]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8973938887</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8973938887</guid>
+            <pubDate>Tue, 01 Aug 2023 06:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230720_48/1689829970073BflJz_JPEG/37494888114088974_840161608.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K2 김성면 - 3집 Vocalist (150G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8973922030</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8973922030</guid>
+            <pubDate>Tue, 01 Aug 2023 06:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[58,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230801_33/1690870673426DJR09_JPEG/37835928217905479_1159657039.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K2 김성면 - 2집 Real Spark (150G LP & 7INCH LP) [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8973897531</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8973897531</guid>
+            <pubDate>Tue, 01 Aug 2023 06:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230801_9/169087032449925Bpg_JPEG/4336318785403431_523083520.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NSW yoon - Grateful (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8968735858</link>
@@ -302,30 +326,6 @@
             <pubDate>Sun, 23 Jul 2023 10:18:17 GMT</pubDate>
             <content:encoded><![CDATA[250,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230723_223/16901071425032VsiO_JPEG/959730621786182_1274709961.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[U2 - The Best Of 1990-2000 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8923642703</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8923642703</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_186/1690101111477O0TLd_JPEG/953699601134541_1643203528.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[U2 - The Best Of 1980-1990 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8923620647</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8923620647</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_94/169010081361901VY2_JPEG/19512827250362031_1696988250.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift - Lover (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8923603139</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8923603139</guid>
-            <pubDate>Sun, 23 Jul 2023 09:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_190/1690100391452bUYYG_JPEG/17291359803953440_1524373426.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
