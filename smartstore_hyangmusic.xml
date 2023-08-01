@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 08:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 09:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유겸 YUGYEOM - Point Of View U (CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8974712570</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8974712570</guid>
+            <pubDate>Tue, 01 Aug 2023 09:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230801_268/1690879690444qK12o_JPEG/26976878407552859_861221731.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실리카겔 Silicagel - 1집 실리카겔 (LP) [재발매]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8973938887</link>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230723_79/1690107543854LDnvx_JPEG/2628360639949080_1601944779.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Hotel Costes Anniversaire Box (10CD BOX SET)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8924052879</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8924052879</guid>
-            <pubDate>Sun, 23 Jul 2023 10:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[250,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_223/16901071425032VsiO_JPEG/959730621786182_1274709961.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
