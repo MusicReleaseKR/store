@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 23:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 02:00:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 31 Jul 2023 10:21:03 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230731_213/1690796492681EX50O_JPEG/4262486961052373_1992423509.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[따마 Thama - Don’t Die Colors (180G OPAQUE MARRON COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8968678702</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8968678702</guid>
+            <pubDate>Tue, 01 Aug 2023 02:00:11 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230731_96/1690795631059ogABl_JPEG/26892819031419665_107994835.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샵 S#arp - 4.5집 플랫 [b] (180G WHITE COLOURED LP)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 23 Jul 2023 09:16:58 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230723_190/1690100391452bUYYG_JPEG/17291359803953440_1524373426.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yung Bae 영배 - Bae 2 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8923265469</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8923265469</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_255/1690093500130nqmAE_JPEG/19505513768403874_1356745517.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
