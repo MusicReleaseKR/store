@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 05:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 06:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구원찬 - Object (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8979119356</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8979119356</guid>
+            <pubDate>Wed, 02 Aug 2023 06:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230802_122/1690954098909Ea5xg_JPEG/27051286884727430_24672711.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bendik Giske - Bendik Giske (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8975070454</link>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[14,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230723_172/1690109308642AtEDw_JPEG/37774226672318672_1399030103.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead - Give Up The Ghost / Tkol / Bloom (Remix) [45RPM SINGLE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8924171855</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8924171855</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_67/1690108811777zLWoN_JPEG/2629628543232252_1303492025.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
