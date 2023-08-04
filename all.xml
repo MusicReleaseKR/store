@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 09:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 10:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mort Garson - Journey to the Moon and Beyond (MARS RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8993335152</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8993335152</guid>
+            <pubDate>Fri, 04 Aug 2023 10:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230804_182/1691144075465GwNkO_JPEG/2778902279593025_2049691663.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Emile Mosseri - Heaven Hunters (BONE WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8993312843</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8993312843</guid>
+            <pubDate>Fri, 04 Aug 2023 10:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[34,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230804_291/1691143822955BIyBS_JPEG/6069511055287792_1538429075.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구원찬 - Object (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8979119356</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 25 Jul 2023 07:17:28 GMT</pubDate>
             <content:encoded><![CDATA[18,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230725_296/1690267420225Ach82_JPEG/38628053043610671_1915281751.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yung Bae 영배 - Bae 4 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8924302740</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8924302740</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_267/1690110459476qYBY6_JPEG/17301427828585244_1938608052.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead - Good Evening Mrs Magpie / Bloom (Remix) [45RPM SINGLE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8924210659</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8924210659</guid>
-            <pubDate>Sun, 23 Jul 2023 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230723_172/1690109308642AtEDw_JPEG/37774226672318672_1399030103.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
