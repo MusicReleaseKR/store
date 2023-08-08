@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 11:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 12:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lee Morgan - Infinity (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9015280908</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9015280908</guid>
+            <pubDate>Tue, 08 Aug 2023 12:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230808_102/1691494934318NUAUw_JPEG/5797836165130117_423289781.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Louis Armstrong - Louis Wishes You a Cool Yule (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9015206954</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9015206954</guid>
+            <pubDate>Tue, 08 Aug 2023 12:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230808_78/1691493683591WjNu2_JPEG/2355024449337439_162686051.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Duke Pearson - The Right Touch (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9015145511</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 27 Jul 2023 10:19:28 GMT</pubDate>
             <content:encoded><![CDATA[43,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230727_140/1690450967745YrsOt_JPEG/26548155714049641_1470689231.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파란노을 - To See the Next Part of the Dream (140G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8947429245</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8947429245</guid>
-            <pubDate>Thu, 27 Jul 2023 10:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230727_163/1690450389279W6GBY_JPEG/36466973115436849_1893363228.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이강승 - Korean Dream (45RPM 10INCH 110G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8947369115</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8947369115</guid>
-            <pubDate>Thu, 27 Jul 2023 10:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230727_86/1690449623555PuAdV_JPEG/3915617830167866_1504012833.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
