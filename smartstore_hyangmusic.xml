@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 05:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 06:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김재환 - Journey Above Music (180G RED COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9013660944</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9013660944</guid>
+            <pubDate>Tue, 08 Aug 2023 06:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230808_230/1691475160812pzc45_JPEG/3254434618848065_2070234321.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mitski - The Land Is Inhospitable and So Are We (ROBIN EGG BLUE COLOURED LP & POSTCARD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9008071843</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 25 Jul 2023 12:38:39 GMT</pubDate>
             <content:encoded><![CDATA[47,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230725_73/1690288182745D9kF3_JPEG/40534600257471949_1251971819.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ornette Coleman - Something Else (Contemporary Records Acoustic Sounds Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8936118362</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8936118362</guid>
-            <pubDate>Tue, 25 Jul 2023 12:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230725_180/1690287665261q4Y1m_JPEG/38648298080683265_1080411522.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
