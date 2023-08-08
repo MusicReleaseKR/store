@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 10:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 11:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Duke Pearson - The Right Touch (Blue Note Tone Poet Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9015145511</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9015145511</guid>
+            <pubDate>Tue, 08 Aug 2023 11:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230808_193/1691492942050lqAOG_JPEG/6418630170206052_1129692630.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Damian Lewis - Mission Creep (SKY BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9015074735</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9015074735</guid>
+            <pubDate>Tue, 08 Aug 2023 11:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230808_271/16914921101871kxwN_JPEG/17207103794685167_655144386.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cannonball Adderley - Cannonball Adderley Quintet in Chicago (Acoustic Sounds Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9015047192</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9015047192</guid>
+            <pubDate>Tue, 08 Aug 2023 11:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230808_235/1691491727768TyAmI_JPEG/5794629617090052_1897178158.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jayci yucca / dnss - S3X And The City (사인CD) [한정반]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9013916281</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 27 Jul 2023 10:19:28 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230727_86/1690449623555PuAdV_JPEG/3915617830167866_1504012833.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연석원 - The Mermaid (연석원 작품집) [180G WHITE COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8941662940</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8941662940</guid>
-            <pubDate>Wed, 26 Jul 2023 10:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230726_9/1690366427718WF8cW_JPEG/1303301727325648_868984637.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연석원 - The Mermaid (연석원 작품집) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8941650981</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8941650981</guid>
-            <pubDate>Wed, 26 Jul 2023 10:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230726_128/1690366451913QOVRr_JPEG/1303325917606488_17442482.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장혜리 - 내게 남은 사랑을드릴께요 / 추억의 발라드 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8941589803</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8941589803</guid>
-            <pubDate>Wed, 26 Jul 2023 10:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230726_186/1690365124759ORdMK_JPEG/1301998778711571_15010685.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
