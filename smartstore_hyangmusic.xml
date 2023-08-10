@@ -4,17 +4,9 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 14:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 15:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[VA - HIPHOP ANTHEM 2023 (140G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9027079734</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9027079734</guid>
-            <pubDate>Thu, 10 Aug 2023 12:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230810_183/1691668769275euMKc_JPEG/6118169486211813_2006376643.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[강허달림 - LOVE (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9027023476</link>
@@ -326,6 +318,14 @@
             <pubDate>Thu, 27 Jul 2023 13:23:46 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230727_107/1690459727647dEiOI_JPEG/16966552765524149_108795601.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나얼 - 1집 Principle Of My Soul (10th Anniversary) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8947892257</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8947892257</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230727_273/1690455645718UoRlF_JPEG/26552833694338791_2034196455.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
