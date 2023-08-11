@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 06:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 07:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/9031381131</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9031381131</guid>
             <pubDate>Fri, 11 Aug 2023 06:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230811_44/1691734354790qweTR_JPEG/18105746269476786_607054448.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
