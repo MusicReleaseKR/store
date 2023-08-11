@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 05:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 06:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤이맨 HeyMen - Shelter (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9031381131</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9031381131</guid>
+            <pubDate>Fri, 11 Aug 2023 06:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230811_44/1691734354790qweTR_JPEG/18105746269476786_607054448.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이현도, 딥플로우 - Dry Season (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9031270326</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9031270326</guid>
+            <pubDate>Fri, 11 Aug 2023 06:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230811_186/1691733252223xDrCA_JPEG/6408841566343126_529820788.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - HIPHOP ANTHEM 2023 (140G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9027079734</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9027079734</guid>
+            <pubDate>Fri, 11 Aug 2023 06:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230810_183/1691668769275euMKc_JPEG/6118169486211813_2006376643.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강허달림 - LOVE (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9027023476</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 28 Jul 2023 07:16:26 GMT</pubDate>
             <content:encoded><![CDATA[16,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230728_296/1690526688551bbyaH_JPEG/37491943344353648_1133374455.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서희 - Rainbow Season (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8952006946</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8952006946</guid>
-            <pubDate>Fri, 28 Jul 2023 06:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230728_260/1690524407037HzShw_JPEG/26621595000876712_1326827895.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Bohemian Rhapsody  보헤미안 랩소디 (PICTURE LP) [2019 레코드스토어데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8948398550</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8948398550</guid>
-            <pubDate>Thu, 27 Jul 2023 13:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230727_107/1690459727647dEiOI_JPEG/16966552765524149_108795601.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼 - 1집 Principle Of My Soul (10th Anniversary) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8947892257</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8947892257</guid>
-            <pubDate>Thu, 10 Aug 2023 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[56,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230727_273/1690455645718UoRlF_JPEG/26552833694338791_2034196455.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
