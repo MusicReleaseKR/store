@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 10:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 11:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Velvet Underground - Gold - Definitive Collection (REMASTERED) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9032646758</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9032646758</guid>
+            <pubDate>Fri, 11 Aug 2023 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230811_140/1691750410374poE1g_JPEG/6425999743625476_1952818186.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bon Jovi - Cross Road - The Best Of Bon Jovi (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9032606222</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9032606222</guid>
+            <pubDate>Fri, 11 Aug 2023 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230811_264/1691749965961eP9aA_JPEG/18580197537695978_57533137.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana - Nevermind (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9032570672</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9032570672</guid>
+            <pubDate>Fri, 11 Aug 2023 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230811_115/1691749478658l0PaP_JPEG/14605916458578775_1018013689.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤이맨 HeyMen - Shelter (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9031381131</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 28 Jul 2023 11:14:42 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230728_143/16905393441807JfsK_JPEG/2167442054552995_520047405.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Idris Muhammad - Black Rhythm Revolution (Jazz Dispensary Top Shelf Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8952271848</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8952271848</guid>
-            <pubDate>Fri, 28 Jul 2023 07:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[42,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230728_153/1690527737471WV0Kz_JPEG/36544321304159020_770287860.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yusef Lateef - Psychicemotus (Verve By Request Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8952244737</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8952244737</guid>
-            <pubDate>Fri, 28 Jul 2023 07:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230728_101/1690527420139tEw8F_JPEG/36544003965155159_1177045360.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나상현씨밴드 - 축제 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8952200804</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8952200804</guid>
-            <pubDate>Fri, 28 Jul 2023 07:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230728_296/1690526688551bbyaH_JPEG/37491943344353648_1133374455.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
