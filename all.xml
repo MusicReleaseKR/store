@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 05:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 06:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[들국화 - 들국화 II (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9046526802</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9046526802</guid>
+            <pubDate>Mon, 14 Aug 2023 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230814_221/1691992172556YNN8e_JPEG/37847280381883322_1653598123.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전인권 / 허성욱 - 1979-1987 추억 들국화 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9046479412</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9046479412</guid>
+            <pubDate>Mon, 14 Aug 2023 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230814_36/16919919089134cODo_JPEG/5706040789274438_723950220.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한영애 - 여울목 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9046398893</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9046398893</guid>
+            <pubDate>Mon, 14 Aug 2023 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230814_35/1691990935830IhBOG_JPEG/14833044610612833_1187739587.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시인과 촌장 - 숲 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9046364147</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9046364147</guid>
+            <pubDate>Mon, 14 Aug 2023 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230814_4/1691990522966OlV16_JPEG/6666112328400210_613397553.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Velvet Underground - Gold - Definitive Collection (REMASTERED) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9032646758</link>
@@ -294,38 +326,6 @@
             <pubDate>Mon, 31 Jul 2023 10:21:03 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230731_213/1690796492681EX50O_JPEG/4262486961052373_1992423509.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따마 Thama - Don’t Die Colors (180G OPAQUE MARRON COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8968678702</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8968678702</guid>
-            <pubDate>Tue, 01 Aug 2023 02:00:11 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230731_96/1690795631059ogABl_JPEG/26892819031419665_107994835.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샵 S#arp - 4.5집 플랫 [b] (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8968337174</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8968337174</guid>
-            <pubDate>Mon, 31 Jul 2023 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230731_211/1690788287832rMyod_JPEG/4254282111173331_114816153.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키노 (КИНО) - 8집 КИНО (aka Black Album) [CLEAR COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8967974359</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8967974359</guid>
-            <pubDate>Mon, 31 Jul 2023 08:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230731_185/16907867187241mWtI_JPEG/1723592744750903_308330429.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모노 Mono - 1집 넌 언제나 (2022 REMASTERED) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8953666836</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8953666836</guid>
-            <pubDate>Fri, 28 Jul 2023 11:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230728_143/16905393441807JfsK_JPEG/2167442054552995_520047405.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
