@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 06:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 07:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다브다 Dabda - Yonder (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9057487799</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9057487799</guid>
+            <pubDate>Wed, 16 Aug 2023 07:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230816_227/16921680958390qjn0_JPEG/15010204623663846_867709291.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eric Clapton - 461 Ocean Boulevard (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9046638981</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 01 Aug 2023 06:25:21 GMT</pubDate>
             <content:encoded><![CDATA[58,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230801_33/1690870673426DJR09_JPEG/37835928217905479_1159657039.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K2 김성면 - 2집 Real Spark (150G LP & 7INCH LP) [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8973897531</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8973897531</guid>
-            <pubDate>Tue, 01 Aug 2023 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230801_9/169087032449925Bpg_JPEG/4336318785403431_523083520.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
