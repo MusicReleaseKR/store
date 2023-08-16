@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 07:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 08:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 스즈메의 문단속 (180G 2LP) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9057918533</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9057918533</guid>
+            <pubDate>Wed, 16 Aug 2023 08:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[69,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230816_2/1692173510101eLLUm_JPEG/18544901566634967_559624519.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 날씨의 아이 (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9057889925</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9057889925</guid>
+            <pubDate>Wed, 16 Aug 2023 08:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[69,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230816_103/16921731040977xG9T_JPEG/19003335664174664_1329624499.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 너의 이름은 (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9057844761</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9057844761</guid>
+            <pubDate>Wed, 16 Aug 2023 08:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[69,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230816_183/1692172743165Rlno3_JPEG/15029180957544092_1778978442.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다브다 Dabda - Yonder (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9057487799</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 01 Aug 2023 10:23:05 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230801_182/1690884418450Ah8Og_JPEG/17391243564756790_1228263386.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유겸 YUGYEOM - Point Of View U (CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8974712570</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8974712570</guid>
-            <pubDate>Tue, 01 Aug 2023 09:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230801_268/1690879690444qK12o_JPEG/26976878407552859_861221731.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실리카겔 Silicagel - 1집 실리카겔 (LP) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8973938887</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8973938887</guid>
-            <pubDate>Tue, 01 Aug 2023 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230720_48/1689829970073BflJz_JPEG/37494888114088974_840161608.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K2 김성면 - 3집 Vocalist (150G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8973922030</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8973922030</guid>
-            <pubDate>Tue, 01 Aug 2023 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230801_33/1690870673426DJR09_JPEG/37835928217905479_1159657039.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
