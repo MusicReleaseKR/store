@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 07:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 08:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어반자카파 - 01 (180G OPAQUE WHITE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9063698412</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9063698412</guid>
+            <pubDate>Thu, 17 Aug 2023 08:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230817_170/1692259403891d51hB_JPEG/5973535782676892_1016142206.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나미 - 7집 Chameleon (LP MINIATURE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9058573232</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 01 Aug 2023 11:16:25 GMT</pubDate>
             <content:encoded><![CDATA[32,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230801_41/1690886215655s51sa_JPEG/4352209920607644_2027802064.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Squid - O Monolith (TRANSPARENT BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8975044315</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8975044315</guid>
-            <pubDate>Tue, 01 Aug 2023 11:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230801_236/1690885705673zWBKe_JPEG/36902289511363155_1053096684.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
