@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 08:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 09:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식케이 Sik-K - Pot a Lot (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9063805573</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9063805573</guid>
+            <pubDate>Thu, 17 Aug 2023 09:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230817_87/1692261298767s5lbd_JPEG/15117736569458620_1968222991.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밀릭 Millic - VIDA (ORANGE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9063761204</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9063761204</guid>
+            <pubDate>Thu, 17 Aug 2023 09:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230817_108/16922607621018dAFG_JPEG/15102870889744724_567915951.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박기영 - Magictronica (CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9063722765</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9063722765</guid>
+            <pubDate>Thu, 17 Aug 2023 09:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230817_108/1692260315115eiHeU_JPEG/5974447001924704_1801350807.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어반자카파 - 01 (180G OPAQUE WHITE COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9063698412</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 04 Aug 2023 10:19:21 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230804_182/1691144075465GwNkO_JPEG/2778902279593025_2049691663.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Emile Mosseri - Heaven Hunters (BONE WHITE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8993312843</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8993312843</guid>
-            <pubDate>Fri, 04 Aug 2023 10:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[34,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230804_291/1691143822955BIyBS_JPEG/6069511055287792_1538429075.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구원찬 - Object (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8979119356</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8979119356</guid>
-            <pubDate>Wed, 02 Aug 2023 06:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230802_122/1690954098909Ea5xg_JPEG/27051286884727430_24672711.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bendik Giske - Bendik Giske (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8975070454</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8975070454</guid>
-            <pubDate>Tue, 01 Aug 2023 11:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230801_41/1690886215655s51sa_JPEG/4352209920607644_2027802064.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
