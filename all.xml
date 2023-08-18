@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 05:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 06:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버벌 진트 Verbal Jint - K-XY : INFP (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9069062124</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9069062124</guid>
+            <pubDate>Fri, 18 Aug 2023 06:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230818_52/1692337693887q2RMr_JPEG/19167925460217274_782866648.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 Thornapple - 동물 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9068966884</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9068966884</guid>
+            <pubDate>Fri, 18 Aug 2023 06:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230818_178/1692337440605mlStu_JPEG/19167672173936065_400487521.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식케이 Sik-K - Pot a Lot (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9063805573</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 07 Aug 2023 08:28:27 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230807_159/1691393538549EDnsR_JPEG/3028365361005232_232889843.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski - The Land Is Inhospitable and So Are We (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9008025018</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9008025018</guid>
-            <pubDate>Mon, 07 Aug 2023 08:28:27 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230807_44/1691393031384CuMPQ_JPEG/3172305196032237_1214899903.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mort Garson - Journey to the Moon and Beyond (MARS RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8993335152</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8993335152</guid>
-            <pubDate>Fri, 04 Aug 2023 10:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230804_182/1691144075465GwNkO_JPEG/2778902279593025_2049691663.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
