@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 07:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 08:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소울딜리버리 - Foodcourt (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9090597071</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9090597071</guid>
+            <pubDate>Tue, 22 Aug 2023 08:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230822_24/1692689651555QOoJt_JPEG/16601054472073175_803866369.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장일호 - 랜드스케이프 속초, 숨! (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9090514922</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9090514922</guid>
+            <pubDate>Tue, 22 Aug 2023 08:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230822_83/1692688710813sdnUn_JPEG/39322494048699508_137327548.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브레이브걸스 - BRAVE GIRLS BEST ALBUM (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9085679906</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 08 Aug 2023 07:16:49 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230808_268/16914773451850ernf_JPEG/1636639932394627_1100293471.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼 - Soul Pop City (2ND SINGLE) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9013798229</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9013798229</guid>
-            <pubDate>Tue, 08 Aug 2023 07:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[11,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230808_176/1691476613071ct4L1_JPEG/1635907884067868_1251317095.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재환 - Journey Above Music (180G RED COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9013660944</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9013660944</guid>
-            <pubDate>Tue, 08 Aug 2023 06:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230808_230/1691475160812pzc45_JPEG/3254434618848065_2070234321.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
