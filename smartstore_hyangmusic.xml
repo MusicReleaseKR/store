@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 11:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 12:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Begin Again 비긴 어게인 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9091824354</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9091824354</guid>
+            <pubDate>Tue, 22 Aug 2023 12:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230822_272/1692705750615GsRtw_JPEG/16617153524014047_1750896398.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소울딜리버리 - Foodcourt (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9090597071</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 08 Aug 2023 07:16:49 GMT</pubDate>
             <content:encoded><![CDATA[21,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230808_76/16914778616605qQeO_JPEG/3257135468252219_1362479483.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Post Malone - Austin (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9013849120</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9013849120</guid>
-            <pubDate>Tue, 08 Aug 2023 07:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230808_268/16914773451850ernf_JPEG/1636639932394627_1100293471.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
