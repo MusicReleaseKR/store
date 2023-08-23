@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 08:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 09:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Weeknd - After Hours (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9096974445</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9096974445</guid>
+            <pubDate>Wed, 23 Aug 2023 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_35/1672988329061bMdDi_JPEG/74124108436737220_177819757.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anne-Marie - Unhealthy (Deluxe) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9096904595</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9096904595</guid>
+            <pubDate>Wed, 23 Aug 2023 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[21,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230823_275/1692780449296TP18Q_JPEG/6633315186810602_342500636.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Begin Again 비긴 어게인 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9091824354</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 08 Aug 2023 11:14:53 GMT</pubDate>
             <content:encoded><![CDATA[64,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230808_235/1691491727768TyAmI_JPEG/5794629617090052_1897178158.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jayci yucca / dnss - S3X And The City (사인CD) [한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9013916281</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9013916281</guid>
-            <pubDate>Tue, 08 Aug 2023 07:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230808_281/1691478359807vsMIy_JPEG/5781261633200482_119614622.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jon Batiste - World Music Radio (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9013886205</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9013886205</guid>
-            <pubDate>Tue, 08 Aug 2023 07:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230808_76/16914778616605qQeO_JPEG/3257135468252219_1362479483.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
