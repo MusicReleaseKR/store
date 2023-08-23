@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 09:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 10:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Evangelion Finally 신세기 에반게리온 보컬 베스트 모음집 - 파이널리 (핑크 & 마젠타 컬러 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9097211557</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9097211557</guid>
+            <pubDate>Wed, 23 Aug 2023 10:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[58,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230823_53/169278466035334mlt_JPEG/26644052166818187_1417805423.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Neon Genesis Evangeion 신세기 에반게리온 [CLEAR BLACK & BLUE COLOURED 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9097125143</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9097125143</guid>
+            <pubDate>Wed, 23 Aug 2023 10:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[70,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230823_115/1692783367355S47Yk_JPEG/39417150591548723_1036910839.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Weeknd - After Hours (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9096974445</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 08 Aug 2023 11:14:53 GMT</pubDate>
             <content:encoded><![CDATA[64,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230808_193/1691492942050lqAOG_JPEG/6418630170206052_1129692630.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Damian Lewis - Mission Creep (SKY BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9015074735</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9015074735</guid>
-            <pubDate>Tue, 08 Aug 2023 11:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230808_271/16914921101871kxwN_JPEG/17207103794685167_655144386.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cannonball Adderley - Cannonball Adderley Quintet in Chicago (Acoustic Sounds Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9015047192</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9015047192</guid>
-            <pubDate>Tue, 08 Aug 2023 11:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230808_235/1691491727768TyAmI_JPEG/5794629617090052_1897178158.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
