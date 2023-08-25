@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 09:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 10:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코요태 - 2집 실연 (150G TRANSPARENT ORANGE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9108659746</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9108659746</guid>
+            <pubDate>Fri, 25 Aug 2023 10:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230825_72/16929564878686PLP6_JPEG/19809078689402739_52586971.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코요태 - 2집 실연 (150G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9108621237</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9108621237</guid>
+            <pubDate>Fri, 25 Aug 2023 10:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230825_226/1692950381969ufyag_JPEG/15293767442610924_450327674.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코요태 - 1집 순정 (150G BLUE BABY COLOURED LP) [2023 REMASTERED]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9108131972</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 10 Aug 2023 12:38:29 GMT</pubDate>
             <content:encoded><![CDATA[39,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230810_20/1691666541672dc5bH_JPEG/14508650441821258_1117104583.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니스 - Sweet & Blue (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9026924634</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9026924634</guid>
-            <pubDate>Thu, 10 Aug 2023 12:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230810_31/1691666288510vR8ww_JPEG/18037679993142379_2087147751.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이랑 Lang Lee - Pride Live In SEOUL 2022 (PINK COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9020913482</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9020913482</guid>
-            <pubDate>Wed, 09 Aug 2023 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230322_213/1679469412002klyBj_JPEG/80605300703860485_1674609665.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
