@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 10:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 11:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한로로 HANRORO - 이상비행 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9108959330</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9108959330</guid>
+            <pubDate>Fri, 25 Aug 2023 11:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230825_28/169295972922603YyO_JPEG/4613051275510283_1284722226.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코요태 - 2집 실연 (150G TRANSPARENT ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9108659746</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 10 Aug 2023 12:38:29 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230810_256/16916680332313zesO_JPEG/14524470975007186_1926187090.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강성희 - Rain, Woman & the Other Thing (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9026944669</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9026944669</guid>
-            <pubDate>Thu, 10 Aug 2023 12:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230810_20/1691666541672dc5bH_JPEG/14508650441821258_1117104583.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
