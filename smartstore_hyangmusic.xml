@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 11:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 12:35:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Songs From Mulan 뮬란 [RUBY RED & OBSIDIAN COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9123799059</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9123799059</guid>
+            <pubDate>Mon, 28 Aug 2023 12:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230828_298/1693225387088Q8WPf_JPEG/39241970921902235_1486154203.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Songs From Pocahontas 포카혼타스 [KALEIDOSCOPE SUNSET SPLATTER COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9123767846</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9123767846</guid>
+            <pubDate>Mon, 28 Aug 2023 12:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[55,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230828_125/1693224871178DhBL0_JPEG/4878193227469109_1966750569.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SPELLLING - SPELLLING & the Mystery School (PURPLE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9123724067</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9123724067</guid>
+            <pubDate>Mon, 28 Aug 2023 12:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[35,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230828_104/1693224408697alTKP_JPEG/17565437534527234_2089941711.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mitski - Puberty 2 (White Vinyl LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9123700576</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9123700576</guid>
+            <pubDate>Mon, 28 Aug 2023 12:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[33,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230828_132/1693224081923esNkS_JPEG/11527513750689378_404057626.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ed Sheeran - Autumn Variations (WHITE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9122151650</link>
@@ -294,38 +326,6 @@
             <pubDate>Mon, 14 Aug 2023 06:23:02 GMT</pubDate>
             <content:encoded><![CDATA[43,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230814_4/1691990522966OlV16_JPEG/6666112328400210_613397553.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Velvet Underground - Gold - Definitive Collection (REMASTERED) [2CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9032646758</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9032646758</guid>
-            <pubDate>Fri, 11 Aug 2023 11:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230811_140/1691750410374poE1g_JPEG/6425999743625476_1952818186.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bon Jovi - Cross Road - The Best Of Bon Jovi (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9032606222</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9032606222</guid>
-            <pubDate>Fri, 11 Aug 2023 11:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[54,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230811_264/1691749965961eP9aA_JPEG/18580197537695978_57533137.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana - Nevermind (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9032570672</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9032570672</guid>
-            <pubDate>Fri, 11 Aug 2023 11:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230811_115/1691749478658l0PaP_JPEG/14605916458578775_1018013689.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤이맨 HeyMen - Shelter (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9031381131</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9031381131</guid>
-            <pubDate>Fri, 11 Aug 2023 06:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230811_44/1691734354790qweTR_JPEG/18105746269476786_607054448.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
