@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 05:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 06:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,14 +256,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230817_108/1692260315115eiHeU_JPEG/5974447001924704_1801350807.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어반자카파 - 01 (180G OPAQUE WHITE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9063698412</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9063698412</guid>
-            <pubDate>Thu, 17 Aug 2023 08:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230817_170/1692259403891d51hB_JPEG/5973535782676892_1016142206.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나미 - 7집 Chameleon (LP MINIATURE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9058573232</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9058573232</guid>
@@ -326,6 +318,14 @@
             <pubDate>Mon, 14 Aug 2023 06:23:02 GMT</pubDate>
             <content:encoded><![CDATA[43,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230814_221/1691992172556YNN8e_JPEG/37847280381883322_1653598123.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전인권 / 허성욱 - 1979-1987 추억 들국화 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9046479412</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9046479412</guid>
+            <pubDate>Wed, 30 Aug 2023 06:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230814_36/16919919089134cODo_JPEG/5706040789274438_723950220.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
