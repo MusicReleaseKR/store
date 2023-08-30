@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 09:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 10:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일렉트리 Electree - Frame (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9134480150</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9134480150</guid>
+            <pubDate>Wed, 30 Aug 2023 10:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230830_259/1693388109396shoCG_JPEG/4314227253241346_1255255550.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이형주 - 우리는 서로를 간직하려고 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9134462666</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9134462666</guid>
+            <pubDate>Wed, 30 Aug 2023 10:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230830_195/1693387832374UEG46_JPEG/39227869197031405_1970622723.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jack DeJohnette - Sorcery (Jazz Dispensary Top Shelf Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9128355937</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 14 Aug 2023 07:16:30 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230814_294/1691994050462zCx6i_JPEG/6669639832162985_1184298336.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들국화 - 들국화 II (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9046526802</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9046526802</guid>
-            <pubDate>Mon, 14 Aug 2023 06:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230814_221/1691992172556YNN8e_JPEG/37847280381883322_1653598123.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전인권 / 허성욱 - 1979-1987 추억 들국화 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9046479412</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9046479412</guid>
-            <pubDate>Wed, 30 Aug 2023 06:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230814_36/16919919089134cODo_JPEG/5706040789274438_723950220.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
