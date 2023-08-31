@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 05:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 06:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이루리 - Rise From The Ashes (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9139167212</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9139167212</guid>
+            <pubDate>Thu, 31 Aug 2023 06:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230831_72/1693462381641Yo7Bm_JPEG/43537919013603167_618899159.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일렉트리 Electree - Frame (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9134480150</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230816_227/16921680958390qjn0_JPEG/15010204623663846_867709291.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Clapton - 461 Ocean Boulevard (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9046638981</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9046638981</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230814_294/1691994050462zCx6i_JPEG/6669639832162985_1184298336.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
