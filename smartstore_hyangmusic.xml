@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 05:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 06:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이진아 - 3집 도시의 속마음 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9144765231</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9144765231</guid>
+            <pubDate>Fri, 01 Sep 2023 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230901_67/1693548254327grTXg_JPEG/157902720498355_286044803.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아리랑브라더즈 - 우리 애인 미쓰 얌체, 동물농장 (150G YELLOW COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9139379332</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230816_13/1692180090756sRGFr_JPEG/15036528519858050_1463889263.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김추자 - 골든 힛트송 (LP MINIATURE) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9058536821</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9058536821</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230816_117/1692179763789oMqmb_JPEG/6855353133639623_1478269817.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
