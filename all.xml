@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 07:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 08:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,12 +320,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230817_108/1692260315115eiHeU_JPEG/5974447001924704_1801350807.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나미 - 7집 Chameleon (LP MINIATURE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9058573232</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9058573232</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230816_13/1692180090756sRGFr_JPEG/15036528519858050_1463889263.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[어반자카파 - 01 (180G OPAQUE WHITE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9063698412</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9063698412</guid>
+            <pubDate>Fri, 01 Sep 2023 08:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230817_170/1692259403891d51hB_JPEG/5973535782676892_1016142206.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
