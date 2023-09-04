@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 10:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 11:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[햄스터 파우더 클럽 - Goodnight Everyone, No More Magicpower (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9161928623</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9161928623</guid>
+            <pubDate>Mon, 04 Sep 2023 11:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230904_166/16938212294760fezN_JPEG/5474551519641853_280128559.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kazumi Tateishi Trio - meets Beautiful Standards (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9161452475</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230818_188/1692355346101WfiTe_JPEG/6204599899142341_1982393759.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버벌 진트 Verbal Jint - K-XY : INFP (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9069062124</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9069062124</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230818_52/1692337693887q2RMr_JPEG/19167925460217274_782866648.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
