@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 03:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 04:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Tank! Gold Cowboy Bebop [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9159992215</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9159992215</guid>
+            <pubDate>Mon, 04 Sep 2023 04:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[78,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230904_140/1693800030316U6u9p_JPEG/43875567696159399_1937251967.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소금 Sogumm - Sobrightttttttt (CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9159907809</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9159907809</guid>
+            <pubDate>Mon, 04 Sep 2023 04:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230904_158/1693798419586kVJVQ_JPEG/408068003196143_34106560.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이진아 - 3집 도시의 속마음 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9144765231</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230817_108/16922607621018dAFG_JPEG/15102870889744724_567915951.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어반자카파 - 01 (180G OPAQUE WHITE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9063698412</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9063698412</guid>
-            <pubDate>Fri, 01 Sep 2023 08:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230817_170/1692259403891d51hB_JPEG/5973535782676892_1016142206.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나미 - 7집 Chameleon (LP MINIATURE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9058573232</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9058573232</guid>
-            <pubDate>Sun, 03 Sep 2023 01:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230816_13/1692180090756sRGFr_JPEG/15036528519858050_1463889263.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
