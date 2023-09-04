@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 04:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 05:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - A Tribute To 들국화 (2CD) [재발매]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9160280492</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9160280492</guid>
+            <pubDate>Mon, 04 Sep 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230904_284/1693803979847jP1MI_JPEG/43879517220829961_984516021.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtraack - Cowboy Bebop 카우보이 비밥 (11LP) [BOX SET]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9160168216</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9160168216</guid>
+            <pubDate>Mon, 04 Sep 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[455,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230904_8/1693802600686b0bon_JPEG/39819184497859425_1834594853.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Tank! Gold Cowboy Bebop [2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9159992215</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230818_178/1692337440605mlStu_JPEG/19167672173936065_400487521.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식케이 Sik-K - Pot a Lot (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9063805573</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9063805573</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230817_87/1692261298767s5lbd_JPEG/15117736569458620_1968222991.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀릭 Millic - VIDA (ORANGE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9063761204</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9063761204</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230817_108/16922607621018dAFG_JPEG/15102870889744724_567915951.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
