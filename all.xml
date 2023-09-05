@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 07:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 08:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eric Clapton - Old Sock (BLUE COLOURED 2LP) [10th anniversary reissue] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9167224822</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9167224822</guid>
+            <pubDate>Tue, 05 Sep 2023 08:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230905_19/1693901767143BLqN3_JPEG/18242795966692323_250717614.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[던 DAWN - Narcissus (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9167185240</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9167185240</guid>
+            <pubDate>Tue, 05 Sep 2023 08:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230905_69/1693900818724CQtmB_JPEG/5554140769745482_2007252712.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[햄스터 파우더 클럽 - Goodnight Everyone, No More Magicpower (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9161928623</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230821_170/1692609386800DhaIV_JPEG/6458640616583999_1640612608.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 일타 스캔들 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9070589881</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9070589881</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230818_57/1692356330903gm48p_JPEG/7246037773054197_192536345.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이비티비 ABTB - 2집 Daydream (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9070511507</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9070511507</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230818_188/1692355346101WfiTe_JPEG/6204599899142341_1982393759.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
