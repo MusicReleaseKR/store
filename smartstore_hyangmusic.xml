@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 08:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 09:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nina Simone - You've Got To Learn (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9173270315</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9173270315</guid>
+            <pubDate>Wed, 06 Sep 2023 09:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230906_133/1693989653441as2G9_JPEG/44065190816744782_1769579990.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강허달림 - Beyond the Blues, Kang Huh Darlim (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9172979211</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230822_272/1692705750615GsRtw_JPEG/16617153524014047_1750896398.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소울딜리버리 - Foodcourt (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9090597071</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9090597071</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230822_24/1692689651555QOoJt_JPEG/16601054472073175_803866369.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
