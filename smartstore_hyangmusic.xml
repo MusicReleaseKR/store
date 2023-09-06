@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 04:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 05:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카더가든 Car, The Garden - 3집 Harmony (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9172240916</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9172240916</guid>
+            <pubDate>Wed, 06 Sep 2023 05:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230906_291/1693976019474exYBO_JPEG/4902137316148009_342051673.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eric Clapton - Old Sock (BLUE COLOURED 2LP) [10th anniversary reissue]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9167224822</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230822_83/1692688710813sdnUn_JPEG/39322494048699508_137327548.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브레이브걸스 - BRAVE GIRLS BEST ALBUM (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9085679906</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9085679906</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230821_170/1692609386800DhaIV_JPEG/6458640616583999_1640612608.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
