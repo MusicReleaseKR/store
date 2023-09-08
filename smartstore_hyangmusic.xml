@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 04:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 05:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알레프 ALEPH - 사과향 (140G PINK SPLATTER COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9183831722</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9183831722</guid>
+            <pubDate>Fri, 08 Sep 2023 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230908_207/16941494559864AWAt_JPEG/2523134572453896_218229127.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Herbie Hancock - The New Standard (Verve By Request Series) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9173557116</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[70,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230823_115/1692783367355S47Yk_JPEG/39417150591548723_1036910839.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weeknd - After Hours (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9096974445</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9096974445</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_35/1672988329061bMdDi_JPEG/74124108436737220_177819757.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
