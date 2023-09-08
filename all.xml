@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 11:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 12:34:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Blue Giant 블루 자이언트 (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9185517952</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9185517952</guid>
+            <pubDate>Fri, 08 Sep 2023 12:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[75,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230908_262/1694171288702LRxBc_JPEG/7378687155469724_2004024807.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Blue Giant 블루 자이언트 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9185500766</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9185500766</guid>
+            <pubDate>Fri, 08 Sep 2023 12:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230908_262/1694171288702LRxBc_JPEG/7378687155469724_2004024807.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알레프 ALEPH - 사과향 (140G PINK SPLATTER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9183831722</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[53,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230825_121/1692948011920LjeFM_JPEG/26359741781715898_1840383186.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Evangelion Finally 신세기 에반게리온 보컬 베스트 모음집 - 파이널리 (핑크 & 마젠타 컬러 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9097211557</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9097211557</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230823_53/169278466035334mlt_JPEG/26644052166818187_1417805423.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Neon Genesis Evangeion 신세기 에반게리온 [CLEAR BLACK & BLUE COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9097125143</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9097125143</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[70,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230823_115/1692783367355S47Yk_JPEG/39417150591548723_1036910839.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
