@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 11:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 12:35:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wayne Shorter - Footprints Live! (Verve By Request Series) [180G 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9200896580</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9200896580</guid>
+            <pubDate>Mon, 11 Sep 2023 12:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[65,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230911_65/1694431429452WcPRE_JPEG/8320287247961497_2136663009.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leon Spencer - Where I'm Coming From (Jazz Dispensary Top Shelf Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9200873055</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9200873055</guid>
+            <pubDate>Mon, 11 Sep 2023 12:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230911_272/1694431001728apmTv_JPEG/111785918137860_711187658.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김광석 - 4집 일어나, 사른즈음에 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9200592330</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[35,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230828_104/1693224408697alTKP_JPEG/17565437534527234_2089941711.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski - Puberty 2 (White Vinyl LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9123700576</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9123700576</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[33,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230828_132/1693224081923esNkS_JPEG/11527513750689378_404057626.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ed Sheeran - Autumn Variations (WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9122151650</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9122151650</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230828_138/16932010997200meRO_JPEG/43276637097702264_1412300057.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
