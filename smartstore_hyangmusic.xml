@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 08:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 09:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sufjan Stevens - Javelin (LEMONADE LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9200180464</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9200180464</guid>
+            <pubDate>Mon, 11 Sep 2023 09:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230911_274/1694420963389JJzAT_JPEG/7700365204388893_147160148.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sufjan Stevens - Javelin (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9200167996</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9200167996</guid>
+            <pubDate>Mon, 11 Sep 2023 09:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230911_57/1694420710424YUgsh_JPEG/7628108870060138_373249013.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sufjan Stevens - Javelin (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9200148290</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9200148290</guid>
+            <pubDate>Mon, 11 Sep 2023 09:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230911_106/1694420364512eowRH_JPEG/9929255254753773_40985027.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키스누 Kisnue - REINCARNATION (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9199980927</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230828_168/1693190409997mf7DK_JPEG/4843732028582091_873382642.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한로로 HANRORO - 이상비행 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9108959330</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9108959330</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230825_28/169295972922603YyO_JPEG/4613051275510283_1284722226.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코요태 - 2집 실연 (150G TRANSPARENT ORANGE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9108659746</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9108659746</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230825_72/16929564878686PLP6_JPEG/19809078689402739_52586971.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코요태 - 2집 실연 (150G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9108621237</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9108621237</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230825_226/1692950381969ufyag_JPEG/15293767442610924_450327674.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
