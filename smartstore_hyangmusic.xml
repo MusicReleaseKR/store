@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 09:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 10:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김광석 - 3집 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9200571831</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9200571831</guid>
+            <pubDate>Mon, 11 Sep 2023 10:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230911_123/1694426581016mggpR_JPEG/10716672842678500_1876291468.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sufjan Stevens - Javelin (LEMONADE LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9200180464</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230828_138/16932010997200meRO_JPEG/43276637097702264_1412300057.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듀스 Deux - 2.5집 Rhythm Light Beat Black (150G BLUE CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9121404910</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9121404910</guid>
-            <pubDate>Thu, 31 Aug 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230828_168/1693190409997mf7DK_JPEG/4843732028582091_873382642.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
