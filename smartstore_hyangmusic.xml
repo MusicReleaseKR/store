@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 01:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 02:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너드커넥션 Nerd Connection - 설명하기 어려운 것들 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9204233577</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9204233577</guid>
+            <pubDate>Tue, 12 Sep 2023 02:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230912_300/1694484534401EJFqM_JPEG/169008260204522_1976602272.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wayne Shorter - Footprints Live! (Verve By Request Series) [180G 2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9200896580</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
             <content:encoded><![CDATA[55,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230828_125/1693224871178DhBL0_JPEG/4878193227469109_1966750569.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SPELLLING - SPELLLING & the Mystery School (PURPLE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9123724067</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9123724067</guid>
-            <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[35,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230828_104/1693224408697alTKP_JPEG/17565437534527234_2089941711.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
