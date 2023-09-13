@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 07:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 08:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쏠 SOLE - A Love Supreme (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9211674326</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9211674326</guid>
+            <pubDate>Wed, 13 Sep 2023 08:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230913_216/1694589556898Dalwz_JPEG/479248686647816_939984897.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원호 - The Flower Time Machine (140G CLEAR COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9210289639</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
             <content:encoded><![CDATA[42,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230829_13/16932936183071ntX9_JPEG/17634647142174477_875729763.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cecil Taylor - Unit Structures (Blue Note Classic Vinyl Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9128279729</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9128279729</guid>
-            <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230829_125/1693292826496AOB2J_JPEG/4946148545923450_689206242.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
