@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 08:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 09:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mitski - The Land Is Inhospitable and So Are We (카세트 테이프)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9223262992</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9223262992</guid>
+            <pubDate>Fri, 15 Sep 2023 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230915_22/1694766524730NVIAw_JPEG/447308893086323_647962964.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[터치드 Touched - Yellow Supernova Remnant (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9218299783</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
             <content:encoded><![CDATA[39,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230831_72/1693462381641Yo7Bm_JPEG/43537919013603167_618899159.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일렉트리 Electree - Frame (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9134480150</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9134480150</guid>
-            <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230830_259/1693388109396shoCG_JPEG/4314227253241346_1255255550.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
