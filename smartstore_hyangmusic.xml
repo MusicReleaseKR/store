@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 03:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 04:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 재즈 쿼텟 - REUNION CONCERT (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9254729446</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9254729446</guid>
+            <pubDate>Thu, 21 Sep 2023 04:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230921_77/1695267570728XbYVO_JPEG/3687987604864273_835753697.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Olivia Rodrigo 올리비아 로드리고 - GUTS (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9254674872</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9254674872</guid>
+            <pubDate>Thu, 21 Sep 2023 04:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230921_128/1695266084079Cndi4_JPEG/3116739853788857_252052193.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤상 - 3집 Cliché (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9254569075</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230904_158/1693798419586kVJVQ_JPEG/408068003196143_34106560.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이진아 - 3집 도시의 속마음 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9144765231</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9144765231</guid>
-            <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230901_67/1693548254327grTXg_JPEG/157902720498355_286044803.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아리랑브라더즈 - 우리 애인 미쓰 얌체, 동물농장 (150G YELLOW COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9139379332</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9139379332</guid>
-            <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230831_114/1693464807219rpnWp_JPEG/4390925024960993_829011199.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
