@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 10:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 12:36:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Silk Sonic - An Evening With Silk Sonic (Deluxe Edition) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9256716029</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9256716029</guid>
+            <pubDate>Thu, 21 Sep 2023 12:35:44 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230921_284/1695294664817dxGzS_JPEG/9611936631316628_1294144938.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 재즈 쿼텟 - REUNION CONCERT (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9254729446</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 04 Sep 2023 04:21:38 GMT</pubDate>
             <content:encoded><![CDATA[78,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230904_140/1693800030316U6u9p_JPEG/43875567696159399_1937251967.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소금 Sogumm - Sobrightttttttt (CLEAR COLOURED LP) [100장 랜덤 사인반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9159907809</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9159907809</guid>
-            <pubDate>Mon, 04 Sep 2023 04:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230904_158/1693798419586kVJVQ_JPEG/408068003196143_34106560.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
