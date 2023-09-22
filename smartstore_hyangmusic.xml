@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 08:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 09:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230905_19/1693901767143BLqN3_JPEG/18242795966692323_250717614.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[던 DAWN - Narcissus (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9167185240</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9167185240</guid>
+            <pubDate>Fri, 22 Sep 2023 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230905_69/1693900818724CQtmB_JPEG/5554140769745482_2007252712.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[햄스터 파우더 클럽 - Goodnight Everyone, No More Magicpower (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9161928623</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9161928623</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
             <content:encoded><![CDATA[78,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230904_140/1693800030316U6u9p_JPEG/43875567696159399_1937251967.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소금 Sogumm - Sobrightttttttt (CLEAR COLOURED LP) [100장 랜덤 사인반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9159907809</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9159907809</guid>
-            <pubDate>Fri, 22 Sep 2023 02:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230904_158/1693798419586kVJVQ_JPEG/408068003196143_34106560.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
