@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 06:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 07:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 킹더랜드 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9285515190</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9285515190</guid>
+            <pubDate>Wed, 27 Sep 2023 07:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[55,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230927_279/1695798314286I5UeH_JPEG/6650902394232554_1569104216.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STEPPS - Waltz For Tiger Joe (Expanded Edition) [180G WHITE COLOURED 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9285457016</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9285457016</guid>
+            <pubDate>Wed, 27 Sep 2023 07:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230927_166/169579778804634ywi_JPEG/10125892924411182_737076744.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STEPPS - Waltz For Tiger Joe (Expanded Edition) [180G 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9285411842</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9285411842</guid>
+            <pubDate>Wed, 27 Sep 2023 07:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230927_180/1695796445914sVqWa_JPEG/10124550779562392_776259744.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버스커 버스커 - 2집 (LP) [10주년 기념]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9275026762</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230904_166/16938212294760fezN_JPEG/5474551519641853_280128559.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kazumi Tateishi Trio - meets Beautiful Standards (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9161452475</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9161452475</guid>
-            <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230904_261/16938181259668zGBK_JPEG/5471448005478220_859238477.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - A Tribute To 들국화 (2CD) [재발매]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9160280492</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9160280492</guid>
-            <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230904_284/1693803979847jP1MI_JPEG/43879517220829961_984516021.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtraack - Cowboy Bebop 카우보이 비밥 (11LP) [BOX SET]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9160168216</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9160168216</guid>
-            <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[455,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230904_8/1693802600686b0bon_JPEG/39819184497859425_1834594853.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
