@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 09:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 10:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - HAN 2023 [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9286248001</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9286248001</guid>
+            <pubDate>Wed, 27 Sep 2023 10:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[24,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230927_154/1695808995482IqUWW_JPEG/7491074703995523_611898321.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - HAN 2023 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9286122137</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9286122137</guid>
+            <pubDate>Wed, 27 Sep 2023 10:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230927_100/1695806984204AXaVN_JPEG/7489063424240635_637565865.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 오늘도 안녕을 비네 - 제임스레코드의 세번째 컴필레이션 (CLEAR BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9285576517</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 06 Sep 2023 05:16:48 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230906_291/1693976019474exYBO_JPEG/4902137316148009_342051673.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Clapton - Old Sock (BLUE COLOURED 2LP) [10th anniversary reissue] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9167224822</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9167224822</guid>
-            <pubDate>Tue, 05 Sep 2023 08:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[56,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230905_19/1693901767143BLqN3_JPEG/18242795966692323_250717614.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[던 DAWN - Narcissus (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9167185240</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9167185240</guid>
-            <pubDate>Fri, 22 Sep 2023 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230905_69/1693900818724CQtmB_JPEG/5554140769745482_2007252712.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
