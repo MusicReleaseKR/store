@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 07:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 08:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 오늘도 안녕을 비네 - 제임스레코드의 세번째 컴필레이션 (CLEAR BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9285576517</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9285576517</guid>
+            <pubDate>Wed, 27 Sep 2023 08:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230927_281/1695799458001pmpe8_JPEG/10127562875294158_410435497.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 킹더랜드 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9285515190</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 22 Sep 2023 09:17:52 GMT</pubDate>
             <content:encoded><![CDATA[16,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230905_69/1693900818724CQtmB_JPEG/5554140769745482_2007252712.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[햄스터 파우더 클럽 - Goodnight Everyone, No More Magicpower (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9161928623</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9161928623</guid>
-            <pubDate>Mon, 04 Sep 2023 11:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230904_166/16938212294760fezN_JPEG/5474551519641853_280128559.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
