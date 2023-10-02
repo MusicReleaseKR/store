@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 23:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 01:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,22 +264,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230911_253/1694415602125P2JJO_JPEG/19161623810383139_11255579.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack - Blue Giant 블루 자이언트 (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9185517952</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9185517952</guid>
-            <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[75,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230908_262/1694171288702LRxBc_JPEG/7378687155469724_2004024807.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Blue Giant 블루 자이언트 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9185500766</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9185500766</guid>
-            <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230908_262/1694171288702LRxBc_JPEG/7378687155469724_2004024807.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[알레프 ALEPH - 사과향 (140G PINK SPLATTER COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9183831722</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9183831722</guid>
@@ -326,6 +310,22 @@
             <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230906_291/1693976019474exYBO_JPEG/4902137316148009_342051673.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eric Clapton - Old Sock (BLUE COLOURED 2LP) [10th anniversary reissue]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9167224822</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9167224822</guid>
+            <pubDate>Mon, 02 Oct 2023 01:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230905_19/1693901767143BLqN3_JPEG/18242795966692323_250717614.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[던 DAWN - Narcissus (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9167185240</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9167185240</guid>
+            <pubDate>Mon, 02 Oct 2023 01:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230905_69/1693900818724CQtmB_JPEG/5554140769745482_2007252712.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
