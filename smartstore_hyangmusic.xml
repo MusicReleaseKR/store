@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 05:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 06:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230915_22/1694766524730NVIAw_JPEG/447308893086323_647962964.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[터치드 Touched - Yellow Supernova Remnant (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9218299783</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9218299783</guid>
-            <pubDate>Thu, 14 Sep 2023 10:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230914_92/16946851402204Mwg9_JPEG/8573998028357225_1547594349.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[라쿠나 Lacuna - John (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9212507640</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9212507640</guid>
@@ -158,6 +150,14 @@
             <pubDate>Wed, 13 Sep 2023 02:23:18 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230913_247/1694571017931Fjo1w_JPEG/10861109751816559_674400755.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tom Waits - Rain Dogs (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9207263627</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9207263627</guid>
+            <pubDate>Tue, 03 Oct 2023 06:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230912_152/1694524772468glre8_JPEG/10814864293738506_500496178.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화지 Hwaji - ZISSOU (180G OPAQUE RED COLOURED 2LP)]]></title>
