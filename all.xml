@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 04:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 05:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웅산 - 7집 I Love You (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9316830182</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9316830182</guid>
+            <pubDate>Wed, 04 Oct 2023 05:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231004_214/16963959336217EoW5_JPEG/10727597792340606_156704901.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웅산 - 6집 Tomorrow (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9316804370</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9316804370</guid>
+            <pubDate>Wed, 04 Oct 2023 05:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231004_67/1696394266331jwMku_JPEG/7246854446747918_1401985033.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - HAN 2023 [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9286248001</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 04 Oct 2023 01:17:24 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230904_166/16938212294760fezN_JPEG/5474551519641853_280128559.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kazumi Tateishi Trio - meets Beautiful Standards (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9161452475</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9161452475</guid>
-            <pubDate>Wed, 04 Oct 2023 01:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230904_261/16938181259668zGBK_JPEG/5471448005478220_859238477.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - A Tribute To 들국화 (2CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9160280492</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9160280492</guid>
-            <pubDate>Wed, 04 Oct 2023 01:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230904_284/1693803979847jP1MI_JPEG/43879517220829961_984516021.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
