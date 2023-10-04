@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 23:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 01:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,30 +216,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230911_123/1694426581016mggpR_JPEG/10716672842678500_1876291468.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sufjan Stevens - Javelin (LEMONADE LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9200180464</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9200180464</guid>
-            <pubDate>Mon, 11 Sep 2023 09:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_274/1694420963389JJzAT_JPEG/7700365204388893_147160148.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sufjan Stevens - Javelin (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9200167996</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9200167996</guid>
-            <pubDate>Mon, 11 Sep 2023 09:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_57/1694420710424YUgsh_JPEG/7628108870060138_373249013.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sufjan Stevens - Javelin (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9200148290</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9200148290</guid>
-            <pubDate>Mon, 11 Sep 2023 09:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_106/1694420364512eowRH_JPEG/9929255254753773_40985027.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[키스누 Kisnue - REINCARNATION (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9199980927</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9199980927</guid>
@@ -326,6 +302,30 @@
             <pubDate>Mon, 02 Oct 2023 01:16:21 GMT</pubDate>
             <content:encoded><![CDATA[16,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230905_69/1693900818724CQtmB_JPEG/5554140769745482_2007252712.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[햄스터 파우더 클럽 - Goodnight Everyone, No More Magicpower (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9161928623</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9161928623</guid>
+            <pubDate>Wed, 04 Oct 2023 01:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230904_166/16938212294760fezN_JPEG/5474551519641853_280128559.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kazumi Tateishi Trio - meets Beautiful Standards (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9161452475</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9161452475</guid>
+            <pubDate>Wed, 04 Oct 2023 01:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230904_261/16938181259668zGBK_JPEG/5471448005478220_859238477.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - A Tribute To 들국화 (2CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9160280492</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9160280492</guid>
+            <pubDate>Wed, 04 Oct 2023 01:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230904_284/1693803979847jP1MI_JPEG/43879517220829961_984516021.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
