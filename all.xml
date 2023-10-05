@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 06:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 07:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Troye Sivan - Something To Give Each Other (CD) [초도 한정 포스터 증정] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9322669344</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9322669344</guid>
+            <pubDate>Thu, 05 Oct 2023 07:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231005_245/1696487979189lIp99_JPEG/6650827015293024_379128043.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 데시벨 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9322632681</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9322632681</guid>
+            <pubDate>Thu, 05 Oct 2023 07:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[103,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231005_124/1696487403541iNTtB_JPEG/9954903038829338_1392606775.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김뜻돌 - 꿈에서 걸려온 전화 (140G CLEAR BLUE COLOURED LP) [사인반 100장 랜덤 발송] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9322542783</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 06 Sep 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[19,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230906_133/1693989653441as2G9_JPEG/44065190816744782_1769579990.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강허달림 - Beyond the Blues, Kang Huh Darlim (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9172979211</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9172979211</guid>
-            <pubDate>Wed, 06 Sep 2023 08:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230906_44/1693985188333i1OxS_JPEG/594836730490034_1508450718.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카더가든 Car, The Garden - 3집 Harmony (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9172240916</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9172240916</guid>
-            <pubDate>Wed, 06 Sep 2023 05:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230906_291/1693976019474exYBO_JPEG/4902137316148009_342051673.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
