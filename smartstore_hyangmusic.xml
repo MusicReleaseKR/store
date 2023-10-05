@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 05:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 06:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김뜻돌 - 꿈에서 걸려온 전화 (140G CLEAR BLUE COLOURED LP) [사인반 100장 랜덤 발송]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9322542783</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9322542783</guid>
+            <pubDate>Thu, 05 Oct 2023 06:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231005_220/1696486272490t025p_JPEG/14813792695708186_608014183.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕바다 - City Complex (180G CLEAR RED COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9322496638</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9322496638</guid>
+            <pubDate>Thu, 05 Oct 2023 06:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231005_149/1696485664084uQ2q6_JPEG/14813184284691764_957611346.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vince Guaraldi Trio - A Charlie Brown Christmas (CHRISTMAS TREE GREEN COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9319240029</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230906_291/1693976019474exYBO_JPEG/4902137316148009_342051673.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Clapton - Old Sock (BLUE COLOURED 2LP) [10th anniversary reissue]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9167224822</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9167224822</guid>
-            <pubDate>Mon, 02 Oct 2023 01:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[56,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230905_19/1693901767143BLqN3_JPEG/18242795966692323_250717614.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[던 DAWN - Narcissus (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9167185240</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9167185240</guid>
-            <pubDate>Mon, 02 Oct 2023 01:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230905_69/1693900818724CQtmB_JPEG/5554140769745482_2007252712.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
