@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 10:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 11:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지소쿠리클럽 JisokuryClub - Lunker (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9329328666</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9329328666</guid>
+            <pubDate>Fri, 06 Oct 2023 11:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231006_105/1696590494098QHKQK_JPEG/18320058889362978_1928434833.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신직선 - 연결 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9329298472</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9329298472</guid>
+            <pubDate>Fri, 06 Oct 2023 11:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231006_115/1696590182139ixveq_JPEG/30052241139779566_305609361.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉘뉘 - 1집 DAWN (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9329284013</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9329284013</guid>
+            <pubDate>Fri, 06 Oct 2023 11:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231006_12/1696589892877kSGXA_JPEG/46836320801824431_1839908143.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 발레리나 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9328460830</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 08:23:20 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230911_267/16944178790973F3zR_JPEG/10704351920354133_184767336.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Mint Paper Presents - Bright #12 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9199894738</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9199894738</guid>
-            <pubDate>Mon, 11 Sep 2023 08:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_39/1694416681301WvDvK_JPEG/10703154105302598_1931597727.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코튼스틱 Cottonstick - Take Me Home (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9199817367</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9199817367</guid>
-            <pubDate>Mon, 11 Sep 2023 07:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_253/1694415602125P2JJO_JPEG/19161623810383139_11255579.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알레프 ALEPH - 사과향 (140G PINK SPLATTER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9183831722</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9183831722</guid>
-            <pubDate>Fri, 08 Sep 2023 05:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230908_207/16941494559864AWAt_JPEG/2523134572453896_218229127.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
