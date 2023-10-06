@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 11:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 12:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔분의일 (1/N) / POLARIS (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9329441511</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9329441511</guid>
+            <pubDate>Fri, 06 Oct 2023 12:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231006_4/1696591888539RbHAq_JPEG/12079176758196915_514631200.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지소쿠리클럽 JisokuryClub - Lunker (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9329328666</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230911_123/1694426581016mggpR_JPEG/10716672842678500_1876291468.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키스누 Kisnue - REINCARNATION (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9199980927</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9199980927</guid>
-            <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_267/16944178790973F3zR_JPEG/10704351920354133_184767336.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
