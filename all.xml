@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 06:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 07:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강해진 - 잔혹동화 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9328281352</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9328281352</guid>
+            <pubDate>Fri, 06 Oct 2023 07:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231006_175/16965756070158LuhP_JPEG/215299305046252_1542724829.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바비 Bobby - ROBERT (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9323369103</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Sep 2023 10:19:41 GMT</pubDate>
             <content:encoded><![CDATA[65,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230906_250/1693992965107qvvDM_JPEG/12296396935448933_2098155337.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nina Simone - Wild Is The Wind (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9173495164</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9173495164</guid>
-            <pubDate>Wed, 06 Sep 2023 10:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230906_106/1693992419697coiAj_JPEG/4918537550907921_123822767.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
