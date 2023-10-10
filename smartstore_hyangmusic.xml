@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 23:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 01:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,14 +142,6 @@
             <pubDate>Wed, 27 Sep 2023 08:23:38 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230927_281/1695799458001pmpe8_JPEG/10127562875294158_410435497.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 킹더랜드 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9285515190</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9285515190</guid>
-            <pubDate>Wed, 27 Sep 2023 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230927_279/1695798314286I5UeH_JPEG/6650902394232554_1569104216.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STEPPS - Waltz For Tiger Joe (Expanded Edition) [180G WHITE COLOURED 2LP]]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Sun, 08 Oct 2023 01:20:48 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230911_267/16944178790973F3zR_JPEG/10704351920354133_184767336.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Mint Paper Presents - Bright #12 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9199894738</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9199894738</guid>
+            <pubDate>Tue, 10 Oct 2023 01:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230911_39/1694416681301WvDvK_JPEG/10703154105302598_1931597727.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
