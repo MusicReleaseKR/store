@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 07:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 08:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이은하 - 겨울장미, 사랑의 그림자 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9348879168</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9348879168</guid>
+            <pubDate>Tue, 10 Oct 2023 08:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231010_55/1696925405373hQcOh_JPEG/24514824353839051_243332562.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심규선 Lucia - #HUMANKIND (CD) [일반반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9348755713</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9348755713</guid>
+            <pubDate>Tue, 10 Oct 2023 08:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[27,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231010_213/1696924002202wspPF_JPEG/48297949182736256_1724401903.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 멜로가 체질 (PINK COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9348405741</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 12:35:08 GMT</pubDate>
             <content:encoded><![CDATA[65,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230911_65/1694431429452WcPRE_JPEG/8320287247961497_2136663009.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leon Spencer - Where I'm Coming From (Jazz Dispensary Top Shelf Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9200873055</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9200873055</guid>
-            <pubDate>Mon, 11 Sep 2023 12:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[42,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_272/1694431001728apmTv_JPEG/111785918137860_711187658.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김광석 - 4집 일어나, 서른즈음에 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9200592330</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9200592330</guid>
-            <pubDate>Mon, 11 Sep 2023 11:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_180/1694427113273mDIbe_JPEG/18338516186902202_1173001128.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
