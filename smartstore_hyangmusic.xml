@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 08:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 09:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유재하 - 사랑하기 때문에 (180G EMERALD COLOURED LP) [SPECIAL VINYL EDITION]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9349009721</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9349009721</guid>
+            <pubDate>Tue, 10 Oct 2023 09:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230614_165/1686744145315iJh4m_JPEG/11022664124241886_820851635.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이은하 - 겨울장미, 사랑의 그림자 (TRANSPARENT PURPLE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9348895269</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9348895269</guid>
+            <pubDate>Tue, 10 Oct 2023 09:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231010_137/1696926094021wEvNa_JPEG/42357304809790578_838227538.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이은하 - 겨울장미, 사랑의 그림자 (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9348879168</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 12 Sep 2023 05:17:13 GMT</pubDate>
             <content:encoded><![CDATA[63,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230912_244/1694491631725xKbIk_JPEG/10781723544866364_1922580652.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 Nerd Connection - 설명하기 어려운 것들 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9204233577</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9204233577</guid>
-            <pubDate>Tue, 12 Sep 2023 02:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230912_300/1694484534401EJFqM_JPEG/169008260204522_1976602272.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wayne Shorter - Footprints Live! (Verve By Request Series) [180G 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9200896580</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9200896580</guid>
-            <pubDate>Mon, 11 Sep 2023 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[65,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_65/1694431429452WcPRE_JPEG/8320287247961497_2136663009.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
