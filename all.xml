@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 05:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 06:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김두수 - 3집 보헤미안 (BLUE COVER VER) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9348202702</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9348202702</guid>
+            <pubDate>Tue, 10 Oct 2023 06:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231010_296/16969172406596joiz_JPEG/556932953288872_1864606864.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김두수 - 3집 보헤미안 (WHITE COVER VER) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9348194899</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9348194899</guid>
+            <pubDate>Tue, 10 Oct 2023 06:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231010_144/1696916898103FJ1ol_JPEG/47163326053336673_1153185830.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔분의일 (1/N) / POLARIS (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9329441511</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 10:19:34 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230911_123/1694426581016mggpR_JPEG/10716672842678500_1876291468.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키스누 Kisnue - REINCARNATION (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9199980927</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9199980927</guid>
-            <pubDate>Sun, 08 Oct 2023 01:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_267/16944178790973F3zR_JPEG/10704351920354133_184767336.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Mint Paper Presents - Bright #12 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9199894738</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9199894738</guid>
-            <pubDate>Tue, 10 Oct 2023 01:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_39/1694416681301WvDvK_JPEG/10703154105302598_1931597727.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
