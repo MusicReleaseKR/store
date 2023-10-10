@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 06:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 07:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 멜로가 체질 (PINK COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9348405741</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9348405741</guid>
+            <pubDate>Tue, 10 Oct 2023 07:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231010_235/1696919799101gGFSS_JPEG/24509218079089627_349265858.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김두수 - 3집 보헤미안 (BLUE COVER VER) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9348202702</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 11:15:18 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230911_180/1694427113273mDIbe_JPEG/18338516186902202_1173001128.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김광석 - 3집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9200571831</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9200571831</guid>
-            <pubDate>Mon, 11 Sep 2023 10:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_123/1694426581016mggpR_JPEG/10716672842678500_1876291468.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
