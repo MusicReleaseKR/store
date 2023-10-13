@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 10:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 11:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우효 Oohyo - 2집 성난 도시로부터 멀리 (LP) [자켓 불량] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9366166171</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9366166171</guid>
+            <pubDate>Fri, 13 Oct 2023 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231013_42/1697194425853dwpag_JPEG/7376636700256740_1815388630.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Songs From Beauty And The Beast 미녀와 야수 (CANARY YELLOW COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9366069647</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9366069647</guid>
+            <pubDate>Fri, 13 Oct 2023 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231013_98/1697193187739H92oL_JPEG/47367729675384695_797724281.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cannonball Adderley - Somethin' Else [180G BLUE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9366028234</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9366028234</guid>
+            <pubDate>Fri, 13 Oct 2023 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231013_198/1697192567492jnfY3_JPEG/21700992662851552_775161405.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stan Getz - Marrakesh Express (Verve By Request Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9365939076</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 21 Sep 2023 04:21:17 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230921_77/1695267570728XbYVO_JPEG/3687987604864273_835753697.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Olivia Rodrigo 올리비아 로드리고 - GUTS (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9254674872</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9254674872</guid>
-            <pubDate>Thu, 21 Sep 2023 04:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230921_128/1695266084079Cndi4_JPEG/3116739853788857_252052193.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤상 - 3집 Cliché (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9254569075</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9254569075</guid>
-            <pubDate>Thu, 21 Sep 2023 03:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[47,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230921_102/1695264500153GKpKx_JPEG/23072458130574371_121781254.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - D.P 웹드라마 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9254500592</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9254500592</guid>
-            <pubDate>Thu, 21 Sep 2023 03:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230921_11/1695263126394PpwCk_JPEG/13266793201473127_1733479651.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
