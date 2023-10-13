@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 07:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 08:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,12 +320,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230915_22/1694766524730NVIAw_JPEG/447308893086323_647962964.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라쿠나 Lacuna - John (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9212507640</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9212507640</guid>
-            <pubDate>Wed, 13 Sep 2023 11:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230913_188/1694600566123vxRmD_JPEG/490257914336926_394842534.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[터치드 Touched - Yellow Supernova Remnant (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9218299783</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9218299783</guid>
+            <pubDate>Fri, 13 Oct 2023 08:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230914_92/16946851402204Mwg9_JPEG/8573998028357225_1547594349.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
