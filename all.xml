@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 09:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 10:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stan Getz - Marrakesh Express (Verve By Request Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9365939076</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9365939076</guid>
+            <pubDate>Fri, 13 Oct 2023 10:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231013_191/1697191364282841hb_JPEG/8819462160075573_1128797291.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sarah Vaughan - Great Women Of Song - Sarah Vaughan [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9365895805</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9365895805</guid>
+            <pubDate>Fri, 13 Oct 2023 10:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231013_166/1697191028975Ielml_JPEG/27991629938617365_1890273600.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jackie McLean - Demon's Dance (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9365864946</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9365864946</guid>
+            <pubDate>Fri, 13 Oct 2023 10:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231013_90/1697190436364FqvIo_JPEG/7338886183093787_515988213.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Charlie Puth - Voicenotes [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9365513983</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 21 Sep 2023 03:18:05 GMT</pubDate>
             <content:encoded><![CDATA[62,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230921_11/1695263126394PpwCk_JPEG/13266793201473127_1733479651.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jimmy Smith - Midnight Special (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9224259695</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9224259695</guid>
-            <pubDate>Fri, 15 Sep 2023 12:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230915_124/1694779247211UwxKw_JPEG/8668105015205033_493363771.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Horace Silver Quintet & Trio - Blowin’ The Blues Away (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9224238872</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9224238872</guid>
-            <pubDate>Fri, 15 Sep 2023 12:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230915_146/1694778922897kpQUQ_JPEG/2126653083913160_1202268782.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski - The Land Is Inhospitable and So Are We (카세트 테이프) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9223262992</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9223262992</guid>
-            <pubDate>Fri, 15 Sep 2023 09:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230915_22/1694766524730NVIAw_JPEG/447308893086323_647962964.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
