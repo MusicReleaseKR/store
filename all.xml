@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 07:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 08:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무키무키만만수 - 2012 (130G SAUNA PINK COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9386497529</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9386497529</guid>
+            <pubDate>Tue, 17 Oct 2023 08:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231017_105/1697530082523CuajI_JPEG/7712293345882805_1516951261.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무키무키만만수 - 2012 (130G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9386487472</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9386487472</guid>
+            <pubDate>Tue, 17 Oct 2023 08:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231017_7/1697529617473OWFH9_JPEG/1972105275043864_1942789059.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장현 - 장현 AND THE MEN (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9385046058</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 27 Sep 2023 10:20:13 GMT</pubDate>
             <content:encoded><![CDATA[24,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230927_154/1695808995482IqUWW_JPEG/7491074703995523_611898321.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - HAN 2023 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9286122137</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9286122137</guid>
-            <pubDate>Wed, 27 Sep 2023 10:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[54,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230927_100/1695806984204AXaVN_JPEG/7489063424240635_637565865.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 오늘도 안녕을 비네 - 제임스레코드의 세번째 컴필레이션 (CLEAR BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9285576517</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9285576517</guid>
-            <pubDate>Wed, 27 Sep 2023 08:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230927_281/1695799458001pmpe8_JPEG/10127562875294158_410435497.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
