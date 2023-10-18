@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 02:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 03:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심규선 Lucia - #HUMANKIND (180G COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9391047636</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9391047636</guid>
+            <pubDate>Wed, 18 Oct 2023 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[71,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231018_257/1697597686806p8qsy_JPEG/6028961685304337_828651204.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오왠 O When - When It Loves (45Rpm CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9390999041</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9390999041</guid>
+            <pubDate>Wed, 18 Oct 2023 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231018_281/1697596719852Y3nYH_JPEG/7745169661943405_347251486.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오왠 O When - When I Begin (45Rpm MINT COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9390942921</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9390942921</guid>
+            <pubDate>Wed, 18 Oct 2023 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231018_98/1697595631255Igm93_JPEG/47770173198552318_219903201.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무키무키만만수 - 2012 (130G SAUNA PINK COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9386497529</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 04 Oct 2023 15:20:15 GMT</pubDate>
             <content:encoded><![CDATA[38,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231004_125/1696428923256olWxQ_JPEG/7281511368420127_735774870.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웅산 - 7집 I Love You (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9316830182</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9316830182</guid>
-            <pubDate>Wed, 04 Oct 2023 05:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231004_214/16963959336217EoW5_JPEG/10727597792340606_156704901.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웅산 - 6집 Tomorrow (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9316804370</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9316804370</guid>
-            <pubDate>Wed, 04 Oct 2023 05:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231004_67/1696394266331jwMku_JPEG/7246854446747918_1401985033.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - HAN 2023 [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9286248001</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9286248001</guid>
-            <pubDate>Wed, 27 Sep 2023 10:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[24,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230927_154/1695808995482IqUWW_JPEG/7491074703995523_611898321.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
