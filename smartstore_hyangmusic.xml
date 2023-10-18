@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 05:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 06:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최백호 - 찰나 Ver 2 (180G CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9391129792</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9391129792</guid>
+            <pubDate>Wed, 18 Oct 2023 06:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231018_219/1697599101944fhPiI_JPEG/22107527117373899_1659254212.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[심규선 Lucia - #HUMANKIND (180G COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9391047636</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 05 Oct 2023 06:24:21 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231005_149/1696485664084uQ2q6_JPEG/14813184284691764_957611346.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vince Guaraldi Trio - A Charlie Brown Christmas (CHRISTMAS TREE GREEN COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9319240029</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9319240029</guid>
-            <pubDate>Wed, 04 Oct 2023 15:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[38,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231004_125/1696428923256olWxQ_JPEG/7281511368420127_735774870.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
