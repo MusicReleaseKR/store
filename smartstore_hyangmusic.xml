@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 08:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 09:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 - 3집 What A Chill Kill (Bag Ver) [초회 한정반 CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9392749171</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9392749171</guid>
+            <pubDate>Wed, 18 Oct 2023 09:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231018_43/1697618875243Mgzdl_JPEG/22127300384741731_761150911.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최백호 - 찰나 Ver 2 (180G CLEAR COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9391129792</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 05 Oct 2023 06:24:21 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231005_220/1696486272490t025p_JPEG/14813792695708186_608014183.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕바다 - City Complex (180G CLEAR RED COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9322496638</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9322496638</guid>
-            <pubDate>Thu, 05 Oct 2023 06:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231005_149/1696485664084uQ2q6_JPEG/14813184284691764_957611346.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
