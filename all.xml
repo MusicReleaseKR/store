@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 08:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 09:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[릴리 잇 머신 Lilly Eat Machine - 우리는 불연소의 여름에 갇힌 채 밤을 맞고 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9398677200</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9398677200</guid>
+            <pubDate>Thu, 19 Oct 2023 09:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231019_93/1697706484064FNoza_JPEG/35747748308049452_1743401174.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기리보이 Giriboy - 10집 소설 쓰고 자빠졌네 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9398596510</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9398596510</guid>
+            <pubDate>Thu, 19 Oct 2023 09:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231019_200/1697705732290RXLdE_JPEG/30393820282211515_731531607.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데이식스 Day6 - Sunrise (COLOURED LP) [2종 중 랜덤발송] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9397722753</link>
@@ -72,7 +88,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231018_16/1697620928107yCzLN_JPEG/9249025973333317_1448141705.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레드벨벳 - 3집 What A Chill Kill (Bag Ver) [초회 한정반 CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[레드벨벳 - 3집 Chill Kill (Bag Ver) [초회 한정반 CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9392749171</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9392749171</guid>
             <pubDate>Wed, 18 Oct 2023 09:18:31 GMT</pubDate>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 10 Oct 2023 06:25:17 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231010_144/1696916898103FJ1ol_JPEG/47163326053336673_1153185830.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔분의일 (1/N) / POLARIS (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9329441511</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9329441511</guid>
-            <pubDate>Fri, 06 Oct 2023 12:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231006_4/1696591888539RbHAq_JPEG/12079176758196915_514631200.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지소쿠리클럽 JisokuryClub - Lunker (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9329328666</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9329328666</guid>
-            <pubDate>Fri, 06 Oct 2023 11:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231006_105/1696590494098QHKQK_JPEG/18320058889362978_1928434833.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
