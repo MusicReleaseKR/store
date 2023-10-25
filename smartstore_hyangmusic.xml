@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 14:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 15:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,14 +150,6 @@
             <pubDate>Wed, 18 Oct 2023 09:18:31 GMT</pubDate>
             <content:encoded><![CDATA[29,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231018_43/1697618875243Mgzdl_JPEG/22127300384741731_761150911.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최백호 - 찰나 Ver 2 (180G CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9391129792</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9391129792</guid>
-            <pubDate>Wed, 18 Oct 2023 06:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[54,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_219/1697599101944fhPiI_JPEG/22107527117373899_1659254212.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[심규선 Lucia - #HUMANKIND (180G COLOURED 2LP)]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Thu, 12 Oct 2023 12:35:56 GMT</pubDate>
             <content:encoded><![CDATA[52,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231012_219/1697110070803eXhHe_JPEG/44257569610556866_299601146.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유재하 - 사랑하기 때문에 (180G EMERALD COLOURED LP) [SPECIAL VINYL EDITION]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9349009721</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9349009721</guid>
+            <pubDate>Wed, 25 Oct 2023 15:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230614_165/1686744145315iJh4m_JPEG/11022664124241886_820851635.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
