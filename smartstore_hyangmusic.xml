@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 03:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 04:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신날새 - 1집 해금 in Melodies (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9429084571</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9429084571</guid>
+            <pubDate>Wed, 25 Oct 2023 04:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231025_136/1698206954284aXCny_JPEG/31615164277222941_1724665335.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마리아 킴 Maria Kim - Two for the Road (180g 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9404527081</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 10 Oct 2023 08:23:20 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231010_55/1696925405373hQcOh_JPEG/24514824353839051_243332562.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심규선 Lucia - #HUMANKIND (CD) [일반반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9348755713</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9348755713</guid>
-            <pubDate>Tue, 10 Oct 2023 08:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[27,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231010_213/1696924002202wspPF_JPEG/48297949182736256_1724401903.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
