@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 10:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 11:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태버 Tabber - Madness Always Turns to Sadness (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9430912492</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9430912492</guid>
+            <pubDate>Wed, 25 Oct 2023 11:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231025_128/1698232058877vDBQi_JPEG/1244667743338796_1728375680.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에픽하이 Epik High - Screen Time (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9430861452</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9430861452</guid>
+            <pubDate>Wed, 25 Oct 2023 11:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231025_42/1698231090120L0FGh_JPEG/6604768955929444_374734867.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슬롬 Slom - 1집 WEATHER REPORT (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9430829570</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9430829570</guid>
+            <pubDate>Wed, 25 Oct 2023 11:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231025_57/1698230675790SokM0_JPEG/6604354645112769_840025320.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신날새 - 1집 해금 in Melodies (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9429084571</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 12 Oct 2023 12:35:56 GMT</pubDate>
             <content:encoded><![CDATA[52,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231012_219/1697110070803eXhHe_JPEG/44257569610556866_299601146.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 - 사랑하기 때문에 (180G EMERALD COLOURED LP) [SPECIAL VINYL EDITION]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9349009721</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9349009721</guid>
-            <pubDate>Tue, 10 Oct 2023 09:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230614_165/1686744145315iJh4m_JPEG/11022664124241886_820851635.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이은하 - 겨울장미, 사랑의 그림자 (TRANSPARENT PURPLE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9348895269</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9348895269</guid>
-            <pubDate>Tue, 10 Oct 2023 09:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231010_137/1696926094021wEvNa_JPEG/42357304809790578_838227538.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이은하 - 겨울장미, 사랑의 그림자 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9348879168</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9348879168</guid>
-            <pubDate>Tue, 10 Oct 2023 08:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231010_55/1696925405373hQcOh_JPEG/24514824353839051_243332562.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
