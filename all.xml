@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 08:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 09:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심규선 Lucia - #HUMANKIND (CD) [한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9435719960</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9435719960</guid>
+            <pubDate>Thu, 26 Oct 2023 09:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231026_102/1698308736709lTcF7_JPEG/31716946708349514_1993633152.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이승윤 - 2집 꿈의 거처 (GOLD MARBLE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9435560873</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 12 Oct 2023 12:35:56 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231012_231/1697112224433W24ol_JPEG/44259723218781739_1145965544.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지민 (방탄소년단) - FACE (COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9360680701</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9360680701</guid>
-            <pubDate>Thu, 12 Oct 2023 12:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[52,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231012_219/1697110070803eXhHe_JPEG/44257569610556866_299601146.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
