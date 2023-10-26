@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 07:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 08:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이승윤 - 2집 꿈의 거처 (GOLD MARBLE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9435560873</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9435560873</guid>
+            <pubDate>Thu, 26 Oct 2023 08:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[88,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231026_175/1698307211883kzC50_JPEG/1680619841590688_1617601304.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태버 Tabber - Madness Always Turns to Sadness (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9430912492</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 12 Oct 2023 12:35:56 GMT</pubDate>
             <content:encoded><![CDATA[52,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231012_219/1697110070803eXhHe_JPEG/44257569610556866_299601146.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 - 사랑하기 때문에 (180G EMERALD COLOURED LP) [SPECIAL VINYL EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9349009721</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9349009721</guid>
-            <pubDate>Wed, 25 Oct 2023 15:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230614_165/1686744145315iJh4m_JPEG/11022664124241886_820851635.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
