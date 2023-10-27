@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 05:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 06:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심성락 - 다시부는 바람의 노래 (140G CLEAR COLOURED 10 INCH LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9440093180</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9440093180</guid>
+            <pubDate>Fri, 27 Oct 2023 06:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_100/1698384988255fmf5o_JPEG/45350243055623814_1747361154.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스윗소로우 - 5 (1800G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9439948875</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 13 Oct 2023 07:17:15 GMT</pubDate>
             <content:encoded><![CDATA[69,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231013_43/1697179445599jmlJX_JPEG/25385584383977168_74410855.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김트리오 - Riverside Rendezvous - 12 Hits (JADE GREEN COLOURED 130G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9360849593</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9360849593</guid>
-            <pubDate>Thu, 12 Oct 2023 12:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231012_268/1697112767791rx4r5_JPEG/27913368757007089_346770411.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
