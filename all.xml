@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 08:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 09:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pink Floyd - The Dark Side Of The Moon (Blu-Ray Audio) [발매 50주년 기념반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9440913360</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9440913360</guid>
+            <pubDate>Fri, 27 Oct 2023 09:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_247/16983959421431GK0A_JPEG/31804152139545734_250084796.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pink Floyd - The Dark Side Of The Moon (CD) [발매 50주년 기념반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9440880420</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9440880420</guid>
+            <pubDate>Fri, 27 Oct 2023 09:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_284/1698395723060QjOSh_JPEG/3028963973117090_1816613930.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pink Floyd - The Dark Side Of The Moon (180G LP) [발매 50주년 기념반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9440855614</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9440855614</guid>
+            <pubDate>Fri, 27 Oct 2023 09:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[58,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_116/16983954363411BP9O_JPEG/3028677255010163_1535534105.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Katy Perry - Teenage Dream (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9440822249</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9440822249</guid>
+            <pubDate>Fri, 27 Oct 2023 09:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[61,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_43/1698394779238YIDCl_JPEG/13986437064273500_1077092384.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Katy Perry - Prism (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9440789709</link>
@@ -294,38 +326,6 @@
             <pubDate>Fri, 13 Oct 2023 11:16:00 GMT</pubDate>
             <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231013_42/1697194425853dwpag_JPEG/7376636700256740_1815388630.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Songs From Beauty And The Beast 미녀와 야수 (CANARY YELLOW COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9366069647</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9366069647</guid>
-            <pubDate>Fri, 13 Oct 2023 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231013_98/1697193187739H92oL_JPEG/47367729675384695_797724281.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cannonball Adderley - Somethin' Else [180G BLUE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9366028234</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9366028234</guid>
-            <pubDate>Fri, 13 Oct 2023 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231013_198/1697192567492jnfY3_JPEG/21700992662851552_775161405.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stan Getz - Marrakesh Express (Verve By Request Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9365939076</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9365939076</guid>
-            <pubDate>Fri, 13 Oct 2023 10:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231013_191/1697191364282841hb_JPEG/8819462160075573_1128797291.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sarah Vaughan - Great Women Of Song - Sarah Vaughan [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9365895805</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9365895805</guid>
-            <pubDate>Fri, 13 Oct 2023 10:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231013_166/1697191028975Ielml_JPEG/27991629938617365_1890273600.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
