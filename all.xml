@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 07:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 08:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Katy Perry - Prism (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9440789709</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9440789709</guid>
+            <pubDate>Fri, 27 Oct 2023 08:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[61,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_176/1698394541132BPMwz_JPEG/31802751130054839_1113379256.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Katy Perry - One Of The Boys (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9440412787</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 13 Oct 2023 10:19:50 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231013_166/1697191028975Ielml_JPEG/27991629938617365_1890273600.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jackie McLean - Demon's Dance (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9365864946</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9365864946</guid>
-            <pubDate>Fri, 13 Oct 2023 10:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231013_90/1697190436364FqvIo_JPEG/7338886183093787_515988213.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
