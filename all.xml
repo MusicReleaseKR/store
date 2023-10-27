@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 06:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 07:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Katy Perry - One Of The Boys (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9440412787</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9440412787</guid>
+            <pubDate>Fri, 27 Oct 2023 07:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_169/16983889760223OB1f_JPEG/6762654876276542_1865354953.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - CRISTMAS JAZZ - 재즈 황금시대의 크리스마스 Jazz Carol 17 컬렉션 (180G RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9440348598</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9440348598</guid>
+            <pubDate>Fri, 27 Oct 2023 07:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_290/1698386168527CxK3U_JPEG/11593566979083512_2045924690.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[심성락 - 다시부는 바람의 노래 (140G CLEAR COLOURED 10 INCH LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9440093180</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 13 Oct 2023 10:19:50 GMT</pubDate>
             <content:encoded><![CDATA[60,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231013_90/1697190436364FqvIo_JPEG/7338886183093787_515988213.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Puth - Voicenotes [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9365513983</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9365513983</guid>
-            <pubDate>Fri, 13 Oct 2023 09:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[33,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231013_62/1697185780437NkSpx_JPEG/27986381402041206_568056555.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울전자음악단 - 2집 Life Is Strange (2023 Newly Mixed 180G 2LP Edition) [신윤철 친필 사인 랜덤 발송] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9365053062</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9365053062</guid>
-            <pubDate>Fri, 13 Oct 2023 07:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[69,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231013_43/1697179445599jmlJX_JPEG/25385584383977168_74410855.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
