@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 05:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 06:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노리플라이 no reply - 사랑이 있었네 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9458832934</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9458832934</guid>
+            <pubDate>Tue, 31 Oct 2023 06:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231031_213/1698732316491ymXnr_JPEG/14323974312809385_1708681301.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 그대들은 어떻게 살 것인가 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9458799884</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9458799884</guid>
+            <pubDate>Tue, 31 Oct 2023 06:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231031_80/1698731513273RDfs2_JPEG/45696768054946653_1585667167.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지누션 Jinusean - 1.5집 The Real (180G TRANSPARENT RED COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9458506834</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 17 Oct 2023 03:18:39 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231017_246/1697511390016ELzE2_JPEG/7659839827855878_99726866.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이문세 - 5집 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9384989389</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9384989389</guid>
-            <pubDate>Tue, 17 Oct 2023 03:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231017_217/169751106456236h7G_JPEG/47685606479412910_276392683.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이문세 - 4집 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9384973359</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9384973359</guid>
-            <pubDate>Tue, 17 Oct 2023 03:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231017_181/1697510762084AOhpU_JPEG/5942037052807817_1654898195.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
