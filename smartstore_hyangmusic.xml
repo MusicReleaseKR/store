@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 05:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 06:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Coltrane - Coltrane (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9464559375</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9464559375</guid>
+            <pubDate>Wed, 01 Nov 2023 06:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231101_277/1698816647287maEzU_JPEG/32224857287262249_1107283795.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hank Mobley - No Room for Squares  (Blue Note Classic Vinyl Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9464541444</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9464541444</guid>
+            <pubDate>Wed, 01 Nov 2023 06:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231101_78/1698816098422ipNQM_JPEG/16143029957531087_1642877112.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ella Fitzgerald - Ella Wishes You A Swinging Christmas (RED COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9464510876</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9464510876</guid>
+            <pubDate>Wed, 01 Nov 2023 06:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231101_107/1698815672123NUMNe_JPEG/226828976683362_2123195966.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노리플라이 no reply - 사랑이 있었네 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9458832934</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 17 Oct 2023 08:23:46 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231017_105/1697530082523CuajI_JPEG/7712293345882805_1516951261.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무키무키만만수 - 2012 (130G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9386487472</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9386487472</guid>
-            <pubDate>Tue, 17 Oct 2023 08:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231017_7/1697529617473OWFH9_JPEG/1972105275043864_1942789059.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장현 - 장현 AND THE MEN (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9385046058</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9385046058</guid>
-            <pubDate>Tue, 17 Oct 2023 03:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231017_116/1697511720998tsGzY_JPEG/28312321937545766_1130095595.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바블껌 - 베스트 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9385024211</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9385024211</guid>
-            <pubDate>Tue, 17 Oct 2023 03:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231017_246/1697511390016ELzE2_JPEG/7659839827855878_99726866.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
