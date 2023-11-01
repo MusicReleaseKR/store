@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 07:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 08:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eagles - Hotel California (180g LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9465303512</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9465303512</guid>
+            <pubDate>Wed, 01 Nov 2023 08:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[34,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231101_295/1698825696204nMsjd_JPEG/12033094664261747_1731563597.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liam Gallagher - Knebworth 22 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9465238677</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9465238677</guid>
+            <pubDate>Wed, 01 Nov 2023 08:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231101_240/1698824450925LA3Ms_JPEG/16151382460271495_1966135642.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Coltrane - Coltrane (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9464559375</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 18 Oct 2023 03:18:37 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231018_281/1697596719852Y3nYH_JPEG/7745169661943405_347251486.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오왠 O When - When I Begin (45Rpm MINT COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9390942921</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9390942921</guid>
-            <pubDate>Wed, 18 Oct 2023 03:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_98/1697595631255Igm93_JPEG/47770173198552318_219903201.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무키무키만만수 - 2012 (130G SAUNA PINK COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9386497529</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9386497529</guid>
-            <pubDate>Tue, 17 Oct 2023 08:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231017_105/1697530082523CuajI_JPEG/7712293345882805_1516951261.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
