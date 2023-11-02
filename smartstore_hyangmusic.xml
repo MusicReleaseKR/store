@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 06:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 07:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크러쉬 Crush - 3집 wonderego (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9470356502</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9470356502</guid>
+            <pubDate>Thu, 02 Nov 2023 07:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231102_271/16989088485227b5PN_JPEG/25827418936342889_1862336073.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김필 - LIFE (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9470003382</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 18 Oct 2023 09:18:31 GMT</pubDate>
             <content:encoded><![CDATA[29,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231018_43/1697618875243Mgzdl_JPEG/22127300384741731_761150911.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심규선 Lucia - #HUMANKIND (180G COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9391047636</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9391047636</guid>
-            <pubDate>Wed, 18 Oct 2023 03:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[71,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_257/1697597686806p8qsy_JPEG/6028961685304337_828651204.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
