@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 07:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 08:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pat Metheny - Dream Box (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9470737853</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9470737853</guid>
+            <pubDate>Thu, 02 Nov 2023 08:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[24,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231102_194/1698913045037ih5Io_JPEG/16005868014221649_1203819995.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gregory Porter - Christmas Wish (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9470611914</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9470611914</guid>
+            <pubDate>Thu, 02 Nov 2023 08:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231102_226/1698911742429F0vY5_JPEG/28154645461151020_1107745906.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크러쉬 Crush - 3집 wonderego (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9470356502</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 18 Oct 2023 10:19:49 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231018_204/1697621615084M7C21_JPEG/2064102867560667_2016691715.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 만추 (180G LP) [2023 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9392960577</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9392960577</guid>
-            <pubDate>Wed, 18 Oct 2023 10:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_16/1697620928107yCzLN_JPEG/9249025973333317_1448141705.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 - 3집 Chill Kill (Bag Ver) [초회 한정반 CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9392749171</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9392749171</guid>
-            <pubDate>Wed, 18 Oct 2023 09:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_43/1697618875243Mgzdl_JPEG/22127300384741731_761150911.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
