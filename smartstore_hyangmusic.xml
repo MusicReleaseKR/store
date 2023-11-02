@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 09:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 10:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Anne-Marie - Unhealthy (CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9471205084</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9471205084</guid>
+            <pubDate>Thu, 02 Nov 2023 10:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[37,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231102_88/1698919497147blDdW_JPEG/5467910124545164_1880642595.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dua Lipa - Future Nostalgia (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9471182987</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9471182987</guid>
+            <pubDate>Thu, 02 Nov 2023 10:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[34,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231102_47/1698919212295oxFtM_JPEG/5467625265039880_1764618138.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doors - The Doors (HQ-180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9471162865</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9471162865</guid>
+            <pubDate>Thu, 02 Nov 2023 10:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[28,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231102_227/1698918565923t1ml0_JPEG/13235837740505207_1391626927.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trivium - In The Court Of The Dragon (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9471042238</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9471042238</guid>
+            <pubDate>Thu, 02 Nov 2023 10:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231102_95/16989167957751jWlc_JPEG/13234067588129672_1768018559.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웅산 - 3집 Yesterday (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9470998600</link>
@@ -294,38 +326,6 @@
             <pubDate>Thu, 19 Oct 2023 06:24:22 GMT</pubDate>
             <content:encoded><![CDATA[84,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231019_159/1697694287943J1tiO_JPEG/29292236560869945_1574329867.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박규희 X 박주원 - TWO GUITARS (CD & 악보집)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9393274797</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9393274797</guid>
-            <pubDate>Wed, 18 Oct 2023 11:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_71/1697625201297aTt0p_JPEG/28425802255368083_1315613193.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도마 Doma - 2집 도마 (140G COOL GRAY COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9393197132</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9393197132</guid>
-            <pubDate>Wed, 18 Oct 2023 10:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_272/1697623917965aBYil_JPEG/25830056778166981_783960288.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서영 - 사랑 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9393140889</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9393140889</guid>
-            <pubDate>Wed, 18 Oct 2023 10:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_67/1697623207882adWeS_JPEG/9251305758436701_1944174555.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오프더메뉴 off the menu - Every Point of View (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9393105999</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9393105999</guid>
-            <pubDate>Wed, 18 Oct 2023 10:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_205/1697622567128XnT6F_JPEG/7804777975673104_1322177677.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
