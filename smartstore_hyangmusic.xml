@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 08:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 09:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웅산 - 3집 Yesterday (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9470998600</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9470998600</guid>
+            <pubDate>Thu, 02 Nov 2023 09:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231102_138/1698915938197v6lgN_JPEG/5464351168122490_8511600.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pat Metheny - Dream Box (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9470737853</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 18 Oct 2023 10:19:49 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231018_205/1697622567128XnT6F_JPEG/7804777975673104_1322177677.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨더보트 - Escape from the (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9393022927</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9393022927</guid>
-            <pubDate>Wed, 18 Oct 2023 10:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_204/1697621615084M7C21_JPEG/2064102867560667_2016691715.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
