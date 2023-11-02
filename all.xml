@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 05:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 06:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김필 - LIFE (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9470003382</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9470003382</guid>
+            <pubDate>Thu, 02 Nov 2023 06:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231102_99/1698903785762t1Y90_JPEG/12178959572124329_1329696197.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eagles - Hotel California (180g LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9465303512</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 18 Oct 2023 03:18:37 GMT</pubDate>
             <content:encoded><![CDATA[71,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231018_257/1697597686806p8qsy_JPEG/6028961685304337_828651204.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오왠 O When - When It Loves (45Rpm CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9390999041</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9390999041</guid>
-            <pubDate>Wed, 18 Oct 2023 03:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_281/1697596719852Y3nYH_JPEG/7745169661943405_347251486.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
