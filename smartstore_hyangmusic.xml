@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 06:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 07:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Guns N Roses - Use Your Illusion II (REMASTERED) [180G 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9476033796</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9476033796</guid>
+            <pubDate>Fri, 03 Nov 2023 07:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[75,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231103_94/1698993773967zUXnt_JPEG/4217432922388055_2001320187.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크러쉬 Crush - 3집 wonderego (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9475957118</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9475957118</guid>
+            <pubDate>Fri, 03 Nov 2023 07:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[75,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231103_130/1698992800446PqyKq_JPEG/13320905330782637_84821545.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[615 - 1집 곁 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9475885018</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 19 Oct 2023 09:18:30 GMT</pubDate>
             <content:encoded><![CDATA[12,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231019_93/1697706484064FNoza_JPEG/35747748308049452_1743401174.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기리보이 Giriboy - 10집 소설 쓰고 자빠졌네 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9398596510</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9398596510</guid>
-            <pubDate>Thu, 19 Oct 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231019_200/1697705732290RXLdE_JPEG/30393820282211515_731531607.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이식스 Day6 - Sunrise (COLOURED LP) [2종 중 랜덤발송]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9397722753</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9397722753</guid>
-            <pubDate>Thu, 19 Oct 2023 06:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[84,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231019_65/1697695087507g5eU5_JPEG/8109931082630422_1077889762.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
