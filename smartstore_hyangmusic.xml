@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 02:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 03:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙 언더그라운드 The Black Underground - Tremolo Honey Pop (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9494633808</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9494633808</guid>
+            <pubDate>Tue, 07 Nov 2023 03:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231107_169/1699324557897YdzAu_JPEG/27707048558165213_1006222141.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태연 - To. X (A Ver) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9491490457</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 27 Oct 2023 07:17:04 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_169/16983889760223OB1f_JPEG/6762654876276542_1865354953.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - CRISTMAS JAZZ - 재즈 황금시대의 크리스마스 Jazz Carol 17 컬렉션 (180G RED COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9440348598</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9440348598</guid>
-            <pubDate>Fri, 27 Oct 2023 07:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231027_290/1698386168527CxK3U_JPEG/11593566979083512_2045924690.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
