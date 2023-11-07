@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 11:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 12:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Weeknd - Starboy (DELUXE EDITION) [CD[ (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9497082406</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9497082406</guid>
+            <pubDate>Tue, 07 Nov 2023 12:34:15 GMT</pubDate>
+            <content:encoded><![CDATA[28,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231107_48/1699357951306on5rL_JPEG/1305626130570610_538861144.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rolling Stones - Hackney Diamonds (CD) [LIMITED EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9497059849</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9497059849</guid>
+            <pubDate>Tue, 07 Nov 2023 12:34:15 GMT</pubDate>
+            <content:encoded><![CDATA[31,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231107_186/1699357550309Tmr1V_JPEG/46316941127125563_1884131361.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd - Kiss Land (5 Year Anniversary Edition) [SEAGLASS COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9496914393</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9496914393</guid>
+            <pubDate>Tue, 07 Nov 2023 12:34:15 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220824_237/1661336477649f06BD_JPEG/62472373381170894_2082907854.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Olivia Rodrigo 올리비아 로드리고 - GUTS (Alternative Artwork) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9496886800</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 27 Oct 2023 09:17:44 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_284/1698395723060QjOSh_JPEG/3028963973117090_1816613930.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd - The Dark Side Of The Moon (180G LP) [발매 50주년 기념반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9440855614</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9440855614</guid>
-            <pubDate>Fri, 27 Oct 2023 09:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231027_116/16983954363411BP9O_JPEG/3028677255010163_1535534105.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Katy Perry - Teenage Dream (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9440822249</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9440822249</guid>
-            <pubDate>Fri, 27 Oct 2023 09:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[61,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231027_43/1698394779238YIDCl_JPEG/13986437064273500_1077092384.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Katy Perry - Prism (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9440789709</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9440789709</guid>
-            <pubDate>Fri, 27 Oct 2023 08:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[61,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231027_176/1698394541132BPMwz_JPEG/31802751130054839_1113379256.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
