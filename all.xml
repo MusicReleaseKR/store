@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 09:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 10:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Angra - Cycles Of Pain (Deluxe Edition) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9502248171</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9502248171</guid>
+            <pubDate>Wed, 08 Nov 2023 10:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231108_138/1699438103891fcJKe_JPEG/11987770679832398_382105816.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KK’s Priest - The Sinner Rides Again (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9502195242</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9502195242</guid>
+            <pubDate>Wed, 08 Nov 2023 10:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231108_243/1699437186161ExuVs_JPEG/848343032150545_1104677484.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Weeknd - Starboy (DELUXE EDITION) [CD[ (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9497082406</link>
@@ -112,7 +128,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231103_174/16990033539847K9zV_JPEG/13331458865544362_1174241669.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[류형수 - 하루 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[류형수 - 하루 (140G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9476634944</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9476634944</guid>
             <pubDate>Fri, 03 Nov 2023 09:17:57 GMT</pubDate>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 31 Oct 2023 05:17:09 GMT</pubDate>
             <content:encoded><![CDATA[53,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231031_34/1698726442890e0GHd_JPEG/11933841339475531_371718973.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd - The Dark Side Of The Moon (Blu-Ray Audio) [발매 50주년 기념반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9440913360</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9440913360</guid>
-            <pubDate>Fri, 27 Oct 2023 09:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231027_247/16983959421431GK0A_JPEG/31804152139545734_250084796.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd - The Dark Side Of The Moon (CD) [발매 50주년 기념반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9440880420</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9440880420</guid>
-            <pubDate>Fri, 27 Oct 2023 09:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231027_284/1698395723060QjOSh_JPEG/3028963973117090_1816613930.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
