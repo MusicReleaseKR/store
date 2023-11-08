@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 10:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 11:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넉살 X 까데호 - 당신께 (180G OPAQUE BABY PINK COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9502293623</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9502293623</guid>
+            <pubDate>Wed, 08 Nov 2023 11:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[49,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231108_156/1699438953630CnsSW_JPEG/11988620411650885_658298256.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Angra - Cycles Of Pain (Deluxe Edition) [2CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9502248171</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 31 Oct 2023 05:17:09 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231031_216/1698727302705A0HDI_JPEG/14318960515211524_2054622178.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예성 - Unfading Sense (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9458345225</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9458345225</guid>
-            <pubDate>Tue, 31 Oct 2023 05:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[53,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231031_34/1698726442890e0GHd_JPEG/11933841339475531_371718973.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
