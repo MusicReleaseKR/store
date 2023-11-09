@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 11:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 12:34:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김트리오 - 연안부두 & Vol.2 (BOX) [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9508122277</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9508122277</guid>
+            <pubDate>Thu, 09 Nov 2023 12:34:26 GMT</pubDate>
+            <content:encoded><![CDATA[90,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231109_269/1699530637952mCAQJ_JPEG/51603025338852468_976624267.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오칠 Ohchill - 2집 The Burning City (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9507930351</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 31 Oct 2023 06:23:31 GMT</pubDate>
             <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231031_213/1698732316491ymXnr_JPEG/14323974312809385_1708681301.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 그대들은 어떻게 살 것인가 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9458799884</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9458799884</guid>
-            <pubDate>Tue, 31 Oct 2023 06:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231031_80/1698731513273RDfs2_JPEG/45696768054946653_1585667167.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
