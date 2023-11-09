@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 10:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 11:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오칠 Ohchill - 2집 The Burning City (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9507930351</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9507930351</guid>
+            <pubDate>Thu, 09 Nov 2023 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231109_132/16995281277435EH2s_JPEG/3182209716301116_183916976.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넉살 X 까데호 - 당신께 (180G OPAQUE BABY PINK COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9502293623</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 31 Oct 2023 06:23:31 GMT</pubDate>
             <content:encoded><![CDATA[42,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231031_80/1698731513273RDfs2_JPEG/45696768054946653_1585667167.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지누션 Jinusean - 1.5집 The Real (180G TRANSPARENT RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9458506834</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9458506834</guid>
-            <pubDate>Tue, 31 Oct 2023 05:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231031_216/1698727302705A0HDI_JPEG/14318960515211524_2054622178.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
