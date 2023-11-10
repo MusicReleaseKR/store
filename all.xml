@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 02:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 03:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사라 장 Sarah Chang - 비발디 사계 (Vivaldi -The Four Seasons) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9511023742</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9511023742</guid>
+            <pubDate>Fri, 10 Nov 2023 03:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231110_289/1699583552116MwJr0_JPEG/47172029466952306_1821742452.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김트리오 - 연안부두 & Vol.2 (BOX) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9508122277</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 01 Nov 2023 06:24:36 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231101_107/1698815672123NUMNe_JPEG/226828976683362_2123195966.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노리플라이 no reply - 사랑이 있었네 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9458832934</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9458832934</guid>
-            <pubDate>Tue, 31 Oct 2023 06:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231031_213/1698732316491ymXnr_JPEG/14323974312809385_1708681301.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
