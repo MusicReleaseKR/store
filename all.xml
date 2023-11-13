@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 03:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 04:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill Evans Trio - Sunday At The Village Vanguard (Original Jazz Classic Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9525130041</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9525130041</guid>
+            <pubDate>Mon, 13 Nov 2023 04:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231113_233/1699847211203iNs84_JPEG/51919598595871987_357387600.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gregory Porter - Christmas Wish (COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9525111798</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9525111798</guid>
+            <pubDate>Mon, 13 Nov 2023 04:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231113_3/1699847003116ckM7v_JPEG/47435480483125307_483746557.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gregory Porter - Christmas Wish (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9525104627</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9525104627</guid>
+            <pubDate>Mon, 13 Nov 2023 04:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231113_250/1699846753054WjBUL_JPEG/6395166030116338_227195293.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정밀아 - 4집 리버사이드 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9524843242</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 02 Nov 2023 10:20:15 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231102_95/16989167957751jWlc_JPEG/13234067588129672_1768018559.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웅산 - 3집 Yesterday (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9470998600</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9470998600</guid>
-            <pubDate>Thu, 02 Nov 2023 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231102_138/1698915938197v6lgN_JPEG/5464351168122490_8511600.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pat Metheny - Dream Box (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9470737853</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9470737853</guid>
-            <pubDate>Thu, 02 Nov 2023 08:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[24,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231102_194/1698913045037ih5Io_JPEG/16005868014221649_1203819995.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gregory Porter - Christmas Wish (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9470611914</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9470611914</guid>
-            <pubDate>Thu, 02 Nov 2023 08:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231102_226/1698911742429F0vY5_JPEG/28154645461151020_1107745906.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
