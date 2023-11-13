@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 01:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 02:29:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정밀아 - 4집 리버사이드 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9524843242</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9524843242</guid>
+            <pubDate>Mon, 13 Nov 2023 02:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231113_249/1699841753563QgnkC_JPEG/51914140936571346_1501603280.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bill Evans Trio - How My Heart Sings! (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9513418501</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 02 Nov 2023 08:22:18 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231102_226/1698911742429F0vY5_JPEG/28154645461151020_1107745906.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크러쉬 Crush - 3집 wonderego (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9470356502</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9470356502</guid>
-            <pubDate>Thu, 02 Nov 2023 07:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231102_271/16989088485227b5PN_JPEG/25827418936342889_1862336073.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
