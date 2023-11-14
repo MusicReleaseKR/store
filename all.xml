@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 10:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 11:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스믹 보이 Cosmic Boy - Can I Not (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9532073259</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9532073259</guid>
+            <pubDate>Tue, 14 Nov 2023 11:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231114_21/1699958935745hz5P1_JPEG/23485125752458930_643779049.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최유리 - 생각을 멈추다 보면 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9530695165</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 03 Nov 2023 06:23:56 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231103_35/1698991800248cCzHQ_JPEG/28234703269838452_49248332.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anne-Marie - Unhealthy (CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9471205084</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9471205084</guid>
-            <pubDate>Thu, 02 Nov 2023 10:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[37,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231102_88/1698919497147blDdW_JPEG/5467910124545164_1880642595.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
