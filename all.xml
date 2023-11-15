@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 11:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 12:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Art Farmer - Portrait of Art Farmer (Contemporary Records Acoustic Sounds Series) [180g LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9537514213</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9537514213</guid>
+            <pubDate>Wed, 15 Nov 2023 12:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231115_82/1700051042416iexuG_JPEG/32585646483127793_78507326.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Herbie Nichols Trio - Herbie Nichols Trio (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9537497568</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9537497568</guid>
+            <pubDate>Wed, 15 Nov 2023 12:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231115_60/170005077105463SsE_JPEG/15552398258296775_1128040415.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Art Blakey & The Jazz Messengers - Mosaic (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9537477487</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9537477487</guid>
+            <pubDate>Wed, 15 Nov 2023 12:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231115_87/1700050497565dvmuS_JPEG/15552124769549563_1216492662.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스믹 보이 Cosmic Boy - Can I Not (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9532073259</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 03 Nov 2023 09:17:57 GMT</pubDate>
             <content:encoded><![CDATA[64,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231103_241/1698999483401tTMhV_JPEG/28242386436895181_1397493636.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Guns N Roses - Use Your Illusion II (REMASTERED) [180G 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9476033796</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9476033796</guid>
-            <pubDate>Fri, 03 Nov 2023 07:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[75,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231103_94/1698993773967zUXnt_JPEG/4217432922388055_2001320187.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크러쉬 Crush - 3집 wonderego (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9475957118</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9475957118</guid>
-            <pubDate>Fri, 03 Nov 2023 07:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[75,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231103_130/1698992800446PqyKq_JPEG/13320905330782637_84821545.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[615 - 1집 곁 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9475885018</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9475885018</guid>
-            <pubDate>Fri, 03 Nov 2023 06:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231103_35/1698991800248cCzHQ_JPEG/28234703269838452_49248332.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
