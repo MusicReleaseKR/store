@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 12:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 13:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chet Baker - Chet (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9537617965</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9537617965</guid>
+            <pubDate>Wed, 15 Nov 2023 13:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231115_223/1700052850786wohTy_JPEG/29144022042485804_1558321191.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker - Chet (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9537601395</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9537601395</guid>
+            <pubDate>Wed, 15 Nov 2023 13:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231115_100/1700052574453Bdpga_JPEG/31617486256603209_612062113.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Curtis Counce - You Get More Bounce With Curtis Counce (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9537555585</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9537555585</guid>
+            <pubDate>Wed, 15 Nov 2023 13:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231115_46/1700051756149bU1SX_JPEG/1711574833304899_329624481.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Art Farmer - Portrait of Art Farmer (Contemporary Records Acoustic Sounds Series) [180g LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9537514213</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 03 Nov 2023 09:17:57 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231103_119/16990012233606mYjr_JPEG/25919793771004358_1124998165.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis Quintet - Workin' With The Miles Davis Quintet (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9476538753</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9476538753</guid>
-            <pubDate>Fri, 03 Nov 2023 09:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[45,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231103_272/1699000387909IRpSG_JPEG/4224046868821106_48572396.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jimmy Smith - Midnight Special (Blue Note Classic Vinyl Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9476502981</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9476502981</guid>
-            <pubDate>Fri, 03 Nov 2023 09:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230915_124/1694779247211UwxKw_JPEG/8668105015205033_493363771.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Big John Patton - Let Em Roll (Blue Note Tone Poet Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9476466030</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9476466030</guid>
-            <pubDate>Fri, 03 Nov 2023 09:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231103_241/1698999483401tTMhV_JPEG/28242386436895181_1397493636.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
