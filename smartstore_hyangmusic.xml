@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 13:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 14:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - Studio Ghibli 스튜디오 지브리 대표작 주제가 모음집 (7 INCH 4LP & Bonus 7 INCH 1LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9543079948</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9543079948</guid>
+            <pubDate>Thu, 16 Nov 2023 14:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[104,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231116_297/1700141365590Sm96l_JPEG/13506302462358148_978794636.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chet Baker - Chet (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9537617965</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 03 Nov 2023 10:19:38 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231103_174/16990033539847K9zV_JPEG/13331458865544362_1174241669.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류형수 - 하루 (140G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9476634944</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9476634944</guid>
-            <pubDate>Fri, 03 Nov 2023 09:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231103_119/16990012233606mYjr_JPEG/25919793771004358_1124998165.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
