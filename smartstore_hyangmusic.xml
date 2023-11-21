@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 11:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 12:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산울림 - 동요 전집 (COLOURED 4LP) [BOX SET]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9566460105</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9566460105</guid>
+            <pubDate>Tue, 21 Nov 2023 12:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[177,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231121_238/17005660056385wg02_JPEG/27393270829893832_9081282.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연정 Yeonjeong - 사랑을 사람으로 그린다면 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9566401350</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9566401350</guid>
+            <pubDate>Tue, 21 Nov 2023 12:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231121_97/1700565193843xc493_JPEG/4964471688193603_756928583.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이설 - 1집 Travel (180G MIXED COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9566378581</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 07 Nov 2023 12:34:15 GMT</pubDate>
             <content:encoded><![CDATA[36,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220824_237/1661336477649f06BD_JPEG/62472373381170894_2082907854.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Olivia Rodrigo 올리비아 로드리고 - GUTS (Alternative Artwork) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9496886800</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9496886800</guid>
-            <pubDate>Tue, 07 Nov 2023 11:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[28,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231107_80/16993553936802ua0U_JPEG/737425558920298_929340966.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙 언더그라운드 The Black Underground - Tremolo Honey Pop (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9494633808</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9494633808</guid>
-            <pubDate>Tue, 07 Nov 2023 03:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[11,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231107_169/1699324557897YdzAu_JPEG/27707048558165213_1006222141.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
