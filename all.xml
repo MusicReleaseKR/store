@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 05:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 06:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박기영 - Love You More - BEST ALBUM (140G WHITE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9565173761</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9565173761</guid>
+            <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[69,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231121_149/1700546223986aVURa_JPEG/14481904931192022_835332358.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영 - 발라드 (SOLID REC COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9565152804</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9565152804</guid>
+            <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231121_235/1700545840188Lm9pT_JPEG/11439520506891633_1845372292.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이민휘 - 2집 미래의 고향 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9565108447</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9565108447</guid>
+            <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231121_247/1700545058344T1zNA_JPEG/3151539159068688_1746763999.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ONLEE 이승환 - Switch ON (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9565053483</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9565053483</guid>
+            <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[12,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231121_128/1700544197170Nnbl1_JPEG/50265231418980378_423244152.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코토바 Cotoba - Humanoid operational (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9565007746</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9565007746</guid>
+            <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231121_191/1700543727086dD0Kp_JPEG/12225806303960782_354698370.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - Studio Ghibli 스튜디오 지브리 대표작 주제가 모음집 (7 INCH 4LP & Bonus 7 INCH 1LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9543079948</link>
@@ -286,46 +326,6 @@
             <pubDate>Mon, 06 Nov 2023 11:15:54 GMT</pubDate>
             <content:encoded><![CDATA[29,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231106_195/16992682113521jDvj_JPEG/13585483149854096_80177436.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연 - To. X (B Ver) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9491286211</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9491286211</guid>
-            <pubDate>Mon, 06 Nov 2023 11:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231106_195/16992682113521jDvj_JPEG/13585483149854096_80177436.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넬 Nell - Dystopian’s Eutopia (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9491208208</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9491208208</guid>
-            <pubDate>Mon, 06 Nov 2023 11:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231106_212/1699266735416rErS5_JPEG/12541909222941058_1982532980.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신스 Since - The Soloest (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9491182969</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9491182969</guid>
-            <pubDate>Mon, 06 Nov 2023 11:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231106_206/1699266352281A98iS_JPEG/13594457164678178_1440627545.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yoki Hinohara 히노하라 요키 - 라센지칸 (180G 반투명 칼라 LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9476842901</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9476842901</guid>
-            <pubDate>Fri, 03 Nov 2023 10:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231103_217/1699003484676MvoLb_JPEG/16096307642899764_198486995.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yoki Hinohara 히노하라 요키 - 라센지칸 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9476827135</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9476827135</guid>
-            <pubDate>Fri, 03 Nov 2023 10:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231103_174/16990033539847K9zV_JPEG/13331458865544362_1174241669.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
