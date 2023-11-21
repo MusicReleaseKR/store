@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 10:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 11:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이설 - 1집 Travel (180G MIXED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9566378581</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9566378581</guid>
+            <pubDate>Tue, 21 Nov 2023 11:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231121_149/17005646973311vmzS_JPEG/12246776534435880_466000897.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김두수 - 고요를 위하여 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9566342702</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9566342702</guid>
+            <pubDate>Tue, 21 Nov 2023 11:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231121_237/1700564082393zaxtx_JPEG/27391347583977197_149331446.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오아 OAH - Luv Punk (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9566306447</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9566306447</guid>
+            <pubDate>Tue, 21 Nov 2023 11:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231121_69/1700563712534HIJht_JPEG/14546142132709970_1499914808.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박기영 - Love You More - BEST ALBUM (140G WHITE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9565173761</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 07 Nov 2023 03:18:31 GMT</pubDate>
             <content:encoded><![CDATA[11,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231107_169/1699324557897YdzAu_JPEG/27707048558165213_1006222141.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연 - To. X (A Ver) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9491490457</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9491490457</guid>
-            <pubDate>Mon, 06 Nov 2023 12:37:04 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231106_195/16992682113521jDvj_JPEG/13585483149854096_80177436.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연 - To. X (DIGI-PAK) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9491354304</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9491354304</guid>
-            <pubDate>Mon, 06 Nov 2023 12:37:04 GMT</pubDate>
-            <content:encoded><![CDATA[12,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231106_195/16992682113521jDvj_JPEG/13585483149854096_80177436.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연 - To. X (C Ver) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9491316268</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9491316268</guid>
-            <pubDate>Mon, 06 Nov 2023 11:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231106_195/16992682113521jDvj_JPEG/13585483149854096_80177436.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
