@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 07:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 08:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[참솜 Chamsom - 아지랑이 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9570590225</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9570590225</guid>
+            <pubDate>Wed, 22 Nov 2023 08:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231122_121/1700639571203UsSeY_JPEG/14622000806558815_901598073.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산울림 - 동요 전집 (COLOURED 4LP) [BOX SET]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9566460105</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 07 Nov 2023 12:34:15 GMT</pubDate>
             <content:encoded><![CDATA[31,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231107_186/1699357550309Tmr1V_JPEG/46316941127125563_1884131361.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weeknd - Kiss Land (5 Year Anniversary Edition) [SEAGLASS COLOURED 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9496914393</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9496914393</guid>
-            <pubDate>Tue, 07 Nov 2023 12:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220824_237/1661336477649f06BD_JPEG/62472373381170894_2082907854.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
