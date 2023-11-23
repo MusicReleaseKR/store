@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 06:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 07:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤이즈 Heize - Last Winter (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9575431282</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9575431282</guid>
+            <pubDate>Thu, 23 Nov 2023 07:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231123_292/1700721572275pDPPg_JPEG/5120850127800987_30876506.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저드 Jerd - BOMM (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9575398927</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9575398927</guid>
+            <pubDate>Thu, 23 Nov 2023 07:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231123_192/17007211341130KwLl_JPEG/3327614930042058_1823782971.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검은잎들 - 메신저 (150G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9575365707</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9575365707</guid>
+            <pubDate>Thu, 23 Nov 2023 07:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231123_83/17007207790767fKad_JPEG/14085715947412886_1973560305.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[참솜 Chamsom - 아지랑이 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9570590225</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 08 Nov 2023 10:19:42 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231108_138/1699438103891fcJKe_JPEG/11987770679832398_382105816.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KK’s Priest - The Sinner Rides Again (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9502195242</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9502195242</guid>
-            <pubDate>Wed, 08 Nov 2023 10:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231108_243/1699437186161ExuVs_JPEG/848343032150545_1104677484.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weeknd - Starboy (DELUXE EDITION) [CD[ (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9497082406</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9497082406</guid>
-            <pubDate>Tue, 07 Nov 2023 12:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[28,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231107_48/1699357951306on5rL_JPEG/1305626130570610_538861144.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rolling Stones - Hackney Diamonds (CD) [LIMITED EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9497059849</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9497059849</guid>
-            <pubDate>Tue, 07 Nov 2023 12:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[31,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231107_186/1699357550309Tmr1V_JPEG/46316941127125563_1884131361.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
