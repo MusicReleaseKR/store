@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 11:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 12:35:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kenny Burrell - K.B. Blues (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9576921290</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9576921290</guid>
+            <pubDate>Thu, 23 Nov 2023 12:35:15 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231123_264/1700742574261EbQ0f_JPEG/5141852124008303_118101663.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis & The Modern Jazz Giants - Bags Groove (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9576901375</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9576901375</guid>
+            <pubDate>Thu, 23 Nov 2023 12:35:15 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231123_83/1700742255220rcfpf_JPEG/5141533079615412_1869062242.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강형호 PITTA - BE FREE (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9576185688</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 10 Nov 2023 03:18:47 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231110_289/1699583552116MwJr0_JPEG/47172029466952306_1821742452.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김트리오 - 연안부두 & Vol.2 (BOX) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9508122277</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9508122277</guid>
-            <pubDate>Thu, 09 Nov 2023 12:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[90,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231109_269/1699530637952mCAQJ_JPEG/51603025338852468_976624267.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오칠 Ohchill - 2집 The Burning City (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9507930351</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9507930351</guid>
-            <pubDate>Thu, 09 Nov 2023 11:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231109_132/16995281277435EH2s_JPEG/3182209716301116_183916976.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
