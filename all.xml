@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 09:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 10:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강형호 PITTA - BE FREE (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9576185688</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9576185688</guid>
+            <pubDate>Thu, 23 Nov 2023 10:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231123_205/1700731733597Mq9Vk_JPEG/14445865488179498_1599768857.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에코 브릿지 Eco Bridge - COMPILATION (180G CLEAR ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9575797561</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 09 Nov 2023 11:15:28 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231109_132/16995281277435EH2s_JPEG/3182209716301116_183916976.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넉살 X 까데호 - 당신께 (180G OPAQUE BABY PINK COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9502293623</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9502293623</guid>
-            <pubDate>Wed, 08 Nov 2023 11:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[49,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231108_156/1699438953630CnsSW_JPEG/11988620411650885_658298256.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
