@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 12:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 13:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Roy Hargrove (Rh Factor) - Hard Groove (Verve By Request Series) [180G 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9576939266</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9576939266</guid>
+            <pubDate>Thu, 23 Nov 2023 13:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[74,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231123_262/17007428770596NFKb_JPEG/5142154919336869_183511279.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kenny Burrell - K.B. Blues (Blue Note Tone Poet Series) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9576921290</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 10 Nov 2023 08:23:11 GMT</pubDate>
             <content:encoded><![CDATA[15,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231110_21/16996005993029IrFd_JPEG/51672986542448092_244636400.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라 장 Sarah Chang - 비발디 사계 (Vivaldi -The Four Seasons) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9511023742</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9511023742</guid>
-            <pubDate>Fri, 10 Nov 2023 03:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231110_289/1699583552116MwJr0_JPEG/47172029466952306_1821742452.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
