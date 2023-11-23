@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 15:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 16:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 23 Nov 2023 12:35:15 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231123_83/1700742255220rcfpf_JPEG/5141533079615412_1869062242.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Avril Lavigne - Under My Skin (CD & MOUSE PAD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9576844706</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9576844706</guid>
+            <pubDate>Thu, 23 Nov 2023 16:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231123_224/1700739570449KqmRl_JPEG/14675251371611291_281425802.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강형호 PITTA - BE FREE (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 10 Nov 2023 12:33:50 GMT</pubDate>
             <content:encoded><![CDATA[47,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231110_285/1699616767109qYbtm_JPEG/3270849087093049_1268322266.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따마 Thama - WOOOF! (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9512234299</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9512234299</guid>
-            <pubDate>Fri, 10 Nov 2023 08:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231110_21/16996005993029IrFd_JPEG/51672986542448092_244636400.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
