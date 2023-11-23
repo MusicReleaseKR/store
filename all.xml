@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 07:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 08:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에코 브릿지 Eco Bridge - COMPILATION (180G CLEAR ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9575797561</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9575797561</guid>
+            <pubDate>Thu, 23 Nov 2023 08:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221216_168/16711895244457H7Mk_JPEG/72325308146095169_1810297931.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤이즈 Heize - Last Winter (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9575431282</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231123_292/1700721572275pDPPg_JPEG/5120850127800987_30876506.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[저드 Jerd - BOMM (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[저드 Jerd - BOMM (COKE BOTTLE CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9575398927</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9575398927</guid>
             <pubDate>Thu, 23 Nov 2023 07:16:43 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 08 Nov 2023 11:14:59 GMT</pubDate>
             <content:encoded><![CDATA[49,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231108_156/1699438953630CnsSW_JPEG/11988620411650885_658298256.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Angra - Cycles Of Pain (Deluxe Edition) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9502248171</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9502248171</guid>
-            <pubDate>Wed, 08 Nov 2023 10:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231108_138/1699438103891fcJKe_JPEG/11987770679832398_382105816.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
