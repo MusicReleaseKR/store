@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 06:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 07:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유키카 Yukika - Time-Lapse (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9580621168</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9580621168</guid>
+            <pubDate>Fri, 24 Nov 2023 07:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231124_107/1700809368817dnUgR_JPEG/14745049772931419_362244802.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카디 KARDI - 1집 Inside Out (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9580556354</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9580556354</guid>
+            <pubDate>Fri, 24 Nov 2023 07:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231124_157/1700809763090D01K6_JPEG/27637028286590747_2041617586.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김필 - FEELMOGRAPHY 10주년 콘서트 (180G LP + DVD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9580499470</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9580499470</guid>
+            <pubDate>Fri, 24 Nov 2023 07:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[69,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231124_63/1700807508366G6eyD_JPEG/11701188679926322_1880893704.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김필 - FEELMOGRAPHY 10주년 콘서트 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9580476044</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9580476044</guid>
+            <pubDate>Fri, 24 Nov 2023 07:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231124_63/1700807508366G6eyD_JPEG/11701188679926322_1880893704.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Roy Hargrove (Rh Factor) - Hard Groove (Verve By Request Series) [180G 2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9576939266</link>
@@ -294,38 +326,6 @@
             <pubDate>Fri, 10 Nov 2023 12:33:50 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231110_27/1699618927037kXs6f_JPEG/1030083916299895_1409102955.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Art Blakey The Jazz Messengers - Ugetsu (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9513374436</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9513374436</guid>
-            <pubDate>Fri, 10 Nov 2023 12:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231110_236/1699618074039914sV_JPEG/3272156015075812_1397012575.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wayne Shorter - Schizophrenia (Blue Note Tone Poet Series) [180G]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9513335239</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9513335239</guid>
-            <pubDate>Fri, 10 Nov 2023 12:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231110_134/1699617612684isf3B_JPEG/47206090054641213_162574960.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sun Ra - Space Is The Place (Verve By Request Series) [180G]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9513321078</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9513321078</guid>
-            <pubDate>Fri, 10 Nov 2023 12:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231110_65/1699617106186HQe54_JPEG/10550336951499377_1443481161.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ornette Coleman - Tomorrow Is The Question! (Contemporary Records Acoustic Sounds Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9513293499</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9513293499</guid>
-            <pubDate>Fri, 10 Nov 2023 12:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231110_285/1699616767109qYbtm_JPEG/3270849087093049_1268322266.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
