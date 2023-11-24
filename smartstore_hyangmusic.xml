@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 07:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 08:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정원영 - 1집 가버린 날들 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9580896896</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9580896896</guid>
+            <pubDate>Fri, 24 Nov 2023 08:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231124_228/1700811884147DPUtl_JPEG/11705564458894709_1905901423.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피아노 슈게이저 Piano Shoegazer - Sisyphus Happy (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9580855207</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9580855207</guid>
+            <pubDate>Fri, 24 Nov 2023 08:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231124_232/1700811394553cWTyJ_JPEG/14525526440023989_1210410035.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피달소 Pidalso - Pidalso Plays Studio Ghibli (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9580819051</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9580819051</guid>
+            <pubDate>Fri, 24 Nov 2023 08:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[24,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231124_101/1700810911629Xjbz4_JPEG/12492990836183765_405109096.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젤로 ZELO - Enough (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9580776410</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9580776410</guid>
+            <pubDate>Fri, 24 Nov 2023 08:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231124_163/1700809912421Gu0fi_JPEG/14792342000436877_1919735603.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유키카 Yukika - Time-Lapse (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9580621168</link>
@@ -294,38 +326,6 @@
             <pubDate>Mon, 13 Nov 2023 04:22:05 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231113_233/1699847211203iNs84_JPEG/51919598595871987_357387600.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gregory Porter - Christmas Wish (COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9525111798</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9525111798</guid>
-            <pubDate>Mon, 13 Nov 2023 04:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231113_3/1699847003116ckM7v_JPEG/47435480483125307_483746557.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gregory Porter - Christmas Wish (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9525104627</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9525104627</guid>
-            <pubDate>Mon, 13 Nov 2023 04:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231113_250/1699846753054WjBUL_JPEG/6395166030116338_227195293.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정밀아 - 4집 리버사이드 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9524843242</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9524843242</guid>
-            <pubDate>Mon, 13 Nov 2023 02:29:20 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231113_249/1699841753563QgnkC_JPEG/51914140936571346_1501603280.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio - How My Heart Sings! (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9513418501</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9513418501</guid>
-            <pubDate>Fri, 10 Nov 2023 12:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231110_27/1699618927037kXs6f_JPEG/1030083916299895_1409102955.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
