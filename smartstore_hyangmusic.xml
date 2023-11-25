@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 07:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 08:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - Home Sweet Home!! (캐롤 CD & 500 퍼즐)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9585798650</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9585798650</guid>
+            <pubDate>Sat, 25 Nov 2023 08:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[4,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231125_98/1700899394023XX3ci_JPEG/5298671874429888_139773281.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모비딕 Moby Dick - 2집 Mobydick II (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9585578640</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 14 Nov 2023 05:17:10 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231114_48/1699938275690E9dYr_JPEG/10871506319490044_1074620246.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따마 Thama - WOOOF! (COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9530665064</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9530665064</guid>
-            <pubDate>Tue, 14 Nov 2023 05:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231114_34/1699937772800BrUNy_JPEG/10871003549336323_998275792.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
