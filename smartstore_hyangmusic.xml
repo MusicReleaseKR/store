@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 06:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 07:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모비딕 Moby Dick - 2집 Mobydick II (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9585578640</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9585578640</guid>
+            <pubDate>Sat, 25 Nov 2023 07:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231125_300/1700895462275dXnje_JPEG/11789142580849802_1049323955.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청바지 - Simple (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9585538853</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9585538853</guid>
+            <pubDate>Sat, 25 Nov 2023 07:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231125_268/1700894534222l9pLd_JPEG/50615568457565447_1273058695.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정원영 - 1집 가버린 날들 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9580896896</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 14 Nov 2023 05:17:10 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231114_34/1699937772800BrUNy_JPEG/10871003549336323_998275792.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피에이치원 (PH- 1) - POP OFF (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9530617977</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9530617977</guid>
-            <pubDate>Tue, 14 Nov 2023 05:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231114_142/16999371626963ALi1_JPEG/6485575652120582_1718883542.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio - Sunday At The Village Vanguard (Original Jazz Classic Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9525130041</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9525130041</guid>
-            <pubDate>Mon, 13 Nov 2023 04:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231113_233/1699847211203iNs84_JPEG/51919598595871987_357387600.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
