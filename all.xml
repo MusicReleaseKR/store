@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 08:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 09:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - The Essential Disney Collection (COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9585918696</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9585918696</guid>
+            <pubDate>Sat, 25 Nov 2023 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[59,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231125_214/1700901852607tXtcE_JPEG/14266789475517461_1378225808.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Serge Gainsbourg - A la maison de la radio edition RoseLouis (45RPM PINK COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9585862831</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9585862831</guid>
+            <pubDate>Sat, 25 Nov 2023 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231125_230/170090073460084Fae_JPEG/27727999800211867_1318473616.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - Home Sweet Home!! (캐롤 CD & 500 퍼즐) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9585798650</link>
@@ -30,6 +46,30 @@
             <pubDate>Sat, 25 Nov 2023 07:15:47 GMT</pubDate>
             <content:encoded><![CDATA[3,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231125_268/1700894534222l9pLd_JPEG/50615568457565447_1273058695.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유재하 - 사랑하기 때문에 (Special Vinyl Edition) [180G 사파이어 컬러 LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9581634092</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9581634092</guid>
+            <pubDate>Sat, 25 Nov 2023 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231124_178/1700821692604rDHHc_JPEG/12503771820324135_1524650137.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유재하 - 사랑하기 때문에 (Special Vinyl Edition) [180G 엠버 골드 컬러 LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9581627204</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9581627204</guid>
+            <pubDate>Sat, 25 Nov 2023 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231124_178/1700821692604rDHHc_JPEG/12503771820324135_1524650137.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유재하 - 사랑하기 때문에 (Special Vinyl Edition) [180G 엠보싱 재킷 LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9581592785</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9581592785</guid>
+            <pubDate>Sat, 25 Nov 2023 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231124_146/1700820804169OkwAg_JPEG/14534935927305070_950877147.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정원영 - 1집 가버린 날들 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -286,46 +326,6 @@
             <pubDate>Wed, 15 Nov 2023 13:22:51 GMT</pubDate>
             <content:encoded><![CDATA[42,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231115_46/1700051756149bU1SX_JPEG/1711574833304899_329624481.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Art Farmer - Portrait of Art Farmer (Contemporary Records Acoustic Sounds Series) [180g LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9537514213</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9537514213</guid>
-            <pubDate>Wed, 15 Nov 2023 12:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[42,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231115_82/1700051042416iexuG_JPEG/32585646483127793_78507326.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Herbie Nichols Trio - Herbie Nichols Trio (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9537497568</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9537497568</guid>
-            <pubDate>Wed, 15 Nov 2023 12:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231115_60/170005077105463SsE_JPEG/15552398258296775_1128040415.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Art Blakey & The Jazz Messengers - Mosaic (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9537477487</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9537477487</guid>
-            <pubDate>Wed, 15 Nov 2023 12:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231115_87/1700050497565dvmuS_JPEG/15552124769549563_1216492662.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스믹 보이 Cosmic Boy - Can I Not (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9532073259</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9532073259</guid>
-            <pubDate>Tue, 14 Nov 2023 11:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231114_21/1699958935745hz5P1_JPEG/23485125752458930_643779049.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최유리 - 생각을 멈추다 보면 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9530695165</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9530695165</guid>
-            <pubDate>Tue, 14 Nov 2023 05:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231114_48/1699938275690E9dYr_JPEG/10871506319490044_1074620246.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
