@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 01:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 02:30:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,22 +150,6 @@
             <pubDate>Fri, 24 Nov 2023 07:17:06 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231124_157/1700809763090D01K6_JPEG/27637028286590747_2041617586.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김필 - FEELMOGRAPHY 10주년 콘서트 (180G LP + DVD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9580499470</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9580499470</guid>
-            <pubDate>Fri, 24 Nov 2023 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[69,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_63/1700807508366G6eyD_JPEG/11701188679926322_1880893704.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김필 - FEELMOGRAPHY 10주년 콘서트 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9580476044</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9580476044</guid>
-            <pubDate>Fri, 24 Nov 2023 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_63/1700807508366G6eyD_JPEG/11701188679926322_1880893704.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Roy Hargrove (Rh Factor) - Hard Groove (Verve By Request Series) [180G 2LP]]]></title>
@@ -326,6 +310,22 @@
             <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
             <content:encoded><![CDATA[14,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231121_191/1700543727086dD0Kp_JPEG/12225806303960782_354698370.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Studio Ghibli 스튜디오 지브리 대표작 주제가 모음집 (7 INCH 4LP & Bonus 7 INCH 1LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9543079948</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9543079948</guid>
+            <pubDate>Mon, 27 Nov 2023 02:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[104,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231116_297/1700141365590Sm96l_JPEG/13506302462358148_978794636.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker - Chet (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9537617965</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9537617965</guid>
+            <pubDate>Mon, 27 Nov 2023 02:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231115_223/1700052850786wohTy_JPEG/29144022042485804_1558321191.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
