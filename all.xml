@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 07:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 08:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Swift - 1989 (Taylor's Version) [Crystal Skies Blue CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9591209506</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9591209506</guid>
+            <pubDate>Mon, 27 Nov 2023 08:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[32,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231127_123/1701072126605hcW8E_JPEG/3678607401435571_356602129.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서동현 BIG Naughty - ICN - YVR (USB) [한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9591016132</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9591016132</guid>
+            <pubDate>Mon, 27 Nov 2023 08:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[89,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231127_3/17010704204723HIe2_JPEG/12752499682647817_1922735060.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김창완 - 나는 지구인이다 (2LP) [BOX SET] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9590386946</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231121_235/1700545840188Lm9pT_JPEG/11439520506891633_1845372292.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민휘 - 2집 미래의 고향 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9565108447</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9565108447</guid>
-            <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231121_247/1700545058344T1zNA_JPEG/3151539159068688_1746763999.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONLEE 이승환 - Switch ON (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9565053483</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9565053483</guid>
-            <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[12,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231121_128/1700544197170Nnbl1_JPEG/50265231418980378_423244152.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
