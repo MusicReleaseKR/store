@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 02:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 03:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 마에스트로 번스타인 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9590340110</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9590340110</guid>
+            <pubDate>Mon, 27 Nov 2023 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231127_250/1701053815594saDRT_JPEG/15036245167247449_261528295.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 연인 (2CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9590304725</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9590304725</guid>
+            <pubDate>Mon, 27 Nov 2023 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[28,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231127_74/1701052817274TWH4i_JPEG/12734896490335485_234897527.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kendrick Lamar - Damn (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9589504380</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
             <content:encoded><![CDATA[14,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231121_191/1700543727086dD0Kp_JPEG/12225806303960782_354698370.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Studio Ghibli 스튜디오 지브리 대표작 주제가 모음집 (7 INCH 4LP & Bonus 7 INCH 1LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9543079948</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9543079948</guid>
-            <pubDate>Mon, 27 Nov 2023 02:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[104,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231116_297/1700141365590Sm96l_JPEG/13506302462358148_978794636.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker - Chet (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9537617965</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9537617965</guid>
-            <pubDate>Mon, 27 Nov 2023 02:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231115_223/1700052850786wohTy_JPEG/29144022042485804_1558321191.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
