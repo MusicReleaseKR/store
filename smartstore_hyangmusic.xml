@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 08:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 09:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봉제인간 - 12가지 말들 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9591250234</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9591250234</guid>
+            <pubDate>Mon, 27 Nov 2023 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231127_121/1701073317612CXFNo_JPEG/12755396815843665_1898740159.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift - 1989 (Taylor's Version) [Crystal Skies Blue CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9591209506</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
             <content:encoded><![CDATA[69,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231121_149/1700546223986aVURa_JPEG/14481904931192022_835332358.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주영 - 발라드 (SOLID REC COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9565152804</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9565152804</guid>
-            <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231121_235/1700545840188Lm9pT_JPEG/11439520506891633_1845372292.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
