@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 03:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 04:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김창완 - 나는 지구인이다 (2LP) [BOX SET] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9590386946</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9590386946</guid>
+            <pubDate>Mon, 27 Nov 2023 04:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[88,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231127_291/17010549694616LWUW_JPEG/3661450259100422_1178187662.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 마에스트로 번스타인 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9590340110</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
             <content:encoded><![CDATA[12,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231121_128/1700544197170Nnbl1_JPEG/50265231418980378_423244152.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코토바 Cotoba - Humanoid operational (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9565007746</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9565007746</guid>
-            <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231121_191/1700543727086dD0Kp_JPEG/12225806303960782_354698370.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
