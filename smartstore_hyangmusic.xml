@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 15:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 16:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dr. Dre - The Chronic (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9592957352</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9592957352</guid>
+            <pubDate>Mon, 27 Nov 2023 16:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[58,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231128_98/1701098808165BODlP_JPEG/15081237764108254_960641598.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봉제인간 - 12가지 말들 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9591250234</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 22 Nov 2023 08:23:51 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231122_121/1700639571203UsSeY_JPEG/14622000806558815_901598073.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 동요 전집 (COLOURED 4LP) [BOX SET]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9566460105</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9566460105</guid>
-            <pubDate>Tue, 21 Nov 2023 12:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[177,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231121_238/17005660056385wg02_JPEG/27393270829893832_9081282.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
