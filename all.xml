@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 14:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 15:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231126_79/1701006821345QEWHE_JPEG/50727855588266235_970873654.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이센스 E SENS - 이방인 (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9589363694</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9589363694</guid>
+            <pubDate>Mon, 27 Nov 2023 15:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[27,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231126_252/17010052580375YdSi_JPEG/12687337258993477_137302917.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설 Surl - ren’t You (F8L Ver) [초판 CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9589351558</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9589351558</guid>
+            <pubDate>Mon, 27 Nov 2023 15:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231126_103/1701004900607Xblpv_JPEG/14987330206066713_2052217630.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옥상달빛 - 서로 (Each Other) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9589318765</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9589318765</guid>
+            <pubDate>Mon, 27 Nov 2023 15:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231126_276/1701003397195g3DdP_JPEG/3609878004974361_1780754653.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[VA - The Essential Disney Collection (COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9585918696</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9585918696</guid>
@@ -120,12 +144,28 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231125_300/1700895462275dXnje_JPEG/11789142580849802_1049323955.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[퍼니 파우더 Funny Powder - For Hardcore Babies (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9585558312</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9585558312</guid>
+            <pubDate>Mon, 27 Nov 2023 15:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[2,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231125_255/1700894945331sIlBS_JPEG/12577024536935079_1246209326.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[청바지 - Simple (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9585538853</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9585538853</guid>
             <pubDate>Sat, 25 Nov 2023 07:15:47 GMT</pubDate>
             <content:encoded><![CDATA[3,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231125_268/1700894534222l9pLd_JPEG/50615568457565447_1273058695.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윈터그린 WinterGreen - WinterGreen (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9585517826</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9585517826</guid>
+            <pubDate>Mon, 27 Nov 2023 15:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[5,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231125_73/17008940631349n4HA_JPEG/14876492736184558_977437575.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유재하 - 사랑하기 때문에 (Special Vinyl Edition) [180G 사파이어 컬러 LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -286,46 +326,6 @@
             <pubDate>Tue, 21 Nov 2023 12:36:53 GMT</pubDate>
             <content:encoded><![CDATA[177,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231121_238/17005660056385wg02_JPEG/27393270829893832_9081282.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연정 Yeonjeong - 사랑을 사람으로 그린다면 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9566401350</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9566401350</guid>
-            <pubDate>Tue, 21 Nov 2023 12:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231121_97/1700565193843xc493_JPEG/4964471688193603_756928583.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이설 - 1집 Travel (180G MIXED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9566378581</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9566378581</guid>
-            <pubDate>Tue, 21 Nov 2023 11:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231121_149/17005646973311vmzS_JPEG/12246776534435880_466000897.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김두수 - 고요를 위하여 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9566342702</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9566342702</guid>
-            <pubDate>Tue, 21 Nov 2023 11:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231121_237/1700564082393zaxtx_JPEG/27391347583977197_149331446.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오아 OAH - Luv Punk (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9566306447</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9566306447</guid>
-            <pubDate>Tue, 21 Nov 2023 11:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231121_69/1700563712534HIJht_JPEG/14546142132709970_1499914808.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박기영 - Love You More - BEST ALBUM (140G WHITE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9565173761</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9565173761</guid>
-            <pubDate>Tue, 21 Nov 2023 06:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[69,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231121_149/1700546223986aVURa_JPEG/14481904931192022_835332358.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
