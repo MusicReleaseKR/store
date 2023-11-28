@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 08:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 09:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 헌트 HUNT (180G OPAQUE RED COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9596657859</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9596657859</guid>
+            <pubDate>Tue, 28 Nov 2023 09:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231128_255/1701160532536F5TuR_JPEG/12054212857093632_1970664413.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마미손 - 나의 슬픔 (140G PINK CRYSTAL COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9596625041</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9596625041</guid>
+            <pubDate>Tue, 28 Nov 2023 09:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231128_291/1701159996384jyIPb_JPEG/14874128275116673_537510743.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크라운제이 CROWN J - ASIA KING (180G OPAQUE GOLD COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9596593604</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 23 Nov 2023 07:16:43 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231123_292/1700721572275pDPPg_JPEG/5120850127800987_30876506.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저드 Jerd - BOMM (COKE BOTTLE CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9575398927</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9575398927</guid>
-            <pubDate>Thu, 23 Nov 2023 07:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231123_192/17007211341130KwLl_JPEG/3327614930042058_1823782971.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검은잎들 - 메신저 (150G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9575365707</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9575365707</guid>
-            <pubDate>Thu, 23 Nov 2023 07:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231123_83/17007207790767fKad_JPEG/14085715947412886_1973560305.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
