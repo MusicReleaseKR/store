@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 07:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 08:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크라운제이 CROWN J - ASIA KING (180G OPAQUE GOLD COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9596593604</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9596593604</guid>
+            <pubDate>Tue, 28 Nov 2023 08:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[44,600]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231128_173/1701159518914kDW2r_JPEG/12053199228295797_1720320950.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dr. Dre - The Chronic (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9592957352</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 23 Nov 2023 07:16:43 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231123_83/17007207790767fKad_JPEG/14085715947412886_1973560305.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참솜 Chamsom - 아지랑이 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9570590225</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9570590225</guid>
-            <pubDate>Wed, 22 Nov 2023 08:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231122_121/1700639571203UsSeY_JPEG/14622000806558815_901598073.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
