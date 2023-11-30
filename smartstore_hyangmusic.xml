@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 11:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 12:35:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 스트릿 우먼 파이터 II (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9606985506</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9606985506</guid>
+            <pubDate>Thu, 30 Nov 2023 12:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231130_152/1701345430341d4vff_JPEG/16314275553802499_1959987090.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반도 Bando - 반도지형도 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9606954681</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9606954681</guid>
+            <pubDate>Thu, 30 Nov 2023 12:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231130_236/1701344792467zGWLd_JPEG/960990272798229_983417191.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Luca minor - Curse of romanticism (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9606943390</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9606943390</guid>
+            <pubDate>Thu, 30 Nov 2023 12:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231130_67/1701344074418fnaeF_JPEG/16255366209756981_252373482.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 헌트 HUNT (180G OPAQUE RED COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9596657859</link>
@@ -126,14 +150,6 @@
             <pubDate>Mon, 27 Nov 2023 15:19:34 GMT</pubDate>
             <content:encoded><![CDATA[27,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231126_252/17010052580375YdSi_JPEG/12687337258993477_137302917.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 Surl - ren’t You (F8L Ver) [초판 CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9589351558</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9589351558</guid>
-            <pubDate>Mon, 27 Nov 2023 15:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231126_103/1701004900607Xblpv_JPEG/14987330206066713_2052217630.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옥상달빛 - 서로 (Each Other) [CD]]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 23 Nov 2023 10:19:44 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231123_205/1700731733597Mq9Vk_JPEG/14445865488179498_1599768857.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에코 브릿지 Eco Bridge - COMPILATION (180G CLEAR ORANGE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9575797561</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9575797561</guid>
-            <pubDate>Thu, 23 Nov 2023 08:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221216_168/16711895244457H7Mk_JPEG/72325308146095169_1810297931.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤이즈 Heize - Last Winter (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9575431282</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9575431282</guid>
-            <pubDate>Thu, 23 Nov 2023 07:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231123_292/1700721572275pDPPg_JPEG/5120850127800987_30876506.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
