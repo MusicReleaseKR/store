@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 14:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 15:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Miles Davis Quintet - The New Miles Davis Quintet (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9607308942</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9607308942</guid>
+            <pubDate>Thu, 30 Nov 2023 15:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231130_54/1701353895046Ql0g3_JPEG/16322740254767161_850668737.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Coltrane - Lush Life (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9607271139</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 24 Nov 2023 07:17:06 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231124_107/1700809368817dnUgR_JPEG/14745049772931419_362244802.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카디 KARDI - 1집 Inside Out (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9580556354</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9580556354</guid>
-            <pubDate>Fri, 24 Nov 2023 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_157/1700809763090D01K6_JPEG/27637028286590747_2041617586.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
