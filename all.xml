@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 13:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 14:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Coltrane - Lush Life (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9607271139</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9607271139</guid>
+            <pubDate>Thu, 30 Nov 2023 14:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231130_221/17013533873713pVzM_JPEG/16264679183946502_281972389.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ella Fitzgerald - Let No Man Write My Epitaph (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9607255062</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9607255062</guid>
+            <pubDate>Thu, 30 Nov 2023 14:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231130_177/17013529619832kxf7_JPEG/15681066872187049_1075128448.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - The Pink Panther - By Henry Mancini (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9607096341</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 24 Nov 2023 07:17:06 GMT</pubDate>
             <content:encoded><![CDATA[57,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231124_157/1700809763090D01K6_JPEG/27637028286590747_2041617586.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김필 - FEELMOGRAPHY 10주년 콘서트 (180G LP + DVD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9580499470</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9580499470</guid>
-            <pubDate>Thu, 30 Nov 2023 13:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[69,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_63/1700807508366G6eyD_JPEG/11701188679926322_1880893704.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김필 - FEELMOGRAPHY 10주년 콘서트 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9580476044</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9580476044</guid>
-            <pubDate>Thu, 30 Nov 2023 13:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_63/1700807508366G6eyD_JPEG/11701188679926322_1880893704.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
