@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 12:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 13:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Amy Winehouse - Back To Black (DELUXE EDITION) [HALF SPEED MASTERING 2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9610097963</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9610097963</guid>
+            <pubDate>Fri, 01 Dec 2023 13:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[65,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231201_204/1701434561670K4WCi_JPEG/1443173509250504_635474619.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Lamar - To Pimp A Butterfly (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9610077398</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9610077398</guid>
+            <pubDate>Fri, 01 Dec 2023 13:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[65,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231201_84/1701434144864DRBzQ_JPEG/6067385781007186_582272209.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김석준 - 하루 종일 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9610055051</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 27 Nov 2023 15:19:34 GMT</pubDate>
             <content:encoded><![CDATA[5,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231125_73/17008940631349n4HA_JPEG/14876492736184558_977437575.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 - 사랑하기 때문에 (Special Vinyl Edition) [180G 사파이어 컬러 LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9581634092</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9581634092</guid>
-            <pubDate>Sat, 25 Nov 2023 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_178/1700821692604rDHHc_JPEG/12503771820324135_1524650137.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 - 사랑하기 때문에 (Special Vinyl Edition) [180G 엠버 골드 컬러 LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9581627204</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9581627204</guid>
-            <pubDate>Sat, 25 Nov 2023 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_178/1700821692604rDHHc_JPEG/12503771820324135_1524650137.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
