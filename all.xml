@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 01:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 02:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업타운 Uptown - Back II Analog (25주년 베스트앨범) [WHITE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9608363144</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9608363144</guid>
+            <pubDate>Fri, 01 Dec 2023 02:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231201_239/17013978690200Tm4N_JPEG/16287575867862082_1976516104.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 고양이를 부탁해 (WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9608330415</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9608330415</guid>
+            <pubDate>Fri, 01 Dec 2023 02:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231201_229/1701397347665Tc955_JPEG/3673361470438935_965126927.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 고양이를 부탁해 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9608324048</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9608324048</guid>
+            <pubDate>Fri, 01 Dec 2023 02:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231201_225/1701397026798VMC13_JPEG/19514653778282895_617769203.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miles Davis Quintet - The New Miles Davis Quintet (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9607308942</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 24 Nov 2023 08:23:01 GMT</pubDate>
             <content:encoded><![CDATA[18,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231124_232/1700811394553cWTyJ_JPEG/14525526440023989_1210410035.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피달소 Pidalso - Pidalso Plays Studio Ghibli (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9580819051</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9580819051</guid>
-            <pubDate>Fri, 24 Nov 2023 08:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[24,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_101/1700810911629Xjbz4_JPEG/12492990836183765_405109096.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젤로 ZELO - Enough (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9580776410</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9580776410</guid>
-            <pubDate>Fri, 24 Nov 2023 08:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_163/1700809912421Gu0fi_JPEG/14792342000436877_1919735603.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유키카 Yukika - Time-Lapse (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9580621168</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9580621168</guid>
-            <pubDate>Fri, 24 Nov 2023 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_107/1700809368817dnUgR_JPEG/14745049772931419_362244802.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
