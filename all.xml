@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 02:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 03:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뎁트 Dept - Goodbye 2023 (CD 없습니다) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9608426489</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9608426489</guid>
+            <pubDate>Fri, 01 Dec 2023 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231201_35/1701399321697oQt02_JPEG/1015519507711280_1836512885.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모스크바서핑클럽 - 짙은햇살 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9608389483</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9608389483</guid>
+            <pubDate>Fri, 01 Dec 2023 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231201_187/1701398525432AjSwO_JPEG/3674539219420802_1313050791.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[업타운 Uptown - Back II Analog (25주년 베스트앨범) [WHITE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9608363144</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 25 Nov 2023 09:16:23 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231124_146/1700820804169OkwAg_JPEG/14534935927305070_950877147.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정원영 - 1집 가버린 날들 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9580896896</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9580896896</guid>
-            <pubDate>Fri, 24 Nov 2023 08:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_228/1700811884147DPUtl_JPEG/11705564458894709_1905901423.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피아노 슈게이저 Piano Shoegazer - Sisyphus Happy (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9580855207</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9580855207</guid>
-            <pubDate>Fri, 24 Nov 2023 08:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_232/1700811394553cWTyJ_JPEG/14525526440023989_1210410035.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
