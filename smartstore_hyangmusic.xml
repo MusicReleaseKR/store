@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 11:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 12:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김석준 - 하루 종일 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9610055051</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9610055051</guid>
+            <pubDate>Fri, 01 Dec 2023 12:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231201_248/1701433380723pevMg_JPEG/4965071402404929_1479136394.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뎁트 Dept - Goodbye 2023 (CD 없습니다)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9608426489</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 25 Nov 2023 09:16:23 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231124_178/1700821692604rDHHc_JPEG/12503771820324135_1524650137.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 - 사랑하기 때문에 (Special Vinyl Edition) [180G 엠보싱 재킷 LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9581592785</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9581592785</guid>
-            <pubDate>Sat, 25 Nov 2023 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231124_146/1700820804169OkwAg_JPEG/14534935927305070_950877147.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
