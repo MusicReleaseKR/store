@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 12:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 13:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kai Winding - Modern Country (Verve By Request Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9612647604</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9612647604</guid>
+            <pubDate>Sat, 02 Dec 2023 13:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231202_111/1701521985455m6kfm_JPEG/21019664277723847_82160455.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Coltrane - The Last Trane (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9612613524</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9612613524</guid>
+            <pubDate>Sat, 02 Dec 2023 13:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231202_252/1701520827838wwSH9_JPEG/39618675629646649_296920454.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metallica - Master Of Puppets (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9612599011</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9612599011</guid>
+            <pubDate>Sat, 02 Dec 2023 13:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[51,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231202_44/1701520295414VVRbx_JPEG/27151929445615275_2144529230.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wu-Tang Clan - Enter The Wu-Tang: 36 Chambers (YELLOW COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9612497110</link>
@@ -302,30 +326,6 @@
             <pubDate>Sat, 25 Nov 2023 08:21:08 GMT</pubDate>
             <content:encoded><![CDATA[4,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231125_98/1700899394023XX3ci_JPEG/5298671874429888_139773281.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모비딕 Moby Dick - 2집 Mobydick II (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9585578640</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9585578640</guid>
-            <pubDate>Sat, 25 Nov 2023 07:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[2,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231125_300/1700895462275dXnje_JPEG/11789142580849802_1049323955.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼니 파우더 Funny Powder - For Hardcore Babies (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9585558312</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9585558312</guid>
-            <pubDate>Mon, 27 Nov 2023 15:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[2,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231125_255/1700894945331sIlBS_JPEG/12577024536935079_1246209326.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청바지 - Simple (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9585538853</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9585538853</guid>
-            <pubDate>Sat, 25 Nov 2023 07:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[3,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231125_268/1700894534222l9pLd_JPEG/50615568457565447_1273058695.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
