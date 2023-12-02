@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 11:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 12:32:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wu-Tang Clan - Enter The Wu-Tang: 36 Chambers (YELLOW COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9612497110</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9612497110</guid>
+            <pubDate>Sat, 02 Dec 2023 12:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[27,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231202_111/1701517094034p1HPG_JPEG/25428496949439217_1786906661.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Amy Winehouse - Back To Black (DELUXE EDITION) [HALF SPEED MASTERING 2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9610097963</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 25 Nov 2023 07:15:47 GMT</pubDate>
             <content:encoded><![CDATA[3,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231125_268/1700894534222l9pLd_JPEG/50615568457565447_1273058695.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윈터그린 WinterGreen - WinterGreen (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9585517826</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9585517826</guid>
-            <pubDate>Mon, 27 Nov 2023 15:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[5,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231125_73/17008940631349n4HA_JPEG/14876492736184558_977437575.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
