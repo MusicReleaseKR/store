@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 07:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 08:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카이아반트 KAIAVANT - Goodbye, Pieces (WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9616431844</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9616431844</guid>
+            <pubDate>Mon, 04 Dec 2023 08:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231204_188/1701676751963xO3mr_JPEG/5208442648085037_671277358.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이화 - 1집 눈내리던 겨울밤 / 그대와 나 (REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9616402916</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9616402916</guid>
+            <pubDate>Mon, 04 Dec 2023 08:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231204_259/1701676237897cT2bp_JPEG/1376381450951331_1213934986.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작은거인 - 2집 별리 (REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9616383798</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9616383798</guid>
+            <pubDate>Mon, 04 Dec 2023 08:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231204_292/1701675208327Q5FSo_JPEG/27306842357757933_575631263.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 클래식가요 컬렉션 VOL.2 (150G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9615676337</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 30 Nov 2023 12:35:07 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231130_236/1701344792467zGWLd_JPEG/960990272798229_983417191.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Luca minor - Curse of romanticism (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9606943390</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9606943390</guid>
-            <pubDate>Thu, 30 Nov 2023 12:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231130_67/1701344074418fnaeF_JPEG/16255366209756981_252373482.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 헌트 HUNT (180G OPAQUE RED COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9596657859</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9596657859</guid>
-            <pubDate>Mon, 04 Dec 2023 06:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231128_255/1701160532536F5TuR_JPEG/12054212857093632_1970664413.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마미손 - 나의 슬픔 (140G PINK CRYSTAL COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9596625041</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9596625041</guid>
-            <pubDate>Mon, 04 Dec 2023 06:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231128_291/1701159996384jyIPb_JPEG/14874128275116673_537510743.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
