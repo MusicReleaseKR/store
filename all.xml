@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 02:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 03:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 클래식가요 컬렉션 VOL.2 (150G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9615676337</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9615676337</guid>
+            <pubDate>Mon, 04 Dec 2023 03:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231204_157/1701658578177fhivw_JPEG/39756425965644098_1106041627.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 클래식가요 컬렉션 VOL.1 (150G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9615670546</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9615670546</guid>
+            <pubDate>Mon, 04 Dec 2023 03:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231204_225/1701657839060kV1kU_JPEG/1666450885638392_196059020.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Home Alone 나 홀로 집에 [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9615640543</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9615640543</guid>
+            <pubDate>Mon, 04 Dec 2023 03:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[30,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231204_245/1701657382232rSd40_JPEG/27289016249032509_430714217.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mariah Carey - Merry Christmas Deluxe (ANNIVERSARY EDITION) [RED COLORED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9615623232</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9615623232</guid>
+            <pubDate>Mon, 04 Dec 2023 03:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220504_61/1651654359483CnTPV_JPEG/52790258190720961_839094641.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kanye West - The College Dropout (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9614718946</link>
@@ -294,38 +326,6 @@
             <pubDate>Thu, 30 Nov 2023 12:35:07 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231130_67/1701344074418fnaeF_JPEG/16255366209756981_252373482.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 헌트 HUNT (180G OPAQUE RED COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9596657859</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9596657859</guid>
-            <pubDate>Tue, 28 Nov 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231128_255/1701160532536F5TuR_JPEG/12054212857093632_1970664413.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마미손 - 나의 슬픔 (140G PINK CRYSTAL COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9596625041</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9596625041</guid>
-            <pubDate>Tue, 28 Nov 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231128_291/1701159996384jyIPb_JPEG/14874128275116673_537510743.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크라운제이 CROWN J - ASIA KING (180G OPAQUE GOLD COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9596593604</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9596593604</guid>
-            <pubDate>Tue, 28 Nov 2023 08:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[44,600]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231128_173/1701159518914kDW2r_JPEG/12053199228295797_1720320950.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dr. Dre - The Chronic (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9592957352</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9592957352</guid>
-            <pubDate>Mon, 27 Nov 2023 16:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231128_98/1701098808165BODlP_JPEG/15081237764108254_960641598.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
