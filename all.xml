@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 13:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 14:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[있지 Itzy - BORN TO BE (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9617319863</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9617319863</guid>
+            <pubDate>Mon, 04 Dec 2023 14:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231204_122/17016962968633V3it_JPEG/15163796379325598_1521674028.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[있지 Itzy - BORN TO BE (일반반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9617299908</link>
@@ -116,7 +124,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/9614718946</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9614718946</guid>
             <pubDate>Sun, 03 Dec 2023 15:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231204_169/1701615751234ULMWz_JPEG/1624363057911529_623940875.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 30 Nov 2023 15:18:35 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231130_54/1701353895046Ql0g3_JPEG/16322740254767161_850668737.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Coltrane - Lush Life (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9607271139</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9607271139</guid>
-            <pubDate>Thu, 30 Nov 2023 14:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231130_221/17013533873713pVzM_JPEG/16264679183946502_281972389.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
