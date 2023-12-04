@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 05:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 06:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,22 +240,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231201_239/17013978690200Tm4N_JPEG/16287575867862082_1976516104.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack - 고양이를 부탁해 (WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9608330415</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9608330415</guid>
-            <pubDate>Fri, 01 Dec 2023 02:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231201_229/1701397347665Tc955_JPEG/3673361470438935_965126927.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 고양이를 부탁해 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9608324048</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9608324048</guid>
-            <pubDate>Fri, 01 Dec 2023 02:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231201_225/1701397026798VMC13_JPEG/19514653778282895_617769203.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Miles Davis Quintet - The New Miles Davis Quintet (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9607308942</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9607308942</guid>
@@ -326,6 +310,22 @@
             <pubDate>Thu, 30 Nov 2023 12:35:07 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231130_67/1701344074418fnaeF_JPEG/16255366209756981_252373482.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 헌트 HUNT (180G OPAQUE RED COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9596657859</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9596657859</guid>
+            <pubDate>Mon, 04 Dec 2023 06:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231128_255/1701160532536F5TuR_JPEG/12054212857093632_1970664413.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마미손 - 나의 슬픔 (140G PINK CRYSTAL COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9596625041</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9596625041</guid>
+            <pubDate>Mon, 04 Dec 2023 06:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231128_291/1701159996384jyIPb_JPEG/14874128275116673_537510743.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
