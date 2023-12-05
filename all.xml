@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 02:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 03:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주로키 Jurokey - 1집 Vocalandist (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9618824447</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9618824447</guid>
+            <pubDate>Tue, 05 Dec 2023 03:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231205_167/17017444209301xUTO_JPEG/19924505767936083_1804770258.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최백호 - 7 Seven (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9618789031</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9618789031</guid>
+            <pubDate>Tue, 05 Dec 2023 03:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231205_278/1701743828209zBvsz_JPEG/654400516344811_723760249.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[있지 Itzy - BORN TO BE (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9617319863</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 01 Dec 2023 03:19:48 GMT</pubDate>
             <content:encoded><![CDATA[19,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231201_187/1701398525432AjSwO_JPEG/3674539219420802_1313050791.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업타운 Uptown - Back II Analog (25주년 베스트앨범) [WHITE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9608363144</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9608363144</guid>
-            <pubDate>Fri, 01 Dec 2023 02:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231201_239/17013978690200Tm4N_JPEG/16287575867862082_1976516104.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis Quintet - The New Miles Davis Quintet (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9607308942</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9607308942</guid>
-            <pubDate>Thu, 30 Nov 2023 15:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231130_54/1701353895046Ql0g3_JPEG/16322740254767161_850668737.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
