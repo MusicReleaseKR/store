@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 13:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 14:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beatles - Let it be (Special Edition) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9620972069</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9620972069</guid>
+            <pubDate>Tue, 05 Dec 2023 14:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231205_292/1701783631119VvBtq_JPEG/19963715953625376_63050370.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift - Fearless (Taylor's Version) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9620925302</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9620925302</guid>
+            <pubDate>Tue, 05 Dec 2023 14:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231205_199/1701782612766yg1M5_JPEG/19962697599411182_284936223.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Travis Scott - Utopia (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9620311018</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 02 Dec 2023 14:15:22 GMT</pubDate>
             <content:encoded><![CDATA[25,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231202_87/1701516043659wPtdO_JPEG/33094840602095638_444663512.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Parker, Dizzy Gillespie, Bud Powell, Charles Mingus, Max Roach - Hot House (2CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9612399530</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9612399530</guid>
-            <pubDate>Sat, 02 Dec 2023 14:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231202_68/1701513959191yIoiY_JPEG/21011638003765250_1167435898.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amy Winehouse - Back To Black (DELUXE EDITION) [HALF SPEED MASTERING 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9610097963</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9610097963</guid>
-            <pubDate>Fri, 01 Dec 2023 13:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[65,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231201_204/1701434561670K4WCi_JPEG/1443173509250504_635474619.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
