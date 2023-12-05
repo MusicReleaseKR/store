@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 04:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 05:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해리빅버튼 Harry Big Button - Big Fish (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9619191285</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9619191285</guid>
+            <pubDate>Tue, 05 Dec 2023 05:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231205_269/1701751204743SgBro_JPEG/53194198919660231_1694393608.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삐삐밴드 - 1집 문화혁명 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9619166289</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9619166289</guid>
+            <pubDate>Tue, 05 Dec 2023 05:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231205_81/1701750848348wRfGY_JPEG/48898329063512232_897989998.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삐삐밴드 - 2집 불가능한작전 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9619150260</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9619150260</guid>
+            <pubDate>Tue, 05 Dec 2023 05:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231205_16/1701750196904c30Tg_JPEG/13399842986744813_771645281.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주로키 Jurokey - 1집 Vocalandist (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9618824447</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 01 Dec 2023 13:22:41 GMT</pubDate>
             <content:encoded><![CDATA[65,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231201_84/1701434144864DRBzQ_JPEG/6067385781007186_582272209.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김석준 - 하루 종일 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9610055051</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9610055051</guid>
-            <pubDate>Fri, 01 Dec 2023 12:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231201_248/1701433380723pevMg_JPEG/4965071402404929_1479136394.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뎁트 Dept - Goodbye 2023 (CD 없습니다)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9608426489</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9608426489</guid>
-            <pubDate>Fri, 01 Dec 2023 03:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231201_35/1701399321697oQt02_JPEG/1015519507711280_1836512885.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모스크바서핑클럽 - 짙은햇살 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9608389483</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9608389483</guid>
-            <pubDate>Fri, 01 Dec 2023 03:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231201_187/1701398525432AjSwO_JPEG/3674539219420802_1313050791.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
