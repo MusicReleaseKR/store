@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 09:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 10:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Travis Scott - 4집 Utopia (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9620311018</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9620311018</guid>
+            <pubDate>Tue, 05 Dec 2023 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231205_109/1701770625478EwHWf_JPEG/19950710315484686_2069984648.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해리빅버튼 Harry Big Button - Big Fish (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9619191285</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 01 Dec 2023 13:22:41 GMT</pubDate>
             <content:encoded><![CDATA[65,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231201_204/1701434561670K4WCi_JPEG/1443173509250504_635474619.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kendrick Lamar - To Pimp A Butterfly (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9610077398</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9610077398</guid>
-            <pubDate>Fri, 01 Dec 2023 13:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[65,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231201_84/1701434144864DRBzQ_JPEG/6067385781007186_582272209.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
