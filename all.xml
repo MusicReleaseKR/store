@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 08:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 09:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[McCoy Tyner - Time For Tyner (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9623874312</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9623874312</guid>
+            <pubDate>Wed, 06 Dec 2023 09:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[71,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231206_254/1701853897255xCWuQ_JPEG/102989676980960661_1596287895.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coleman Hawkins & Ben Webster - Coleman Hawkins encounters Ben Webster (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9623781834</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9623781834</guid>
+            <pubDate>Wed, 06 Dec 2023 09:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231206_87/1701852072399LB17v_JPEG/102987915113797163_137712046.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 BLACKPINK - THE GAME PHOTOCARD COLLECTION CHRISTMAS EDITION (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9622726773</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 02 Dec 2023 13:19:00 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231202_252/1701520827838wwSH9_JPEG/39618675629646649_296920454.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica - Master Of Puppets (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9612599011</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9612599011</guid>
-            <pubDate>Sat, 02 Dec 2023 13:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[51,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231202_44/1701520295414VVRbx_JPEG/27151929445615275_2144529230.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boston - Boston (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9612581880</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9612581880</guid>
-            <pubDate>Sat, 02 Dec 2023 14:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[26,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231202_38/1701519800189dVhi6_JPEG/7427492058539214_1299326555.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
