@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 02:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 03:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 BTS - LOVE YOURSELF 轉 Tear (COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9622685667</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9622685667</guid>
+            <pubDate>Wed, 06 Dec 2023 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231206_250/1701832267899Th51A_JPEG/102968095726363476_2061534313.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[볼빨간사춘기 - Merry Go Round (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9622654188</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9622654188</guid>
+            <pubDate>Wed, 06 Dec 2023 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231206_249/17018315790281nNGm_JPEG/102967406845476641_966445358.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자이언티 Zion.T - 3집 Zip (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9622636457</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9622636457</guid>
+            <pubDate>Wed, 06 Dec 2023 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231206_46/1701831146499rOVNk_JPEG/102966974322827683_486757932.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이화 - 1집 눈내리던 겨울밤 / 그대와 나 (REMASTERED) [180G WHITE COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9622550107</link>
@@ -302,30 +326,6 @@
             <pubDate>Sat, 02 Dec 2023 14:15:22 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231202_280/1701518281014WDr4j_JPEG/39616128829141853_413291532.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AC/DC - Back In Black (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9612519331</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9612519331</guid>
-            <pubDate>Sat, 02 Dec 2023 14:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220708_173/1657278285008zx9qr_JPEG/58414068725477968_1967853718.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wu-Tang Clan - Enter The Wu-Tang: 36 Chambers (YELLOW COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9612497110</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9612497110</guid>
-            <pubDate>Sat, 02 Dec 2023 12:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[27,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231202_111/1701517094034p1HPG_JPEG/25428496949439217_1786906661.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wes Montgomery - The Complete Full House Recordings (2CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9612465166</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9612465166</guid>
-            <pubDate>Sat, 02 Dec 2023 14:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231202_87/1701516043659wPtdO_JPEG/33094840602095638_444663512.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
