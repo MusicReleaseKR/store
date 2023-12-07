@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 12:35:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 13:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Monari Wakita - Wingscape / Plastic Love (45RPM CLEAR COLOURED 7INCH LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9628371609</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9628371609</guid>
+            <pubDate>Thu, 07 Dec 2023 13:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[19,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231207_254/1701952715689A1Tcz_JPEG/103088549505908457_1361794823.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소란 Soran - Setlist (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9624071349</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 02 Dec 2023 14:15:22 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231202_266/1701525540222F11wp_JPEG/1225683765114898_1332621991.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio - Waltz For Debby [180G PINK COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9612747139</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9612747139</guid>
-            <pubDate>Sat, 02 Dec 2023 14:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230705_244/1688557083335NeJPN_JPEG/35601166924817749_815941407.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
