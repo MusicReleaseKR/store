@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 15:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 16:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 08 Dec 2023 15:19:28 GMT</pubDate>
             <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231208_29/1702045836541LILn3_JPEG/29348520384982806_1775281876.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Monari Wakita - Wingscape / Plastic Love (45RPM CLEAR COLOURED 7INCH LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9628371609</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9628371609</guid>
+            <pubDate>Mon, 11 Dec 2023 16:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[19,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231207_254/1701952715689A1Tcz_JPEG/103088549505908457_1361794823.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소란 Soran - Setlist (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Dec 2023 14:17:53 GMT</pubDate>
             <content:encoded><![CDATA[25,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231202_87/1701516043659wPtdO_JPEG/33094840602095638_444663512.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Parker, Dizzy Gillespie, Bud Powell, Charles Mingus, Max Roach - Hot House (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9612399530</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9612399530</guid>
-            <pubDate>Thu, 07 Dec 2023 14:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231202_68/1701513959191yIoiY_JPEG/21011638003765250_1167435898.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
