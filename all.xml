@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 09:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 10:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Peter Schindler - 정 (JEONG) With Rocks And Stones And Trees (45 RPM 180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9646417420</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9646417420</guid>
+            <pubDate>Tue, 12 Dec 2023 10:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231212_185/1702373706314KLSzD_JPEG/29676390195809842_470898070.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[함병선 9z - Romance (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9633079388</link>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 03 Dec 2023 15:17:06 GMT</pubDate>
             <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231204_169/1701615751234ULMWz_JPEG/1624363057911529_623940875.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker - Chet Baker Sings (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9614679947</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9614679947</guid>
-            <pubDate>Sun, 03 Dec 2023 15:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231203_240/1701614511954Fb4jq_JPEG/1314655502311982_373281169.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
