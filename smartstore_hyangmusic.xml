@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 10:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 11:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김뜻돌 - 꿈에서 걸려온 전화 (140G CLEAR BLUE COLOURED LP) [재발매]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9646558958</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9646558958</guid>
+            <pubDate>Tue, 12 Dec 2023 11:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231212_22/1702377791437csdMO_JPEG/103513634147249793_1897246181.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도재명 - 21st Century Odyssey (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9646536298</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9646536298</guid>
+            <pubDate>Tue, 12 Dec 2023 11:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231212_289/17023770175787qxGi_JPEG/103512860288160796_124919385.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임채희 - Easy Living (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9646490669</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9646490669</guid>
+            <pubDate>Tue, 12 Dec 2023 11:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231212_37/1702376278746T7E7m_JPEG/103512112564038264_330295129.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Peter Schindler - 정 (JEONG) With Rocks And Stones And Trees (45 RPM 180G 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9646417420</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[39,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231204_225/1701657839060kV1kU_JPEG/1666450885638392_196059020.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Home Alone 나 홀로 집에 [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9615640543</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9615640543</guid>
-            <pubDate>Mon, 04 Dec 2023 03:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[30,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231204_245/1701657382232rSd40_JPEG/27289016249032509_430714217.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mariah Carey - Merry Christmas Deluxe (ANNIVERSARY EDITION) [RED COLORED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9615623232</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9615623232</guid>
-            <pubDate>Mon, 04 Dec 2023 03:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220504_61/1651654359483CnTPV_JPEG/52790258190720961_839094641.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West - The College Dropout (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9614718946</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9614718946</guid>
-            <pubDate>Sun, 03 Dec 2023 15:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231204_169/1701615751234ULMWz_JPEG/1624363057911529_623940875.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
