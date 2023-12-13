@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 02:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 03:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안희수 - 망가진 나침반을 들고 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9648843884</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9648843884</guid>
+            <pubDate>Wed, 13 Dec 2023 03:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231213_130/1702436547501Uh8Q8_JPEG/29739231365775737_975755180.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시황 - 도화 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9648815153</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9648815153</guid>
+            <pubDate>Wed, 13 Dec 2023 03:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231213_205/17024360677904MUY1_JPEG/29738751674224114_762278693.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이예린 - 회상 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9648763925</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9648763925</guid>
+            <pubDate>Wed, 13 Dec 2023 03:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231213_157/17024350770539M0wt_JPEG/103570856774590788_1641850173.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다이나믹 듀오 - 3집 Enlightened (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9648743388</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9648743388</guid>
+            <pubDate>Wed, 13 Dec 2023 03:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231213_59/1702434566602JntTa_JPEG/103570346324898020_1467306438.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김뜻돌 - 꿈에서 걸려온 전화 (140G CLEAR BLUE COLOURED LP) [재발매]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9646558958</link>
@@ -294,38 +326,6 @@
             <pubDate>Mon, 04 Dec 2023 08:24:24 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231204_188/1701676751963xO3mr_JPEG/5208442648085037_671277358.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이화 - 1집 눈내리던 겨울밤 / 그대와 나 (REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9616402916</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9616402916</guid>
-            <pubDate>Mon, 04 Dec 2023 08:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231204_259/1701676237897cT2bp_JPEG/1376381450951331_1213934986.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작은거인 - 2집 별리 (REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9616383798</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9616383798</guid>
-            <pubDate>Mon, 04 Dec 2023 08:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231204_292/1701675208327Q5FSo_JPEG/27306842357757933_575631263.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 클래식가요 컬렉션 VOL.2 (150G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9615676337</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9615676337</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231204_157/1701658578177fhivw_JPEG/39756425965644098_1106041627.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 클래식가요 컬렉션 VOL.1 (150G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9615670546</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9615670546</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231204_225/1701657839060kV1kU_JPEG/1666450885638392_196059020.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
