@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 08:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 09:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠비노 Jambino - podo (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9650109744</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9650109744</guid>
+            <pubDate>Wed, 13 Dec 2023 09:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231213_288/1702457528219nNXvN_JPEG/29760212095554060_817234200.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너드커넥션 Nerd Connection - Too Fast (CD) [재발매]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9649601109</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[24,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231205_194/17017661038787Le50_JPEG/9142585700501403_95746241.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큐엠 QM - 3집 돈숨 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9616512143</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9616512143</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231204_96/1701678268960XsTXO_JPEG/21175947750562704_401241140.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
