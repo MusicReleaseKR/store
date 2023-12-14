@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 12:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 13:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 은하철도 999 GALAXY EXPRESS 999 theme Song Inserts Collection (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9655222965</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9655222965</guid>
+            <pubDate>Thu, 14 Dec 2023 13:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[70,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231214_293/1702559555447eMce7_JPEG/103695398163284345_1322999084.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 은하철도 999 Symphonic Poem ADIEU GALAXY EXPRESS 999 -ANDROMEDA TERMINAL ST (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9655205706</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9655205706</guid>
+            <pubDate>Thu, 14 Dec 2023 13:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[92,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231214_86/1702559074801MjWBF_JPEG/103694902627214603_1387410342.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 은하철도 999 Symphonic Poem GALAXY EXPRESS 999 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9655177456</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9655177456</guid>
+            <pubDate>Thu, 14 Dec 2023 13:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[70,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231214_231/1702558724531raweJ_JPEG/103694552361997613_1204112277.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도원경 - 1집 성냥갑 속 내 젊음아 / 환상의 도시 (180G CRYSTAL PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9654273240</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231205_16/1701750196904c30Tg_JPEG/13399842986744813_771645281.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주로키 Jurokey - 1집 Vocalandist (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9618824447</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9618824447</guid>
-            <pubDate>Tue, 05 Dec 2023 03:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231205_167/17017444209301xUTO_JPEG/19924505767936083_1804770258.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최백호 - 7 Seven (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9618789031</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9618789031</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231205_278/1701743828209zBvsz_JPEG/654400516344811_723760249.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있지 Itzy - BORN TO BE (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9617319863</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9617319863</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231204_122/17016962968633V3it_JPEG/15163796379325598_1521674028.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
