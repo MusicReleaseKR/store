@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 08:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 09:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도원경 - 1집 성냥갑 속 내 젊음아 / 환상의 도시 (180G CRYSTAL PURPLE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9654273240</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9654273240</guid>
+            <pubDate>Thu, 14 Dec 2023 09:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231214_156/17025427645977u1cV_JPEG/103678660330789139_1159455946.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권진원 - 1집 북녘 파랑새 / 기도 (180G CRYSTAL COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9654256748</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9654256748</guid>
+            <pubDate>Thu, 14 Dec 2023 09:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231214_133/1702542370360DBd5p_JPEG/103678266096978971_1448681557.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠비노 Jambino - podo (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9650109744</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231204_122/17016962968633V3it_JPEG/15163796379325598_1521674028.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있지 Itzy - BORN TO BE (일반반) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9617299908</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9617299908</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231204_158/1701695703905FRLOn_JPEG/48843184713557464_1333958101.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혜민송 hyeminsong - Reborn (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9616549610</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9616549610</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[24,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231205_194/17017661038787Le50_JPEG/9142585700501403_95746241.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
