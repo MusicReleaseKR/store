@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 10:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 11:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Albert Ayler - Love Cry (Verve By Request Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9659174889</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9659174889</guid>
+            <pubDate>Fri, 15 Dec 2023 11:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231215_283/1702637556229vCt7f_JPEG/103773335951132862_506080496.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 은하철도 999 GALAXY EXPRESS 999 theme Song Inserts Collection (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9655222965</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231205_81/1701750848348wRfGY_JPEG/48898329063512232_897989998.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삐삐밴드 - 2집 불가능한작전 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9619150260</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9619150260</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231205_16/1701750196904c30Tg_JPEG/13399842986744813_771645281.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
