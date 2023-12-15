@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 11:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 12:35:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 대구 인디음악 연대기 2023 - Light’s on (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9659470402</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9659470402</guid>
+            <pubDate>Fri, 15 Dec 2023 12:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231215_256/1702642305167qaFND_JPEG/103778147837847985_1813650331.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis Quintet - Steamin' With The Miles Davis Quintet (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9659435535</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9659435535</guid>
+            <pubDate>Fri, 15 Dec 2023 12:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231215_174/1702641708920nGJB8_JPEG/103777551631885134_2120158674.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grant Green - Green Street (Blue Note Classic Vinyl Series) [180g LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9659410084</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9659410084</guid>
+            <pubDate>Fri, 15 Dec 2023 12:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231215_153/1702641258973YPTnj_JPEG/103777101688256080_656622728.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grant Green - I Want To Hold Your Hand (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9659328214</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9659328214</guid>
+            <pubDate>Fri, 15 Dec 2023 12:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231215_93/1702639995754xRVb5_JPEG/103775829574730460_1257473559.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lee Morgan - The Rajah (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9659287491</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9659287491</guid>
+            <pubDate>Fri, 15 Dec 2023 12:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231215_119/1702638197284hKymB_JPEG/103774025115260742_993675912.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Albert Ayler - Love Cry (Verve By Request Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9659174889</link>
@@ -286,46 +326,6 @@
             <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[43,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231206_110/1701829285801lr0fx_JPEG/102965120635573822_694239081.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Let it be (Special Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9620972069</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9620972069</guid>
-            <pubDate>Tue, 05 Dec 2023 14:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231205_292/1701783631119VvBtq_JPEG/19963715953625376_63050370.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift - Fearless (Taylor's Version) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9620925302</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9620925302</guid>
-            <pubDate>Tue, 05 Dec 2023 14:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231205_199/1701782612766yg1M5_JPEG/19962697599411182_284936223.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Travis Scott - Utopia (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9620311018</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9620311018</guid>
-            <pubDate>Tue, 05 Dec 2023 10:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[53,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231205_109/1701770625478EwHWf_JPEG/19950710315484686_2069984648.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해리빅버튼 Harry Big Button - Big Fish (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9619191285</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9619191285</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231205_269/1701751204743SgBro_JPEG/53194198919660231_1694393608.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삐삐밴드 - 1집 문화혁명 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9619166289</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9619166289</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231205_81/1701750848348wRfGY_JPEG/48898329063512232_897989998.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
