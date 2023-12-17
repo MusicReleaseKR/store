@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 04:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 05:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스 Twic - Perfect World (3rd ALBUM) [COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9665741265</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9665741265</guid>
+            <pubDate>Sun, 17 Dec 2023 05:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[77,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231217_87/1702789267003hshsU_JPEG/103925046725240500_483941703.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 Twice - &TWICE (JAPAN 2nd ALBUM) [COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9665722188</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9665722188</guid>
+            <pubDate>Sun, 17 Dec 2023 05:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[77,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231217_158/1702788967978s9Xku_JPEG/103924747697128297_85600748.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 Twice - BDZ (PAPAN 1ST ALBUM) [COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9665709676</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9665709676</guid>
+            <pubDate>Sun, 17 Dec 2023 05:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[77,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231217_233/17027885533918OoWn_JPEG/103924333118048112_1851807571.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 대구 인디음악 연대기 2023 - Light’s on (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9659470402</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 06 Dec 2023 03:19:48 GMT</pubDate>
             <content:encoded><![CDATA[15,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231206_46/1701831146499rOVNk_JPEG/102966974322827683_486757932.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이화 - 1집 눈내리던 겨울밤 / 그대와 나 (REMASTERED) [180G WHITE COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9622550107</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9622550107</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_110/1701829285801lr0fx_JPEG/102965120635573822_694239081.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이화 - 1집 눈내리던 겨울밤 / 그대와 나 (REMASTERED) [180G RED COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9622544900</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9622544900</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_110/1701829285801lr0fx_JPEG/102965120635573822_694239081.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이화 - 1집 눈내리던 겨울밤 / 그대와 나 (REMASTERED) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9622537408</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9622537408</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_110/1701829285801lr0fx_JPEG/102965120635573822_694239081.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
