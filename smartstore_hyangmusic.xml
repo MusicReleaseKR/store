@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 08:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 09:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤명운 - 4집 Yoonmyoungwoon (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9670096787</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9670096787</guid>
+            <pubDate>Mon, 18 Dec 2023 09:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231218_274/1702888543995xMq93_JPEG/104024371824649948_238969468.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤명운 / 4집 Yoonmyoungwoon (TRANSPARENT YELLOW COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9670085046</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9670085046</guid>
+            <pubDate>Mon, 18 Dec 2023 09:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231218_156/1702887910093qUtYT_JPEG/104023743885879989_1658516895.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작은하늘 - 2집 (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9669025646</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 06 Dec 2023 09:18:46 GMT</pubDate>
             <content:encoded><![CDATA[71,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231206_254/1701853897255xCWuQ_JPEG/102989676980960661_1596287895.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coleman Hawkins & Ben Webster - Coleman Hawkins encounters Ben Webster (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9623781834</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9623781834</guid>
-            <pubDate>Wed, 06 Dec 2023 09:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_87/1701852072399LB17v_JPEG/102987915113797163_137712046.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 BLACKPINK - THE GAME PHOTOCARD COLLECTION CHRISTMAS EDITION]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9622726773</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9622726773</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_169/1701833009679dKohM_JPEG/102968852393649868_1014935031.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
