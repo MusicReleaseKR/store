@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 02:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 03:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작은하늘 - 2집 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9669025646</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9669025646</guid>
+            <pubDate>Mon, 18 Dec 2023 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231218_271/1702869133652KhziH_JPEG/104004967472940018_469256127.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작은하늘 - 2집 (ORANGE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9669022606</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9669022606</guid>
+            <pubDate>Mon, 18 Dec 2023 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231218_188/1702868862350dXQzA_JPEG/104004696140357787_1777835004.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우효 Oohyo - 돌아온 우효 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9668961508</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9668961508</guid>
+            <pubDate>Mon, 18 Dec 2023 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231218_215/1702866187095g1wfQ_JPEG/104002075796744051_193693654.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스 Twic - Perfect World (3rd ALBUM) [COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9665741265</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231206_169/1701833009679dKohM_JPEG/102968852393649868_1014935031.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 BTS - LOVE YOURSELF 轉 Tear (COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9622685667</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9622685667</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_250/1701832267899Th51A_JPEG/102968095726363476_2061534313.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼빨간사춘기 - Merry Go Round (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9622654188</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9622654188</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_249/17018315790281nNGm_JPEG/102967406845476641_966445358.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자이언티 Zion.T - 3집 Zip (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9622636457</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9622636457</guid>
-            <pubDate>Wed, 06 Dec 2023 03:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_46/1701831146499rOVNk_JPEG/102966974322827683_486757932.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
