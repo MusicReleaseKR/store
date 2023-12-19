@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 04:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 05:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김광석 - 다시부르기 1 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9673236885</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9673236885</guid>
+            <pubDate>Tue, 19 Dec 2023 05:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231219_119/1702957768191d2qgE_JPEG/104093602011502549_710675495.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬주 - Wonderland (140G TRANSPARENT YELLOW COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9673086476</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9673086476</guid>
+            <pubDate>Tue, 19 Dec 2023 05:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231219_230/1702954639614p7oM5_JPEG/104090467417377601_1077989411.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤명운 - 4집 Yoonmyoungwoon (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9670096787</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 06 Dec 2023 10:20:21 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231206_182/1701855444359eQMxg_JPEG/102991224084392935_1584939010.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전진희 - 여름밤에 우리 / 우리는 우리를  (CREAM YELLOW COLOURED 7 INCH LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9623931722</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9623931722</guid>
-            <pubDate>Wed, 06 Dec 2023 10:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[27,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_138/1701855045553pjVVS_JPEG/102990825278470670_1234685099.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nina Simone - Broadway, Blues, Ballads (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9623910382</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9623910382</guid>
-            <pubDate>Wed, 06 Dec 2023 10:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_241/1701854592291DoweA_JPEG/102990372015901575_1769822685.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
