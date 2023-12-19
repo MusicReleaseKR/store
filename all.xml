@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 09:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 10:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태연 - To. X (LP VER.) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9674504030</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9674504030</guid>
+            <pubDate>Tue, 19 Dec 2023 10:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231106_195/16992682113521jDvj_JPEG/13585483149854096_80177436.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김광석 - 다시부르기 1 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9673236885</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Dec 2023 10:20:21 GMT</pubDate>
             <content:encoded><![CDATA[23,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231206_179/1701856006107Odu80_JPEG/102991789824150074_770227228.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까데호 - Mixtape (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9623981964</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9623981964</guid>
-            <pubDate>Wed, 06 Dec 2023 10:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_182/1701855444359eQMxg_JPEG/102991224084392935_1584939010.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
