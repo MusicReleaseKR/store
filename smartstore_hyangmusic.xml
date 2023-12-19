@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 03:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 04:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231207_254/1701952715689A1Tcz_JPEG/103088549505908457_1361794823.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임영웅 - 1집 IM HERO (GIFT Ver) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9628059387</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9628059387</guid>
+            <pubDate>Tue, 19 Dec 2023 04:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231207_35/1701946979534kPFa4_JPEG/103082814367835350_2051323837.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소란 Soran - Setlist (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9624071349</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9624071349</guid>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Dec 2023 10:20:21 GMT</pubDate>
             <content:encoded><![CDATA[32,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231206_241/1701854592291DoweA_JPEG/102990372015901575_1769822685.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[McCoy Tyner - Time For Tyner (Blue Note Tone Poet Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9623874312</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9623874312</guid>
-            <pubDate>Wed, 06 Dec 2023 09:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[71,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_254/1701853897255xCWuQ_JPEG/102989676980960661_1596287895.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
