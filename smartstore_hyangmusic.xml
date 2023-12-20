@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 07:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 08:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[할인] VA - 무선지 컴필레이션 바이닐 Vol. 1 - Vanishing Air (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9678401829</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9678401829</guid>
+            <pubDate>Wed, 20 Dec 2023 08:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231220_68/1703058029173aaGeH_JPEG/104193863983788598_607435586.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태연 - To. X (LP VER.)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9674504030</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Dec 2023 10:20:21 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231206_115/1701856463185rN50U_JPEG/102992246898062690_432481671.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eva Cassidy - Songbird (20th Anniversary Edition) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9624039363</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9624039363</guid>
-            <pubDate>Wed, 06 Dec 2023 10:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[23,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_179/1701856006107Odu80_JPEG/102991789824150074_770227228.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
