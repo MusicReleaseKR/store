@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 13:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 14:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kazumi Tateishi Trio - Christmas meets Jazz (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9679631061</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9679631061</guid>
+            <pubDate>Wed, 20 Dec 2023 14:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231220_188/1703079646576A8dPX_JPEG/30382330454918187_2018681122.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eddie Higgins Trio - Christmas Songs I & II (DIGI-PAK) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9679612118</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9679612118</guid>
+            <pubDate>Wed, 20 Dec 2023 14:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231220_158/1703078989238lSOCv_JPEG/104214824070926233_1057632108.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Coldplay - Parachutes (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9679514574</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 08 Dec 2023 15:19:28 GMT</pubDate>
             <content:encoded><![CDATA[51,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231208_143/1702046903072JFn9x_JPEG/103182737901342449_1374135617.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 타짜 (TRANSPARENT RED & ORANGE SPLITTER COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9633000713</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9633000713</guid>
-            <pubDate>Fri, 08 Dec 2023 15:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231208_33/1702046339337VylrS_JPEG/29349023218257300_1132446765.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 타짜 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9632984708</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9632984708</guid>
-            <pubDate>Fri, 08 Dec 2023 15:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231208_29/1702045836541LILn3_JPEG/29348520384982806_1775281876.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
