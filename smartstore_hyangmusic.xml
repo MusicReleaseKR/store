@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 12:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 13:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Coldplay - Parachutes (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9679514574</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9679514574</guid>
+            <pubDate>Wed, 20 Dec 2023 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[28,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231220_159/1703077658975drxBw_JPEG/104213554707611337_113649179.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clash - London Calling (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9679493442</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9679493442</guid>
+            <pubDate>Wed, 20 Dec 2023 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[30,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231220_178/1703077280533wWGUd_JPEG/104213176258539415_1597407191.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤지영 - 내 노래에 날개가 있다면 / 잘가오 (150G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9679475397</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9679475397</guid>
+            <pubDate>Wed, 20 Dec 2023 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231220_18/1703077066943MXFpK_JPEG/104212962679085165_799799738.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[할인] VA - 무선지 컴필레이션 바이닐 Vol. 1 - Vanishing Air (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9678401829</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 08 Dec 2023 15:19:28 GMT</pubDate>
             <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231208_29/1702045836541LILn3_JPEG/29348520384982806_1775281876.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monari Wakita - Wingscape / Plastic Love (45RPM CLEAR COLOURED 7INCH LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9628371609</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9628371609</guid>
-            <pubDate>Mon, 11 Dec 2023 16:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[19,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231207_254/1701952715689A1Tcz_JPEG/103088549505908457_1361794823.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임영웅 - 1집 IM HERO (GIFT Ver) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9628059387</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9628059387</guid>
-            <pubDate>Tue, 19 Dec 2023 04:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231207_35/1701946979534kPFa4_JPEG/103082814367835350_2051323837.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란 Soran - Setlist (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9624071349</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9624071349</guid>
-            <pubDate>Wed, 06 Dec 2023 10:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_115/1701856463185rN50U_JPEG/102992246898062690_432481671.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
