@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 07:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 08:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박지윤 - 숨을 쉰다 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9682988465</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9682988465</guid>
+            <pubDate>Thu, 21 Dec 2023 08:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[21,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231221_196/1703144534095gpHg5_JPEG/30447217967633411_403403276.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kazumi Tateishi Trio - Christmas meets Jazz (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9679631061</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 08 Dec 2023 15:19:28 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231208_32/1702047392771pOdB2_JPEG/103183227589605497_1991026850.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주애 Jue - 6 Shots (45RPM 180G ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9633053134</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9633053134</guid>
-            <pubDate>Fri, 08 Dec 2023 15:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231208_143/1702046903072JFn9x_JPEG/103182737901342449_1374135617.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
