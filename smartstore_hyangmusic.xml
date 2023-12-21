@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 10:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 11:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stephen Marley - Old Soul (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9683605076</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9683605076</guid>
+            <pubDate>Thu, 21 Dec 2023 11:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[27,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231221_202/1703155204187y1DQP_JPEG/104291038007483973_582676805.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - The Nightmare Before Christmas 크리스마스의 악몽 (ZOETROPE COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9683589553</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9683589553</guid>
+            <pubDate>Thu, 21 Dec 2023 11:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[77,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231221_80/1703154436860dNzt7_JPEG/104290325575973945_1855983826.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박지윤 - 숨을 쉰다 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9682988465</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 12 Dec 2023 11:16:28 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231212_37/1702376278746T7E7m_JPEG/103512112564038264_330295129.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peter Schindler - 정 (JEONG) With Rocks And Stones And Trees (45 RPM 180G 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9646417420</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9646417420</guid>
-            <pubDate>Tue, 12 Dec 2023 10:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231212_185/1702373706314KLSzD_JPEG/29676390195809842_470898070.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함병선 9z - Romance (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9633079388</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9633079388</guid>
-            <pubDate>Fri, 08 Dec 2023 15:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231208_32/1702047392771pOdB2_JPEG/103183227589605497_1991026850.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
