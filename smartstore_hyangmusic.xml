@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 11:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 12:34:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이원재 - 1집 좋아, 길 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9683914543</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9683914543</guid>
+            <pubDate>Thu, 21 Dec 2023 12:34:09 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231221_78/1703161124273VYRpk_JPEG/104296903989258966_1809619382.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 아름다운 사람아 아름다운 노래를 (LP MINIATURE) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9683891869</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9683891869</guid>
+            <pubDate>Thu, 21 Dec 2023 12:34:09 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231221_189/1703160696620nuJHx_JPEG/104296476345141912_903630131.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뚜와에무와 - 약속 스카브로우 추억 (LP MINIATURE) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9683849976</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9683849976</guid>
+            <pubDate>Thu, 21 Dec 2023 12:34:09 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220315_197/1647338526888AING5_JPEG/48474372603348378_1086801023.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stephen Marley - Old Soul (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9683605076</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 13 Dec 2023 03:20:07 GMT</pubDate>
             <content:encoded><![CDATA[64,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231213_59/1702434566602JntTa_JPEG/103570346324898020_1467306438.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김뜻돌 - 꿈에서 걸려온 전화 (140G CLEAR BLUE COLOURED LP) [재발매]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9646558958</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9646558958</guid>
-            <pubDate>Tue, 12 Dec 2023 11:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231212_22/1702377791437csdMO_JPEG/103513634147249793_1897246181.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도재명 - 21st Century Odyssey (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9646536298</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9646536298</guid>
-            <pubDate>Tue, 12 Dec 2023 11:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231212_289/17023770175787qxGi_JPEG/103512860288160796_124919385.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임채희 - Easy Living (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9646490669</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9646490669</guid>
-            <pubDate>Tue, 12 Dec 2023 11:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231212_37/1702376278746T7E7m_JPEG/103512112564038264_330295129.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
