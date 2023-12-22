@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 13:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 14:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill Evans Trio - Waltz For Debby (24-BIT REMASTERED) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9688673003</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9688673003</guid>
+            <pubDate>Fri, 22 Dec 2023 14:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[16,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231222_282/1703251631712XEmxi_JPEG/104387474425369258_1448148617.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Evans Trio - Portrait In Jazz (24-Bit Remastering) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9688645597</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9688645597</guid>
+            <pubDate>Fri, 22 Dec 2023 14:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[16,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231222_24/1703250290989hiSB9_JPEG/104386124809487150_2046160863.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지올 팍 Zior Park - Where Does Sasquatch Live (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9688423448</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 13 Dec 2023 07:17:27 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231213_181/1702448650574ya1Tj_JPEG/103584478391771392_1156547045.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안희수 - 망가진 나침반을 들고 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9648843884</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9648843884</guid>
-            <pubDate>Wed, 13 Dec 2023 03:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[11,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231213_130/1702436547501Uh8Q8_JPEG/29739231365775737_975755180.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시황 - 도화 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9648815153</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9648815153</guid>
-            <pubDate>Wed, 13 Dec 2023 03:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231213_205/17024360677904MUY1_JPEG/29738751674224114_762278693.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
