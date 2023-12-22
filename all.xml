@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 11:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 12:33:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지올 팍 Zior Park - Where Does Sasquatch Live (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9688423448</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9688423448</guid>
+            <pubDate>Fri, 22 Dec 2023 12:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231222_63/1703245581001FT9ch_JPEG/104381360708120706_1362720503.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Minit - Memories (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9687562333</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 13 Dec 2023 03:20:07 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231213_205/17024360677904MUY1_JPEG/29738751674224114_762278693.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이예린 - 회상 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9648763925</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9648763925</guid>
-            <pubDate>Wed, 13 Dec 2023 03:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231213_157/17024350770539M0wt_JPEG/103570856774590788_1641850173.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
