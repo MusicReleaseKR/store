@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 14:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 15:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Iron Maiden - Piece Of Mind (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9688969180</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9688969180</guid>
+            <pubDate>Fri, 22 Dec 2023 15:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[25,700]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231223_298/1703258038843i5cgw_JPEG/104393927550881547_31690433.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Quintet - Jazz At Massey Hall (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9688900246</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9688900246</guid>
+            <pubDate>Fri, 22 Dec 2023 15:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231222_104/1703256477071jBaNH_JPEG/104392311907920674_1273360489.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis All Stars - Walkin' (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9688882726</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9688882726</guid>
+            <pubDate>Fri, 22 Dec 2023 15:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231222_268/17032560738369CVOS_JPEG/104391908673396970_916078044.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kazumi Tateishi Trio - CLASSIC meets JAZZ (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9688862310</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9688862310</guid>
+            <pubDate>Fri, 22 Dec 2023 15:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231222_87/17032556010628oxe3_JPEG/104391435896072166_1111002656.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bill Evans Trio - Waltz For Debby (24-BIT REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9688673003</link>
@@ -294,38 +326,6 @@
             <pubDate>Thu, 14 Dec 2023 13:25:40 GMT</pubDate>
             <content:encoded><![CDATA[70,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231214_231/1702558724531raweJ_JPEG/103694552361997613_1204112277.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도원경 - 1집 성냥갑 속 내 젊음아 / 환상의 도시 (180G CRYSTAL PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9654273240</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9654273240</guid>
-            <pubDate>Thu, 14 Dec 2023 09:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231215_288/1702621940047WinKp_JPEG/29924623927231907_1129381305.JPG?type=f140" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[권진원 - 1집 북녘 파랑새 / 기도 (180G CRYSTAL COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9654256748</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9654256748</guid>
-            <pubDate>Thu, 14 Dec 2023 09:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231214_133/1702542370360DBd5p_JPEG/103678266096978971_1448681557.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠비노 Jambino - podo (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9650109744</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9650109744</guid>
-            <pubDate>Wed, 13 Dec 2023 09:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231213_288/1702457528219nNXvN_JPEG/29760212095554060_817234200.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 Nerd Connection - Too Fast (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9649601109</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9649601109</guid>
-            <pubDate>Wed, 13 Dec 2023 07:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231213_181/1702448650574ya1Tj_JPEG/103584478391771392_1156547045.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
