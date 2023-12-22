@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 08:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 09:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Minit - Memories (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9687562333</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9687562333</guid>
+            <pubDate>Fri, 22 Dec 2023 09:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231222_296/1703231228552mQY2u_JPEG/104367008274606134_1165503018.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이원재 - 1집 좋아, 길 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9683914543</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 13 Dec 2023 03:20:07 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231213_157/17024350770539M0wt_JPEG/103570856774590788_1641850173.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이나믹 듀오 - 3집 Enlightened (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9648743388</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9648743388</guid>
-            <pubDate>Wed, 13 Dec 2023 03:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231213_59/1702434566602JntTa_JPEG/103570346324898020_1467306438.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
