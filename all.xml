@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 05:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 06:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 제1회 해변가요제 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9691168731</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9691168731</guid>
+            <pubDate>Sat, 23 Dec 2023 06:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231223_112/1703312322742CaKBr_JPEG/104448156554429242_808285845.JPG?type=f140" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Iron Maiden - Piece Of Mind (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9688969180</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 14 Dec 2023 13:25:40 GMT</pubDate>
             <content:encoded><![CDATA[92,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231214_86/1702559074801MjWBF_JPEG/103694902627214603_1387410342.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 은하철도 999 Symphonic Poem GALAXY EXPRESS 999 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9655177456</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9655177456</guid>
-            <pubDate>Thu, 14 Dec 2023 13:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[70,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231214_231/1702558724531raweJ_JPEG/103694552361997613_1204112277.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
