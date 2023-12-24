@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Dec 2023 12:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 13:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Imagine Dragons - Evolve (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9695399951</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9695399951</guid>
+            <pubDate>Sun, 24 Dec 2023 13:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231224_102/1703423432171PHb5s_JPEG/30726116055937558_30546734.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ABBA - Gold ; Greatest Hits (180g 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9695388645</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9695388645</guid>
+            <pubDate>Sun, 24 Dec 2023 13:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[65,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231224_183/1703422995692l9Khj_JPEG/30725679564903770_136432292.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Velvet Underground - The Velvet Underground & Nico (60th Anniversary) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9691864621</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 23 Dec 2023 11:14:46 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231220_80/1703070524925olQAa_JPEG/104206423630470267_1068951088.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weeknd - The Highlights (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9679106472</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9679106472</guid>
-            <pubDate>Sat, 23 Dec 2023 11:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[23,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231220_25/1703070180487MAST5_JPEG/104206079195077027_642803541.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weeknd - Beauty Behind The Madness (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9679093444</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9679093444</guid>
-            <pubDate>Sat, 23 Dec 2023 11:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[23,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231220_27/1703069659141onJGn_PNG/104205492952257482_447051216.png?type=f140" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
