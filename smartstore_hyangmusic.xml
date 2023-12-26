@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 09:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 10:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레인보우99 Rainbow99 - - Jamesrecord Collected (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9701981623</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9701981623</guid>
+            <pubDate>Tue, 26 Dec 2023 10:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231226_198/1703583927369BSHG3_JPEG/30886611248624758_518077698.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이승규 - 잃어버린 동물의 사육제 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9701942012</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9701942012</guid>
+            <pubDate>Tue, 26 Dec 2023 10:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231226_54/1703578753962ED2GA_JPEG/104714652662819648_1035964232.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페이퍼보이 Paperboy - 부유 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9701657463</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 20 Dec 2023 14:14:40 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231220_188/1703079646576A8dPX_JPEG/30382330454918187_2018681122.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio - Christmas Songs I & II (DIGI-PAK) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9679612118</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9679612118</guid>
-            <pubDate>Wed, 20 Dec 2023 14:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231220_158/1703078989238lSOCv_JPEG/104214824070926233_1057632108.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay - Parachutes (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9679514574</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9679514574</guid>
-            <pubDate>Wed, 20 Dec 2023 13:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[28,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231220_159/1703077658975drxBw_JPEG/104213554707611337_113649179.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
