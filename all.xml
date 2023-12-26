@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 07:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 08:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이퍼보이 Paperboy - 부유 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9701657463</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9701657463</guid>
+            <pubDate>Tue, 26 Dec 2023 08:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231226_257/1703578357409mRwLd_JPEG/104714256119841772_607425324.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Weeknd - Dawn FM (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9695470094</link>
@@ -48,7 +56,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231224_102/1703423432171PHb5s_JPEG/30726116055937558_30546734.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ABBA - Gold ; Greatest Hits (180g 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[ABBA - Gold - Greatest Hits (180g 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9695388645</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9695388645</guid>
             <pubDate>Sun, 24 Dec 2023 13:19:27 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 20 Dec 2023 13:17:15 GMT</pubDate>
             <content:encoded><![CDATA[28,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231220_159/1703077658975drxBw_JPEG/104213554707611337_113649179.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Clash - London Calling (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9679493442</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9679493442</guid>
-            <pubDate>Wed, 20 Dec 2023 13:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[30,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231220_178/1703077280533wWGUd_JPEG/104213176258539415_1597407191.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
