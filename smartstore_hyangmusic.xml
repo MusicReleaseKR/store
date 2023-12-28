@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 09:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 10:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DJ OKAWARI - High Moon (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9714154743</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9714154743</guid>
+            <pubDate>Thu, 28 Dec 2023 10:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231228_300/1703758007446KE9Rs_JPEG/104893850154955324_304619922.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하현상 - With All My Heart (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9714071740</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9714071740</guid>
+            <pubDate>Thu, 28 Dec 2023 10:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231228_114/1703756858065cWGCe_JPEG/104892637789551871_1187354083.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - PHOENIX 불새: REMINISCENSE OF FLOWER - by Takatsugu Muramatsu (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9712429668</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 21 Dec 2023 11:15:34 GMT</pubDate>
             <content:encoded><![CDATA[27,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231221_202/1703155204187y1DQP_JPEG/104291038007483973_582676805.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - The Nightmare Before Christmas 크리스마스의 악몽 (ZOETROPE COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9683589553</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9683589553</guid>
-            <pubDate>Thu, 21 Dec 2023 11:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[77,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231221_80/1703154436860dNzt7_JPEG/104290325575973945_1855983826.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지윤 - 숨을 쉰다 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9682988465</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9682988465</guid>
-            <pubDate>Thu, 21 Dec 2023 08:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[21,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231221_196/1703144534095gpHg5_JPEG/30447217967633411_403403276.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
