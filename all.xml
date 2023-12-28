@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 03:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 04:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - PHOENIX 불새: REMINISCENSE OF FLOWER - by Takatsugu Muramatsu (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9712429668</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9712429668</guid>
+            <pubDate>Thu, 28 Dec 2023 04:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[70,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231228_257/1703735540879S9YNK_JPEG/104871374698748012_399659478.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레인보우99 Rainbow99 - - Jamesrecord Collected (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9701981623</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Dec 2023 08:23:03 GMT</pubDate>
             <content:encoded><![CDATA[21,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231221_196/1703144534095gpHg5_JPEG/30447217967633411_403403276.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kazumi Tateishi Trio - Christmas meets Jazz (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9679631061</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9679631061</guid>
-            <pubDate>Wed, 20 Dec 2023 14:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231220_188/1703079646576A8dPX_JPEG/30382330454918187_2018681122.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
