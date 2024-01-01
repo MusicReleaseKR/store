@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 13:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 14:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Van Halen - Van Halen (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9733947153</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9733947153</guid>
+            <pubDate>Mon, 01 Jan 2024 14:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[28,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240101_37/1704116989266RjLrK_JPEG/105252885004088954_1461165040.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Green Day - Dookie (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9733936170</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9733936170</guid>
+            <pubDate>Mon, 01 Jan 2024 14:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[22,700]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240101_5/1704116648754NksCh_JPEG/105252544491889186_539588408.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[할인] Soundtrack - Deadpool 2 데드풀 2 (SCORE) [PICTURE DISC LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9725355900</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 22 Dec 2023 15:18:16 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231222_87/17032556010628oxe3_JPEG/104391435896072166_1111002656.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins - Bewitched & Dear Old Stockholm (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9688847452</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9688847452</guid>
-            <pubDate>Sat, 23 Dec 2023 11:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231222_199/1703255179110kkQbw_JPEG/104391013946757505_1954281313.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio - Waltz For Debby (24-BIT REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9688673003</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9688673003</guid>
-            <pubDate>Fri, 22 Dec 2023 14:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[16,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231222_282/1703251631712XEmxi_JPEG/104387474425369258_1448148617.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
