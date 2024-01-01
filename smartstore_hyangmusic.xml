@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 14:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 15:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rolling Stones - Beggars Banquet (DSD REMASTERED) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9734019853</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9734019853</guid>
+            <pubDate>Mon, 01 Jan 2024 15:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[23,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240101_103/1704118246508TgU0p_JPEG/105254030224232033_980857945.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Van Halen - Van Halen (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9733947153</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 22 Dec 2023 15:18:16 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231222_268/17032560738369CVOS_JPEG/104391908673396970_916078044.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kazumi Tateishi Trio - CLASSIC meets JAZZ (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9688862310</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9688862310</guid>
-            <pubDate>Fri, 22 Dec 2023 15:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231222_87/17032556010628oxe3_JPEG/104391435896072166_1111002656.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
