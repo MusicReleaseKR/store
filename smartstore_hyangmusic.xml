@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 04:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 05:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박지윤 - 숨을 쉰다 (STAR BRIGHT GOLD COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9743090801</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9743090801</guid>
+            <pubDate>Wed, 03 Jan 2024 05:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240103_86/1704258602869uWLUH_JPEG/105394445581151609_674974906.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이민휘 - 빌린입 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9736714822</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 28 Dec 2023 10:20:02 GMT</pubDate>
             <content:encoded><![CDATA[15,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231228_114/1703756858065cWGCe_JPEG/104892637789551871_1187354083.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - PHOENIX 불새: REMINISCENSE OF FLOWER - by Takatsugu Muramatsu (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9712429668</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9712429668</guid>
-            <pubDate>Thu, 28 Dec 2023 04:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[70,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231228_257/1703735540879S9YNK_JPEG/104871374698748012_399659478.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
