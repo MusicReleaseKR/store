@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 14:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 15:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bob Marley - Legend (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9745578449</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9745578449</guid>
+            <pubDate>Wed, 03 Jan 2024 15:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240103_46/1704291781164Tz5n6_JPEG/105427560884122356_195712782.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tom Waits - Franks Wild Years (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9745504426</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 29 Dec 2023 10:19:48 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231229_130/1703841796047pI7Um_JPEG/104977691783993730_1679306046.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ OKAWARI - High Moon (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9714154743</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9714154743</guid>
-            <pubDate>Thu, 28 Dec 2023 10:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[54,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231228_300/1703758007446KE9Rs_JPEG/104893850154955324_304619922.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
