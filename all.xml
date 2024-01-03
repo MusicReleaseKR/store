@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 13:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 14:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tom Waits - Franks Wild Years (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9745504426</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9745504426</guid>
+            <pubDate>Wed, 03 Jan 2024 14:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240103_200/1704290306716Mswsz_JPEG/105426195427613682_855895726.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박지윤 - 숨을 쉰다 (STAR BRIGHT GOLD COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9743090801</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 28 Dec 2023 10:20:02 GMT</pubDate>
             <content:encoded><![CDATA[54,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231228_300/1703758007446KE9Rs_JPEG/104893850154955324_304619922.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하현상 - With All My Heart (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9714071740</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9714071740</guid>
-            <pubDate>Thu, 28 Dec 2023 10:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231228_114/1703756858065cWGCe_JPEG/104892637789551871_1187354083.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
