@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 11:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 12:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Wed, 03 Jan 2024 05:18:45 GMT</pubDate>
             <content:encoded><![CDATA[53,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240103_86/1704258602869uWLUH_JPEG/105394445581151609_674974906.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Le Jour Le Plus Long 지상 최대의 작전 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9739134526</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9739134526</guid>
+            <pubDate>Thu, 04 Jan 2024 12:33:47 GMT</pubDate>
+            <content:encoded><![CDATA[30,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240102_181/1704197622187wkbVI_JPEG/105333456009247506_1302504048.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이민휘 - 빌린입 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[13,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231230_80/1703917680386g9UMf_JPEG/105053514202023459_742008505.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잭킹콩 Jackingcong - 1집 Dress code (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9723851283</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9723851283</guid>
-            <pubDate>Sat, 30 Dec 2023 07:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_243/1703917382105zbmt0_JPEG/105053215927569889_1194183331.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
