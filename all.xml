@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 06:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 07:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나윤선 - 10집 Immersion (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9756162844</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9756162844</guid>
+            <pubDate>Fri, 05 Jan 2024 07:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240105_91/1704438482637hc3pb_JPEG/105574381343601511_1277808193.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[큐엠 QM - 2집 Hannah (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9755645317</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231230_139/1703944370342jaRet_JPEG/105080204159776322_1852185457.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야광토끼 - Happy Ending (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9724427372</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9724427372</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[9,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_245/1703927618053l7M6B_JPEG/105063513788898835_282110070.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
