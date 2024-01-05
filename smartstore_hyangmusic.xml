@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 09:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 10:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alan Parsons Project - Eye In The Sky (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9757067759</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9757067759</guid>
+            <pubDate>Fri, 05 Jan 2024 10:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[27,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240105_255/1704447225427qcVWd_JPEG/105583114138953925_2124061559.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍다빈 - Giggles (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9756303696</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[16,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231230_213/1703945745381Dyi0x_JPEG/105081641113167718_560449199.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lynyrd Skynyrd - Gold - Definitive Collection (REMASTERED) [2CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725157709</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725157709</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[18,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_45/1703945333179indsg_JPEG/105081228910236815_1800506566.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
