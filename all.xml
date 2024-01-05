@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 07:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 08:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍다빈 - Giggles (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9756303696</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9756303696</guid>
+            <pubDate>Fri, 05 Jan 2024 08:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240105_268/1704439688969qK4TH_JPEG/105575523788788713_1066986831.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나윤선 - Waking World (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9756194096</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9756194096</guid>
+            <pubDate>Fri, 05 Jan 2024 08:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240105_268/1704438969542CWS8F_JPEG/105574868248913995_229890378.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나윤선 - 10집 Immersion (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9756162844</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[18,300]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231230_45/1703945333179indsg_JPEG/105081228910236815_1800506566.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dr. Dre - 2001 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725136511</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725136511</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_57/1703944720798Guwyt_JPEG/105080554617463185_1289244331.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carpenters - Singles 1969-1981 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725117320</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725117320</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_139/1703944370342jaRet_JPEG/105080204159776322_1852185457.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
