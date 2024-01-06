@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 23:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 01:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 05 Jan 2024 10:20:13 GMT</pubDate>
             <content:encoded><![CDATA[27,800]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240105_255/1704447225427qcVWd_JPEG/105583114138953925_2124061559.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[술탄 오브 더 디스코 Sultan Of The Disco - 2집 Aliens (140G ORANGE COLOURED LP) [2019 서울레코드페어 한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9756607887</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9756607887</guid>
+            <pubDate>Sat, 06 Jan 2024 01:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240105_278/1704443053842nBoLX_JPEG/105578942556525975_109989069.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍다빈 - Giggles (CD)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[18,300]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231230_224/17039462406319bE2g_JPEG/105082136362496053_158141933.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marilyn Manson - Lest We Forget: The Best Of Marilyn Manson (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725175417</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725175417</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_213/1703945745381Dyi0x_JPEG/105081641113167718_560449199.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
