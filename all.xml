@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jan 2024 13:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 14:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Thelonious Monk - Piano Solo (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9762749252</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9762749252</guid>
+            <pubDate>Sat, 06 Jan 2024 14:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[26,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240106_140/170454890033795zyz_JPEG/105684796066094800_305353550.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[David Bowie - Hunky Dory (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9762742732</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9762742732</guid>
+            <pubDate>Sat, 06 Jan 2024 14:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[26,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230103_189/1672727831387DioyF_JPEG/73863615104841778_1011273696.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Europe - The Final Countdown (LIGHT PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9762732667</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9762732667</guid>
+            <pubDate>Sat, 06 Jan 2024 14:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[32,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240106_201/17045480392556Q7R8_JPEG/105683934992718572_2065511339.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alan Parsons Project - Eye In The Sky (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9757067759</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[16,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231230_190/1703947324263O6TRE_JPEG/105083219997109809_1652225528.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weezer - Weezer (Green Album) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725213052</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725213052</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_13/1703946933477E95Yx_JPEG/105082829214433340_1093929393.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Steely Dan - Gaucho (REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725202088</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725202088</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_21/1703946635825jcHij_JPEG/105082531558303380_379395550.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moody Blues - Gold: Definitive Collection (Remastered) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725189706</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725189706</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[18,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_224/17039462406319bE2g_JPEG/105082136362496053_158141933.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
