@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 12:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 13:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Issei Noro - Under The Sky (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9765300245</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9765300245</guid>
+            <pubDate>Sun, 07 Jan 2024 13:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_79/1704633256483tttHC_JPEG/105769084312949101_614234096.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ani Difranco - Little Plastic Castle (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9765287220</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9765287220</guid>
+            <pubDate>Sun, 07 Jan 2024 13:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_185/1704632918684Gtb9T_JPEG/105768746501823347_457423148.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어둠 (A Doom) - A Doom (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9765273135</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9765273135</guid>
+            <pubDate>Sun, 07 Jan 2024 13:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[27,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_240/1704632539258mlJrU_JPEG/105768367086135942_107016164.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Thelonious Monk - Piano Solo (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9762749252</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[13,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231230_240/1703948265345xxEu7_JPEG/105084161079612434_1571339220.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Call Me By Your Name 콜 미 바이 유어 네임 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725264983</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725264983</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_274/1703948003263sWmVA_JPEG/105083898996208620_1727125507.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카더가든 Car, The Garden - 1집 Apartment (재발매) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725250542</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725250542</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_25/17039477046365JGPB_JPEG/105083600369208358_540302651.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Who - Who's Next (Remastered) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725233718</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725233718</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_190/1703947324263O6TRE_JPEG/105083219997109809_1652225528.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
