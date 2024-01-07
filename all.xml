@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 13:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 14:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Treasure Land - Gateway (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9765418740</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9765418740</guid>
+            <pubDate>Sun, 07 Jan 2024 14:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[3,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_172/1704636393504LzX2f_JPEG/105772173226034262_1029458301.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Engine - Engine (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9765338236</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9765338236</guid>
+            <pubDate>Sun, 07 Jan 2024 14:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[3,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_258/1704634204542IqNRy_JPEG/31936888419597215_1888850001.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iron Savior - I've Been To Hell (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9765325884</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9765325884</guid>
+            <pubDate>Sun, 07 Jan 2024 14:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[3,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_246/1704633691661jO7tY_JPEG/105769519488894500_1231766880.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Issei Noro - Under The Sky (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9765300245</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240101_222/1704115566120C1Qy2_JPEG/105251400944388779_459840380.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[할인] Soundtrack - Deadpool 2 데드풀 2 (SCORE) [PICTURE DISC LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725355900</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725355900</guid>
-            <pubDate>Sat, 30 Dec 2023 16:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231231_224/1703949749396t7AgT_JPEG/105085577223849561_44199554.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamashita Tatsuro - Christmas Eve (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725299562</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725299562</guid>
-            <pubDate>Sat, 30 Dec 2023 15:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231231_133/17039486180136Kp0c_JPEG/105084445840800276_222947887.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nothing But Thieves - Nothing But Thieves (DELUXE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725280361</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725280361</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_240/1703948265345xxEu7_JPEG/105084161079612434_1571339220.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
