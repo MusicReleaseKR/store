@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 13:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 14:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20240108_121/1704711595611AE5Sh_JPEG/105847484325411886_308466013.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시와 Siwa - 1집 소요 (초판) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9770418613</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9770418613</guid>
+            <pubDate>Mon, 08 Jan 2024 14:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_117/1704711197105Q8sqj_JPEG/105847085807287868_822745541.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Stevie Wonder - Song Review: A Greatest Hits Collection (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9770369313</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9770369313</guid>
@@ -86,6 +94,14 @@
             <pubDate>Mon, 08 Jan 2024 11:16:24 GMT</pubDate>
             <content:encoded><![CDATA[19,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240108_46/1704710167013C6TQx_JPEG/105846055721599259_2129087824.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana - In Utero (20TH ANNIVERSARY STANDARD EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9770297898</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9770297898</guid>
+            <pubDate>Mon, 08 Jan 2024 14:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_24/1647601441940IKlXK_JPEG/48737225656566229_796672124.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Imagine Dragons - Evolve (DELUXE EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 05 Jan 2024 06:24:26 GMT</pubDate>
             <content:encoded><![CDATA[64,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240105_152/17044322758056i2mt_JPEG/105568109623727056_1476809466.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박기영 - Love You More - BEST ALBUM (140G CLEAR GREEN & CLEAR RED COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9755539108</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9755539108</guid>
-            <pubDate>Fri, 05 Jan 2024 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[69,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231121_149/1700546223986aVURa_JPEG/14481904931192022_835332358.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김뜻돌 - 꿈에서 걸려온 전화 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9750805075</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9750805075</guid>
-            <pubDate>Thu, 04 Jan 2024 11:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231005_220/1696486272490t025p_JPEG/14813792695708186_608014183.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
