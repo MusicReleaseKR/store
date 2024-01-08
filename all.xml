@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 14:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 15:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,14 +280,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20240105_255/1704447225427qcVWd_JPEG/105583114138953925_2124061559.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[술탄 오브 더 디스코 Sultan Of The Disco - 2집 Aliens (140G ORANGE COLOURED LP) [2019 서울레코드페어 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9756607887</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9756607887</guid>
-            <pubDate>Sat, 06 Jan 2024 01:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[52,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240105_278/1704443053842nBoLX_JPEG/105578942556525975_109989069.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[홍다빈 - Giggles (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9756303696</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9756303696</guid>
@@ -326,6 +318,14 @@
             <pubDate>Fri, 05 Jan 2024 06:24:26 GMT</pubDate>
             <content:encoded><![CDATA[64,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240105_152/17044322758056i2mt_JPEG/105568109623727056_1476809466.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박기영 - Love You More - BEST ALBUM (140G CLEAR GREEN & CLEAR RED COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9755539108</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9755539108</guid>
+            <pubDate>Mon, 08 Jan 2024 15:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[69,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231121_149/1700546223986aVURa_JPEG/14481904931192022_835332358.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
