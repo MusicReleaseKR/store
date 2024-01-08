@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 05:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 06:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김현철 - 5집 동야동조 (2023 REMASTERED) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9769202223</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9769202223</guid>
+            <pubDate>Mon, 08 Jan 2024 06:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_105/1704694602534Toui5_JPEG/105830386246341205_1474739356.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Treasure Land - Gateway (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9765418740</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 01 Jan 2024 14:16:58 GMT</pubDate>
             <content:encoded><![CDATA[22,700]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240101_5/1704116648754NksCh_JPEG/105252544491889186_539588408.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ABBA - The Movie (Blu-Ray)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9733899922</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9733899922</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240101_222/1704115566120C1Qy2_JPEG/105251400944388779_459840380.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
