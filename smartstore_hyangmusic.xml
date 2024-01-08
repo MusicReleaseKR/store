@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 06:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 07:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김오키 Kimoki - Love Flower (180G OPAQUE PURPLE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9769438934</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9769438934</guid>
+            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_291/17046971109047yLFc_JPEG/105832945734954916_1141370665.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전유동 - 1집 관찰자로서의 숲 (140G BROWN COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9769373297</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9769373297</guid>
+            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_7/17046967654650QOVF_JPEG/105832600284157466_2082360272.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케이씨엠 KCM - 우리들 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9769260741</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9769260741</guid>
+            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_125/1704695283997WMYnl_JPEG/105831067703628568_2062993361.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김현철 - 5집 동야동조 (2023 REMASTERED) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9769202223</link>
@@ -14,6 +38,14 @@
             <pubDate>Mon, 08 Jan 2024 06:25:01 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240108_105/1704694602534Toui5_JPEG/105830386246341205_1474739356.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모임 별 Byul Org - 주인 없는 금 (NOBODY’S GOLD) [2LP] (자켓 눌림)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9769055451</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9769055451</guid>
+            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_72/1704692977621Kt3fo_JPEG/105828757341095783_1357821851.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Treasure Land - Gateway (CD)]]></title>
@@ -62,6 +94,46 @@
             <pubDate>Sun, 07 Jan 2024 13:20:29 GMT</pubDate>
             <content:encoded><![CDATA[27,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240107_240/1704632539258mlJrU_JPEG/105768367086135942_107016164.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cure - Disintegration (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9764809223</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9764809223</guid>
+            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[23,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_285/1704616972471Cbsl1_JPEG/105752800298984690_1297382907.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bob Marley - Legend (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9764732148</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9764732148</guid>
+            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[26,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_21/1704615875865WQfmC_JPEG/105751774566749062_50483862.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상은 Lee-Tzsche - 5집 언젠가는 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9764716342</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9764716342</guid>
+            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_201/1704615402978fUd85_JPEG/105751301690397802_443089774.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상은 Lee-Tzsche - 4집 Begin (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9764706635</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9764706635</guid>
+            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_46/1704615066956txksr_JPEG/105750965663347361_2127920547.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상은 Lee-Tzsche - 3집 더딘 하루 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9764692795</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9764692795</guid>
+            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_220/1704614537149aW8eE_JPEG/105750425862601363_810226376.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Thelonious Monk - Piano Solo (LP)]]></title>
@@ -254,78 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[38,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240102_89/1704165389893d9k7L_JPEG/105301288598373329_15132812.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김상희 - Sings Tom Jones & Burt Bacharach (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9736625470</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9736625470</guid>
-            <pubDate>Tue, 02 Jan 2024 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_68/1704165112869lpoDb_JPEG/105301011576916684_1897610949.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김상희 - Love Story (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9736608571</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9736608571</guid>
-            <pubDate>Tue, 02 Jan 2024 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_56/17041648760000aqo1_JPEG/105300774706968986_1041202652.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지연 - 나만이 걸었네, 그대 있는 곳에 (PICTURE DISC LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9736542021</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9736542021</guid>
-            <pubDate>Tue, 02 Jan 2024 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_38/1704163986170PyQ9m_JPEG/105299881906881570_2143422210.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박광수 - 마른잎, 빗속의 연인 (PICTURE DISC LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9736526404</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9736526404</guid>
-            <pubDate>Tue, 02 Jan 2024 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_165/1704163752500sQWGc_JPEG/105299648234572092_110264256.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낯선사람들 - 1집 (PICTURE DISC LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9736506156</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9736506156</guid>
-            <pubDate>Tue, 02 Jan 2024 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_134/1704163356660C15aD_JPEG/105299252396257534_373595262.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rolling Stones - Beggars Banquet (DSD REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9734019853</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9734019853</guid>
-            <pubDate>Mon, 01 Jan 2024 15:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[23,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240101_103/1704118246508TgU0p_JPEG/105254030224232033_980857945.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana - Nevermind (2CD DELUXE EDITION)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9733985663</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9733985663</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[26,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240101_47/1704117844415gyBRR_JPEG/105253628131413429_925050412.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Van Halen - Van Halen (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9733947153</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9733947153</guid>
-            <pubDate>Mon, 01 Jan 2024 14:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[28,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240101_37/1704116989266RjLrK_JPEG/105252885004088954_1461165040.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Green Day - Dookie (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9733936170</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9733936170</guid>
-            <pubDate>Mon, 01 Jan 2024 14:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[22,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240101_5/1704116648754NksCh_JPEG/105252544491889186_539588408.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
