@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 11:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 12:35:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Swift - Taylor Swift (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9770772394</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9770772394</guid>
+            <pubDate>Mon, 08 Jan 2024 12:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_176/1704716240640fLz1j_JPEG/105852024352623921_32459037.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sylvie Vartan - Avec Toi... (WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9770754194</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9770754194</guid>
+            <pubDate>Mon, 08 Jan 2024 12:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_173/17047159147723Xxn6_JPEG/105851698483307644_225943730.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[U2 - Lights Of Home (12INCH SINGLE 45RPM WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9770731354</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9770731354</guid>
+            <pubDate>Mon, 08 Jan 2024 12:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[22,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_65/1704715535658zItsT_JPEG/105851319369783917_146131273.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stone Roses - Stone Roses (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9770455311</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 04 Jan 2024 11:15:59 GMT</pubDate>
             <content:encoded><![CDATA[42,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240104_140/1704364492229AHLVQ_JPEG/105500327058001600_168243093.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bob Marley - Legend (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9745578449</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9745578449</guid>
-            <pubDate>Wed, 03 Jan 2024 15:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240103_46/1704291781164Tz5n6_JPEG/105427560884122356_195712782.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tom Waits - Franks Wild Years (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9745504426</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9745504426</guid>
-            <pubDate>Wed, 03 Jan 2024 14:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240103_200/1704290306716Mswsz_JPEG/105426195427613682_855895726.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지윤 - 숨을 쉰다 (STAR BRIGHT GOLD COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9743090801</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9743090801</guid>
-            <pubDate>Wed, 03 Jan 2024 05:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[53,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240103_86/1704258602869uWLUH_JPEG/105394445581151609_674974906.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
