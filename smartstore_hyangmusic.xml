@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 10:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 11:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stone Roses - Stone Roses (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9770455311</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9770455311</guid>
+            <pubDate>Mon, 08 Jan 2024 11:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[26,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_121/1704711595611AE5Sh_JPEG/105847484325411886_308466013.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stevie Wonder - Song Review: A Greatest Hits Collection (2CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9770369313</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9770369313</guid>
+            <pubDate>Mon, 08 Jan 2024 11:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[27,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_207/1704710583371slmFw_JPEG/105846472069039564_1859681303.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Roy Buchanan - Sweet Dreams: The Anthology (2CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9770336137</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9770336137</guid>
+            <pubDate>Mon, 08 Jan 2024 11:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_46/1704710167013C6TQx_JPEG/105846055721599259_2129087824.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Imagine Dragons - Evolve (DELUXE EDITION) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9769556474</link>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 03 Jan 2024 05:18:45 GMT</pubDate>
             <content:encoded><![CDATA[53,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240103_86/1704258602869uWLUH_JPEG/105394445581151609_674974906.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Le Jour Le Plus Long 지상 최대의 작전 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9739134526</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9739134526</guid>
-            <pubDate>Thu, 04 Jan 2024 12:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[30,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_181/1704197622187wkbVI_JPEG/105333456009247506_1302504048.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민휘 - 1집 빌린입 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9736714822</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9736714822</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_298/17041663188525wNyU_JPEG/105302207554805900_1351704462.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다브다 Dabda – Yonder EP (45RPM 140G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9736677211</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9736677211</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_216/1704165877164e6DJl_JPEG/105301775845944889_1876053562.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
