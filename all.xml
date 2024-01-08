@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 07:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 08:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Imagine Dragons - Evolve (DELUXE EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9769556474</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9769556474</guid>
+            <pubDate>Mon, 08 Jan 2024 08:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_268/17046988198690WCAv_JPEG/105834603578520651_1552217387.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김오키 Kimoki - Love Flower (180G OPAQUE PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9769438934</link>
@@ -38,6 +46,14 @@
             <pubDate>Mon, 08 Jan 2024 06:25:01 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240108_105/1704694602534Toui5_JPEG/105830386246341205_1474739356.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 Soran - 1집 Natural (45 RPM WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9769134012</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9769134012</guid>
+            <pubDate>Mon, 08 Jan 2024 08:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_28/1704693893201IP7fl_JPEG/105829672918738957_1954677963.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모임 별 Byul Org - 주인 없는 금 (NOBODY’S GOLD) [2LP] (자켓 눌림) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[36,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240102_216/1704165877164e6DJl_JPEG/105301775845944889_1876053562.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김도언 - Damage (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9736659126</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9736659126</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[38,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_148/1704165633333jpe7d_JPEG/105301532040816765_80514313.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머드 더 스튜던트 Mudd the Student - Field Trip EP (45RPM 7INCH 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9736643759</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9736643759</guid>
-            <pubDate>Tue, 02 Jan 2024 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[38,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_89/1704165389893d9k7L_JPEG/105301288598373329_15132812.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
