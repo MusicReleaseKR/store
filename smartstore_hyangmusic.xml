@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 09:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 10:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nas - Illmatic (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9776954677</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9776954677</guid>
+            <pubDate>Tue, 09 Jan 2024 10:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[27,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240109_163/1704795380505fgBNL_JPEG/105931279211528784_1575773351.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Def Leppard - Pyromania (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9776847418</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9776847418</guid>
+            <pubDate>Tue, 09 Jan 2024 10:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[25,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240109_191/1704794054183AqtRX_JPEG/105929949912196707_259192129.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gavin Degraw - Chariot (TRANSPARENT GREEN COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9776783947</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9776783947</guid>
+            <pubDate>Tue, 09 Jan 2024 10:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240109_51/1704793549922hB0rp_JPEG/105929329643693946_1609714913.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[심규선 Lucia - 월령 (180G LP) [넘버링 & 사인반 랜덤 발송]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9771058508</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 05 Jan 2024 06:24:26 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240105_104/1704432976385JogOy_JPEG/105568810191109297_1070079292.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 서울의 봄 - Music By 이재진 (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9755592224</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9755592224</guid>
-            <pubDate>Fri, 05 Jan 2024 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240105_152/17044322758056i2mt_JPEG/105568109623727056_1476809466.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박기영 - Love You More - BEST ALBUM (140G CLEAR GREEN & CLEAR RED COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9755539108</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9755539108</guid>
-            <pubDate>Tue, 09 Jan 2024 07:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[69,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231121_149/1700546223986aVURa_JPEG/14481904931192022_835332358.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김뜻돌 - 꿈에서 걸려온 전화 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9750805075</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9750805075</guid>
-            <pubDate>Tue, 09 Jan 2024 07:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231005_220/1696486272490t025p_JPEG/14813792695708186_608014183.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
