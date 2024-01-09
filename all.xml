@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 10:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 11:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[King Crimson - Red (200G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9777213803</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9777213803</guid>
+            <pubDate>Tue, 09 Jan 2024 11:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240109_252/1704798479092rmH3K_JPEG/105934262806941583_1298185495.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Khruangbin - The Universe Smiles Upon You (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9777190813</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9777190813</guid>
+            <pubDate>Tue, 09 Jan 2024 11:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240109_120/1704798177320SmeEV_JPEG/105933961033653743_1440268345.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeff Buckley - Live At KCRW (Morning Becomes Eclectic) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9777167667</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9777167667</guid>
+            <pubDate>Tue, 09 Jan 2024 11:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[31,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240109_17/1704797746889VQ0P2_JPEG/105933530602266474_14370296.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[James Blunt - The Afterlove (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9777134197</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9777134197</guid>
+            <pubDate>Tue, 09 Jan 2024 11:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240109_191/1704797469414wn0Yg_JPEG/105933253132734836_1270155884.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cream - Wheels Of Fire (180G 2LP) [MP3 DOWN CODE] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9777109789</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9777109789</guid>
+            <pubDate>Tue, 09 Jan 2024 11:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230511_151/16837981938465PvGQ_JPEG/8904822169041597_1774441619.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nas - Illmatic (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9776954677</link>
@@ -286,46 +326,6 @@
             <pubDate>Sat, 06 Jan 2024 14:16:15 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240106_201/17045480392556Q7R8_JPEG/105683934992718572_2065511339.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alan Parsons Project - Eye In The Sky (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9757067759</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9757067759</guid>
-            <pubDate>Fri, 05 Jan 2024 10:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[27,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240105_255/1704447225427qcVWd_JPEG/105583114138953925_2124061559.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍다빈 - Giggles (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9756303696</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9756303696</guid>
-            <pubDate>Fri, 05 Jan 2024 08:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240105_268/1704439688969qK4TH_JPEG/105575523788788713_1066986831.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나윤선 - Waking World (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9756194096</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9756194096</guid>
-            <pubDate>Fri, 05 Jan 2024 08:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240105_268/1704438969542CWS8F_JPEG/105574868248913995_229890378.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나윤선 - 10집 Immersion (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9756162844</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9756162844</guid>
-            <pubDate>Fri, 05 Jan 2024 07:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240105_91/1704438482637hc3pb_JPEG/105574381343601511_1277808193.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큐엠 QM - 2집 Hannah (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9755645317</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9755645317</guid>
-            <pubDate>Fri, 05 Jan 2024 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240105_104/1704432976385JogOy_JPEG/105568810191109297_1070079292.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
