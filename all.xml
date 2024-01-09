@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 11:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 12:36:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 09 Jan 2024 10:20:25 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240109_51/1704793549922hB0rp_JPEG/105929329643693946_1609714913.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강허달림 - 2집 넌 나의 바다 (180G AUDIOPHILE LP) [자켓 윗부분 터짐] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9771223883</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9771223883</guid>
+            <pubDate>Tue, 09 Jan 2024 12:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[70,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_157/1704723267576OaTPh_JPEG/105859110288744935_1073711739.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[심규선 Lucia - 월령 (180G LP) [넘버링 & 사인반 랜덤 발송] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -216,6 +224,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20240108_105/1704694602534Toui5_JPEG/105830386246341205_1474739356.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[외인부대 - 1집 쥴리 (REMASTERED / LP MINIATURE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9765593571</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9765593571</guid>
+            <pubDate>Tue, 09 Jan 2024 12:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_230/1704641209490oVBMe_JPEG/105776993205468191_1887395322.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Treasure Land - Gateway (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9765418740</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9765418740</guid>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 06 Jan 2024 14:16:15 GMT</pubDate>
             <content:encoded><![CDATA[26,800]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240106_140/170454890033795zyz_JPEG/105684796066094800_305353550.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[David Bowie - Hunky Dory (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9762742732</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9762742732</guid>
-            <pubDate>Sat, 06 Jan 2024 14:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[26,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230103_189/1672727831387DioyF_JPEG/73863615104841778_1011273696.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Europe - The Final Countdown (LIGHT PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9762732667</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9762732667</guid>
-            <pubDate>Sat, 06 Jan 2024 14:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240106_201/17045480392556Q7R8_JPEG/105683934992718572_2065511339.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
