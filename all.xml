@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 14:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 15:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My Chemical Romance - The Black Parade Is Dead! (180G LP) [2019 레코드스토어데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9778170553</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9778170553</guid>
+            <pubDate>Tue, 09 Jan 2024 15:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240110_47/1704813128742B9Fvk_JPEG/32115812622289536_1379582949.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[King Crimson - Red (200G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9777213803</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
             <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240107_220/1704614537149aW8eE_JPEG/105750425862601363_810226376.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk - Piano Solo (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9762749252</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9762749252</guid>
-            <pubDate>Sat, 06 Jan 2024 14:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[26,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240106_140/170454890033795zyz_JPEG/105684796066094800_305353550.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
