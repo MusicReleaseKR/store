@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 06:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 07:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,22 +150,6 @@
             <pubDate>Mon, 08 Jan 2024 06:25:01 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240108_105/1704694602534Toui5_JPEG/105830386246341205_1474739356.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란 Soran - 1집 Natural (45 RPM WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9769134012</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9769134012</guid>
-            <pubDate>Mon, 08 Jan 2024 08:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240108_28/1704693893201IP7fl_JPEG/105829672918738957_1954677963.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모임 별 Byul Org - 주인 없는 금 (NOBODY’S GOLD) [2LP] (자켓 눌림) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9769055451</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9769055451</guid>
-            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240108_72/1704692977621Kt3fo_JPEG/105828757341095783_1357821851.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Treasure Land - Gateway (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -326,6 +310,22 @@
             <pubDate>Fri, 05 Jan 2024 06:24:26 GMT</pubDate>
             <content:encoded><![CDATA[64,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240105_152/17044322758056i2mt_JPEG/105568109623727056_1476809466.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박기영 - Love You More - BEST ALBUM (140G CLEAR GREEN & CLEAR RED COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9755539108</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9755539108</guid>
+            <pubDate>Tue, 09 Jan 2024 07:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[69,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231121_149/1700546223986aVURa_JPEG/14481904931192022_835332358.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김뜻돌 - 꿈에서 걸려온 전화 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9750805075</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9750805075</guid>
+            <pubDate>Tue, 09 Jan 2024 07:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231005_220/1696486272490t025p_JPEG/14813792695708186_608014183.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
