@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 15:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 16:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남재섭 - 당신이 본 세계는 당신의 영화 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9778199054</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9778199054</guid>
+            <pubDate>Tue, 09 Jan 2024 16:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240110_164/1704813492087aftsh_JPEG/32116175941997911_741738179.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[My Chemical Romance - The Black Parade Is Dead! (180G LP) [2019 레코드스토어데이 한정반]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9778170553</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
             <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240107_46/1704615066956txksr_JPEG/105750965663347361_2127920547.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 Lee-Tzsche - 3집 더딘 하루 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9764692795</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9764692795</guid>
-            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240107_220/1704614537149aW8eE_JPEG/105750425862601363_810226376.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
