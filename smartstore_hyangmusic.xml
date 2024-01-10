@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 07:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 08:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 마에스트라 Maestra (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9782905522</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9782905522</guid>
+            <pubDate>Wed, 10 Jan 2024 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240110_284/1704873808009JEddN_JPEG/106009706720989931_1987885515.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Godzilla -1.0 (고지라 마이너스 원) [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9782792526</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9782792526</guid>
+            <pubDate>Wed, 10 Jan 2024 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[70,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240110_299/1704872845165OUXkq_JPEG/106008624879605605_93545287.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남재섭 - 당신이 본 세계는 당신의 영화 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9778199054</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
             <content:encoded><![CDATA[26,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240107_21/1704615875865WQfmC_JPEG/105751774566749062_50483862.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 Lee-Tzsche - 5집 언젠가는 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9764716342</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9764716342</guid>
-            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240107_201/1704615402978fUd85_JPEG/105751301690397802_443089774.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 Lee-Tzsche - 4집 Begin (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9764706635</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9764706635</guid>
-            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240107_46/1704615066956txksr_JPEG/105750965663347361_2127920547.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
