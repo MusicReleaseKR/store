@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 09:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 10:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권진원 - Kwon Jin Won With Rob Van Bavel (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9783391022</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9783391022</guid>
+            <pubDate>Wed, 10 Jan 2024 10:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240110_125/1704881294138wHJrt_JPEG/106017121960279198_1287438406.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 마에스트라 Maestra (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9782905522</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
             <content:encoded><![CDATA[26,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240107_21/1704615875865WQfmC_JPEG/105751774566749062_50483862.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 Lee-Tzsche - 5집 언젠가는 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9764716342</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9764716342</guid>
-            <pubDate>Wed, 10 Jan 2024 09:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240107_201/1704615402978fUd85_JPEG/105751301690397802_443089774.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
