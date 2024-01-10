@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 12:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 13:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,14 +288,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20240108_105/1704694602534Toui5_JPEG/105830386246341205_1474739356.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[외인부대 - 1집 쥴리 (REMASTERED / LP MINIATURE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9765593571</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9765593571</guid>
-            <pubDate>Tue, 09 Jan 2024 12:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240108_230/1704641209490oVBMe_JPEG/105776993205468191_1887395322.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Treasure Land - Gateway (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9765418740</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9765418740</guid>
@@ -326,6 +318,14 @@
             <pubDate>Sun, 07 Jan 2024 13:20:29 GMT</pubDate>
             <content:encoded><![CDATA[2,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240107_79/1704633256483tttHC_JPEG/105769084312949101_614234096.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ani Difranco - Little Plastic Castle (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9765287220</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9765287220</guid>
+            <pubDate>Wed, 10 Jan 2024 13:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_185/1704632918684Gtb9T_JPEG/105768746501823347_457423148.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
