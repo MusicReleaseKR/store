@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 08:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 09:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,14 +110,6 @@
             <pubDate>Tue, 09 Jan 2024 12:35:40 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240108_157/1704723267576OaTPh_JPEG/105859110288744935_1073711739.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심규선 Lucia - 월령 (180G LP) [넘버링 & 사인반 랜덤 발송] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9771058508</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9771058508</guid>
-            <pubDate>Tue, 09 Jan 2024 01:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240108_235/1704720703395PJrC4_JPEG/105856592108654883_1328733978.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gza/genius - Liquid Swords (MARVEL Hip-Hop VARIANT COVERS) [SEAGLASS COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
             <content:encoded><![CDATA[26,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240107_21/1704615875865WQfmC_JPEG/105751774566749062_50483862.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상은 Lee-Tzsche - 5집 언젠가는 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9764716342</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9764716342</guid>
+            <pubDate>Wed, 10 Jan 2024 09:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_201/1704615402978fUd85_JPEG/105751301690397802_443089774.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
