@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 09:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 10:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto - ASYNC - REMODELS (180g 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9790031232</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9790031232</guid>
+            <pubDate>Thu, 11 Jan 2024 10:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[84,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240111_265/1704965971854qOozn_JPEG/106101805674369781_1127177777.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산울림 - 11집 그대 떠나는 날 비가 오는가 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9789080100</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 11:16:24 GMT</pubDate>
             <content:encoded><![CDATA[19,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240108_46/1704710167013C6TQx_JPEG/105846055721599259_2129087824.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana - In Utero (20TH ANNIVERSARY STANDARD EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9770297898</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9770297898</guid>
-            <pubDate>Mon, 08 Jan 2024 14:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220318_24/1647601441940IKlXK_JPEG/48737225656566229_796672124.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
