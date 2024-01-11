@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 06:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 07:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웅산 - 사랑, 그 그리움 3 [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9788868945</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9788868945</guid>
+            <pubDate>Thu, 11 Jan 2024 07:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240111_113/1704956444242corPh_JPEG/106092342949274043_1934423195.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리뎀션즈 Redemptions - The Redemptions (2CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9788372934</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240108_291/17046971109047yLFc_JPEG/105832945734954916_1141370665.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전유동 - 1집 관찰자로서의 숲 (140G BROWN COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9769373297</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9769373297</guid>
-            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240108_7/17046967654650QOVF_JPEG/105832600284157466_2082360272.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
