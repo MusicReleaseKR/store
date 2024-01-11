@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 13:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 14:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Swift - Evermore (DELUXE EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9790886776</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9790886776</guid>
+            <pubDate>Thu, 11 Jan 2024 14:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[23,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210624_103/1624485244584UMHb5_JPEG/25621079419289523_1116246266.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ryuichi Sakamoto - ASYNC - REMODELS (180g 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9790031232</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 11:16:24 GMT</pubDate>
             <content:encoded><![CDATA[27,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240108_207/1704710583371slmFw_JPEG/105846472069039564_1859681303.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Roy Buchanan - Sweet Dreams: The Anthology (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9770336137</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9770336137</guid>
-            <pubDate>Mon, 08 Jan 2024 11:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240108_46/1704710167013C6TQx_JPEG/105846055721599259_2129087824.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
