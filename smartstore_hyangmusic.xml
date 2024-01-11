@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 05:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 06:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리뎀션즈 Redemptions - The Redemptions (2CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9788372934</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9788372934</guid>
+            <pubDate>Thu, 11 Jan 2024 06:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[22,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240111_209/1704952678385QYcp0_JPEG/106088506210595213_1826834135.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실리카겔 Silicagel - 2집 Power Andre 99 (2CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9788068253</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9788068253</guid>
+            <pubDate>Thu, 11 Jan 2024 06:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[26,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240111_95/1704950325906CX8KS_JPEG/106086214599395576_193579772.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blue Mitchell - Bring It Home To Me (Blue Note Tone Poet Series) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9784306781</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240108_7/17046967654650QOVF_JPEG/105832600284157466_2082360272.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이씨엠 KCM - 우리들 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9769260741</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9769260741</guid>
-            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240108_125/1704695283997WMYnl_JPEG/105831067703628568_2062993361.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - 5집 동야동조 (2023 REMASTERED) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9769202223</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9769202223</guid>
-            <pubDate>Mon, 08 Jan 2024 06:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240108_105/1704694602534Toui5_JPEG/105830386246341205_1474739356.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
