@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 07:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 08:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산울림 - 11집 그대 떠나는 날 비가 오는가 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9789080100</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9789080100</guid>
+            <pubDate>Thu, 11 Jan 2024 08:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[46,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240111_58/1704957819368i1UHx_JPEG/106093662071192285_941372596.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 - 10집 너의 의미 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9789026788</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9789026788</guid>
+            <pubDate>Thu, 11 Jan 2024 08:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[46,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240111_102/1704957471111YnCdc_JPEG/106093313820656556_1924414520.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웅산 - 사랑, 그 그리움 3 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9788868945</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 14:18:15 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220318_24/1647601441940IKlXK_JPEG/48737225656566229_796672124.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Imagine Dragons - Evolve (DELUXE EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9769556474</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9769556474</guid>
-            <pubDate>Mon, 08 Jan 2024 08:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240108_268/17046988198690WCAv_JPEG/105834603578520651_1552217387.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김오키 Kimoki - Love Flower (180G OPAQUE PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9769438934</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9769438934</guid>
-            <pubDate>Mon, 08 Jan 2024 07:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240108_291/17046971109047yLFc_JPEG/105832945734954916_1141370665.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
