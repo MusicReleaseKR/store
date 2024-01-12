@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 12:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 13:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Santana - Supernatural (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9797447232</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9797447232</guid>
+            <pubDate>Fri, 12 Jan 2024 13:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230329_46/1680082334401binrI_JPEG/7385018273854889_1613689154.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift - Evermore (DELUXE EDITION) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9790886776</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 14:18:15 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240108_117/1704711197105Q8sqj_JPEG/105847085807287868_822745541.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stevie Wonder - Song Review: A Greatest Hits Collection (2CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9770369313</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9770369313</guid>
-            <pubDate>Mon, 08 Jan 2024 11:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[27,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240108_207/1704710583371slmFw_JPEG/105846472069039564_1859681303.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
