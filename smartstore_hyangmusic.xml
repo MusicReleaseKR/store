@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 15:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 16:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,12 +320,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20240110_125/1704893255562hwXVh_JPEG/106029089382178255_1978176433.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잔나비 Jannabi - 1집 Monkey Hotel (SPECIAL EDITION)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9784063427</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9784063427</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[75,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240110_10/1704891545932qu1jQ_JPEG/106027434642444732_467876623.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[Ibrahim Ferrer - Mi Sueno (Buena Vista Social Club Presents) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9783481130</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9783481130</guid>
+            <pubDate>Fri, 12 Jan 2024 16:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240110_125/1704883880821R9jPb_JPEG/106019714643509230_993334019.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
