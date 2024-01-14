@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 16:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 17:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Sun, 14 Jan 2024 12:32:48 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240114_88/1705233993970ifr0F_JPEG/106369821792304847_986768766.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장국영 - Endless Leslie (LESLIE BEST) [REMASTERED] (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9802699005</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9802699005</guid>
+            <pubDate>Sun, 14 Jan 2024 17:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240113_120/1705151042730e5Di0_JPEG/106286885439409912_1737045478.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Royal Philharmonic Orchestra - Best Of Classic Rock (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 11 Jan 2024 07:18:04 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240111_113/1704956444242corPh_JPEG/106092342949274043_1934423195.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리뎀션즈 Redemptions - The Redemptions (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9788372934</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9788372934</guid>
-            <pubDate>Thu, 11 Jan 2024 06:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_209/1704952678385QYcp0_JPEG/106088506210595213_1826834135.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
