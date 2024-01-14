@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 12:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 13:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Grant Green - Nigeria (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9807350076</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9807350076</guid>
+            <pubDate>Sun, 14 Jan 2024 13:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240114_196/1705236578530gqQDi_JPEG/106372477241053909_1711277117.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ike Quebec - Bossa Nova / Soul Samba (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9807299819</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9807299819</guid>
+            <pubDate>Sun, 14 Jan 2024 13:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240114_271/17052357246772rCO0_JPEG/106371552503276781_29083879.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Travis Scott - Astroworld (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9807281455</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9807281455</guid>
+            <pubDate>Sun, 14 Jan 2024 13:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240114_114/1705235336889ui7Xy_JPEG/106371164710361817_1131922300.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Bodyguard 보디가드 (RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9807261825</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 11 Jan 2024 06:24:17 GMT</pubDate>
             <content:encoded><![CDATA[22,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240111_209/1704952678385QYcp0_JPEG/106088506210595213_1826834135.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실리카겔 Silicagel - 2집 Power Andre 99 (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9788068253</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9788068253</guid>
-            <pubDate>Thu, 11 Jan 2024 06:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[26,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_95/1704950325906CX8KS_JPEG/106086214599395576_193579772.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blue Mitchell - Bring It Home To Me (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9784306781</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9784306781</guid>
-            <pubDate>Wed, 10 Jan 2024 14:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230518_103/1684410191160lRvln_JPEG/37777736161004065_1051572650.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk Trio - Thelonious Monk Trio (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9784292407</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9784292407</guid>
-            <pubDate>Wed, 10 Jan 2024 14:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240110_285/1704895107038ji6gJ_JPEG/106031002767944091_979270900.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
