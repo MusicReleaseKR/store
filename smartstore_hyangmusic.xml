@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 11:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 12:35:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Killers - Rebel Diamonds (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812552164</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812552164</guid>
+            <pubDate>Mon, 15 Jan 2024 12:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[72,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_252/1705318393401uz5bk_JPEG/106454236112508923_1784818903.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lukas Graham - Lukas Graham (4th Album) [180G PINK COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812505126</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812505126</guid>
+            <pubDate>Mon, 15 Jan 2024 12:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_251/1705317779343KdTrX_JPEG/106453675076004070_339616087.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lukas Graham - Lukas Graham (4th Album - The Pink Album) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812460760</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812460760</guid>
+            <pubDate>Mon, 15 Jan 2024 12:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[28,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_20/17053171825986NnDA_JPEG/106453025306579430_171691973.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lukas Graham - Lukas Graham (3rd Albumm - The Purple Album) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9812427340</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240112_147/17050479491089BSOK_JPEG/106183791823684155_1230736520.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney - Forever Turned Around (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9791053996</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9791053996</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[33,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_93/1704984162661B1c8v_JPEG/106120005367675568_1538581850.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Olivia Rodrigo - Sour (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9791039707</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9791039707</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_53/1704983858087j8gjY_JPEG/106119700803303482_664793695.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift - Evermore (DELUXE EDITION) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9790886776</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9790886776</guid>
-            <pubDate>Thu, 11 Jan 2024 14:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[23,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210624_103/1624485244584UMHb5_JPEG/25621079419289523_1116246266.jpeg?type=f140" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
