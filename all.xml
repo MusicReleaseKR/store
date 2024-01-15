@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 13:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 14:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ray Charles - The Genius Sings The Blues (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9813180837</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9813180837</guid>
+            <pubDate>Mon, 15 Jan 2024 14:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_187/1705327736721moln7_JPEG/32630420602884934_991648382.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grant Green - Idle Moments (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9813162608</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9813162608</guid>
+            <pubDate>Mon, 15 Jan 2024 14:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_74/1705327464509I4nfc_JPEG/32630148393426040_649166622.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grant Green - Green Street (180g LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9813143493</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9813143493</guid>
+            <pubDate>Mon, 15 Jan 2024 14:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_199/1705327177112yOLMw_JPEG/32629860933334141_281298817.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Art Farmer & Bill Evans - Modern Art (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9813085651</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9813085651</guid>
+            <pubDate>Mon, 15 Jan 2024 14:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_219/1705326393674B5x46_JPEG/106462282379406729_1875898377.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tony Bennett - I Left my heart in San Francisco (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9813021876</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9813021876</guid>
+            <pubDate>Mon, 15 Jan 2024 14:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[25,700]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_65/1705325565650Vzt7a_JPEG/106461349362476448_1789061417.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[B.B. King - King Of The Blues (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9812960227</link>
@@ -286,46 +326,6 @@
             <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240112_98/1705058162210qWBXk_JPEG/106193996026815093_1048733567.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Depeche Mode - Violator (2006 REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9796878100</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9796878100</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_5/1705057810486jWygN_JPEG/106193644307892153_1390151302.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay - A Rush Of Blood To The Head (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9796850942</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9796850942</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_81/1705057518739S26Y4_JPEG/106193352541139295_1466573147.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dave Brubeck Quartet - Time Out (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9796824885</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9796824885</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_19/1705057057644Lkymh_JPEG/106192891457155612_81855175.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blur - The Best Of Blur (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9796773042</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9796773042</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_62/1705056654343o2xxf_JPEG/106192488166136347_840536523.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ella Fitzgerald & Louis Armstrong - A Swingin' Christmas (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9795843909</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9795843909</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_238/1705048592946a9r8j_JPEG/106184435656665552_1851596492.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
