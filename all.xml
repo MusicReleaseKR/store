@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 12:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 13:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[B.B. King - King Of The Blues (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812960227</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812960227</guid>
+            <pubDate>Mon, 15 Jan 2024 13:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[25,700]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_136/1705324577916MBDJl_JPEG/106460473647117967_1601613571.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker - Chet Baker Sings (180G YELLOW COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812929767</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812929767</guid>
+            <pubDate>Mon, 15 Jan 2024 13:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[31,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231203_240/1701614511954Fb4jq_JPEG/1314655502311982_373281169.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Killers - Rebel Diamonds (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9812552164</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240112_238/1705048592946a9r8j_JPEG/106184435656665552_1851596492.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maroon 5 - Songs About Jane - 10th Anniversary Edition (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9795788156</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9795788156</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_132/1705048221295jDh9m_JPEG/106184064004516034_208812493.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maroon 5 - Hands All Over (Revised International Standard Version) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9795755447</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9795755447</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_147/17050479491089BSOK_JPEG/106183791823684155_1230736520.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
