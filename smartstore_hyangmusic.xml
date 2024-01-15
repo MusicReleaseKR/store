@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 09:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 10:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보이즈 인 더 키친 Boys In The Kitchen - 1집 - Out Of The Kitchen (180G PURPLE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812043378</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812043378</guid>
+            <pubDate>Mon, 15 Jan 2024 10:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_187/1705312016481z80qt_JPEG/106447800194209521_19973527.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기리보이 Giriboy - 10.5집 별책 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9811992218</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9811992218</guid>
+            <pubDate>Mon, 15 Jan 2024 10:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_203/1705311387341bbata_JPEG/106447286043824693_165454059.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[끝없는잔향속에서우리는 - 우연의 연속에 의한 필연 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9811951351</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9811951351</guid>
+            <pubDate>Mon, 15 Jan 2024 10:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_134/1705310818116ovj8x_JPEG/106446716808237350_2001433689.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grant Green - Nigeria (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9807350076</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 11 Jan 2024 10:20:21 GMT</pubDate>
             <content:encoded><![CDATA[84,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240111_265/1704965971854qOozn_JPEG/106101805674369781_1127177777.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 11집 그대 떠나는 날 비가 오는가 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9789080100</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9789080100</guid>
-            <pubDate>Thu, 11 Jan 2024 08:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[46,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_58/1704957819368i1UHx_JPEG/106093662071192285_941372596.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 10집 너의 의미 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9789026788</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9789026788</guid>
-            <pubDate>Thu, 11 Jan 2024 08:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[46,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_102/1704957471111YnCdc_JPEG/106093313820656556_1924414520.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웅산 - 사랑, 그 그리움 3 [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9788868945</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9788868945</guid>
-            <pubDate>Thu, 11 Jan 2024 07:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_113/1704956444242corPh_JPEG/106092342949274043_1934423195.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
