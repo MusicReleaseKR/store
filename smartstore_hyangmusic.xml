@@ -4,9 +4,65 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 10:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 11:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lukas Graham - Lukas Graham (3rd Albumm - The Purple Album) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812427340</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812427340</guid>
+            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[26,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_25/1705316792237sJY1p_JPEG/106452634949713258_344141139.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lukas Graham - Lukas Graham (2nd Album) [Alternative Cover LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812399655</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812399655</guid>
+            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_132/17053164884629qCa3_JPEG/106452331175666982_1774143805.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lukas Graham - Lukas Graham (1st Album) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812365952</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812365952</guid>
+            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[50,700]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_66/1705315750932gASyb_JPEG/106451593640156115_238347601.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lukas Graham - Lukas Graham (1st Album) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812348857</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812348857</guid>
+            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[26,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_66/1705315750932gASyb_JPEG/106451593640156115_238347601.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faye Webster - Underdressed at the Symphony (FAYE BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812311807</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812311807</guid>
+            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_9/1705315517156fWYz0_JPEG/106451359858087334_359332030.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faye Webster - Underdressed at the Symphony (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812302382</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812302382</guid>
+            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_40/1705315347354gUart_JPEG/106451190067753120_2014915893.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faye Webster - Underdressed at the Symphony (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9812288556</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9812288556</guid>
+            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_65/1705315018078XBdLK_JPEG/106450860773969145_28143508.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보이즈 인 더 키친 Boys In The Kitchen - 1집 - Out Of The Kitchen (180G PURPLE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9812043378</link>
@@ -270,62 +326,6 @@
             <pubDate>Thu, 11 Jan 2024 14:18:04 GMT</pubDate>
             <content:encoded><![CDATA[23,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210624_103/1624485244584UMHb5_JPEG/25621079419289523_1116246266.jpeg?type=f140" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[TOTO - TOTO IV (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9790875011</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9790875011</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[33,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_21/1704980249841eUTiU_JPEG/106116084675667059_704041012.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Jackson - Bad (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9790864808</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9790864808</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[28,600]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_207/1704979981453DsWv4_JPEG/106115816281855596_1768310042.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mariah Carey - MTV Unplugged (REMASTERED) [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9790853865</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9790853865</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[30,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_167/1704979741330nYDvD_JPEG/106115576166557173_103975481.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mariah Carey - Daydream (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9790843035</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9790843035</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[30,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_103/1704979491052P7AFb_JPEG/106115325886177137_1195601056.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Al Di Meola - Elegant Gypsy (REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9790791628</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9790791628</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_296/1704978298465PizCA_JPEG/106114133298853365_1874285193.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift - reputation (Special Edition Vol 1) [CD & MAGAZINE]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9790074514</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9790074514</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[33,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_122/170496674853520ve7_JPEG/106102637233810296_1793720230.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryuichi Sakamoto - ASYNC - REMODELS (180g 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9790031232</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9790031232</guid>
-            <pubDate>Thu, 11 Jan 2024 10:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[84,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240111_265/1704965971854qOozn_JPEG/106101805674369781_1127177777.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
