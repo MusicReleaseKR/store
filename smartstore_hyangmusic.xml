@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 10:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 11:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김창훈 - 1집 김창훈 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9819033207</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9819033207</guid>
+            <pubDate>Tue, 16 Jan 2024 11:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[46,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240116_34/1705403356846gb2OM_JPEG/106539136569826659_810346646.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ray Charles - The Genius Sings The Blues (180G COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9813180837</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240112_288/1705058514901zSVdH_JPEG/106194348723143361_2091455760.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bob Dylan - The Freewheelin' Bob Dylan (REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9796909607</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9796909607</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_98/1705058162210qWBXk_JPEG/106193996026815093_1048733567.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
