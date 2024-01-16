@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 13:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 14:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Janis Joplin - Greatest Hits (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9819972380</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9819972380</guid>
+            <pubDate>Tue, 16 Jan 2024 14:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[27,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240116_67/1705412924727RzTPa_JPEG/32715608602324967_1496918718.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Smashing Pumpkins - Mellon Collie And The Infinite Sadness (REMASTERED) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9819927332</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9819927332</guid>
+            <pubDate>Tue, 16 Jan 2024 14:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[27,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240116_25/1705412503569jkJAn_JPEG/32715187450935753_279895368.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tool - 10,000 Days (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9819893085</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9819893085</guid>
+            <pubDate>Tue, 16 Jan 2024 14:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240116_1/1705412254647OKxoL_JPEG/32714938526111729_875706802.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stevie Ray Vaughan And Double Trouble - Texas Flood (30TH ANNIVERSARY LEGACY EDITION) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9819860083</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9819860083</guid>
+            <pubDate>Tue, 16 Jan 2024 14:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[21,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240116_61/1705411931611KID52_JPEG/32714615497056333_1139562254.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Billie Holiday - Lady In Satin (REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9819821564</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9819821564</guid>
+            <pubDate>Tue, 16 Jan 2024 14:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240116_272/1705411532129Qkez5_JPEG/32714216007743685_2045352705.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Strokes - Room On Fire (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9819781227</link>
@@ -30,6 +70,14 @@
             <pubDate>Tue, 16 Jan 2024 11:15:55 GMT</pubDate>
             <content:encoded><![CDATA[46,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240116_34/1705403356846gb2OM_JPEG/106539136569826659_810346646.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤상 - 3집 - Cliche (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9813300717</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9813300717</guid>
+            <pubDate>Tue, 16 Jan 2024 14:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_281/17053294510559BX8k_JPEG/106465349766103438_518984729.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ray Charles - The Genius Sings The Blues (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -278,54 +326,6 @@
             <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
             <content:encoded><![CDATA[25,700]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240112_76/1705067302178NSTwu_JPEG/106203197911777757_2106594745.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Glenn Miller - In The Mood (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9797691275</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9797691275</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[25,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_131/1705067022167IGKlM_JPEG/106202917903511706_463224521.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Edith Piaf - La Vie En Rose (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9797669953</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9797669953</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[25,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_283/1705066731120qC05P_JPEG/106202626853007418_1359800276.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Royal Philharmonic Orchestra - Classic Love Songs (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9797620440</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9797620440</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[25,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_39/1705066080866fnjnB_JPEG/106201914682631521_1833805395.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BBC Concert Orchestra - Plays Disney (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9797587831</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9797587831</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[25,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_112/1705065568403TWWEd_JPEG/106201402218748606_310177467.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Santana - Supernatural (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9797447232</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9797447232</guid>
-            <pubDate>Fri, 12 Jan 2024 13:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[42,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230329_46/1680082334401binrI_JPEG/7385018273854889_1613689154.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Let it be (Special Edition) [2CD DELUXE EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9797420481</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9797420481</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_71/1705061020812DCSH1_JPEG/106196855649710663_1288755930.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
