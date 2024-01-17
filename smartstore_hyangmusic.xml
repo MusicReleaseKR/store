@@ -4,11 +4,19 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 08:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 09:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[김효은, 던말릭 Don Malik - 49 (예약주문 한정 사인 CD)]]></title>
+            <title><![CDATA[폴 블랑코 Paul Blanco - Thanks For Nothing (예약 한정 사인CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9827734802</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9827734802</guid>
+            <pubDate>Wed, 17 Jan 2024 09:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240117_150/1705482455115XGKYI_JPEG/32785138982101412_1878900147.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김효은, 던말릭 Don Malik - 49 (예약 한정 사인 CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9827267252</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9827267252</guid>
             <pubDate>Wed, 17 Jan 2024 08:24:14 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 14 Jan 2024 17:16:05 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240113_120/1705151042730e5Di0_JPEG/106286885439409912_1737045478.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Royal Philharmonic Orchestra - Best Of Classic Rock (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9797761411</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9797761411</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[25,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_211/1705067770943fYFVg_JPEG/106203666677120242_1662826934.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
