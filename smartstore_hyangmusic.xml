@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 09:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 10:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오오오 O.O.O - Garden (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9828018339</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9828018339</guid>
+            <pubDate>Wed, 17 Jan 2024 10:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240117_108/1705485489852HoID4_JPEG/106621317677891217_1097502586.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폴 블랑코 Paul Blanco - Thanks For Nothing (예약 한정 사인CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9827734802</link>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 14 Jan 2024 12:32:48 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240114_88/1705233993970ifr0F_JPEG/106369821792304847_986768766.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장국영 - Endless Leslie (LESLIE BEST) [REMASTERED] (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9802699005</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9802699005</guid>
-            <pubDate>Sun, 14 Jan 2024 17:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240113_120/1705151042730e5Di0_JPEG/106286885439409912_1737045478.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
