@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 10:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 11:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김윤아 - 4집 타인의 고통 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9828163492</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9828163492</guid>
+            <pubDate>Wed, 17 Jan 2024 11:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240117_53/1705487066525Krvud_JPEG/106622846251852433_154659999.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김윤아 - 3집 315360 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9828139335</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9828139335</guid>
+            <pubDate>Wed, 17 Jan 2024 11:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210217_20/1613504915598lJiRO_JPEG/14640699314864291_428971023.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[오오오 O.O.O - Garden (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9828018339</link>
@@ -310,22 +326,6 @@
             <pubDate>Sun, 14 Jan 2024 12:32:48 GMT</pubDate>
             <content:encoded><![CDATA[28,600]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240114_243/1705234630437wBqHE_JPEG/106370458265146963_632889678.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis - Round About Midnight (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9807223785</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9807223785</guid>
-            <pubDate>Sun, 14 Jan 2024 12:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[26,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240114_245/1705234392249iGpU3_JPEG/106370220074806714_1895361657.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lauryn Hill - The Miseducation Of Lauryn Hill (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9807209448</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9807209448</guid>
-            <pubDate>Sun, 14 Jan 2024 12:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240114_88/1705233993970ifr0F_JPEG/106369821792304847_986768766.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
