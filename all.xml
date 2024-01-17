@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 03:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 04:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mamas Gun - Cure the Jones (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9825044186</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9825044186</guid>
+            <pubDate>Wed, 17 Jan 2024 04:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240117_170/17054633266212kMX0_JPEG/106599222322180010_1978933275.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Janis Joplin - Greatest Hits (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9819972380</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
             <content:encoded><![CDATA[25,700]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240112_147/1705067497102n6uk4_JPEG/106203392837165709_1048264190.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chuck Berry - His Greatest Hits (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9797711979</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9797711979</guid>
-            <pubDate>Fri, 12 Jan 2024 14:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[25,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_76/1705067302178NSTwu_JPEG/106203197911777757_2106594745.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
