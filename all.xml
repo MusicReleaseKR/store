@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 15:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 16:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tom Waits - Swordfishtrombones (Remastered) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9838020072</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9838020072</guid>
+            <pubDate>Thu, 18 Jan 2024 16:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[55,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_297/1705593086478IMkQp_JPEG/106728975187274073_713227481.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tom Waits - Rain Dogs (REMASTERED) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9837988099</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9837988099</guid>
+            <pubDate>Thu, 18 Jan 2024 16:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[55,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_1/1705592736322SiVUS_JPEG/106728625033736067_1277829057.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tom Waits - Bone Machine (REMASTERED) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9837929130</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9837929130</guid>
+            <pubDate>Thu, 18 Jan 2024 16:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[55,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_34/1705592107092SbsN4_JPEG/106727949805579175_1046814358.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Tony Takitani - By Ryuichi Sakamoto (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9836350828</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240115_65/1705315018078XBdLK_JPEG/106450860773969145_28143508.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이즈 인 더 키친 Boys In The Kitchen - 1집 - Out Of The Kitchen (180G PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9812043378</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9812043378</guid>
-            <pubDate>Mon, 15 Jan 2024 10:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_187/1705312016481z80qt_JPEG/106447800194209521_19973527.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기리보이 Giriboy - 10.5집 별책 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9811992218</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9811992218</guid>
-            <pubDate>Mon, 15 Jan 2024 10:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_203/1705311387341bbata_JPEG/106447286043824693_165454059.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝없는잔향속에서우리는 - 우연의 연속에 의한 필연 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9811951351</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9811951351</guid>
-            <pubDate>Mon, 15 Jan 2024 10:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_134/1705310818116ovj8x_JPEG/106446716808237350_2001433689.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
