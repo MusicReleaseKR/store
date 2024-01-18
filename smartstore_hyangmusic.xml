@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 10:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 11:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Tony Takitani - By Ryuichi Sakamoto (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9836350828</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9836350828</guid>
+            <pubDate>Thu, 18 Jan 2024 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[24,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240118_197/17055749520046HaEL_JPEG/106710794717156063_485039953.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto - Esperanto (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9836324510</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9836324510</guid>
+            <pubDate>Thu, 18 Jan 2024 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240118_124/1705574567448CNUYC_JPEG/106710410152634952_1479154007.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Coltrane - Soultrane (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9835971750</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 15 Jan 2024 10:21:35 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240115_134/1705310818116ovj8x_JPEG/106446716808237350_2001433689.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grant Green - Nigeria (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9807350076</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9807350076</guid>
-            <pubDate>Sun, 14 Jan 2024 13:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240114_196/1705236578530gqQDi_JPEG/106372477241053909_1711277117.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ike Quebec - Bossa Nova / Soul Samba (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9807299819</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9807299819</guid>
-            <pubDate>Sun, 14 Jan 2024 13:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240114_271/17052357246772rCO0_JPEG/106371552503276781_29083879.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
