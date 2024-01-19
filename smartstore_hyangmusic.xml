@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 11:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 12:35:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nattura - Magic Key (180G BROWN COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9845398196</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9845398196</guid>
+            <pubDate>Fri, 19 Jan 2024 12:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_169/1705667511120lKX29_JPEG/106803338942111700_2063626730.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Jackson - Off The Wall (180G GATEFOLD LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9845062359</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9845062359</guid>
+            <pubDate>Fri, 19 Jan 2024 12:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[28,600]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_152/1705663662592tvxPk_JPEG/106799446309029025_2058522314.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keith Jarrett Trio - Still Live (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9845016163</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9845016163</guid>
+            <pubDate>Fri, 19 Jan 2024 12:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_237/1705665158837Vixvr_JPEG/106801001542624868_375162178.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성기완 - 1집 - 나무가 되는 법 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9844731994</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 16 Jan 2024 14:18:32 GMT</pubDate>
             <content:encoded><![CDATA[25,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240115_281/17053294510559BX8k_JPEG/106465349766103438_518984729.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ray Charles - The Genius Sings The Blues (180G COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9813180837</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9813180837</guid>
-            <pubDate>Mon, 15 Jan 2024 14:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_187/1705327736721moln7_JPEG/32630420602884934_991648382.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grant Green - Idle Moments (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9813162608</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9813162608</guid>
-            <pubDate>Mon, 15 Jan 2024 14:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_74/1705327464509I4nfc_JPEG/32630148393426040_649166622.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grant Green - Green Street (180g LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9813143493</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9813143493</guid>
-            <pubDate>Mon, 15 Jan 2024 14:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_199/1705327177112yOLMw_JPEG/32629860933334141_281298817.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
