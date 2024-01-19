@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 12:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 13:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김트리오 - 1집 연안부두 (LP MINIATURE) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9845470920</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9845470920</guid>
+            <pubDate>Fri, 19 Jan 2024 13:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_288/1705668242708MWgMQ_JPEG/106804070534272266_1279446988.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Serenity - Piece Of Mind (REMASTERED 180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9845430005</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9845430005</guid>
+            <pubDate>Fri, 19 Jan 2024 13:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_283/1705667865243Y3PbS_JPEG/106803693073945218_617245626.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nattura - Magic Key (180G BROWN COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9845398196</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 16 Jan 2024 11:15:55 GMT</pubDate>
             <content:encoded><![CDATA[46,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240116_34/1705403356846gb2OM_JPEG/106539136569826659_810346646.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝없는잔향속에서우리는 - 우연의 연속에 의한 필연 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9813326507</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9813326507</guid>
-            <pubDate>Fri, 19 Jan 2024 07:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_185/1705329807337jpwXC_JPEG/106465706047630965_1370819616.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤상 - 3집 - Cliche (2CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9813300717</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9813300717</guid>
-            <pubDate>Tue, 16 Jan 2024 14:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_281/17053294510559BX8k_JPEG/106465349766103438_518984729.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
