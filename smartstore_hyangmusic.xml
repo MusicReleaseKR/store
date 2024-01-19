@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 07:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 08:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나인 NINE9 - 2집 9colors (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9843825699</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9843825699</guid>
+            <pubDate>Fri, 19 Jan 2024 08:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_139/1705651575901ov7L9_JPEG/106787403730331927_905771492.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사우스카니발 South Carnival - 이어도사나 (7INCH LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9843770364</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9843770364</guid>
+            <pubDate>Fri, 19 Jan 2024 08:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_210/1705650909415sGBVu_JPEG/106786744243375177_1232761988.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[체리쉬 Cherish - 24/7 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9843702742</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9843702742</guid>
+            <pubDate>Fri, 19 Jan 2024 08:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[10,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_176/1705650049588gviUz_JPEG/106785948293064141_321374419.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tom Waits - Swordfishtrombones (Remastered) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9838020072</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
             <content:encoded><![CDATA[50,700]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240115_66/1705315750932gASyb_JPEG/106451593640156115_238347601.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lukas Graham - Lukas Graham (1st Album) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9812348857</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9812348857</guid>
-            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[26,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_66/1705315750932gASyb_JPEG/106451593640156115_238347601.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faye Webster - Underdressed at the Symphony (FAYE BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9812311807</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9812311807</guid>
-            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_9/1705315517156fWYz0_JPEG/106451359858087334_359332030.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faye Webster - Underdressed at the Symphony (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9812302382</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9812302382</guid>
-            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[38,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_40/1705315347354gUart_JPEG/106451190067753120_2014915893.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
