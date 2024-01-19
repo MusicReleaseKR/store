@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 06:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 07:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,6 +184,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20240116_34/1705403356846gb2OM_JPEG/106539136569826659_810346646.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[끝없는잔향속에서우리는 - 우연의 연속에 의한 필연 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9813326507</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9813326507</guid>
+            <pubDate>Fri, 19 Jan 2024 07:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_185/1705329807337jpwXC_JPEG/106465706047630965_1370819616.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤상 - 3집 - Cliche (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9813300717</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9813300717</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
             <content:encoded><![CDATA[38,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240115_40/1705315347354gUart_JPEG/106451190067753120_2014915893.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faye Webster - Underdressed at the Symphony (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9812288556</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9812288556</guid>
-            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_65/1705315018078XBdLK_JPEG/106450860773969145_28143508.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
