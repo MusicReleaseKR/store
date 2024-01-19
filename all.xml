@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 09:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 10:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박혜상 - Breathe (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9844654926</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9844654926</guid>
+            <pubDate>Fri, 19 Jan 2024 10:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_40/1705659221486hNE7a_JPEG/106795005199110216_1568407059.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 마이데몬 (CLEAR TRANSPARENT COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9844607470</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9844607470</guid>
+            <pubDate>Fri, 19 Jan 2024 10:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[51,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_2/1705658735050B6AB1_JPEG/106794518738232214_1884748766.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나인 NINE9 - 2집 9colors (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9843825699</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
             <content:encoded><![CDATA[26,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240115_25/1705316792237sJY1p_JPEG/106452634949713258_344141139.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lukas Graham - Lukas Graham (2nd Album) [Alternative Cover LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9812399655</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9812399655</guid>
-            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[53,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_132/17053164884629qCa3_JPEG/106452331175666982_1774143805.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lukas Graham - Lukas Graham (1st Album) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9812365952</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9812365952</guid>
-            <pubDate>Mon, 15 Jan 2024 11:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[50,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240115_66/1705315750932gASyb_JPEG/106451593640156115_238347601.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
