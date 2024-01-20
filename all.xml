@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jan 2024 10:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 11:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Playing The Heart (180G LP) [2021 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9852714174</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9852714174</guid>
+            <pubDate>Sat, 20 Jan 2024 11:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[42,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240120_28/17057491113714TcKp_JPEG/106884891091913873_378685745.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rage Against The Machine - The Battle Of Los Angeles (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9852114727</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 16 Jan 2024 13:22:25 GMT</pubDate>
             <content:encoded><![CDATA[33,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240116_227/17054112023826jKQj_JPEG/32713886262167252_430290143.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Strokes - Is This It (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9819757928</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9819757928</guid>
-            <pubDate>Tue, 16 Jan 2024 13:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[25,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240116_1/1705410957759pxGAY_JPEG/32713641637874711_2045951373.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
