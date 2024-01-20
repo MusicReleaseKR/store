@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jan 2024 13:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 14:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Northwind - Sister, Brother, Lover (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9853461697</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9853461697</guid>
+            <pubDate>Sat, 20 Jan 2024 14:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[34,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240120_88/1705759311061Ivrqx_JPEG/106895199766780851_1552599756.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snakes Alive - Snakes Alive (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9853407155</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9853407155</guid>
+            <pubDate>Sat, 20 Jan 2024 14:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240120_1/1705758438942JQJCv_JPEG/106894327655420134_2036231097.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Erica Morini 에리카 모리니 - 차이코프스키 바이올린 협주곡 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9853078866</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 19 Jan 2024 11:16:37 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240118_128/1705589680207AnQwm_JPEG/106725514024365519_305047998.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[J.J. Cale - Gold - Definitive Collection (REMASTERED) [2CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9836478553</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9836478553</guid>
-            <pubDate>Fri, 19 Jan 2024 11:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[23,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240118_226/17055762940618rVzy_JPEG/32878977941094713_984340615.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Tony Takitani - By Ryuichi Sakamoto (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9836350828</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9836350828</guid>
-            <pubDate>Thu, 18 Jan 2024 11:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[24,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240118_197/17055749520046HaEL_JPEG/106710794717156063_485039953.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
