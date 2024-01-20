@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jan 2024 12:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 13:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Erica Morini 에리카 모리니 - 차이코프스키 바이올린 협주곡 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9853078866</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9853078866</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[42,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240120_183/1705753791572NoPNN_JPEG/106889619403704668_47235256.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lili Kraus 릴리 크라우스 - 모차르트 피아노 소나타 전집, 3집 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9852867265</link>
@@ -64,6 +72,54 @@
             <enclosure url="https://shop-phinf.pstatic.net/20240120_211/1705741702867BM5RC_JPEG/106877486584223710_120861002.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kraftwerk - Radio-Activity (REMASTERED) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9852088358</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9852088358</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240120_279/1705741409191kMtTx_JPEG/106877192904990974_448216450.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeff Beck - Wired (REMASTERED) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9851957412</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9851957412</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240120_237/1705740134541TmybQ_JPEG/106875914264873246_131123224.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iron Maiden - Somewhere In Time (2015 REMASTERED) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9851922499</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9851922499</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240120_24/1705739913884lgPwa_JPEG/106875693608398194_657579082.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iron Maiden - The Number Of The Beast (2015 REMASTERED) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9851885921</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9851885921</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240120_131/1705739530218zMVJk_JPEG/106875309934053746_2143938066.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fugees - The Score (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9851692174</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9851692174</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240120_99/1705737696747TQ79n_JPEG/33040380628057960_954330760.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Europe - The Final Countdown (REMASTERED) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9851635595</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9851635595</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240120_189/1705737109659zBszs_JPEG/106873005394802820_241479820.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김트리오 - 1집 연안부두 (LP MINIATURE) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9845470920</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9845470920</guid>
@@ -80,12 +136,60 @@
             <enclosure url="https://shop-phinf.pstatic.net/20240119_283/1705667865243Y3PbS_JPEG/106803693073945218_617245626.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Nattura - Magic Key (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9845407350</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9845407350</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_169/1705667511120lKX29_JPEG/106803338942111700_2063626730.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nattura - Magic Key (180G BROWN COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9845398196</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9845398196</guid>
             <pubDate>Fri, 19 Jan 2024 12:35:03 GMT</pubDate>
             <content:encoded><![CDATA[41,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240119_169/1705667511120lKX29_JPEG/106803338942111700_2063626730.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위퍼 Weeper - 1집 Weeper (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9845370838</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9845370838</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_144/1705667178458bu4aB_JPEG/106803006281913083_1883214647.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙신드롬 Black Syndrome - Zarathustra (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9845329577</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9845329577</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_211/17056667844464QcfG_JPEG/106802673149862864_634286013.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis - The Masterplan (25TH ANNIVERSARY EDITION) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9845302742</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9845302742</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_130/1705666472763mOJFW_JPEG/106802361477536462_210559752.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis - Be Here Now (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9845273546</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9845273546</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_5/1705666073740VTrdL_JPEG/106801962444989507_801733651.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thin Lizzy - Life - Live (2CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9845241799</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9845241799</guid>
+            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[28,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_130/17056658198206XEO9_JPEG/106801708535424141_248912844.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Michael Jackson - Off The Wall (180G GATEFOLD LP)]]></title>
@@ -222,110 +326,6 @@
             <pubDate>Thu, 18 Jan 2024 11:16:19 GMT</pubDate>
             <content:encoded><![CDATA[24,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240118_197/17055749520046HaEL_JPEG/106710794717156063_485039953.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryuichi Sakamoto - Esperanto (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9836324510</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9836324510</guid>
-            <pubDate>Thu, 18 Jan 2024 11:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[54,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240118_124/1705574567448CNUYC_JPEG/106710410152634952_1479154007.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Coltrane - Soultrane (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9835971750</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9835971750</guid>
-            <pubDate>Thu, 18 Jan 2024 10:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[37,200]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240118_4/1705570732789inoX7_JPEG/106706628527543581_315163379.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio - Moon Beams (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9835942028</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9835942028</guid>
-            <pubDate>Thu, 18 Jan 2024 10:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[37,200]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240118_182/1705570407925mduck_JPEG/106706303663691285_1827532304.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김두수 - 고요를 위하여 (2LP) [일반반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9833998304</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9833998304</guid>
-            <pubDate>Thu, 18 Jan 2024 05:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[74,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240118_163/1705554450207nCpBz_JPEG/106690229914815366_1677026515.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 Jaurim - 10집 자우림 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9828356026</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9828356026</guid>
-            <pubDate>Fri, 19 Jan 2024 11:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220329_244/16485310417140tkc5_JPEG/49666821214233957_1499465666.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 Jaurim - 8집 陰謀論 (음모론) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9828194823</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9828194823</guid>
-            <pubDate>Fri, 19 Jan 2024 11:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240117_205/1705487365786c9X8l_JPEG/106623145512177188_1203735676.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김윤아 - 4집 타인의 고통 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9828163492</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9828163492</guid>
-            <pubDate>Wed, 17 Jan 2024 11:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240117_53/1705487066525Krvud_JPEG/106622846251852433_154659999.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김윤아 - 3집 315360 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9828139335</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9828139335</guid>
-            <pubDate>Wed, 17 Jan 2024 11:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210217_20/1613504915598lJiRO_JPEG/14640699314864291_428971023.jpeg?type=f140" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[오오오 O.O.O - Garden (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9828018339</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9828018339</guid>
-            <pubDate>Wed, 17 Jan 2024 10:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240117_108/1705485489852HoID4_JPEG/106621317677891217_1097502586.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴 블랑코 Paul Blanco - Thanks For Nothing (예약 한정 사인CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9827734802</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9827734802</guid>
-            <pubDate>Wed, 17 Jan 2024 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240117_150/1705482455115XGKYI_JPEG/32785138982101412_1878900147.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김효은, 던말릭 Don Malik - 49 (예약 한정 사인 CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9827267252</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9827267252</guid>
-            <pubDate>Wed, 17 Jan 2024 08:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240117_168/17054789780408uNhc_JPEG/106614820739224641_750053763.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mamas Gun - Cure the Jones (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9825044186</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9825044186</guid>
-            <pubDate>Wed, 17 Jan 2024 04:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[42,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240117_170/17054633266212kMX0_JPEG/106599222322180010_1978933275.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Janis Joplin - Greatest Hits (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9819972380</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9819972380</guid>
-            <pubDate>Tue, 16 Jan 2024 14:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[27,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240116_67/1705412924727RzTPa_JPEG/32715608602324967_1496918718.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
