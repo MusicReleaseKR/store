@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 08:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 09:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뚜와에무와 - 3집 어여쁜 나의 님, 추억, 세월은 가도 (150G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9866642590</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9866642590</guid>
+            <pubDate>Mon, 22 Jan 2024 09:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240122_177/1705911886456Oc9MO_JPEG/107047782190075933_1081676662.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뚜와에무와 - 2집 그리운 사람끼리, 너와 나의 집 (150G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9866613104</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9866613104</guid>
+            <pubDate>Mon, 22 Jan 2024 09:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240122_266/17059125702634vHUj_JPEG/107048468960609567_2137668167.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뚜와에무와 - 1집 스카브로우의 추억, 약속 (150G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9866533641</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9866533641</guid>
+            <pubDate>Mon, 22 Jan 2024 09:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240122_128/1705912588008cmfuD_JPEG/107048486710614776_1270297310.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생각의 여름 - 시냇가 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9866414523</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 18 Jan 2024 16:24:07 GMT</pubDate>
             <content:encoded><![CDATA[55,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240119_1/1705592736322SiVUS_JPEG/106728625033736067_1277829057.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tom Waits - Bone Machine (REMASTERED) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9837929130</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9837929130</guid>
-            <pubDate>Thu, 18 Jan 2024 16:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[55,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_34/1705592107092SbsN4_JPEG/106727949805579175_1046814358.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stevie Wonder - Innervisions (REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9837763700</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9837763700</guid>
-            <pubDate>Fri, 19 Jan 2024 11:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_107/1705590396487bu6bs_JPEG/106726230308662563_1828131746.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[James Brown - Live At The Apollo 1962 (EXPANDED & REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9837731211</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9837731211</guid>
-            <pubDate>Fri, 19 Jan 2024 11:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_276/1705590133247hVsDc_JPEG/106725967067389635_868502698.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
