@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 11:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 12:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연리목 - 연리목 소곡집 20 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9875610041</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9875610041</guid>
+            <pubDate>Tue, 23 Jan 2024 12:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240123_225/1706010675149PFXVK_JPEG/107146508948438453_1137064466.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옥천 - 비상 (飛上) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9875570281</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9875570281</guid>
+            <pubDate>Tue, 23 Jan 2024 12:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240123_136/1706010214507PSWtQ_JPEG/107146048324489892_1358624627.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뚜와에무와 - 3집 어여쁜 나의 님, 추억, 세월은 가도 (150G COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9866642590</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 19 Jan 2024 08:24:20 GMT</pubDate>
             <content:encoded><![CDATA[10,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240119_176/1705650049588gviUz_JPEG/106785948293064141_321374419.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tom Waits - Swordfishtrombones (Remastered) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9838020072</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9838020072</guid>
-            <pubDate>Thu, 18 Jan 2024 16:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[55,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_297/1705593086478IMkQp_JPEG/106728975187274073_713227481.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tom Waits - Rain Dogs (REMASTERED) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9837988099</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9837988099</guid>
-            <pubDate>Thu, 18 Jan 2024 16:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[55,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_1/1705592736322SiVUS_JPEG/106728625033736067_1277829057.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
