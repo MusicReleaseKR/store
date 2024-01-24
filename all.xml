@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 13:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 14:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Dirty Dancing 더티 댄싱 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9884398468</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9884398468</guid>
+            <pubDate>Wed, 24 Jan 2024 14:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[26,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240124_168/1706105180787AJ3vb_JPEG/33407864667703854_190932581.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연리목 - 연리목 소곡집 20 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9875610041</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 19 Jan 2024 08:24:20 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240119_210/1705650909415sGBVu_JPEG/106786744243375177_1232761988.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체리쉬 Cherish - 24/7 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9843702742</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9843702742</guid>
-            <pubDate>Fri, 19 Jan 2024 08:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[10,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_176/1705650049588gviUz_JPEG/106785948293064141_321374419.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
