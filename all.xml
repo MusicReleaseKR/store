@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 03:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 04:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Roy Budd 로이버드 - The Marseille Contract (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9887149291</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9887149291</guid>
+            <pubDate>Thu, 25 Jan 2024 04:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240125_227/1706153764634I0eQt_JPEG/107289660368738206_1069455049.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Dirty Dancing 더티 댄싱 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9884398468</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 19 Jan 2024 08:24:20 GMT</pubDate>
             <content:encoded><![CDATA[60,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240119_139/1705651575901ov7L9_JPEG/106787403730331927_905771492.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사우스카니발 South Carnival - 이어도사나 (7INCH LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9843770364</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9843770364</guid>
-            <pubDate>Fri, 19 Jan 2024 08:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_210/1705650909415sGBVu_JPEG/106786744243375177_1232761988.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
