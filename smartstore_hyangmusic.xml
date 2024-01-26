@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 08:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 09:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Norah Jones - ...Little Broken Hearts (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9891043121</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9891043121</guid>
+            <pubDate>Fri, 26 Jan 2024 09:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_123/1706259269948r4tIW_JPEG/107395104779019690_1211442568.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백하나 - Midnight Waltz (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9890015371</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 19 Jan 2024 11:16:37 GMT</pubDate>
             <content:encoded><![CDATA[13,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240119_294/1705660054099T2Idh_JPEG/106795837818269399_2069149533.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해피돌스 The Happy Dolls - Show Album No.1 (140G LP) [2015 서울레코드페어 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9844693496</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9844693496</guid>
-            <pubDate>Fri, 19 Jan 2024 11:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_227/1705659644199WWun3_JPEG/106795427918050518_2085248043.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
