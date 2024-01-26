@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 10:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 11:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남재섭 - 1집 남재섭 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9891390014</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9891390014</guid>
+            <pubDate>Fri, 26 Jan 2024 11:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_9/1706266642267zjzPb_JPEG/107402530981711742_796078145.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전유동 - 2집 나는 그걸 사랑이라 불러 자주 안 쓰는 말이지만 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9891370962</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9891370962</guid>
+            <pubDate>Fri, 26 Jan 2024 11:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[23,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_167/17062661399570XRvc_JPEG/107402028670635613_979496823.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이콜드 Boycold - Sick of Love (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9891347084</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9891347084</guid>
+            <pubDate>Fri, 26 Jan 2024 11:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_38/1706265390414xK0g2_JPEG/107401225246736258_390094018.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Norah Jones - ...Little Broken Hearts (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9891043121</link>
@@ -302,30 +326,6 @@
             <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
             <content:encoded><![CDATA[28,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240119_130/17056658198206XEO9_JPEG/106801708535424141_248912844.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Jackson - Off The Wall (180G GATEFOLD LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9845062359</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9845062359</guid>
-            <pubDate>Fri, 19 Jan 2024 12:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[28,600]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_152/1705663662592tvxPk_JPEG/106799446309029025_2058522314.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keith Jarrett Trio - Still Live (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9845016163</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9845016163</guid>
-            <pubDate>Fri, 19 Jan 2024 12:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[52,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_237/1705665158837Vixvr_JPEG/106801001542624868_375162178.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성기완 - 1집 - 나무가 되는 법 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9844731994</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9844731994</guid>
-            <pubDate>Fri, 19 Jan 2024 11:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_294/1705660054099T2Idh_JPEG/106795837818269399_2069149533.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
