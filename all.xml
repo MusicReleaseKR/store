@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 11:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 12:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생각의 여름 - 3집 다시 숲 속으로 (재발매) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9891429136</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9891429136</guid>
+            <pubDate>Fri, 26 Jan 2024 12:31:39 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_74/1706267565314pzV5o_JPEG/107403454029491109_1116511359.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남재섭 - 1집 남재섭 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9891390014</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240119_5/1705666073740VTrdL_JPEG/106801962444989507_801733651.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thin Lizzy - Life - Live (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9845241799</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9845241799</guid>
-            <pubDate>Sat, 20 Jan 2024 13:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[28,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_130/17056658198206XEO9_JPEG/106801708535424141_248912844.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
