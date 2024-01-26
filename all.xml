@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 02:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 03:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백하나 - Midnight Waltz (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9890015371</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9890015371</guid>
+            <pubDate>Fri, 26 Jan 2024 03:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[10,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_148/1706238113633tlxDV_JPEG/107373948463272406_1543907825.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 투트랙 프로젝트 Two Tracks Project - Season 2 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9889966632</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9889966632</guid>
+            <pubDate>Fri, 26 Jan 2024 03:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_248/170623677600922K36_JPEG/107372618722537511_822903576.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신촌블루스 - Acoustic Live (40TH ANNIVERSARY EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9888028651</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 19 Jan 2024 11:16:37 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240119_227/1705659644199WWun3_JPEG/106795427918050518_2085248043.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박혜상 - Breathe (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9844654926</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9844654926</guid>
-            <pubDate>Fri, 19 Jan 2024 10:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_40/1705659221486hNE7a_JPEG/106795005199110216_1568407059.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 마이데몬 (CLEAR TRANSPARENT COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9844607470</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9844607470</guid>
-            <pubDate>Fri, 19 Jan 2024 10:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[51,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240119_2/1705658735050B6AB1_JPEG/106794518738232214_1884748766.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
