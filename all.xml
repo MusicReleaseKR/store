@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 14:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 15:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sheena Ringo - 역수입 ~항공국~ (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9892003942</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9892003942</guid>
+            <pubDate>Fri, 26 Jan 2024 15:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_15/1706279338883lYTdM_JPEG/107415118602015440_1379342493.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sheena Ringo - 역수입 ~항만국~ (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9891990585</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9891990585</guid>
+            <pubDate>Fri, 26 Jan 2024 15:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_209/1706279747762dlM7R_JPEG/107415575590245369_1960918297.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yusef Lateef - Eastern Sounds (Craft Recordings' Original Jazz Classic Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9891887021</link>
@@ -54,6 +70,14 @@
             <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240126_163/1706275196071qPMbJ_JPEG/107410979781100659_1045209646.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루시드 폴 Lucid Fall - 물고기 마음 (BOOK) & Single CD (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9891777339</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9891777339</guid>
+            <pubDate>Fri, 26 Jan 2024 15:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[30,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_124/1706274676411PdiO6_JPEG/107410504229208328_997999674.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허민 - 1집 Vanilla Shake (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240122_170/1705923453623fPqt2_JPEG/107059288452039083_2015404243.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica - Ride The Lightning (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9867506483</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9867506483</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230509_33/1683629687053RlO6p_JPEG/1794810383443205_1553514380.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica - Metallica (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9867482862</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9867482862</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240122_33/17059228605786htVm_JPEG/107058695415376931_1944788984.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jimi Hendrix Experience - Are You Experienced (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9867448646</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9867448646</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240122_298/1705922378332jdWst_JPEG/107058213164746687_1844134488.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
