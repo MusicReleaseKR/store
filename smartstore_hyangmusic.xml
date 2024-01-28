@@ -4,14 +4,38 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 11:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 12:29:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[LANY - Mama's Boy (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9896549180</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9896549180</guid>
+            <pubDate>Sun, 28 Jan 2024 12:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[23,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240128_122/1706443255106wEDTu_JPEG/107579034825154781_1057511662.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift - Red (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9896543160</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9896543160</guid>
+            <pubDate>Sun, 28 Jan 2024 12:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[23,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240128_33/1706442972453zLnmg_JPEG/107578752173421621_1431944558.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키보이스 - 화제의 총아 키보이스 힛트앨범 (LP MINIATURE) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9896501481</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9896501481</guid>
+            <pubDate>Sun, 28 Jan 2024 12:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240128_29/17064414466136bq48_JPEG/107577345324485036_1767878272.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김지연과 리바이블크로스 - 내 마음 흔들려 (LP MINIATURE) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9896315244</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9896315244</guid>
-            <pubDate>Sun, 28 Jan 2024 10:18:26 GMT</pubDate>
+            <link>https://smartstore.naver.com/hyangmusic/products/9896489029</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9896489029</guid>
+            <pubDate>Sun, 28 Jan 2024 12:29:27 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240128_18/1706434467800pqYgg_JPEG/107570356514232667_1165242745.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240124_250/17061071431349dFJk_JPEG/33409827019834385_742902720.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TOTO - Toto IV (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9884517106</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9884517106</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240124_156/1706106819747rqBof_JPEG/33409503628043691_1366958932.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tyler, The Creator - Flower Boy (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9884495048</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9884495048</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[20,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240124_143/1706106522058QWUiC_JPEG/33409205937717210_1619305011.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Megadeth - So Far, So Good... So What! (REMIXED & REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9884474458</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9884474458</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240124_203/1706106232632wpYFx_JPEG/33408916515964255_1350171694.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
