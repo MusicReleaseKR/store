@@ -4,9 +4,41 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 09:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 10:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김지연과 리바이블크로스 - 내 마음 흔들려 (LP MINIATURE) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9896315244</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9896315244</guid>
+            <pubDate>Sun, 28 Jan 2024 10:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240128_18/1706434467800pqYgg_JPEG/107570356514232667_1165242745.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[히식스 - 인기 정상을 달리는 여러분의 히식스 (LP MINIATURE) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9896309158</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9896309158</guid>
+            <pubDate>Sun, 28 Jan 2024 10:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240128_279/1706434173443sle3U_JPEG/107570062151784684_269305406.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Lamar - Damn (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9896302992</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9896302992</guid>
+            <pubDate>Sun, 28 Jan 2024 10:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231126_222/1701010468590XENzX_JPEG/14375405292349651_1742820578.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Sing Street 싱 스트리트 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9896294899</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9896294899</guid>
+            <pubDate>Sun, 28 Jan 2024 10:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240128_62/1706433430729CFK6u_JPEG/107569319437029152_544077609.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rhye - Woman (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9896287414</link>
@@ -294,38 +326,6 @@
             <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240124_203/1706106232632wpYFx_JPEG/33408916515964255_1350171694.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica - Kill 'Em All (2016 REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9884455458</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9884455458</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240124_213/1706105964927aiJoc_JPEG/33408648807759132_1011484082.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Megadeth - Countdown To Extinction (REMIXED & REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9884434608</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9884434608</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240124_103/1706105693586WyJ9H_JPEG/33408377470576219_1556499023.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Dirty Dancing 더티 댄싱 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9884398468</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9884398468</guid>
-            <pubDate>Wed, 24 Jan 2024 14:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[26,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240124_168/1706105180787AJ3vb_JPEG/33407864667703854_190932581.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wu-tang Clan - Enter The Wu-tang: 36 Chambers (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9884378784</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9884378784</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240124_42/1706104873859JK2be_JPEG/33407557736676303_1700615552.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
