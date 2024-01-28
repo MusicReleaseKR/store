@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 08:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 09:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rhye - Woman (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9896287414</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9896287414</guid>
+            <pubDate>Sun, 28 Jan 2024 09:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240128_275/1706433031440BUMdY_JPEG/107568920151190917_156333655.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sam Smith - The Thrill Of It All (Special Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9894641017</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240124_42/1706104873859JK2be_JPEG/33407557736676303_1700615552.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pat Metheny Group - First Circle (TOUCHSTONE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9883999394</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9883999394</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[17,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240124_129/1706099185537G80j1_JPEG/107235074248971064_1093866236.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
