@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 08:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 09:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동이 dongyi - 날초소 분석법 (180G LP) [고음질 음원 DOWN CODE]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9898808611</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9898808611</guid>
+            <pubDate>Mon, 29 Jan 2024 09:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240129_187/17065184764137savv_JPEG/107654310234070733_903898409.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LANY - Mama's Boy (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9896549180</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 25 Jan 2024 04:23:38 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240125_227/1706153764634I0eQt_JPEG/107289660368738206_1069455049.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tool - Undertow (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9884547793</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9884547793</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240124_250/17061071431349dFJk_JPEG/33409827019834385_742902720.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
