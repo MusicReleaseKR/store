@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 07:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 08:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유 IU - The Winning - I win ver. + U win ver. (6th Mini Album) [합본 CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9904694954</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9904694954</guid>
+            <pubDate>Wed, 31 Jan 2024 08:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[38,950]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240131_53/1706679481692beEU1_JPEG/107815370390964650_775926875.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유 IU - The Winning - U win ver. (6th Mini Album) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9904685667</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9904685667</guid>
+            <pubDate>Wed, 31 Jan 2024 08:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[19,470]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240131_114/1706679289097rsJIj_JPEG/107815177769110598_1139563610.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유 IU - The Winning - I win ver. (6th Mini Album) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9904673937</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9904673937</guid>
+            <pubDate>Wed, 31 Jan 2024 08:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[19,470]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240131_11/1706678810184axzdJ_JPEG/107814698854308718_2060496299.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산울림 - Evening Breeze (180G 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9902135126</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 26 Jan 2024 11:14:47 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240126_38/1706265390414xK0g2_JPEG/107401225246736258_390094018.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽구스 Mongoose - 1집 Early Hits Of The Mongoose (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891307766</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891307766</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_182/1706264705227EEMPJ_JPEG/107400539048091334_1867599260.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네눈박이 나무밑 쑤시기 - 1집 네눈박이 나무밑 쑤시기 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891284699</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891284699</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_1/1706264161535EpO25_JPEG/107399995356956482_1749539098.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norah Jones - ...Little Broken Hearts (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891043121</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891043121</guid>
-            <pubDate>Fri, 26 Jan 2024 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_123/1706259269948r4tIW_JPEG/107395104779019690_1211442568.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
