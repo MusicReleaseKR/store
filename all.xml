@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 11:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 12:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Sun, 28 Jan 2024 12:29:27 GMT</pubDate>
             <content:encoded><![CDATA[23,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240128_33/1706442972453zLnmg_JPEG/107578752173421621_1431944558.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LANY - Malibu Nights (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9896532047</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9896532047</guid>
+            <pubDate>Wed, 31 Jan 2024 12:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[23,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240128_69/1706442558172xr0KP_JPEG/107578337894877562_2087138922.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Seoul Seoul Seoul (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9896522305</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9896522305</guid>
+            <pubDate>Wed, 31 Jan 2024 12:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240128_245/1706442058704U3Dek_JPEG/107577838422480743_943799877.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키보이스 - 화제의 총아 키보이스 힛트앨범 (LP MINIATURE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -200,6 +216,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20240127_264/1706336368773qowc4_JPEG/107472257479394368_2072824949.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Onitsuka Chihiro - Insomnia (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9892036750</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9892036750</guid>
+            <pubDate>Wed, 31 Jan 2024 12:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[77,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_145/1706280843504LelnM_JPEG/107416671332051519_816136755.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Onitsuka Chihiro - Sugar High (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9892027976</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9892027976</guid>
+            <pubDate>Wed, 31 Jan 2024 12:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_187/1706280501514QsoKK_JPEG/107416329337544861_1060287988.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Onitsuka Chihiro - This Armor (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9892016528</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9892016528</guid>
+            <pubDate>Wed, 31 Jan 2024 12:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240126_237/1706280208432iBkP1_JPEG/107416036254624996_635391260.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sheena Ringo - 역수입 ~항공국~ (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9892003942</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9892003942</guid>
@@ -286,46 +326,6 @@
             <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240126_99/1706268202071QHkxx_JPEG/107404035890475037_1895552917.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포니 Pony - 1집 Pony (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891445103</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891445103</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_102/1706268009755oJa43_JPEG/107403843576143604_1193280307.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생각의 여름 - 3집 다시 숲 속으로 (재발매) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891429136</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891429136</guid>
-            <pubDate>Fri, 26 Jan 2024 12:31:39 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_74/1706267565314pzV5o_JPEG/107403454029491109_1116511359.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남재섭 - 1집 남재섭 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891390014</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891390014</guid>
-            <pubDate>Fri, 26 Jan 2024 11:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_9/1706266642267zjzPb_JPEG/107402530981711742_796078145.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전유동 - 2집 나는 그걸 사랑이라 불러 자주 안 쓰는 말이지만 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891370962</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891370962</guid>
-            <pubDate>Fri, 26 Jan 2024 11:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[23,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_167/17062661399570XRvc_JPEG/107402028670635613_979496823.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이콜드 Boycold - Sick of Love (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891347084</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891347084</guid>
-            <pubDate>Fri, 26 Jan 2024 11:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_38/1706265390414xK0g2_JPEG/107401225246736258_390094018.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
