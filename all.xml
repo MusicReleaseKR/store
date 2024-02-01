@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 08:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 09:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 클래식 The Classic - 3집 해피아-워 (SMOKY GREEN COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9908833381</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9908833381</guid>
+            <pubDate>Thu, 01 Feb 2024 09:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240201_15/1706776690140IzYRP_JPEG/107912585867554104_1078317260.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 클래식 The Classic - 2집 여우야 (OPAQUE RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9908811393</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9908811393</guid>
+            <pubDate>Thu, 01 Feb 2024 09:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240201_231/1706776264068dT6dR_JPEG/107912159783377242_1283651648.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나윤선 - 12집 Elles (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9908318192</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 31 Jan 2024 12:31:59 GMT</pubDate>
             <content:encoded><![CDATA[62,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240126_237/1706280208432iBkP1_JPEG/107416036254624996_635391260.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sheena Ringo - 역수입 ~항공국~ (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9892003942</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9892003942</guid>
-            <pubDate>Fri, 26 Jan 2024 15:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_15/1706279338883lYTdM_JPEG/107415118602015440_1379342493.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sheena Ringo - 역수입 ~항만국~ (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891990585</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891990585</guid>
-            <pubDate>Fri, 26 Jan 2024 15:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_209/1706279747762dlM7R_JPEG/107415575590245369_1960918297.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
