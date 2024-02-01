@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 05:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 06:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나윤선 - 12집 Elles (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9908318192</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9908318192</guid>
+            <pubDate>Thu, 01 Feb 2024 06:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[51,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240201_170/1706767736441szdkj_JPEG/34070420306371075_1582953739.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나윤선 - 12집 Elles (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9908294248</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9908294248</guid>
+            <pubDate>Thu, 01 Feb 2024 06:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240201_170/1706767736441szdkj_JPEG/34070420306371075_1582953739.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 연인 (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9907726546</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 26 Jan 2024 15:18:11 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240126_209/1706279747762dlM7R_JPEG/107415575590245369_1960918297.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yusef Lateef - Eastern Sounds (Craft Recordings' Original Jazz Classic Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891887021</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891887021</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_168/1706276818679UpbOM_JPEG/107412602393487655_120074282.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elvin Jones - Poly-Currents (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891870898</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891870898</guid>
-            <pubDate>Fri, 26 Jan 2024 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_44/1706276566384i0ija_JPEG/107412350101763354_405423262.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
