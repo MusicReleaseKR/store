@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 07:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 08:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박신덕 - 김창완이 쓴 박신덕의 새 노래들 (DARK GREEN COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9912349197</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9912349197</guid>
+            <pubDate>Fri, 02 Feb 2024 08:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240202_70/1706861982514bCaPt_JPEG/107997817342808694_488155126.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박신덕 - 김창완이 쓴 박신덕의 새 노래들 (초반 재킷 버전) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9912342722</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9912342722</guid>
+            <pubDate>Fri, 02 Feb 2024 08:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240202_55/1706861729073ivE01_JPEG/107997563877498511_30502109.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정지은 - 1집 I'll Be There (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9912275040</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9912275040</guid>
+            <pubDate>Fri, 02 Feb 2024 08:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240202_214/1706860554102gTLNn_JPEG/34163237977936583_33404776.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 클래식 The Classic - 3집 해피아-워 (SMOKY GREEN COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9908833381</link>
@@ -302,30 +326,6 @@
             <pubDate>Sat, 27 Jan 2024 07:16:53 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240127_264/1706336368773qowc4_JPEG/107472257479394368_2072824949.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Onitsuka Chihiro - Insomnia (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9892036750</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9892036750</guid>
-            <pubDate>Wed, 31 Jan 2024 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[77,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_145/1706280843504LelnM_JPEG/107416671332051519_816136755.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Onitsuka Chihiro - Sugar High (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9892027976</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9892027976</guid>
-            <pubDate>Wed, 31 Jan 2024 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_187/1706280501514QsoKK_JPEG/107416329337544861_1060287988.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Onitsuka Chihiro - This Armor (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9892016528</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9892016528</guid>
-            <pubDate>Wed, 31 Jan 2024 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_237/1706280208432iBkP1_JPEG/107416036254624996_635391260.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
