@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 09:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 10:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서커스백 Circus100 - 숨 - Feat. 이세준 of 유리상자 (7INCH LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9912725660</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9912725660</guid>
+            <pubDate>Fri, 02 Feb 2024 10:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240202_109/1706867074861cr9Wv_JPEG/108002963568316620_296142067.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박신덕 - 김창완이 쓴 박신덕의 새 노래들 (DARK GREEN COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9912349197</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 27 Jan 2024 11:13:27 GMT</pubDate>
             <content:encoded><![CDATA[58,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240127_84/1706353030048xmiYK_JPEG/107488925776813227_1999328777.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오프더메뉴 off the menu - Contact (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9893791805</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9893791805</guid>
-            <pubDate>Sat, 27 Jan 2024 07:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240127_264/1706336368773qowc4_JPEG/107472257479394368_2072824949.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
