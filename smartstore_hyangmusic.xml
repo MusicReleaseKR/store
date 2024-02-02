@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 08:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 09:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/9908833381</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9908833381</guid>
             <pubDate>Thu, 01 Feb 2024 09:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <content:encoded><![CDATA[46,550]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240201_15/1706776690140IzYRP_JPEG/107912585867554104_1078317260.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/9908811393</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9908811393</guid>
             <pubDate>Thu, 01 Feb 2024 09:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <content:encoded><![CDATA[46,550]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240201_231/1706776264068dT6dR_JPEG/107912159783377242_1283651648.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
