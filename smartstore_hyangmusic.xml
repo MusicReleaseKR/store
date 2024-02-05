@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 10:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 11:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공일오비 015B - Yearbook 2023 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9921229492</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9921229492</guid>
+            <pubDate>Mon, 05 Feb 2024 11:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[28,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240205_173/1707128300459IOdDE_JPEG/108264134202862353_1695081383.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서커스백 Circus100 - 숨 - Feat. 이세준 of 유리상자 (7INCH LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9912725660</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 27 Jan 2024 12:28:29 GMT</pubDate>
             <content:encoded><![CDATA[23,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240127_109/170635409980733kqj_JPEG/107489988514947077_2134853949.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Public Enemy - It Takes A Nation Of Millions To Hold Us Back (35th Anniversary) [180G 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9894366339</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9894366339</guid>
-            <pubDate>Sat, 27 Jan 2024 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240127_84/1706353030048xmiYK_JPEG/107488925776813227_1999328777.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
