@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 16:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 17:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Clifford Brown - Memorial Album (Blue Note Classic Vinyl Series) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[Lee Morgan - Search For The New Land (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9926547537</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9926547537</guid>
+            <pubDate>Tue, 06 Feb 2024 17:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_103/170723893552482WiK_JPEG/108374770351675569_331296731.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clifford Brown - Memorial Album (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9926401755</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9926401755</guid>
             <pubDate>Tue, 06 Feb 2024 16:22:38 GMT</pubDate>
@@ -16,7 +24,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20240207_12/17072353534315jnRP_JPEG/108371133153923332_1857276549.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bud Powell - Amazing Bud Powell Vol.1 (Blue Note Classic Vinyl Series) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[Bud Powell - Amazing Bud Powell Vol.1 (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9926388401</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9926388401</guid>
             <pubDate>Tue, 06 Feb 2024 16:22:38 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 28 Jan 2024 09:17:07 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240128_275/1706433031440BUMdY_JPEG/107568920151190917_156333655.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sam Smith - The Thrill Of It All (Special Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9894641017</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9894641017</guid>
-            <pubDate>Sat, 27 Jan 2024 14:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240127_1/1706362316492rYq4G_JPEG/33665000378057565_62954948.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
