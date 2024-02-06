@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 14:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 15:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nirvana - Nevermind (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9926187433</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9926187433</guid>
+            <pubDate>Tue, 06 Feb 2024 15:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240206_27/1707230623870xX8PK_JPEG/108366451699265211_1038332746.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana - In Utero (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9926168442</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9926168442</guid>
+            <pubDate>Tue, 06 Feb 2024 15:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_24/1647601441940IKlXK_JPEG/48737225656566229_796672124.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blind Faith - Gothenburg '69 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9926105530</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9926105530</guid>
+            <pubDate>Tue, 06 Feb 2024 15:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240206_114/17072288851156QkLT_JPEG/108364718929504449_9276456.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공일오비 015B - Yearbook 2023 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9921229492</link>
@@ -302,30 +326,6 @@
             <pubDate>Sat, 27 Jan 2024 12:28:29 GMT</pubDate>
             <content:encoded><![CDATA[54,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240127_291/17063552520625xzTJ_JPEG/107491140772728348_1794169327.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tricky - Maxinquaye (REMASTERED) [OXBLOOD COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9894402545</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9894402545</guid>
-            <pubDate>Sat, 27 Jan 2024 12:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240127_32/1706354893447LyhYw_JPEG/107490782159578673_2120021434.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LANY - LANY (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9894389242</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9894389242</guid>
-            <pubDate>Sat, 27 Jan 2024 12:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240127_47/1706354379281oJPJo_JPEG/107490267995812682_1117222193.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amy Winehouse - Back To Black (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9894377117</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9894377117</guid>
-            <pubDate>Sat, 27 Jan 2024 12:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[23,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240127_109/170635409980733kqj_JPEG/107489988514947077_2134853949.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
