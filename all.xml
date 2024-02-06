@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 15:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 16:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Clifford Brown - Memorial Album (Blue Note Classic Vinyl Series) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9926401755</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9926401755</guid>
+            <pubDate>Tue, 06 Feb 2024 16:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_12/17072353534315jnRP_JPEG/108371133153923332_1857276549.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bud Powell - Amazing Bud Powell Vol.1 (Blue Note Classic Vinyl Series) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9926388401</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9926388401</guid>
+            <pubDate>Tue, 06 Feb 2024 16:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_245/17072349701365pgYE_JPEG/108370749859731409_1870167381.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nirvana - Nevermind (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9926187433</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 27 Jan 2024 14:15:20 GMT</pubDate>
             <content:encoded><![CDATA[22,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240127_1/1706362316492rYq4G_JPEG/33665000378057565_62954948.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sam Smith - Love Goes (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9894627994</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9894627994</guid>
-            <pubDate>Sat, 27 Jan 2024 14:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240127_218/1706361816010aSeOI_JPEG/33664499892876788_408912064.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cranberries - Everybody Else Is Doing It, So Why Can't We (GREEN COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9894412087</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9894412087</guid>
-            <pubDate>Sat, 27 Jan 2024 12:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[54,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240127_291/17063552520625xzTJ_JPEG/107491140772728348_1794169327.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
