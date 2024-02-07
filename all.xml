@@ -4,15 +4,39 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 07:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 08:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김범수 - 9집 여행 (COLOURED LP) [넘버링 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9928293674</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9928293674</guid>
+            <pubDate>Wed, 07 Feb 2024 08:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_98/1707291002948M7fOM_JPEG/108426830774015580_1519530519.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 - 동심의 노래 (140G SMOKY PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9928255643</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9928255643</guid>
+            <pubDate>Wed, 07 Feb 2024 08:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[43,700]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_29/1707290368241VONVw_JPEG/108426196066015744_971807310.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 - 어린이에게 보내는 산울림의 동요 선물 - 3집 이게 웬 긴 꼬리냐 (140G SMOKY GREEN COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9928246905</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9928246905</guid>
+            <pubDate>Wed, 07 Feb 2024 08:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[43,700]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_138/1707290211892jlEiw_JPEG/108426039704087357_213481098.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산울림 - 어린이에게 보내는 산울림의 동요 선물 - 2집 산할아버지 (140G CLEAR BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9928238830</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9928238830</guid>
             <pubDate>Wed, 07 Feb 2024 07:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <content:encoded><![CDATA[43,700]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240207_189/1707290029793BUpTC_JPEG/108425857602462845_1457139372.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/9928220419</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9928220419</guid>
             <pubDate>Wed, 07 Feb 2024 07:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <content:encoded><![CDATA[43,700]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240207_230/17072890505199LfyF_JPEG/108424885333816003_2018903133.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 30 Jan 2024 09:18:14 GMT</pubDate>
             <content:encoded><![CDATA[45,100]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240130_10/1706604259499gWBuq_JPEG/107740094334728641_1683947786.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 1집 아니벌써 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9902016746</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9902016746</guid>
-            <pubDate>Tue, 30 Jan 2024 09:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[45,100]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240130_236/1706603596844JdKHI_JPEG/107739431673308637_1001079650.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동이 dongyi - 날초소 분석법 (180G LP) [고음질 음원 DOWN CODE] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9898808611</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9898808611</guid>
-            <pubDate>Mon, 29 Jan 2024 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240129_187/17065184764137savv_JPEG/107654310234070733_903898409.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LANY - Mama's Boy (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9896549180</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9896549180</guid>
-            <pubDate>Sun, 28 Jan 2024 12:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[23,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240128_122/1706443255106wEDTu_JPEG/107579034825154781_1057511662.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
