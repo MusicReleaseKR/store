@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 02:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 03:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우물안 개구리 - 이불 속 라디오, 우안개입니다 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9927521090</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9927521090</guid>
+            <pubDate>Wed, 07 Feb 2024 03:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_234/1707275526231YeRDE_JPEG/108411361065730968_464429215.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lee Morgan - Search For The New Land (Blue Note Classic Vinyl Series) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9926547537</link>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 28 Jan 2024 10:18:26 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240128_62/1706433430729CFK6u_JPEG/107569319437029152_544077609.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rhye - Woman (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9896287414</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9896287414</guid>
-            <pubDate>Sun, 28 Jan 2024 09:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240128_275/1706433031440BUMdY_JPEG/107568920151190917_156333655.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
