@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 06:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 07:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산울림 - 어린이에게 보내는 산울림의 동요 선물 - 2집 산할아버지 (140G CLEAR BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9928238830</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9928238830</guid>
+            <pubDate>Wed, 07 Feb 2024 07:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_189/1707290029793BUpTC_JPEG/108425857602462845_1457139372.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 - 어린이에게 보내는 산울림의 동요 선물 - 개구장이 (140G CLEAR SMOKY RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9928220419</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9928220419</guid>
+            <pubDate>Wed, 07 Feb 2024 07:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_230/17072890505199LfyF_JPEG/108424885333816003_2018903133.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스믹 보이 Cosmic Boy - Can I love (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9928082697</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9928082697</guid>
+            <pubDate>Wed, 07 Feb 2024 07:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[55,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_144/1707286593174VEY1S_JPEG/108422435875202559_983688573.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김범수 - 9집 여행 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9928053218</link>
@@ -302,30 +326,6 @@
             <pubDate>Sun, 28 Jan 2024 12:29:27 GMT</pubDate>
             <content:encoded><![CDATA[23,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240128_122/1706443255106wEDTu_JPEG/107579034825154781_1057511662.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift - Red (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9896543160</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9896543160</guid>
-            <pubDate>Sun, 28 Jan 2024 12:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[23,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240128_33/1706442972453zLnmg_JPEG/107578752173421621_1431944558.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LANY - Malibu Nights (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9896532047</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9896532047</guid>
-            <pubDate>Wed, 31 Jan 2024 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[23,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240128_69/1706442558172xr0KP_JPEG/107578337894877562_2087138922.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Seoul Seoul Seoul (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9896522305</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9896522305</guid>
-            <pubDate>Wed, 31 Jan 2024 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240128_245/1706442058704U3Dek_JPEG/107577838422480743_943799877.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
