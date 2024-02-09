@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 23:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 01:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,14 +176,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20240206_101/1707228240607sAeA3_JPEG/108364074427701896_1806527986.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[롤러 코스터 Roller Coaster - 1집 Roller Coaster (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9926053746</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9926053746</guid>
-            <pubDate>Wed, 07 Feb 2024 13:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[30,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240206_195/1707227775682E6Ote_JPEG/108363609499701190_403056812.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가당찮 - 간절기의 간지 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9926018897</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9926018897</guid>
@@ -326,6 +318,14 @@
             <pubDate>Wed, 07 Feb 2024 13:19:00 GMT</pubDate>
             <content:encoded><![CDATA[9,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240203_195/1706951901711WH4Gj_JPEG/108087681435325257_1739790255.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힙 포켓 Hip Pocket - 2집 Identity (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9912830047</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9912830047</guid>
+            <pubDate>Fri, 09 Feb 2024 01:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[5,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240202_244/1706869535072y9uGt_JPEG/108005368892396260_1490410926.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
