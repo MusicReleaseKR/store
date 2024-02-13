@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 05:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 06:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김목인 - 1집 음악가 자신의 노래 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9945387698</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9945387698</guid>
+            <pubDate>Tue, 13 Feb 2024 06:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210215_35/1613401189385Hjx52_JPEG/14537032089456037_27531648.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재민 - 제 연인의 이름은•파란 엽서•슬픈 약속 (WHITE & BLUE HALF COLOURED LP & 10 INCH LP) [2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9945277890</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 07 Feb 2024 13:19:00 GMT</pubDate>
             <content:encoded><![CDATA[10,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240203_171/1706953026761HbDNT_JPEG/108088806487392544_1687465450.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오대리 - 레퀴엠 (REQUIEM) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9915739071</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9915739071</guid>
-            <pubDate>Wed, 07 Feb 2024 13:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240203_206/1706952723052L1jJv_JPEG/108088502778257171_1911011125.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
