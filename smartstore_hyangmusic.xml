@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 10:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 11:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔들리스 케이브 - 1993 (130G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9946936618</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9946936618</guid>
+            <pubDate>Tue, 13 Feb 2024 11:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240213_200/1707821998557HSNeI_JPEG/108957897255295984_1492628991.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김목인 - 1집 음악가 자신의 노래 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9945387698</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 07 Feb 2024 13:19:00 GMT</pubDate>
             <content:encoded><![CDATA[19,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240203_50/1706960093139Qwq97_JPEG/108095981847761790_461457313.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김윤기 Yoonkee Kim - 10집 UTO (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9915781539</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9915781539</guid>
-            <pubDate>Wed, 07 Feb 2024 13:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240203_171/1706953026761HbDNT_JPEG/108088806487392544_1687465450.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
