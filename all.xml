@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 02:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 03:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재민 - 제 연인의 이름은•파란 엽서•슬픈 약속 (WHITE & BLUE HALF COLOURED LP & 10 INCH LP) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9945277890</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9945277890</guid>
+            <pubDate>Tue, 13 Feb 2024 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240213_164/1707792303074WraBe_JPEG/108928201719741492_1545016365.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재민 - 제 연인의 이름은•파란 엽서•슬픈 약속 (BLACK LP & 10 INCH LP) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9945272781</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9945272781</guid>
+            <pubDate>Tue, 13 Feb 2024 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240213_5/1707791818813JbjzA_JPEG/108927717512736186_493663731.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김범수 - 9집 여행 (COLOURED LP) [넘버링 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9928293674</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 07 Feb 2024 13:19:00 GMT</pubDate>
             <content:encoded><![CDATA[12,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240203_206/1706952723052L1jJv_JPEG/108088502778257171_1911011125.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이 로 어래이 My Low Array - Lo-fight (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9915713891</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9915713891</guid>
-            <pubDate>Wed, 07 Feb 2024 13:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[9,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240203_195/1706951901711WH4Gj_JPEG/108087681435325257_1739790255.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙 포켓 Hip Pocket - 2집 Identity (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9912830047</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9912830047</guid>
-            <pubDate>Fri, 09 Feb 2024 01:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[5,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240202_244/1706869535072y9uGt_JPEG/108005368892396260_1490410926.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
