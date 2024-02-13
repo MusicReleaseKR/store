@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 08:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 09:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/9945387698</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9945387698</guid>
             <pubDate>Tue, 13 Feb 2024 06:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <content:encoded><![CDATA[42,750]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210215_35/1613401189385Hjx52_JPEG/14537032089456037_27531648.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/9945277890</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9945277890</guid>
             <pubDate>Tue, 13 Feb 2024 03:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <content:encoded><![CDATA[58,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240213_164/1707792303074WraBe_JPEG/108928201719741492_1545016365.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/9945272781</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9945272781</guid>
             <pubDate>Tue, 13 Feb 2024 03:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <content:encoded><![CDATA[58,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240213_5/1707791818813JbjzA_JPEG/108927717512736186_493663731.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
