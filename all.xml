@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 02:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 03:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이브투어스 wave to earth - uncounted 0.00 (CLEAR BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9958256535</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9958256535</guid>
+            <pubDate>Fri, 16 Feb 2024 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240216_288/1708051152490k8uJa_JPEG/109186995205842995_2049299511.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ramsey Lewis Trio - The In Crowd (Verve By Request Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9951267285</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240206_290/1707218537815lsLUn_JPEG/108354371637241523_1595069647.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공일오비 015B - Yearbook 2023 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9921229492</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9921229492</guid>
-            <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[28,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240205_173/1707128300459IOdDE_JPEG/108264134202862353_1695081383.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
