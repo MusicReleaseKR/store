@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 09:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 10:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Untell - ANIMAL (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9959815478</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9959815478</guid>
+            <pubDate>Fri, 16 Feb 2024 10:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240216_230/1708076604091LMPSe_JPEG/109212437896874969_1661743544.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아비 가드 Avii Garde - Colours (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9959784989</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9959784989</guid>
+            <pubDate>Fri, 16 Feb 2024 10:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240216_22/170807607422274gY9_JPEG/109211908039816529_1005274237.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웨이브투어스 wave to earth - uncounted 0.00 (CLEAR BLUE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9958256535</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
             <content:encoded><![CDATA[5,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240206_66/17072197185363S1aM_JPEG/108355552357689706_704248185.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코가손 Cogason - 2집 모든 소설 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9925627662</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9925627662</guid>
-            <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240206_60/1707218922059SfgBp_JPEG/108354755879131310_29784761.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백현진 - 찰라의 기초 Live (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9925610699</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9925610699</guid>
-            <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240206_290/1707218537815lsLUn_JPEG/108354371637241523_1595069647.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
