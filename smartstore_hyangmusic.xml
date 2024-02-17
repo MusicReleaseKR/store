@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 10:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 11:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Metallica - Master Of Puppets (BATTERY BRICK COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9963226563</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9963226563</guid>
+            <pubDate>Sat, 17 Feb 2024 11:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240217_80/1708168206157DPUxL_JPEG/109304094871722542_256354627.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metallica - ...And Justice For All (DYERS GREEN COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9963217997</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9963217997</guid>
+            <pubDate>Sat, 17 Feb 2024 11:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[80,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240217_266/1708167649586APm0o_JPEG/109303429304775797_1824239765.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tsuyoshi Yamamoto Trio - Sweet For K (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9960241310</link>
@@ -142,14 +158,6 @@
             <pubDate>Fri, 16 Feb 2024 12:31:43 GMT</pubDate>
             <content:encoded><![CDATA[30,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240213_154/1707823760377DoxBK_JPEG/108959544095081079_629967061.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리페어 샵 Repair Shop - 빈방 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9946992723</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9946992723</guid>
-            <pubDate>Fri, 16 Feb 2024 12:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[28,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240213_96/17078232722691EA06_JPEG/108959055985438004_1311631533.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔들리스 케이브 - 1993 (130G LP)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240207_123/1707284372324wtpHI_JPEG/34587056207664081_1231905707.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우물안 개구리 - 이불 속 라디오, 우안개입니다 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9927521090</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9927521090</guid>
-            <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240207_234/1707275526231YeRDE_JPEG/108411361065730968_464429215.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
