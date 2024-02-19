@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 08:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 09:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박정현 - 1집 Piece (180G CLEAR RED COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9969912325</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9969912325</guid>
+            <pubDate>Mon, 19 Feb 2024 09:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240219_57/1708332819860pRGDN_JPEG/109468603575603566_211690835.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Metallica - Master Of Puppets (BATTERY BRICK COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9963226563</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240207_2/1707284703988DF1fB_JPEG/34587387861899090_1261642809.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최성원 - 베스트 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9927967636</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9927967636</guid>
-            <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240207_123/1707284372324wtpHI_JPEG/34587056207664081_1231905707.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
