@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 17:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 18:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Metallica - Ride The Lightning (ELECTRIC BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9977073075</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9977073075</guid>
+            <pubDate>Tue, 20 Feb 2024 18:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[60,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240221_5/1708449206832aeiqu_JPEG/109584986559404426_2129335465.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바이바이배드맨 Bye Bye Badman - 1집 Light Beside You (180G RED COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9974011667</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240207_138/1707290211892jlEiw_JPEG/108426039704087357_213481098.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 어린이에게 보내는 산울림의 동요 선물 - 2집 산할아버지 (140G CLEAR BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9928238830</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9928238830</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240207_189/1707290029793BUpTC_JPEG/108425857602462845_1457139372.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
