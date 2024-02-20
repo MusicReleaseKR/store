@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 05:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 06:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이바이배드맨 Bye Bye Badman - 1집 Light Beside You (180G RED COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9974011667</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9974011667</guid>
+            <pubDate>Tue, 20 Feb 2024 06:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[54,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240220_80/1708406071491lDbys_JPEG/109541855202091412_89767544.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[릴러말즈 Leellamarz - 인생은 한번이야 (CD) [LIMITED EDITION]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9973894656</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240207_189/1707290029793BUpTC_JPEG/108425857602462845_1457139372.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 어린이에게 보내는 산울림의 동요 선물 - 개구장이 (140G CLEAR SMOKY RED COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9928220419</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9928220419</guid>
-            <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240207_230/17072890505199LfyF_JPEG/108424885333816003_2018903133.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
