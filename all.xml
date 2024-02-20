@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 04:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 05:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[릴러말즈 Leellamarz - 인생은 한번이야 (CD) [LIMITED EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9973894656</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9973894656</guid>
+            <pubDate>Tue, 20 Feb 2024 05:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240220_182/17084050449368kgwc_JPEG/35707728817878590_1894700382.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디에이드 Theade - 2집 My Wonderland (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9970121269</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240207_230/17072890505199LfyF_JPEG/108424885333816003_2018903133.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스믹 보이 Cosmic Boy - Can I love (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9928082697</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9928082697</guid>
-            <pubDate>Thu, 15 Feb 2024 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240207_144/1707286593174VEY1S_JPEG/108422435875202559_983688573.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
