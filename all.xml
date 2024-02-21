@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 11:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 12:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Allman Brothers Band - The Allman Brothers Band (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9981036730</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9981036730</guid>
+            <pubDate>Wed, 21 Feb 2024 12:32:14 GMT</pubDate>
+            <content:encoded><![CDATA[29,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240221_63/1708517528507Kr42N_JPEG/109653312216788280_1312772157.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무지개퀸텟 - 멋쟁이 아가씨 (180G RED & ORANGE MIX COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9981007230</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9981007230</guid>
+            <pubDate>Wed, 21 Feb 2024 12:32:14 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210310_67/16153082322588Qk4V_JPEG/16444077970911091_2011955275.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[무지개퀸텟 - 멋쟁이 아가씨 (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9981004205</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9981004205</guid>
+            <pubDate>Wed, 21 Feb 2024 12:32:14 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210310_67/16153082322588Qk4V_JPEG/16444077970911091_2011955275.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Metallica - Ride The Lightning (ELECTRIC BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9977073075</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240213_166/1707752399033sYx2y_JPEG/108888297745113728_1243998905.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김범수 - 9집 여행 (COLOURED LP) [넘버링 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9928293674</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9928293674</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240207_98/1707291002948M7fOM_JPEG/108426830774015580_1519530519.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 동심의 노래 (140G SMOKY PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9928255643</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9928255643</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240207_29/1707290368241VONVw_JPEG/108426196066015744_971807310.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 어린이에게 보내는 산울림의 동요 선물 - 3집 이게 웬 긴 꼬리냐 (140G SMOKY GREEN COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9928246905</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9928246905</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240207_138/1707290211892jlEiw_JPEG/108426039704087357_213481098.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
