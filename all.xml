@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 15:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 16:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Edith Piaf - Art Book Collector Edition (1LP & ART BOOK) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9986021653</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9986021653</guid>
+            <pubDate>Thu, 22 Feb 2024 16:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240223_299/1708615486183UM7c0_JPEG/109751328896539776_274973666.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[들국화 - 1집 들국화 (180G LIMITED LP) [REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9985902838</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240213_147/1707753069635mqxFo_JPEG/108888968338778379_1628320536.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코가손 Cogason - 오늘부터 (EP) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9944133238</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9944133238</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240213_106/1707752748300y9jc3_JPEG/108888647008872916_1307143490.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
