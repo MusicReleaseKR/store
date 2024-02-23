@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 12:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 13:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아방트리오 Avant Trio - Blue Suns (180G BLUE & WHITE COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9990098030</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9990098030</guid>
+            <pubDate>Fri, 23 Feb 2024 13:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[38,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240223_257/1708691741967l1XYY_JPEG/109827569789095430_2118107908.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김성배 - Ritual (의례) [180G RED & YELLOW COLOURED 2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9990042913</link>
@@ -184,6 +192,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20240216_249/17080830521122iS0D_JPEG/109218885933312879_1988851785.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[축축밴드 Choockchoock Band - 축축해 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9960109819</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9960109819</guid>
+            <pubDate>Fri, 23 Feb 2024 13:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240216_126/1708081387100ksfWR_JPEG/109217214925121419_1189526899.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Untell - ANIMAL (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9959815478</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9959815478</guid>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
             <content:encoded><![CDATA[42,750]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210215_35/1613401189385Hjx52_JPEG/14537032089456037_27531648.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재민 - 제 연인의 이름은•파란 엽서•슬픈 약속 (WHITE & BLUE HALF COLOURED LP & 10 INCH LP) [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9945277890</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9945277890</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[58,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240213_164/1707792303074WraBe_JPEG/108928201719741492_1545016365.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재민 - 제 연인의 이름은•파란 엽서•슬픈 약속 (BLACK LP & 10 INCH LP) [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9945272781</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9945272781</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[58,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240213_5/1707791818813JbjzA_JPEG/108927717512736186_493663731.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
