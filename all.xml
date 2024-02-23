@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 11:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 12:31:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김성배 - Ritual (의례) [180G RED & YELLOW COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9990042913</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9990042913</guid>
+            <pubDate>Fri, 23 Feb 2024 12:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240223_99/1708690682481nonCv_JPEG/109826466189217604_591368927.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맹원식과 그의 재즈 오케스트라 - 성불사의 밤 (180G BLUE GREEN / BLACK COLOURED REMASTERED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9990027353</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9990027353</guid>
+            <pubDate>Fri, 23 Feb 2024 12:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[35,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240223_23/1708690413248IRt6P_JPEG/109826196963793025_698433795.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[줄리아 하트 Julia Hart - B (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9990007965</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9990007965</guid>
+            <pubDate>Fri, 23 Feb 2024 12:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[10,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240223_115/1708690079876NnhWd_JPEG/109825863594427876_23037394.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍이삭 - 사랑은 하니까 (SINGLE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9987771678</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
             <content:encoded><![CDATA[58,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240213_5/1707791818813JbjzA_JPEG/108927717512736186_493663731.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Coltrane - Live In Japan (4CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9944202746</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9944202746</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[28,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240213_87/1707754563182FH6zI_JPEG/108890451887272740_1033286345.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모임 별 Byul Org - 주인 없는 금 (NOBODY’S GOLD) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9944169155</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9944169155</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240213_11/1707753744488sVkWX_JPEG/108889643195397671_97116902.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테테 tete - Love & Relax (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9944157621</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9944157621</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240213_269/1707753403646fb63R_JPEG/108889302358134277_1532605719.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
