@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 06:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 07:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chris Thompson - Chris Thompson (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9992942195</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9992942195</guid>
+            <pubDate>Sat, 24 Feb 2024 07:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[31,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240224_249/1708756331372NUhzH_JPEG/109892174084259482_690032823.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아방트리오 Avant Trio - Blue Suns (180G BLUE & WHITE COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9990098030</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240213_200/1707821998557HSNeI_JPEG/108957897255295984_1492628991.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김목인 - 1집 음악가 자신의 노래 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9945387698</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9945387698</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[42,750]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210215_35/1613401189385Hjx52_JPEG/14537032089456037_27531648.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
