@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 09:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 10:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Flash 플래시 (3LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9993444647</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9993444647</guid>
+            <pubDate>Sat, 24 Feb 2024 10:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[99,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240224_100/1708769017180jiRUY_JPEG/109904800894894698_1096358726.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chris Thompson - Chris Thompson (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9992942195</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
             <content:encoded><![CDATA[30,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240213_154/1707823760377DoxBK_JPEG/108959544095081079_629967061.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔들리스 케이브 - 1993 (130G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9946936618</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9946936618</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240213_200/1707821998557HSNeI_JPEG/108957897255295984_1492628991.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
