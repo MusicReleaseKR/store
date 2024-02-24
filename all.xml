@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 10:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 11:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pablo Casals - Bach - The 6 Cello Suites (바흐 6개의 무반주 첼로 모음곡) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9993460627</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9993460627</guid>
+            <pubDate>Sat, 24 Feb 2024 11:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[23,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240224_223/1708769793875hgmvT_JPEG/36072477760710764_1617956409.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Flash 플래시 (3LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9993444647</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240214_282/1707877550087u2r7c_JPEG/109013333781736231_1781809622.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심규선 Lucia - 2집 Light & Shade chapter.1 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9947017216</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9947017216</guid>
-            <pubDate>Tue, 20 Feb 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[30,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240213_154/1707823760377DoxBK_JPEG/108959544095081079_629967061.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
