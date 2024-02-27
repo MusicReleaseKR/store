@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 15:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 16:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
             <content:encoded><![CDATA[99,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240224_100/1708769017180jiRUY_JPEG/109904800894894698_1096358726.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강아솔 - 1집 당신이 놓고 왔던 짧은 기억 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9993385683</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9993385683</guid>
-            <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240224_193/1708767718974DIuGg_JPEG/109903617679699399_670872628.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스위트피 Sweetpea - 1집 - 결코 끝나지 않을 이야기들 & 문라이즈 샘플시디 (2CD)]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
             <content:encoded><![CDATA[54,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240220_80/1708406071491lDbys_JPEG/109541855202091412_89767544.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[릴러말즈 Leellamarz - 인생은 한번이야 (CD) [LIMITED EDITION]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9973894656</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9973894656</guid>
+            <pubDate>Tue, 27 Feb 2024 16:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240220_182/17084050449368kgwc_JPEG/35707728817878590_1894700382.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
