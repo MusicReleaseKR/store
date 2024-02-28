@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 14:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 15:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jaine Roman-Pitt - The Beautiful Feeling (140G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10009562193</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10009562193</guid>
+            <pubDate>Wed, 28 Feb 2024 15:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[35,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240229_39/1709133137430rg0cm_JPEG/110268965247353711_1337456.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jaine Roman-Pitt - The Beautiful Feeling (140G BLUE MABLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10009558261</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10009558261</guid>
+            <pubDate>Wed, 28 Feb 2024 15:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240229_39/1709133137430rg0cm_JPEG/110268965247353711_1337456.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웅산 - 사랑, 그 그리움 3 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/10007870649</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240220_13/1708424818267cIXR2_JPEG/109560653104553800_755476069.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이바이배드맨 Bye Bye Badman - 1집 Light Beside You (180G RED COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9974011667</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9974011667</guid>
-            <pubDate>Wed, 28 Feb 2024 09:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[54,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240220_80/1708406071491lDbys_JPEG/109541855202091412_89767544.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[릴러말즈 Leellamarz - 인생은 한번이야 (CD) [LIMITED EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9973894656</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9973894656</guid>
-            <pubDate>Wed, 28 Feb 2024 09:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240220_182/17084050449368kgwc_JPEG/35707728817878590_1894700382.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
