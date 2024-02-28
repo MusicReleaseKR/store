@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 05:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 06:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웅산 - 사랑, 그 그리움 3 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10007870649</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10007870649</guid>
+            <pubDate>Wed, 28 Feb 2024 06:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240228_218/1709100144447Qr1I7_JPEG/110236040169666299_1578414470.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전기뱀장어 - 최고의 연애 (CREAM COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/10007222179</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240220_13/1708424818267cIXR2_JPEG/109560653104553800_755476069.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이바이배드맨 Bye Bye Badman - 1집 Light Beside You (180G RED COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9974011667</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9974011667</guid>
-            <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[54,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240220_80/1708406071491lDbys_JPEG/109541855202091412_89767544.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
