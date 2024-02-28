@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 03:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 04:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전기뱀장어 - 최고의 연애 (CREAM COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10007222179</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10007222179</guid>
+            <pubDate>Wed, 28 Feb 2024 04:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240228_18/1709090108899fQeaH_JPEG/110225951590403232_1263208861.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Potatoi - Toy (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/10004944732</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
             <content:encoded><![CDATA[54,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240220_80/1708406071491lDbys_JPEG/109541855202091412_89767544.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[릴러말즈 Leellamarz - 인생은 한번이야 (CD) [LIMITED EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9973894656</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9973894656</guid>
-            <pubDate>Tue, 27 Feb 2024 16:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240220_182/17084050449368kgwc_JPEG/35707728817878590_1894700382.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
