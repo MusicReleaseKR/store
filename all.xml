@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 15:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 16:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Lawrence Of Arabia 아라비아의 로렌스 [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10009714353</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10009714353</guid>
+            <pubDate>Wed, 28 Feb 2024 16:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[25,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240229_261/1709136952803xPCGf_JPEG/110272795519363839_1190275368.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Murder On The Orient Express 오리엔트 특급 살인 [180G GATE-FOLD BLUE COLORED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10009701262</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10009701262</guid>
+            <pubDate>Wed, 28 Feb 2024 16:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240229_217/17091366284980YbM9_JPEG/110272471213229877_1086314670.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Tomb Raider 2018 (툼레이더 2018) [180G CLEAR GREEN COLOURED AUDIOPHILE 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10009680252</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10009680252</guid>
+            <pubDate>Wed, 28 Feb 2024 16:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240229_260/1709135990915bpTS1_JPEG/110271833631556164_1517672010.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jaine Roman-Pitt - The Beautiful Feeling (140G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/10009562193</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
             <content:encoded><![CDATA[13,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240221_278/1708510662824pb8bh_JPEG/35813346709919132_1093043059.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica - Ride The Lightning (ELECTRIC BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9977073075</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9977073075</guid>
-            <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[60,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240221_5/1708449206832aeiqu_JPEG/109584986559404426_2129335465.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Star Craft : Game Music Vol.1 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9975734862</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9975734862</guid>
-            <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240220_35/1708425875438GTO9f_JPEG/109561710267212290_1516643881.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조동희 - 다섯 개의 사랑이야기 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9975423221</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9975423221</guid>
-            <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240220_13/1708424818267cIXR2_JPEG/109560653104553800_755476069.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
