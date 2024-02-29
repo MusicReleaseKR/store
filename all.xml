@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 02:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 03:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태버 Tabber - Madness Always Turns to Sadness (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10011223695</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10011223695</guid>
+            <pubDate>Thu, 29 Feb 2024 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[47,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240229_36/1709175975559IY9mb_JPEG/110311818257707852_1655287715.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디피알 아틱 DPR ARTIC - Kinema (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10011185577</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10011185577</guid>
+            <pubDate>Thu, 29 Feb 2024 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240229_25/1709175187329hwaYO_JPEG/110311030040686707_2108178285.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Lawrence Of Arabia 아라비아의 로렌스 [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/10009714353</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240221_14/1708512549105mfjeS_JPEG/109648376935617227_1141463000.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍갑 - 4집 보이는 것들 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9980709118</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9980709118</guid>
-            <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240221_176/1708510868279ufGvo_JPEG/35813552164932360_2066189257.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍갑 - 3집 꿈의 편집 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9980644528</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9980644528</guid>
-            <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240221_278/1708510662824pb8bh_JPEG/35813346709919132_1093043059.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
