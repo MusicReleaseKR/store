@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 03:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 04:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권진아 - 우리의 방식 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10026971839</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10026971839</guid>
+            <pubDate>Mon, 04 Mar 2024 04:50:52 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240304_257/1709520405807fPhsC_JPEG/36823089684018620_291474563.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cigarettes After Sex - X’s (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/10021112046</link>
@@ -317,14 +325,6 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/9981007230</guid>
             <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210310_67/16153082322588Qk4V_JPEG/16444077970911091_2011955275.jpeg?type=f140" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[무지개퀸텟 - 멋쟁이 아가씨 (180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9981004205</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9981004205</guid>
-            <pubDate>Tue, 27 Feb 2024 02:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[38,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210310_67/16153082322588Qk4V_JPEG/16444077970911091_2011955275.jpeg?type=f140" length="0" type="image/jpeg"/>
         </item>
     </channel>
