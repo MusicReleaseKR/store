@@ -1,8 +1,331 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://smartstore.naver.com/hyangmusic/category/32562d12fd7b46f2835fcb246ba18ce1?cp=1</id>
-    <title>네이버 스마트스토어 ─ 향뮤직</title>
-    <updated>2024-06-27T06:28:01.445Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://smartstore.naver.com/hyangmusic/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 스마트스토어 ─ 향뮤직</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Jun 2024 07:18:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다린 - Serenade - Night Ver (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10499659613</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10499659613</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240625_230/17193173247268osQu_JPEG/66282592521116682_717594746.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다린 - Serenade - Day Ver (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10499651514</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10499651514</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240625_296/17193170501851OObQ_JPEG/33169916076894903_1849110491.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모허 Moher - 만화경]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10499584988</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10499584988</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240625_10/1719315704641DOh0V_JPEG/7440053018126754_987033053.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나상현씨밴드 - CLOVER Part 1.0 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10498089517</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10498089517</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240625_209/1719293082819Rkkof_JPEG/74484680821912550_1823008620.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 이재, 곧 죽습니다 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10498016890</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10498016890</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240625_174/1719292124702ulPzF_JPEG/2521978518825963_659275865.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coldplay - Moon Music (PINK ECO COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10482466493</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10482466493</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240621_250/1718957947454rFXQ1_JPEG/7220301315364560_1240028744.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스 The Solutions - N/A (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10481226475</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10481226475</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[13,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240621_44/1718941199813FN3iG_JPEG/1995943014636656_1747664367.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 졸업 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10477901238</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10477901238</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[58,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240620_148/1718873241483WL5xF_JPEG/32726107379516487_1025727475.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게이트플라워즈 Gate Flowers - Majors of Minors (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10477831258</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10477831258</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240620_259/171887236354304RiB_JPEG/9147345397811948_478043576.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롤링쿼츠 Rolling Quartz - Victory (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10477770555</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10477770555</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240620_295/1718871037807lwiL3_JPEG/9146019663130720_1732705794.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오카시 - ANTIVANDALISM (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10473167268</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10473167268</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240619_248/1718790925376Fxrck_JPEG/7053279237560944_402781498.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ffpp - Spotless mind (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10473092679</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10473092679</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240619_262/17187905723142Q72p_JPEG/47425559130668731_1128660130.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드 씨 Red C - RED SEA (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10471849772</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10471849772</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240619_73/17187761510917Uyie_JPEG/133740889766910_1179339497.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coldplay - Moon Music (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10468662556</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10468662556</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240618_126/1718708793433XTCRS_JPEG/13316318365299376_1067938821.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Portishead - Roseland Nyc Live (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10467418962</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10467418962</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[28,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240618_182/1718685857034KFu8s_JPEG/33582755851115597_861956858.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Portishead - Roseland Nyc Live (RED COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10467399980</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10467399980</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[76,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240618_125/17186851673331kPM9_JPEG/29618398092756450_429876772.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bon Jovi - Forever (CANDY APPLE & CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10464626996</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10464626996</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[66,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240617_122/1718621514806CAIFm_JPEG/70587353768891220_1565490591.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bon Jovi - Forever (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10464616302</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10464616302</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[27,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240617_122/1718621514806CAIFm_JPEG/70587353768891220_1565490591.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Billie Eilish - Hit Me Hard And Soft (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10464559019</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10464559019</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[27,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240617_283/1718620677624VmTPw_JPEG/5345908462828814_1754114307.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔하이픈 - ROMANCE : UNTOLD (CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10464477574</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10464477574</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240617_174/17186188936350LJx9_JPEG/55497376555890903_525707408.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스 NewJeans - How Sweet (Standard ver) [CD] (6종 중 1종 랜덤 발송)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10464318185</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10464318185</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240426_206/17140994417190fsNc_JPEG/115235330425314080_2023776697.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김두수 - 고요를 위하여 (카세트 테이프) [2 SET] (CD 선착순 증정)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10453311499</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10453311499</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240614_92/17183481967155tIIK_JPEG/5073427540237449_1587768774.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 폴스 The Poles - Anomalies in the oddity space (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10452636807</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10452636807</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240614_231/1718338337362Ngbjw_JPEG/2149100175444833_1615011922.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주니 Junny - dopamine (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10452433618</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10452433618</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240614_129/17183353934430RQtp_JPEG/54610388415437099_967164119.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리치맨과 그루브나이스 Richiman and Groove Nice - 1집 Pack My Suitcase (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10452362316</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10452362316</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240614_57/1718333499766YM2qt_JPEG/559866536321833_669845793.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브리니클 레인 Brinicle Rain - Gamma (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10449279638</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10449279638</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240613_188/1718273612630GWKk5_JPEG/52188305641842925_159586599.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웅산 - 사랑, 그 그리움 2 (180G BLUE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10444545062</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10444545062</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240612_106/1718185126374PuOtk_JPEG/45487810254788992_1321467837.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[웅산 - 사랑 그 그리움 (180G GREEN COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10444523228</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10444523228</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240612_152/1718184677831Dla5k_JPEG/45487361710572154_1544342505.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에픽하이 Epik High - Pump (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10443893845</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10443893845</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[24,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240612_262/1718173102450YazDX_JPEG/119308998183068116_1090990379.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cigarettes After Sex - X’s (카세트 테이프)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10437931630</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10437931630</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240611_135/17180742592486IVYn_JPEG/45376943132663175_1868017270.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cigarettes After Sex - X’s (INDIA STORE CLEAR COLOURED LP) [LIMITED EDITION]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10437890407</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10437890407</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[40,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240611_204/1718073638606wtiRi_JPEG/119209537318754219_1338899866.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cigarettes After Sex - X’s (DELUXE EDITION) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10437862954</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10437862954</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240611_58/1718073086362FJnFT_JPEG/119208985072950013_1638207688.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peggy Gou 페기 구 - Once (12INCH SINGLE LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10437696365</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10437696365</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[28,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240611_132/1718070871812GAhDH_JPEG/45373555689637156_1728828517.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack -  Stridulum (The Visitor) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10435312418</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10435312418</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[41,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240610_269/1718019818399iqKY5_JPEG/45322502279486766_1723115881.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안숙선 - 국악한마당 (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10435261619</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10435261619</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[81,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240610_299/1718019143946LtIwQ_JPEG/45321827818136202_515408058.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오혜영 - 가야금으로 뜯는 재즈 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10435212316</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10435212316</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240610_24/17180185779608oso7_JPEG/45321261838984459_28326019.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드링킹소년소녀합창단 - 1집 Keep Drinking (140G BLUE SPLATTER COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10433548963</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10433548963</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[30,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240610_236/1717991877413jdcoo_JPEG/119127766125546002_1132218591.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어떤날 - 2집 (CLEAR COLOURED LP) [2021 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10433388829</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10433388829</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240610_135/1717988745829bdX43_JPEG/45291429715384193_1199784805.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어떤날 - 1집 (CLEAR COLOURED LP) [2021 REMASTERED]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10433351581</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10433351581</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240610_148/1717988166803GctEx_JPEG/119124055516292453_2027251957.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘큐 Elcue - The Experiment 2 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10427131372</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10427131372</guid>
+            <pubDate>Thu, 27 Jun 2024 07:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240608_236/1717838782308hq0CB_JPEG/118974625017636667_1073489317.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
