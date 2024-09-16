@@ -1,8 +1,331 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://smartstore.naver.com/hyangmusic/category/32562d12fd7b46f2835fcb246ba18ce1?cp=1</id>
-    <title>네이버 스마트스토어 ─ 향뮤직</title>
-    <updated>2024-09-16T07:21:22.684Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://smartstore.naver.com/hyangmusic/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 스마트스토어 ─ 향뮤직</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 16 Sep 2024 08:29:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Britney Spears - Greatest Hits: My Prerogative (CREAM COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10882524352</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10882524352</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240915_76/1726406169713S7bFM_JPEG/60539040851459416_823864103.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blur - The Ballad Of Darren (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10882480929</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10882480929</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240915_270/1726404560029d0bxt_JPEG/73993037395200509_64262855.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Air - Moon Safari (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10882448474</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10882448474</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240915_37/1726404054346nAUca_JPEG/60536907464968230_1932909052.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ginger Root - SHINBANGUMI (Sunray & Juban TV Building LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10876268741</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10876268741</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[41,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_139/1726236632320VNRWV_JPEG/29793506078542624_1149444161.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[American Analog Set - The Golden Band (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10876250852</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10876250852</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[41,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_213/1726236262785VvuYp_JPEG/7331668680894831_2097576760.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Magnetic Fields - 69 Love Songs (3CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10876171463</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10876171463</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[46,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_282/17262346241748R8C6_JPEG/6606982148025970_1845276989.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Suuns - Felt (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10876156057</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10876156057</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[31,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_40/1726234304135PG7EG_JPEG/60367157275576181_406596946.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Slowdive - everything is alive [CRYSTAL CLEAR COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10876146276</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10876146276</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_136/1726234032075dS56S_JPEG/12129863106836076_259659244.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MGMT - Oracular Spectacular (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10876129777</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10876129777</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[30,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_188/1726233651612ecBFp_JPEG/73822128978555419_518489723.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gary Moore - The Platinum Collection (3CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10876113934</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10876113934</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[26,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_74/1726233270571628MR_JPEG/7328676465500458_1453900678.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Massive Attack - Protection (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10876094479</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10876094479</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[43,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_42/1726232872821lXYbE_JPEG/7328278713810903_1477469678.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kansas - Point Of Know Return (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10876082012</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10876082012</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[28,600]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_145/1726232541935v0hAf_JPEG/6181306586866003_1558706631.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[H.E.R. - H.E.R. (DELUXE EDITION) [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10876067843</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10876067843</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_182/1726232267033YizVd_JPEG/60365119618903058_1460786910.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재현 - 1집 J (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10875060659</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10875060659</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_172/1726211502749kmokb_JPEG/60344355330147246_270633136.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장덕 - Memories (180G PINK COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10874344662</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10874344662</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[44,650]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_218/17262011328270qz8f_JPEG/12096963838882540_1864461167.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Lennon - Imagine (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10874236810</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10874236810</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[67,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_199/1726199871068t83tc_JPEG/60332818204522918_191045850.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ofra Harnoy - Imagine (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10874216223</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10874216223</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[31,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_200/1726199450862GX9Se_JPEG/6148215509410068_1470067417.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sufjan Stevens - Seven Swans (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10872414757</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10872414757</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_116/1726162576492hOryx_JPEG/9170178119797405_1384725017.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tycho - Awake (10th Anniversary) [BLUE & BEIGE COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10872405354</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10872405354</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_118/1726162261882p4jO1_JPEG/60295114476428183_1593018521.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faye Webster - Faye Webster (카세트 테이프)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10872358589</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10872358589</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_204/17261604335751oxye_JPEG/5312885762153749_60392680.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana - Incesticide (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10872348675</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10872348675</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_189/1726159775918iKNd8_JPEG/12055606946584612_1955627048.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift - 1989 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10872304859</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10872304859</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[23,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240905_205/1725468398452tJzUs_JPEG/30332588564598_645064101.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stevie Wonder - Talking Book (REMASTERED) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10872292410</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10872292410</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[20,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240913_216/17261550422565F1im_JPEG/29711916018675057_617298387.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - The Little Mermaid 인어공주 (]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10872186090</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10872186090</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230717_42/168958827500067yyW_JPEG/5104763352939109_559567991.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nico - Chelsea Girl (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10871821140</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10871821140</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[20,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240912_89/1726144904194ouPvw_JPEG/60277755339695319_297124327.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Lamar - Untitled Unmastered (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10871804936</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10871804936</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[23,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240912_154/1726144583286h5QFH_JPEG/60277407490301971_151179625.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 은행나무 침대 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10869745488</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10869745488</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240912_174/1726109136112Wz5Lu_JPEG/73697613477353478_220977102.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기리보이 Giriboy - EP [GRB01+GRB02] 합본집 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10869718043</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10869718043</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240912_254/1726108596386QTirE_JPEG/60241441687567523_273804938.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사비나 앤 드론즈 Savina & Drones - Lasha (140G SOLID WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10866179517</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10866179517</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240911_72/17260364696777joa1_JPEG/5985234310664059_1684127774.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미란이 Mirani - Me Time (CD) [초도 한정 사인반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10866130468</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10866130468</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240911_182/1726028310304EwivX_JPEG/60161155588115849_1227175487.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해피돌스 The Happy Dolls - Show Album No.1 (LP MINIATURE) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10865198151</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10865198151</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240119_227/1705659644199WWun3_JPEG/106795427918050518_2085248043.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤수일 밴드 - 1집 (LP MINIATURE) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10865174968</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10865174968</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240911_52/1726020632208BJMnQ_JPEG/60153484802100573_1353368471.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화분 - 2집 서교호텔 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10865149333</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10865149333</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240911_66/1726020315654fueQg_JPEG/7115721549021326_1521199809.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연진 - 1집 Me & My Burt (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10863354797</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10863354797</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240911_174/1725984424331namg3_JPEG/5933188979837539_1288580530.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서교그룹사운드 - 1집 우리들은 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10863344327</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10863344327</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240911_74/1725983412102CAD1C_JPEG/5932176743687316_496281537.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clark Terry Quartet With Thelonious Monk - In Orbit (Original Jazz Classic Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10863267423</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10863267423</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240911_172/1725982154766W6STX_JPEG/8989756399012116_159293705.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince Lasha Quintet featuring Sonny Simmons - The Cry! (Acoustic Sounds Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10863254669</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10863254669</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240911_235/1725981010903wHKN9_JPEG/60113958032473337_1017505199.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jackie McLean - Let Freedom Ring (Blue Note Tone Poet Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10863171222</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10863171222</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240910_176/17259798718878kBhO_JPEG/60112696094443128_30794234.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faye Webster - Faye Webster (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10863029594</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10863029594</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240910_115/1725978435230GBDFk_JPEG/6110858089936618_1654812087.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elliott Smith - Division Day / No Name #6 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10862909700</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10862909700</guid>
+            <pubDate>Mon, 16 Sep 2024 08:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[7,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240910_133/1725977097808kyClk_JPEG/539031943388547_1738303107.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
