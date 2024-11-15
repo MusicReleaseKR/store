@@ -1,7 +1,331 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MusicReleaseKR.github.io/store/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-11-15T10:25:22.737Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 15 Nov 2024 11:19:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Roy Hargrove's Crisol - Grande-Terre (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11134758632</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11134758632</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241115_9/1731643425133dNTfj_JPEG/65776333259719932_1051090756.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mariah Carey - Merry Christmas (30TH ANNIVERSARY) [PICTURE DISC LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11134719554</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11134719554</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241115_169/1731643119662kbDfg_JPEG/22986985973530554_1024419421.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Low Hanging Fruits - Passion Of Various Types (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11134592342</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11134592342</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241115_154/1731640941968hwpPD_JPEG/118949510105066_47710629.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산만한시선 - 산만한시선 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11134533322</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11134533322</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241115_30/1731639964564MeGgN_JPEG/65772881232193068_2110186794.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나기철 - 사랑하고 싶어 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11134511715</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11134511715</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241114_14/1731591614972GYn2w_JPEG/17153130827723467_1516816026.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Albert King with Stevie Ray Vaughan - In Session (25TH ANNIVERSARY) [180G 3LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11128294899</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11128294899</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[71,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241114_276/1731511452832KYe3k_JPEG/802446971147217_549658737.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Olafur Arnalds - Some kind of peace (TRANSLUCENT BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11128230544</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11128230544</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241113_287/1731509990316EiDHV_JPEG/12912590401433801_1562959605.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Louis Armstrong - Wonderful World: The Best Of Louis Armstrong (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11128203231</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11128203231</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240926_256/172735483704529L4Y_JPEG/7927005645618528_1393588768.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Art Blakey & The Jazz Messengers - Art Blakey The Jazz Messengers [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11128193618</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11128193618</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241113_96/1731509444359knEaJ_JPEG/12835742186467389_1234790331.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극동아시아타이거즈 - 몽유호원 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11125831270</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11125831270</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241113_204/17314661969600a68m_JPEG/4412008087208109_1965393132.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mariah Carey - Merry Christmas (30TH ANNIVERSARY) [카세트 테이프] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11123520604</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11123520604</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241112_289/17314183657502aeoR_JPEG/65551169898361606_1981644193.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Disney Ultimate Hits (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11123473349</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11123473349</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241112_24/1731417351379R4Q4c_JPEG/12323354263657302_1174929717.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cranberries - Everybody Else Is Doing It, So Why Can't We (REMASTERED) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11123431562</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11123431562</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241112_76/17314163687351gjrn_JPEG/65549226874021663_2016175849.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eva Cassidy - Walkin' After Midnight (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11123398572</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11123398572</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[41,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241112_262/1731416076507JPNxA_JPEG/62138605390388320_2067749576.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eva Cassidy - Walkin' After Midnight (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11123390349</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11123390349</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[28,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241112_267/17314152879649B3El_JPEG/65215350519504919_1920625265.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[던말릭 Don Malik - THURSDAYCLUB MIXTAPE (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11122423001</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11122423001</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241112_9/1731397578391B9qU6_JPEG/37236877215230302_2125356340.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최영두 - 9 (카세트 테이프) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11122408019</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11122408019</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241112_108/1731397221590rNjJA_JPEG/65530025731619314_2043755176.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 인디아나 존스: 레이더스 (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11118939101</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11118939101</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[55,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241111_72/17313289768156AmLA_JPEG/12234979697995710_1477295756.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 인디아나 존스: 크리스탈 해골의 왕국 (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11118922617</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11118922617</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[55,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241111_116/1731328566585Qod9n_JPEG/13040539630693419_1545068284.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[존박 - 2집 PSST! (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11118885273</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11118885273</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241111_77/1731327789936mvWNb_JPEG/12233792810317303_688687926.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bon Jovi - Greatest Hits (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11118858974</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11118858974</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[67,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241111_163/1731327251124mON0u_JPEG/3082866244601390_1943640871.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mika - Life In Cartoon Motion (REMASTERED) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11118842995</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11118842995</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[68,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241111_212/1731326628876UwAfX_JPEG/12232631763660996_330382240.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jimi Hendrix Experience - Electric Ladyland (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11115010665</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11115010665</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[35,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241111_268/1731254538955HGmMy_JPEG/65387333359289349_936837569.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Lennon - Plastic Ono Band (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11114710631</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11114710631</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241110_108/17312481605084qYcm_JPEG/5811980623728495_1448472211.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sarah Vaughan - Sassy (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11114691019</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11114691019</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[52,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241110_38/1731247733945V5i1H_JPEG/5811554061196546_956471723.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lightnin' Hopkins / Sonny Terry - Last Night Blues (Bluesville Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11114680067</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11114680067</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[62,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241110_121/1731247414019Hnnsf_JPEG/65380241149301156_1844310601.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker - Blood, Chet And Tears  (Verve By Request Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11114667023</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11114667023</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241110_99/1731247162345LwJ7E_JPEG/77965481759998347_866493237.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Albert King - Live Wire / Blues Power (Bluesville Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11114644028</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11114644028</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[62,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241110_283/1731246475570QHGbt_JPEG/11328447317151096_1135140028.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Smith - The Smith (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11114609705</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11114609705</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[28,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241110_290/1731245742271p90ej_JPEG/12998735455139980_1919187752.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Muse - Black Holes And Revelations (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11114586786</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11114586786</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[23,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241110_152/1731245343672STnJB_JPEG/65378138065014571_1992390724.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Madonna - Confessions On A Dance Floor (PINK COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11114456599</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11114456599</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[37,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241110_269/1731242195688yBk67_JPEG/12995188872167538_2046035707.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aretha Franklin - Lady Soul (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11114440986</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11114440986</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[28,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241110_220/1731241738786Tkw5r_JPEG/48942928673058788_1072469880.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Massive Attack - Blue Lines (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11114425959</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11114425959</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[43,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241109_172/1731080140677Y5U8V_JPEG/65212967802342658_1646704921.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marvin Gaye - What's Going On (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11108215530</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11108215530</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[43,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230511_259/16837989303222DVpP_JPEG/38196469351979740_748950528.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정선 - 8집 Ballads (LP MINIATURE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11108195343</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11108195343</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241109_59/1731079452308TxOrU_JPEG/65212271857055223_543377529.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elton John - Diamonds : The Ultimate Greatest Hits (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11108175439</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11108175439</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241109_256/1731078945178FMXXJ_JPEG/11160916926313629_1569849850.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Celine Dion - My Love Essential Collection (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11108153068</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11108153068</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[62,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241109_140/1731078423250YTQO7_JPEG/65211394615659552_555132021.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Junk Fujiyama - 동경도시 시티 팝 커버스 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11108127920</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11108127920</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241108_21/1731077268062ihQh8_JPEG/13511134163509982_576874022.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 폼포코 너구리 대작전 IMAGE ALBUM (일본 레코드 데이 2024 한정반) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11108028750</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11108028750</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[59,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241108_148/17310758840750Rdph_JPEG/65208782218404744_1843631165.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 폼포코 너구리 대작전 (일본 레코드 데이 2024 한정반) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11108009962</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11108009962</guid>
+            <pubDate>Fri, 15 Nov 2024 11:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[59,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241108_210/1731074080483OGga3_JPEG/17327306354675507_322140549.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
